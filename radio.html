@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live radio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:      #0f2429;
+    --ink-2:    #16343b;
+    --sand:     #e9e2d4;
+    --sand-dim: #93a5a8;
+    --signal:   #ff5b3c;
+    --line:     rgba(233, 226, 212, 0.14);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; min-height: 100%; }
+
+  body {
+    background: var(--ink);
+    background-image: radial-gradient(120% 90% at 50% 0%, var(--ink-2) 0%, var(--ink) 62%);
+    color: var(--sand);
+    font-family: "Heebo", system-ui, -apple-system, sans-serif;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    min-height: 100vh;
+  }
+
+  .player { width: 100%; max-width: 26rem; }
+
+  .picker {
+    width: 100%;
+    background: transparent;
+    color: var(--sand-dim);
+    border: 0;
+    border-bottom: 1px solid var(--line);
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 400;
+    padding: 0 0 10px;
+    margin-bottom: 34px;
+    cursor: pointer;
+  }
+  .picker option { background: var(--ink-2); color: var(--sand); }
+
+  .name {
+    font-size: 2.6rem;
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+
+  .latin {
+    color: var(--sand-dim);
+    font-size: 0.95rem;
+    font-weight: 400;
+    margin: 6px 0 0;
+  }
+
+  /* --- signal bars ------------------------------------------------- */
+
+  .bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 5px;
+    height: 60px;
+    margin: 40px 0 30px;
+  }
+
+  .bars i {
+    display: block;
+    width: 5px;
+    height: 5px;
+    background: var(--sand-dim);
+    opacity: 0.35;
+    transition: opacity 0.4s ease, background 0.4s ease;
+  }
+
+  .player.is-live .bars i {
+    background: var(--signal);
+    opacity: 1;
+  }
+
+  /* fallback shimmer, used only when we cannot read real audio data */
+  .player.is-live:not(.is-analysed) .bars i {
+    animation: pulse 1.15s ease-in-out infinite;
+  }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(2) { animation-duration: 0.78s; }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(3) { animation-duration: 1.42s; }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(4) { animation-duration: 0.94s; }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(5) { animation-duration: 1.26s; }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(6) { animation-duration: 0.86s; }
+  .player.is-live:not(.is-analysed) .bars i:nth-child(7) { animation-duration: 1.34s; }
+
+  @keyframes pulse {
+    0%, 100% { height: 6px; }
+    50%      { height: 56px; }
+  }
+
+  /* --- controls ---------------------------------------------------- */
+
+  .row { display: flex; align-items: center; gap: 18px; }
+
+  .toggle {
+    flex: none;
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    border: 1px solid var(--sand);
+    background: transparent;
+    color: var(--sand);
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    transition: background 0.18s ease, color 0.18s ease;
+  }
+  .toggle:hover { background: var(--sand); color: var(--ink); }
+  .toggle:focus-visible { outline: 2px solid var(--signal); outline-offset: 4px; }
+  .toggle svg { width: 20px; height: 20px; fill: currentColor; }
+  .toggle .ico-pause { display: none; }
+  .player.is-playing .toggle .ico-play  { display: none; }
+  .player.is-playing .toggle .ico-pause { display: block; }
+
+  .vol { flex: 1; accent-color: var(--signal); cursor: pointer; }
+  .vol:focus-visible { outline: 2px solid var(--signal); outline-offset: 4px; }
+
+  .status {
+    margin: 26px 0 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    font-size: 0.85rem;
+    color: var(--sand-dim);
+    min-height: 3.2em;
+  }
+  .status.is-error { color: var(--signal); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .player.is-live:not(.is-analysed) .bars i { animation: none; height: 30px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="player" id="player">
+
+  <select class="picker" id="picker" aria-label="Choose a station"></select>
+
+  <h1 class="name" id="name" dir="rtl">&nbsp;</h1>
+  <p class="latin" id="latin">&nbsp;</p>
+
+  <div class="bars" id="bars" aria-hidden="true">
+    <i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+  </div>
+
+  <div class="row">
+    <button class="toggle" id="toggle" aria-label="Play">
+      <svg class="ico-play"  viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+      <svg class="ico-pause" viewBox="0 0 24 24"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+    </button>
+    <input class="vol" id="vol" type="range" min="0" max="1" step="0.01" value="0.8"
+           aria-label="Volume">
+  </div>
+
+  <p class="status" id="status">Press play to connect.</p>
+
+</div>
+
+<script>
+/* ---------------------------------------------------------------
+   Station config.
+
+   urls  -> tried in order. If one fails before playing, the next is
+            tried automatically. All verified playing from Israel on
+            2026-09-21.
+   cors  -> ask for the stream in CORS mode so the Web Audio API can
+            read it and draw real bars. If a host refuses, the player
+            retries that same URL without CORS (plain shimmer bars)
+            before moving on, so a wrong guess costs a second, not
+            silence.
+----------------------------------------------------------------*/
+const STATIONS = [
+  { id: 'eco99',   he: 'אקו 99',    latin: 'Eco 99FM — 99.0',      cors: true,
+    urls: [ 'https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio',
+            'https://eco-live.mediacast.co.il/99fm_aac' ] },
+
+  { id: 'glglz',   he: 'גלגלצ',     latin: 'Galgalatz — 91.8',     cors: true,
+    urls: [ 'https://glzwizzlv.bynetcdn.com/glglz_mp3',
+            'https://glzicylv01.bynetcdn.com/glglz_mp3',
+            'https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE' ] },
+
+  { id: 'glz',     he: 'גלי צה״ל',  latin: 'Galei Tzahal — 96.6',  cors: true,
+    urls: [ 'https://glzwizzlv.bynetcdn.com/glz_mp3' ] },
+
+  { id: 'glglz-r', he: 'גלגלצ רוק', latin: 'Galgalatz Rock',       cors: true,
+    urls: [ 'https://glzwizzlv.bynetcdn.com/glglz_rock_mp3' ] },
+
+  { id: 'kanbet',  he: 'כאן ב',     latin: 'Kan Bet — 95.2',       cors: true,
+    urls: [ 'https://28563.live.streamtheworld.com/KAN_BET.mp3',
+            'https://25583.live.streamtheworld.com/KAN_BET.mp3' ] },
+
+  { id: 'kan88',   he: 'כאן 88',    latin: 'Kan 88 — 88.0',        cors: true,
+    urls: [ 'https://29073.live.streamtheworld.com/KAN_88.mp3' ] },
+
+  { id: 'kangimel',he: 'כאן גימל',  latin: 'Kan Gimmel — 97.5',    cors: true,
+    urls: [ 'https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3' ] }
+];
+
+const player   = document.getElementById('player');
+const picker   = document.getElementById('picker');
+const nameEl   = document.getElementById('name');
+const latinEl  = document.getElementById('latin');
+const toggle   = document.getElementById('toggle');
+const volEl    = document.getElementById('vol');
+const statusEl = document.getElementById('status');
+const barEls   = Array.from(document.getElementById('bars').children);
+
+const BAR_MIN = 5, BAR_MAX = 56;
+const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const MAX_RETRIES = 4;
+
+let audio   = null;
+let current = STATIONS[0];
+let volume  = Number(volEl.value);
+
+/* Where we are in the fallback chain for the current station. */
+let urlIdx  = 0;       // which of current.urls
+let useCors = true;    // CORS mode for this attempt
+let hasPlayed = false; // did this URL ever reach 'playing'?
+let retries = 0;       // reconnects after a mid-stream drop
+let attemptId = 0;     // ignores late events from abandoned attempts
+let failures = [];     // what went wrong, for the final message
+
+/* Web Audio graph. A MediaElementSource permanently reroutes its
+   element, so every attempt gets a brand-new <audio>. */
+let ctx = null, analyser = null, gain = null, raf = null, freq = null;
+
+STATIONS.forEach(s => {
+  const o = document.createElement('option');
+  o.value = s.id;
+  o.textContent = s.he + '  ·  ' + s.latin;
+  picker.appendChild(o);
+});
+
+function say(text, isError) {
+  statusEl.textContent = text;
+  statusEl.classList.toggle('is-error', !!isError);
+}
+
+function setVolume(v) {
+  volume = v;
+  if (gain) gain.gain.value = v;
+  else if (audio) audio.volume = v;
+}
+
+const ERR = {
+  1: 'aborted',
+  2: 'network error',
+  3: 'decode error',
+  4: 'refused or not audio'
+};
+
+/* --- one attempt = one fresh <audio> on one URL ------------------ */
+
+function attempt(cacheBust) {
+  teardown();
+  const id = ++attemptId;
+  const base = current.urls[urlIdx];
+  const url = cacheBust ? base + (base.includes('?') ? '&' : '?') + '_=' + Date.now() : base;
+
+  const el = audio = new Audio();
+  el.preload = 'none';
+  if (useCors) el.crossOrigin = 'anonymous';
+  el.volume = volume;
+  el.src = url;
+  const errText = () => el.error ? ERR[el.error.code] + ' [code ' + el.error.code + ']' : null;
+
+  let failed = false;
+  const fail = (why) => {
+    if (failed || id !== attemptId) return;
+    failed = true;
+    onFailure(why);
+  };
+
+  el.addEventListener('playing', () => {
+    if (id !== attemptId) return;
+    hasPlayed = true;
+    retries = 0;
+    player.classList.add('is-playing', 'is-live');
+    say('On air.' + (current.urls.length > 1 && urlIdx > 0 ? ' (backup stream ' + (urlIdx + 1) + ')' : ''));
+    if (useCors && !reduceMotion) connectAnalyser();
+  });
+  el.addEventListener('waiting', () => {
+    if (id !== attemptId) return;
+    player.classList.remove('is-live');
+    say('Buffering…');
+  });
+  el.addEventListener('stalled', () => { if (hasPlayed && !el.paused) fail('stalled'); });
+  el.addEventListener('error',   () => fail(errText() || 'error'));
+
+  say(hasPlayed ? 'Reconnecting…' : 'Connecting…');
+  el.play()
+    .then(() => { if (id === attemptId) player.classList.add('is-playing'); })
+    .catch(err => {
+      if (id !== attemptId) return;
+      if (err && err.name === 'NotAllowedError') {
+        failed = true;
+        player.classList.remove('is-playing', 'is-live');
+        say('The browser blocked playback. Press play again.', true);
+        return;
+      }
+      if (err && err.name === 'AbortError') return;   // superseded by a newer attempt
+      fail(errText() || (err && err.message) || 'failed');
+    });
+}
+
+/* Decide what to try next. Order:
+   1. mid-stream drop -> reconnect the same URL with backoff
+   2. CORS mode failed -> same URL without CORS
+   3. next backup URL
+   4. give up and say exactly what was tried                        */
+function onFailure(why) {
+  player.classList.remove('is-live');
+
+  if (hasPlayed && retries < MAX_RETRIES) {
+    retries++;
+    const wait = 1000 * retries;
+    say('Stream dropped. Reconnecting in ' + (wait / 1000) + 's… (' + retries + '/' + MAX_RETRIES + ')');
+    const id = attemptId;
+    setTimeout(() => { if (id === attemptId) attempt(true); }, wait);
+    return;
+  }
+
+  failures.push('stream ' + (urlIdx + 1) + (useCors ? ' (cors)' : '') + ': ' + why);
+
+  if (useCors) {
+    useCors = false;             // same URL, plain mode
+    hasPlayed = false;
+    attempt(false);
+    return;
+  }
+
+  if (urlIdx + 1 < current.urls.length) {
+    urlIdx++;
+    useCors = current.cors;
+    hasPlayed = false;
+    retries = 0;
+    say('Trying backup stream ' + (urlIdx + 1) + '…');
+    attempt(false);
+    return;
+  }
+
+  teardown();
+  player.classList.remove('is-playing', 'is-live');
+  if (location.protocol === 'https:' && current.urls.some(u => u.startsWith('http:'))) {
+    say('Blocked: this page is https and the stream is http. Open the file directly instead.', true);
+  } else {
+    say('Could not play ' + current.latin + '. Tried: ' + failures.join('; ') + '.', true);
+  }
+}
+
+function resetChain() {
+  urlIdx = 0;
+  useCors = current.cors;
+  hasPlayed = false;
+  retries = 0;
+  failures = [];
+}
+
+function teardown() {
+  stopBars();
+  if (raf) { cancelAnimationFrame(raf); raf = null; }
+  analyser = null;
+  gain = null;
+  player.classList.remove('is-analysed');
+  if (audio) {
+    const a = audio;
+    audio = null;
+    a.pause();
+    a.removeAttribute('src');
+    a.load();
+  }
+}
+
+/* --- real frequency data ---------------------------------------- */
+
+function connectAnalyser() {
+  if (analyser) return;
+  try {
+    ctx = ctx || new (window.AudioContext || window.webkitAudioContext)();
+    if (ctx.state === 'suspended') ctx.resume();
+
+    const src = ctx.createMediaElementSource(audio);
+    analyser = ctx.createAnalyser();
+    analyser.fftSize = 256;               // 128 bins
+    analyser.minDecibels = -95;
+    analyser.maxDecibels = -25;
+    analyser.smoothingTimeConstant = 0.78;
+    gain = ctx.createGain();
+    gain.gain.value = volume;
+
+    src.connect(analyser);
+    analyser.connect(gain);
+    gain.connect(ctx.destination);
+
+    audio.volume = 1;                       // gain node owns level now
+    freq = new Uint8Array(analyser.frequencyBinCount);
+    lastSound = performance.now();
+    lastTime = audio.currentTime;
+    player.classList.add('is-analysed');
+    drawBars();
+  } catch (e) {
+    analyser = null;
+    gain = null;
+    player.classList.remove('is-analysed');
+  }
+}
+
+/* Bars are log-spaced like hearing: the first bar is ~180 Hz wide,
+   the last several kHz. Linear spacing leaves most bars flat. */
+const BAND_EDGES = (() => {
+  const n = 7, lo = 1, hi = 64, e = [];
+  for (let i = 0; i <= n; i++) e.push(Math.round(lo * Math.pow(hi / lo, i / n)));
+  return e;
+})();
+
+/* Silence guard. A stream that is not really CORS-readable plays
+   perfect digital zero through Web Audio instead of throwing. If the
+   analyser hears nothing for SILENCE_MS while playback is advancing,
+   rebuild the same stream without CORS: we lose the bars, not sound. */
+const SILENCE_MS = 4000;
+let lastSound = 0, lastTime = 0;
+
+function drawBars() {
+  if (!analyser) return;
+  analyser.getByteFrequencyData(freq);
+
+  let any = false;
+  for (let i = 0; i < barEls.length; i++) {
+    const a = BAND_EDGES[i], b = Math.max(BAND_EDGES[i + 1], a + 1);
+    let sum = 0;
+    for (let j = a; j < b; j++) sum += freq[j];
+    const v = sum / (b - a) / 255;
+    if (v > 0) any = true;
+    barEls[i].style.height = (BAR_MIN + v * (BAR_MAX - BAR_MIN)) + 'px';
+  }
+
+  const now = performance.now();
+  if (any) lastSound = now;
+  const advancing = audio && audio.currentTime > lastTime;
+  if (audio) lastTime = audio.currentTime;
+  if (!any && advancing && now - lastSound > SILENCE_MS) {
+    failures.push('stream ' + (urlIdx + 1) + ' (cors): silent through Web Audio');
+    useCors = false;
+    hasPlayed = false;
+    say('Visualizer unavailable for this station. Playing without it…');
+    attempt(false);
+    return;
+  }
+
+  raf = requestAnimationFrame(drawBars);
+}
+
+function stopBars() {
+  barEls.forEach(b => { b.style.height = ''; });
+}
+
+/* --- transport --------------------------------------------------- */
+
+function isPlaying() { return player.classList.contains('is-playing'); }
+
+function load(station, autoplay) {
+  current = station;
+  nameEl.textContent = station.he;
+  latinEl.textContent = station.latin;
+  picker.value = station.id;
+  attemptId++;                 // cancel anything in flight
+  teardown();
+  resetChain();
+  player.classList.remove('is-live', 'is-playing');
+
+  if (autoplay) start();
+  else say('Press play to connect.');
+}
+
+function start() {
+  resetChain();
+  attempt(false);
+}
+
+function stop() {
+  attemptId++;
+  teardown();
+  player.classList.remove('is-playing', 'is-live');
+  say('Stopped.');
+}
+
+/* --- events ------------------------------------------------------ */
+
+toggle.addEventListener('click', () => {
+  if (isPlaying()) stop(); else start();
+  toggle.setAttribute('aria-label', isPlaying() ? 'Stop' : 'Play');
+});
+
+picker.addEventListener('change', () => {
+  const wasPlaying = isPlaying();
+  load(STATIONS.find(s => s.id === picker.value), wasPlaying);
+});
+
+volEl.addEventListener('input', () => setVolume(Number(volEl.value)));
+
+if ('mediaSession' in navigator) {
+  navigator.mediaSession.setActionHandler('play',  () => start());
+  navigator.mediaSession.setActionHandler('pause', () => stop());
+}
+
+load(STATIONS[0], false);
+</script>
+
+</body>
+</html>
