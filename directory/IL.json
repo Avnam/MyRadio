@@ -1,0 +1,83 @@
+{
+  "code": "IL",
+  "name": "Israel",
+  "builtAt": "2026-09-21T00:00:00Z",
+  "stations": [
+    {
+      "name": "Eco 99FM",
+      "urls": [
+        "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+        "https://eco-live.mediacast.co.il/99fm_aac"
+      ],
+      "tags": ["pop", "hits"],
+      "city": "Tel Aviv",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Galgalatz",
+      "urls": ["https://glzwizzlv.bynetcdn.com/glglz_mp3"],
+      "tags": ["pop", "rock"],
+      "city": "Tel Aviv",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Galei Tzahal",
+      "urls": ["https://glzwizzlv.bynetcdn.com/glz_mp3"],
+      "tags": ["news", "talk"],
+      "city": "Jaffa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Galgalatz Rock",
+      "urls": ["https://glzwizzlv.bynetcdn.com/glglz_rock_mp3"],
+      "tags": ["rock"],
+      "city": "Tel Aviv",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kan Bet",
+      "urls": [
+        "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+        "https://25583.live.streamtheworld.com/KAN_BET.mp3"
+      ],
+      "tags": ["news", "talk"],
+      "city": "Jerusalem",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kan 88",
+      "urls": ["https://29073.live.streamtheworld.com/KAN_88.mp3"],
+      "tags": ["music"],
+      "city": "Jerusalem",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kan Gimmel",
+      "urls": ["https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3"],
+      "tags": ["mizrahi", "music"],
+      "city": "Jerusalem",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    }
+  ]
+}

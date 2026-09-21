@@ -1,0 +1,8 @@
+{
+  "name": "myradio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --import ./tests/setup.js \"tests/**/*.test.js\""
+  }
+}

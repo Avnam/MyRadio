@@ -1,0 +1,159 @@
+/* Evia: futuristic blue styling (E-1). Scoped under .evia so a second look's
+   CSS can never bleed into this one, and vice versa. */
+
+.evia {
+  --evia-ink: #06121c;
+  --evia-ink-2: #0c2438;
+  --evia-glow: #eaf6ff;
+  --evia-dim: #7fa8c2;
+  --evia-signal: #35d0ff;
+  --evia-line: rgba(234, 246, 255, 0.14);
+  --evia-danger: #ff5b7a;
+
+  background: var(--evia-ink);
+  background-image: radial-gradient(120% 90% at 50% 0%, var(--evia-ink-2) 0%, var(--evia-ink) 62%);
+  color: var(--evia-glow);
+  font-family: system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 24px;
+  box-sizing: border-box;
+}
+.evia * { box-sizing: border-box; }
+
+.evia-shell { width: 100%; max-width: 26rem; }
+
+.evia-topline { display: flex; align-items: center; gap: 12px; }
+.evia-topline select {
+  flex: 1;
+  background: transparent;
+  color: var(--evia-glow);
+  border: 0;
+  border-bottom: 1px solid var(--evia-line);
+  font: inherit;
+  font-size: 1.1rem;
+  padding: 6px 0;
+}
+.evia-topline select option { background: var(--evia-ink-2); color: var(--evia-glow); }
+
+.evia-icon-btn {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--evia-signal);
+  background: transparent;
+  color: var(--evia-signal);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+.evia-icon-btn:hover { background: var(--evia-signal); color: var(--evia-ink); }
+.evia-icon-btn svg { width: 18px; height: 18px; fill: currentColor; }
+
+.evia-nowplaying {
+  margin: 14px 0 0;
+  min-height: 1.4em;
+  color: var(--evia-dim);
+  font-size: 0.95rem;
+}
+
+.evia-status {
+  margin: 10px 0 0;
+  min-height: 1.4em;
+  color: var(--evia-dim);
+  font-size: 0.85rem;
+}
+.evia-status.is-error { color: var(--evia-danger); }
+
+.evia-tabbar { display: flex; gap: 10px; margin-top: 26px; flex-wrap: wrap; }
+.evia-tabbar button {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  background: transparent;
+  border: 1px solid var(--evia-line);
+  color: var(--evia-dim);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.evia-tabbar button:hover { color: var(--evia-glow); border-color: var(--evia-signal); }
+.evia-tabbar button svg { width: 14px; height: 14px; fill: currentColor; flex: none; }
+
+.evia-empty {
+  margin-top: 40px;
+  text-align: center;
+  color: var(--evia-dim);
+}
+.evia-empty button {
+  margin-top: 14px;
+  background: var(--evia-signal);
+  color: var(--evia-ink);
+  border: 0;
+  border-radius: 999px;
+  padding: 10px 20px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.evia-panel { margin-top: 22px; border-top: 1px solid var(--evia-line); padding-top: 18px; }
+.evia-panel h2 { font-size: 1rem; font-weight: 600; margin: 0 0 12px; }
+.evia-panel .evia-back {
+  background: none; border: none; color: var(--evia-signal); cursor: pointer;
+  font: inherit; padding: 0; margin-bottom: 14px;
+}
+
+.evia-list { list-style: none; margin: 0; padding: 0; }
+.evia-list li {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 0; border-bottom: 1px solid var(--evia-line);
+}
+.evia-list li.is-dragging { opacity: 0.4; }
+.evia-handle { cursor: grab; color: var(--evia-dim); }
+.evia-list .name { flex: 1; }
+.evia-remove {
+  background: none; border: none; color: var(--evia-danger); cursor: pointer; font-size: 1rem;
+}
+
+.evia-search input[type="text"] {
+  width: 100%;
+  background: var(--evia-ink-2);
+  border: 1px solid var(--evia-line);
+  color: var(--evia-glow);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font: inherit;
+  margin-bottom: 6px;
+}
+.evia-search input.is-invalid { border-color: var(--evia-danger); }
+.evia-search .date { color: var(--evia-dim); font-size: 0.8rem; margin-bottom: 12px; }
+.evia-result {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 10px 0; border-bottom: 1px solid var(--evia-line);
+}
+.evia-result button {
+  background: transparent; border: 1px solid var(--evia-signal); color: var(--evia-signal);
+  border-radius: 999px; padding: 4px 12px; font: inherit; font-size: 0.8rem; cursor: pointer;
+}
+.evia-result button:disabled { opacity: 0.5; cursor: default; }
+
+.evia-field { margin-bottom: 18px; }
+.evia-field label { display: block; margin-bottom: 6px; color: var(--evia-dim); font-size: 0.85rem; }
+.evia-field textarea, .evia-field select {
+  width: 100%; background: var(--evia-ink-2); color: var(--evia-glow);
+  border: 1px solid var(--evia-line); border-radius: 8px; padding: 10px; font: inherit;
+}
+.evia-field textarea { min-height: 8em; }
+.evia-field select option { background: var(--evia-ink-2); color: var(--evia-glow); }
+.evia-row-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+.evia-row-buttons button, .evia-field button {
+  background: transparent; border: 1px solid var(--evia-signal); color: var(--evia-signal);
+  border-radius: 999px; padding: 8px 14px; font: inherit; cursor: pointer;
+}
