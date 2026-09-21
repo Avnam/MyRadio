@@ -1,0 +1,105 @@
+{
+  "code": "FO",
+  "name": "The Faroe Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 26
+    },
+    {
+      "name": "Aldan: Hitt Radio",
+      "urls": [
+        "https://streaming.radio.co/s4d14b9fcc/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.aldan.fo/wp-content/uploads/2026/01/aldan-fallback.jpg",
+      "votes": 2
+    },
+    {
+      "name": "FM1 88,7",
+      "urls": [
+        "https://stream-secure.midlar.fo/fm1-128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Lindin: Kristiligt Kringvarp",
+      "urls": [
+        "https://high.lindin.fo/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://yzfwydwirfiyaapvbacl.supabase.co/storage/v1/object/public/rasa-assets/stations/f528bd9d-def2-446b-b22a-c78692b4e902/logo.webp?v=1775518735",
+      "votes": 2
+    },
+    {
+      "name": "Norðlýsið",
+      "urls": [
+        "https://liveradio.stream.fo/listen/nordlysid/web"
+      ],
+      "tags": [
+        "klaksvík",
+        "local radio",
+        "nordlysid"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.fo/wp-content/uploads/2026/07/New-Project.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Sjey: Kristiligt Radio",
+      "urls": [
+        "https://lurta.sjey.fo/high_aac"
+      ],
+      "tags": [
+        "christian",
+        "faroe islands",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d371i8ihhgym7w.cloudfront.net/19234188.jpg",
+      "votes": 7
+    },
+    {
+      "name": "VoxPop",
+      "urls": [
+        "https://stream-secure.midlar.fo/voxpop-128"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "electronic dance music",
+        "pop",
+        "pop dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fm1-radio.netlify.app/img/voxpop-logo.ed3fcda5.png",
+      "votes": 3
+    }
+  ]
+}

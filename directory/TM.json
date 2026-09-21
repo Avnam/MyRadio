@@ -1,0 +1,60 @@
+{
+  "code": "TM",
+  "name": "Turkmenistan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 186
+    },
+    {
+      "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+      "urls": [
+        "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+      ],
+      "tags": [
+        "islamic، classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 473
+    },
+    {
+      "name": "Tv24",
+      "urls": [
+        "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://turkmedya.com.tr/assets/img/favico.png",
+      "votes": 453
+    },
+    {
+      "name": "Uğur Öztürk",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1"
+      ],
+      "tags": [
+        "greek folk music",
+        "türk halk müziği"
+      ],
+      "city": "kocaeli",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.turkuradyo.info/public/default/images/upload/1776181619061079.png",
+      "votes": 368
+    }
+  ]
+}

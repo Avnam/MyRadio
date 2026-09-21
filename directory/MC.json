@@ -1,0 +1,91 @@
+{
+  "code": "MC",
+  "name": "Monaco",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 42
+    },
+    {
+      "name": "chilli moje",
+      "urls": [
+        "https://media-ssl.musicradio.com/ChillMP3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media-ssl.musicradio.com/favicon.ico",
+      "votes": 109
+    },
+    {
+      "name": "Radio Monte Carlo Italia",
+      "urls": [
+        "https://icy.unitedradio.it/rmcweb005"
+      ],
+      "tags": [
+        "italian",
+        "italian oldies",
+        "italian pop"
+      ],
+      "city": "Monte Carlo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 851
+    },
+    {
+      "name": "Yellow Party",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellow02.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Yellow Riviera",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellow01.mp3"
+      ],
+      "tags": [
+        "deep house",
+        "soulfull"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Yellow.radio",
+      "urls": [
+        "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "deep",
+        "electro",
+        "pop"
+      ],
+      "city": "Monaco",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://yellow.radio/logo-yellow.radio.jaune.png",
+      "votes": 235
+    }
+  ]
+}

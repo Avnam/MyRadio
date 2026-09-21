@@ -1,0 +1,652 @@
+{
+  "code": "CR",
+  "name": "Costa Rica",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "103 (FM 103.1)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac"
+      ],
+      "tags": [
+        "hits",
+        "music",
+        "musica",
+        "música urbana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://mmo.aiircdn.com/943/63d062c743beb.png",
+      "votes": 338
+    },
+    {
+      "name": "1047hit",
+      "urls": [
+        "https://live.turadio.stream:7004/stream;"
+      ],
+      "tags": [],
+      "city": "Costa Rica",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 734
+    },
+    {
+      "name": "95.5 Jazz",
+      "urls": [
+        "https://streaming.radio.co/s36bd2a451/listen"
+      ],
+      "tags": [
+        "instrumental",
+        "jazz",
+        "latin jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/27408.v8.png",
+      "votes": 189
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 23
+    },
+    {
+      "name": "Amor FM 93.9",
+      "urls": [
+        "https://player.hostingtico.com/proxy/8094"
+      ],
+      "tags": [
+        "baladas en español",
+        "clasicos",
+        "musica",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.amorfmcr.com/wp-content/uploads/2020/12/cropped-Logo-Amor-FM.png",
+      "votes": 243
+    },
+    {
+      "name": "Avance Radio",
+      "urls": [
+        "https://radios.solumedia.com:6512/;"
+      ],
+      "tags": [
+        "bible",
+        "biblia",
+        "cristiana",
+        "familia",
+        "family",
+        "gospel",
+        "religious"
+      ],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://avanceradio.com/images/logo.svg",
+      "votes": 23
+    },
+    {
+      "name": "Azul 99.9 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac"
+      ],
+      "tags": [
+        "baladas en español",
+        "entretenimiento",
+        "musica romantica",
+        "pop en español"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mmo.aiircdn.com/943/63d062c6d0e2c.png",
+      "votes": 290
+    },
+    {
+      "name": "CLUB DANCE MUSIC",
+      "urls": [
+        "https://stream.zeno.fm/5x4sda9kxtzuv"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic",
+        "house",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjzOzGtt3a2s_feaaAtASbR2wIxZEDnx6tYu91XxoAr0%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURncl9MWTZBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnNzZLSHNRb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE3MTI3NjU4ODUwMDA.webp&w=1920&q=70",
+      "votes": 272
+    },
+    {
+      "name": "Colosal FM 88.3",
+      "urls": [
+        "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latin",
+        "latino",
+        "música variada",
+        "pop en español e inglés",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 5280,
+      "logo": "https://colosalstereo.com/IMG/BotonRadio.png",
+      "votes": 111
+    },
+    {
+      "name": "Columbia Estéreo 92.7 FM",
+      "urls": [
+        "https://s5.radio.co/sca838cc60/listen"
+      ],
+      "tags": [
+        "baladas en español",
+        "baladas en ingles",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://columbiaestereo.com/wp-content/uploads/2022/09/fndo-rosa-05-2-768x244.png",
+      "votes": 224
+    },
+    {
+      "name": "Conexión Positiva Radio",
+      "urls": [
+        "https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3"
+      ],
+      "tags": [
+        "cristiana",
+        "latina"
+      ],
+      "city": "HEREDIA",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Conexiones del Ayer",
+      "urls": [
+        "https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3"
+      ],
+      "tags": [
+        "clásicos",
+        "cristiana"
+      ],
+      "city": "HEREDIA",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "CRC 89.1 RADIO",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac"
+      ],
+      "tags": [
+        "news",
+        "noticias",
+        "sports",
+        "talk",
+        "varios"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://mmo.aiircdn.com/943/63d05efc1bbc6.png",
+      "votes": 67
+    },
+    {
+      "name": "Dabar",
+      "urls": [
+        "https://a1.asurahosting.com:8720/radio.mp3"
+      ],
+      "tags": [],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 78
+    },
+    {
+      "name": "Dabar Radio",
+      "urls": [
+        "https://a1.asurahosting.com:8720/radio.mp3/;"
+      ],
+      "tags": [
+        "cristiana",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://dabarradio.org/wp-content/uploads/2017/12/cropped-favicon-90x90.png",
+      "votes": 38
+    },
+    {
+      "name": "Elite radio 88.5 FM",
+      "urls": [
+        "https://stream20.usastreams.com/8008/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "music",
+        "musica romantica",
+        "música en español",
+        "radio comunitaria"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://eliteradiocr.com/wp-content/uploads/2023/01/cropped-cropped-Logotipo-1.png",
+      "votes": 66
+    },
+    {
+      "name": "Faro del Caribe 97.1 FM y 1080 AM",
+      "urls": [
+        "https://sp.unoredcdn.net/8032/stream"
+      ],
+      "tags": [
+        "cristiana",
+        "evangelio",
+        "family",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.farodelcaribe.org/images/emisoras-cintillo.png",
+      "votes": 175
+    },
+    {
+      "name": "FRECUENCIA CCI",
+      "urls": [
+        "https://streaming.radio.co/s6729aeaac/listen"
+      ],
+      "tags": [
+        "christian",
+        "gospel"
+      ],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.wixstatic.com/media/8b4d79_81c53da55c504638ab0a4fc8cdd084cb~mv2.png/v1/fill/w_513,h_326,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20Naranja-blanco-1000x800-transparente.png",
+      "votes": 4
+    },
+    {
+      "name": "Influencia Positiva Radio",
+      "urls": [
+        "https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nexotuner.net/wp-content/uploads/2026/05/NUEVOLOGORADIOINFUENCIA.jpg",
+      "votes": 7
+    },
+    {
+      "name": "MCC Radio",
+      "urls": [
+        "https://stream-178.surfernetwork.com/ufd5gasyvn0tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZmQ1Z2FzeXZuMHR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJBbmlWMHVRUTkybmtMZmFmN2pQT2ciLCJpYXQiOjE3ODk5NDcwMDAsImV4cCI6MTc4OTk0NzA2MH0.EV6nBOWxz-BA9_ZltnvAbRW7Jgd43XDdHMUWWG78bRw"
+      ],
+      "tags": [
+        "religion"
+      ],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "Mundo Rock Radio",
+      "urls": [
+        "https://as100.globalhost1.com/8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radio.mundorockcr.com/wp-content/uploads/2021/08/LogoLogout.png",
+      "votes": 71
+    },
+    {
+      "name": "Nueve Cuatro Siete - 94.7 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mmo.aiircdn.com/943/63d062c76c332.png",
+      "votes": 232
+    },
+    {
+      "name": "onda digital fm sancarlos",
+      "urls": [
+        "https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac"
+      ],
+      "tags": [],
+      "city": "Costa Rica",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Osa Radio Online",
+      "urls": [
+        "https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Planet 107.5",
+      "urls": [
+        "https://stream20.usastreams.com/8094/stream"
+      ],
+      "tags": [],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 126
+    },
+    {
+      "name": "Radio Casino",
+      "urls": [
+        "https://host.rowrigo.com/listen/radiocasino/radiocasino"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Radio Costa",
+      "urls": [
+        "https://sonicpanel.globalstream.pro:10979/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://radiocosta.eu/wp-content/uploads/2024/03/logo-2024-768x384.png",
+      "votes": 44
+    },
+    {
+      "name": "Radio Diriá",
+      "urls": [
+        "https://stream.zeno.fm/xk0xpwtc4ttvv.mp3"
+      ],
+      "tags": [
+        "latin",
+        "variado"
+      ],
+      "city": "Guanacaste, Costa Rica",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/756/radio-diria.87fda3c0.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Dos (2) Costa Rica",
+      "urls": [
+        "https://s5.radio.co/sd515b7b34/listen"
+      ],
+      "tags": [
+        "00s",
+        "80s",
+        "90s",
+        "blues",
+        "blues rock",
+        "classic rock",
+        "country",
+        "hits",
+        "rock",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiodos.com/assets/LogoRadio2.svg",
+      "votes": 32
+    },
+    {
+      "name": "Radio Hit",
+      "urls": [
+        "https://live.turadio.stream:7004/stream?type=http&nocache=596"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Mil Recuerdos Stereo",
+      "urls": [
+        "https://sechin.grupocentroserver.com/radio/8060/radio.mp3"
+      ],
+      "tags": [],
+      "city": "San José",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1190
+    },
+    {
+      "name": "Radio Musical 97.5",
+      "urls": [
+        "https://live.turadio.stream:7005/stream?type=http&nocache=596"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiomusical.com/wp-content/uploads/2020/11/logo-musical.png",
+      "votes": 545
+    },
+    {
+      "name": "Radio Nosara",
+      "urls": [
+        "https://sonicpanel.zonaradio.net/8038/stream"
+      ],
+      "tags": [
+        "latina"
+      ],
+      "city": "Guanacaste",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Omega 105.1 FM",
+      "urls": [
+        "https://centova.hostingtico.com:7008/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "Radio Revolución",
+      "urls": [
+        "https://stream.zeno.fm/ftcx2988uwzuv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "San José",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 283
+    },
+    {
+      "name": "Radio Sinfonola",
+      "urls": [
+        "https://live.turadio.stream:7006/"
+      ],
+      "tags": [
+        "80s",
+        "latino",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Señal Radio Elite",
+      "urls": [
+        "https://stream20.usastreams.com/8008/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "Teletica Radio",
+      "urls": [
+        "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8"
+      ],
+      "tags": [
+        "información",
+        "local news",
+        "música y noticias",
+        "news",
+        "pop",
+        "pop music",
+        "pop rock"
+      ],
+      "city": "San José",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1633
+    },
+    {
+      "name": "Tiquicia Rock",
+      "urls": [
+        "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873"
+      ],
+      "tags": [
+        "alternative",
+        "grunge",
+        "metal",
+        "rock"
+      ],
+      "city": "Alajuela",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "Urbano 106 - 105.9 FM - San José, Costa Rica",
+      "urls": [
+        "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1"
+      ],
+      "tags": [
+        "105.9 fm",
+        "américa",
+        "centroamérica",
+        "costa rica",
+        "dancehall",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "hiphop",
+        "juvenil",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "música en español e inglés",
+        "música urbana",
+        "r&b",
+        "r&b/urban",
+        "radio",
+        "reggae",
+        "san josé",
+        "urban",
+        "urban contemporary",
+        "urban music",
+        "urbana",
+        "urbano",
+        "urbano 106"
+      ],
+      "city": "San José",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png",
+      "votes": 1250
+    },
+    {
+      "name": "Urbano 106 105.9",
+      "urls": [
+        "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/"
+      ],
+      "tags": [
+        "hip-hop",
+        "hiphop",
+        "latino",
+        "rap",
+        "reagge",
+        "reguetón",
+        "trap"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://s3.amazonaws.com/cdn.radionewproject.com/2ceff7f48f0d205be4d94c74a052623f.jpg",
+      "votes": 15
+    }
+  ]
+}

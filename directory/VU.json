@@ -1,0 +1,59 @@
+{
+  "code": "VU",
+  "name": "Vanuatu",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 15
+    },
+    {
+      "name": "BUZZ FM 96.3",
+      "urls": [
+        "https://streamer.dailypost.vu/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.buzzfm.vu/wp-content/uploads/2025/02/logo-online.png",
+      "votes": 7
+    },
+    {
+      "name": "Femme Pawa FM",
+      "urls": [
+        "https://radio.vbtc.vu/femmefm"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "Port Vila, sef, Vanuatu",
+      "codec": "MP3",
+      "bitrate": 90,
+      "logo": "https://vbtc.vu/wp-content/uploads/2025/01/femme-fm-FINAL-Logo_Trans.png",
+      "votes": 19
+    },
+    {
+      "name": "Paradise 98FM",
+      "urls": [
+        "https://radio.vbtc.vu/paradisefm"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "Port Vila, sef, Vanuatu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://vbtc.vu/wp-content/uploads/2025/01/Paradise-FM-Logo.png",
+      "votes": 26
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "code": "VA",
+  "name": "The Holy See",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "Radio Vaticana Belarus",
+      "urls": [
+        "https://radio.vaticannews.va/stream-be"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 141
+    },
+    {
+      "name": "Radio Vaticana Bulgaria",
+      "urls": [
+        "https://radio.vaticannews.va/stream-bg"
+      ],
+      "tags": [
+        "catholic",
+        "catholic radio",
+        "catholic talk",
+        "christian",
+        "latin",
+        "вяра",
+        "християнство"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+      "votes": 199
+    },
+    {
+      "name": "Radio Vaticana Čeština",
+      "urls": [
+        "https://radio.vaticannews.va/stream-cs"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 51
+    },
+    {
+      "name": "Radio Vaticana Deutsch",
+      "urls": [
+        "https://radio.vaticannews.va/stream-de"
+      ],
+      "tags": [
+        "catholic",
+        "christian",
+        "church",
+        "kirche"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+      "votes": 317
+    },
+    {
+      "name": "Radio Vaticana English",
+      "urls": [
+        "https://radio.vaticannews.va/stream-en"
+      ],
+      "tags": [
+        "catholic",
+        "christian",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1000.563.jpeg",
+      "votes": 694
+    },
+    {
+      "name": "Radio Vaticana Español spanish",
+      "urls": [
+        "https://radio.vaticannews.va/stream-es"
+      ],
+      "tags": [
+        "catholic",
+        "catholic radio",
+        "roman catholic church"
+      ],
+      "city": "Vatican City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+      "votes": 283
+    },
+    {
+      "name": "Radio Vaticana Hrvatski",
+      "urls": [
+        "https://radio.vaticannews.va/stream-hr"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 55
+    },
+    {
+      "name": "Radio Vaticana Italia",
+      "urls": [
+        "https://radio.vaticannews.va/stream-it"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 715
+    },
+    {
+      "name": "Radio Vaticana Polska",
+      "urls": [
+        "https://radio.vaticannews.va/stream-pl"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 113
+    },
+    {
+      "name": "Radio Vaticana Portuguese",
+      "urls": [
+        "https://radio.vaticannews.va/stream-pt"
+      ],
+      "tags": [
+        "catholic",
+        "religion",
+        "religious"
+      ],
+      "city": "Vatican City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-180x180.png",
+      "votes": 54
+    },
+    {
+      "name": "Radio Vaticana România",
+      "urls": [
+        "https://radio.vaticannews.va/stream-ro"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/favicon.ico",
+      "votes": 104
+    },
+    {
+      "name": "Radio Vaticana Slovenščina",
+      "urls": [
+        "https://radio.vaticannews.va/stream-sl"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 47
+    },
+    {
+      "name": "Radio Vaticana Solvenčina",
+      "urls": [
+        "https://radio.vaticannews.va/stream-sk"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "votes": 54
+    },
+    {
+      "name": "Radio Vaticana Ukraine",
+      "urls": [
+        "https://radio.vaticannews.va/stream-uk"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+      "votes": 306
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "code": "SM",
+  "name": "San Marino",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 36
+    },
+    {
+      "name": "Public Radio of San Marino",
+      "urls": [
+        "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 216,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Radio San Marino",
+      "urls": [
+        "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w213256444.m3u8"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 189
+    },
+    {
+      "name": "Radio San Marino Classic",
+      "urls": [
+        "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 216,
+      "logo": "https://www.sanmarinortv.sm/assets/frontend/img/logo-310-150.png?v54",
+      "votes": 439
+    }
+  ]
+}

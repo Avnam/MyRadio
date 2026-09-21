@@ -1,0 +1,102 @@
+{
+  "code": "NC",
+  "name": "New Caledonia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 15
+    },
+    {
+      "name": "NIA Lo-Fi",
+      "urls": [
+        "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://nia.nc/static/icons/apple-touch-icon.png",
+      "votes": 31
+    },
+    {
+      "name": "NIA Pacifique",
+      "urls": [
+        "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://nia.nc/static/icons/apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "NIA Radio - Pacifique",
+      "urls": [
+        "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac"
+      ],
+      "tags": [
+        "electronica",
+        "house",
+        "techno"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://nia.nc/static/icons/apple-touch-icon.png",
+      "votes": 212
+    },
+    {
+      "name": "NIA Radio Lo-Fi",
+      "urls": [
+        "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
+      ],
+      "tags": [
+        "chillout",
+        "lofi",
+        "lofi hip hop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 293
+    },
+    {
+      "name": "Nouvelle-Calédonie La Première",
+      "urls": [
+        "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "Nouméa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 659
+    },
+    {
+      "name": "Radio Rythme Bleu",
+      "urls": [
+        "https://webradio.lagoon.nc/rrb"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.rrb.nc/favicon.ico",
+      "votes": 59
+    }
+  ]
+}

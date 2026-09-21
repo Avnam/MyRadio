@@ -1,0 +1,671 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "988 FM",
+      "urls": [
+        "https://28103.live.streamtheworld.com/988_FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "Kuala Lumpur",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png",
+      "votes": 3506
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 117
+    },
+    {
+      "name": "AFO Radio Chinese",
+      "urls": [
+        "https://stream.rcs.revma.com/7x3gv2y4bshvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://manyfm.com/images/i125300.png",
+      "votes": 3
+    },
+    {
+      "name": "AFO Radio English",
+      "urls": [
+        "https://stream.rcs.revma.com/8150ezy4bshvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://manyfm.com/images/i137564.png",
+      "votes": 1
+    },
+    {
+      "name": "ai fm",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC"
+      ],
+      "tags": [
+        "various music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rtmklik.rtm.gov.my/favicon.ico",
+      "votes": 2241
+    },
+    {
+      "name": "ALL FM [91.9]",
+      "urls": [
+        "https://stream.zeno.fm/srrbpsu3tbdvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FQPWwAYST1PLLnVKiDmft7aU5zIvvnpmWHliin96PyrI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzA3ZDU5OTIyLTI1NWUtNGJlOS1hNjA3LWY0NzVkOTU5NDMxOS9pbWFnZS8_dXBkYXRlZD0xNzExOTYxNzY3MDAw.webp&w=1920&q=100",
+      "votes": 173
+    },
+    {
+      "name": "ANAstation",
+      "urls": [
+        "https://stream.zeno.fm/tf79rp6qg48uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 115
+    },
+    {
+      "name": "BFM 89.9",
+      "urls": [
+        "https://stream.rcs.revma.com/s91qy9p0zs3vv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.bfm.my/favicon.ico",
+      "votes": 51
+    },
+    {
+      "name": "Cats FM",
+      "urls": [
+        "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a"
+      ],
+      "tags": [],
+      "city": "Sarawak",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "CITYPlus FM",
+      "urls": [
+        "https://stream.rcs.revma.com/9ykdmcawe1bwv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cityplusfm.my/wp-content/uploads/2025/07/LOGO_画板-1-300x300.png",
+      "votes": 59
+    },
+    {
+      "name": "DJ DUGEM",
+      "urls": [
+        "https://stream.zeno.fm/ooaqxeogpfdvv"
+      ],
+      "tags": [
+        "dance",
+        "easy listening",
+        "general",
+        "local music",
+        "pop music",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fv0G0z5HIjhNybkdJzkLl4uSR_Fr72eWbKEvZ7eqiM6c%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzQ3YTM4MWQ0LWM2NjgtNGFiNC04NGFmLWU1MTgzZmM0ZTA2NC9pbWFnZS8_dXBkYXRlZD0xNzA0OTgzODcxMDAw.webp&w=750&q=100",
+      "votes": 731
+    },
+    {
+      "name": "Eight无限 FM",
+      "urls": [
+        "https://stream.rcs.revma.com/qp0xrd9mtd3vv"
+      ],
+      "tags": [
+        "contemporary hit radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://assets-mpa.eight.audio/media/Logo/logo-eight-wu-xian-1000x1000-09.jpg",
+      "votes": 181
+    },
+    {
+      "name": "ERA FM",
+      "urls": [
+        "https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlF2WiCgAJUPufokb6G0b3Q"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fastromedia.com.my%2Four_brands%2Fdigital-advertising%2Fera%2F&psig=AOvVaw0_msqzV89WfcT2jzgWU5lK&ust=1736822940550000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCls-XX8YoDFQAAAAAdAAAAABAE",
+      "votes": 1189
+    },
+    {
+      "name": "era sarawak",
+      "urls": [
+        "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "sarawak",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "FAKHRULNOIR FM",
+      "urls": [
+        "https://stream.zeno.fm/z53ycf1iwhnvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 85
+    },
+    {
+      "name": "Fly FM",
+      "urls": [
+        "https://stream.rcs.revma.com/q17aka9mtd3vv"
+      ],
+      "tags": [
+        "hot adult contemporary"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",
+      "votes": 69
+    },
+    {
+      "name": "GeGar Muzik FM",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie__OgjMEpFaTgcnehruvZX0UvTWmnEQr1JWK4MJ2HewULVmoSLWT_iRv8v008duMvIIvDD5a-egT6iKOSTmeXhe_Grabae9GUpgvKJBAbu6sW9_wnTRjTgvCmlom_UHeg5Hw5r5WcxCY/s72-c/received_2119351704769153.png",
+      "votes": 29
+    },
+    {
+      "name": "Gold",
+      "urls": [
+        "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 143
+    },
+    {
+      "name": "goXuan",
+      "urls": [
+        "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png",
+      "votes": 456
+    },
+    {
+      "name": "GOXUAN",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png",
+      "votes": 245
+    },
+    {
+      "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+      "urls": [
+        "https://stream.rcs.revma.com/488kt4sbv4uvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://d62zl39gesnj2.cloudfront.net/stations/hitz/2025/hitz_square_updated.png",
+      "votes": 1
+    },
+    {
+      "name": "Hot FM Malaysia",
+      "urls": [
+        "https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8"
+      ],
+      "tags": [
+        "adult contemporary",
+        "contemporary",
+        "contemporary hits",
+        "hits"
+      ],
+      "city": "Kuala Lumpur",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",
+      "votes": 2
+    },
+    {
+      "name": "JEI FM",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 121
+    },
+    {
+      "name": "Kelantan FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac"
+      ],
+      "tags": [
+        "local music",
+        "old music",
+        "slow rock"
+      ],
+      "city": "Kelantan",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/XZGnRuLMS4.jpg",
+      "votes": 1667
+    },
+    {
+      "name": "LITE FM Malaysia",
+      "urls": [
+        "https://stream.rcs.revma.com/bn4ex8sbv4uvv"
+      ],
+      "tags": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://media2.fishtank.my/stations/lite/2025/lite_square_updated.png",
+      "votes": 222
+    },
+    {
+      "name": "LTR FM Radio Music",
+      "urls": [
+        "https://stream.zeno.fm/p1ddt1trwchvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 119
+    },
+    {
+      "name": "Melody FM Malaysia",
+      "urls": [
+        "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png",
+      "votes": 4583
+    },
+    {
+      "name": "MIB radio",
+      "urls": [
+        "https://stream.zeno.fm/bm557kzmr18uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 122
+    },
+    {
+      "name": "Music Vault FM",
+      "urls": [
+        "https://stream.zeno.fm/zqxbxkviipcvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/dHDXas3CTU52dDLwT-Qd44DcwYQlGUEafEtZNhWc0xs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMmZkNzg4YWEtNDlhYi00Zjc3LTllZmYtMDU1OTMyNGQyZDhlL2ltYWdlLz91PTE3NDUyMzUxMDUwMDA.webp",
+      "votes": 102
+    },
+    {
+      "name": "MyFriends Station",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/myfriend/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "local music",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrUvNKvz5C-uACMOrwvTwbg9MXwZwMHCh5A&usqp=CAU",
+      "votes": 289
+    },
+    {
+      "name": "PBN Radio Nurani",
+      "urls": [
+        "https://stream.zeno.fm/2uyfsr25sm0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 130
+    },
+    {
+      "name": "Raaga",
+      "urls": [
+        "https://n06.rcs.revma.com/1ut6qwtbv4uvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Radio Klasik (Klasik Nasional)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC"
+      ],
+      "tags": [
+        "classic"
+      ],
+      "city": "Malaysia",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Rosak",
+      "urls": [
+        "https://radiorosak.radioca.st/stream"
+      ],
+      "tags": [
+        "alternative rock",
+        "jazz",
+        "pop dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 1009
+    },
+    {
+      "name": "Red FM",
+      "urls": [
+        "https://22253.live.streamtheworld.com/RED_FMAAC.aac"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "sarawak",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://zuiai.tv/zb_users/upload/2026/2/2026021770053457_mini.jpg",
+      "votes": 21
+    },
+    {
+      "name": "REDfm",
+      "urls": [
+        "https://22273.live.streamtheworld.com/RED_FMAAC.aac"
+      ],
+      "tags": [
+        "adult contemporary",
+        "classic hits",
+        "classical",
+        "contemporary pop",
+        "easy listening",
+        "feel good",
+        "local news",
+        "man",
+        "mandopop",
+        "pop",
+        "pop music",
+        "relaxing",
+        "soft rock",
+        "top 40"
+      ],
+      "city": "Sarawak",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio.rtm.gov.my/storage/stations/1777447046-gemini-generated-image-chd08qchd08qchd0.png",
+      "votes": 22
+    },
+    {
+      "name": "Repair Segala",
+      "urls": [
+        "https://stream.zeno.fm/0245ew03ekhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 128
+    },
+    {
+      "name": "Sabah FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "Sabah",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 618
+    },
+    {
+      "name": "Sinar FM",
+      "urls": [
+        "https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Kuala Lumpur",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://radio-online.my/storage/radios/8384/45312/conversions/aKWaLIfLRFuSBriZVWgA3q2vOUg8II-metac2luYXIxMTEucG5n--lg.webp",
+      "votes": 3105
+    },
+    {
+      "name": "Slow Rock 90'",
+      "urls": [
+        "https://stream.zeno.fm/hiut6cwfoneuv"
+      ],
+      "tags": [
+        "90's",
+        "classic rock",
+        "general",
+        "rock",
+        "slow rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FrKtC0NpB5ZmSBUWmZtAUn1sM1w_Owj9kNo-Xuc310Ak%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg3MzhjNDA0LTMzODItNDgxMC04YWE3LTEwZjE3MjE2ZGRjZC9pbWFnZS8_dXBkYXRlZD0xNzAyNjMxMzU2MDAw.webp&w=750&q=100",
+      "votes": 4933
+    },
+    {
+      "name": "Stay.FM",
+      "urls": [
+        "https://stayfm.com:8443/archive"
+      ],
+      "tags": [
+        "easy listening",
+        "hits",
+        "jazz",
+        "music",
+        "pop",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusYGyHO1SmhC2EZnxiKmaJOrBz0WaYzn04PhKXgJChNkDYFlu5RNxxk3p&s=10",
+      "votes": 114
+    },
+    {
+      "name": "Terengganu FM",
+      "urls": [
+        "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC"
+      ],
+      "tags": [
+        "classic rock",
+        "local government",
+        "local music",
+        "local radio",
+        "pop music"
+      ],
+      "city": "terengganu",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://play-lh.googleusercontent.com/8Nd8meMq2CHdCKYvTf1-P-noukb-7oMFtEAdpwu7mNvrVJHVqDsweS80pwJ2gjxvlA=w240-h480-rw",
+      "votes": 464
+    },
+    {
+      "name": "THR Gegar",
+      "urls": [
+        "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 48
+    },
+    {
+      "name": "THR Gegar Pilihan #1 Pantai Timur",
+      "urls": [
+        "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8"
+      ],
+      "tags": [
+        "#1 pilihan pantai timur",
+        "entertaining segments",
+        "mix genres"
+      ],
+      "city": "Kelantan",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn-profiles.tunein.com/s3129/images/logod.jpg",
+      "votes": 1476
+    },
+    {
+      "name": "TMM2 FM",
+      "urls": [
+        "https://stream.zeno.fm/mq0pxfsf0chvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 122
+    },
+    {
+      "name": "Traxx FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/TraXX_FM.png/250px-TraXX_FM.png",
+      "votes": 0
+    },
+    {
+      "name": "Wadah FM",
+      "urls": [
+        "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac"
+      ],
+      "tags": [
+        "classic rock",
+        "local music",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 133
+    },
+    {
+      "name": "Zayan",
+      "urls": [
+        "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 23
+    }
+  ]
+}

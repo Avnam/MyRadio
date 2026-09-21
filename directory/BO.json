@@ -1,0 +1,902 @@
+{
+  "code": "BO",
+  "name": "Bolivia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 30
+    },
+    {
+      "name": "Animax Radio",
+      "urls": [
+        "https://sc.host-live.com:8150/stream"
+      ],
+      "tags": [
+        "dance",
+        "electro",
+        "pop"
+      ],
+      "city": "Potosí",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.animaxradio.com/favicon-32x32.png",
+      "votes": 2
+    },
+    {
+      "name": "ATB Radio",
+      "urls": [
+        "https://streamingenbolivia.com/8006/stream"
+      ],
+      "tags": [
+        "noticias"
+      ],
+      "city": "La Paz (Nuestra Señora de)",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 4644
+    },
+    {
+      "name": "Atlántida FM 903",
+      "urls": [
+        "https://radio.atlantidafm903.com:8020/atlantida_radio.mp3"
+      ],
+      "tags": [
+        "2000 la otra música",
+        "80s",
+        "90s"
+      ],
+      "city": "Cochabamba - Bolivia",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://atlantidafm903.com/logo-atlantida.png",
+      "votes": 4
+    },
+    {
+      "name": "Ciudad Radio 101.5 FM",
+      "urls": [
+        "https://emiteradio.com/proxy/monteroradio?mp=/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "classic hits",
+        "entretenimiento",
+        "hits",
+        "music",
+        "música en español e inglés",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ciudadradiofm.com/imagenes/radio-ciudad-montero.jpg",
+      "votes": 103
+    },
+    {
+      "name": "Cristo Viene La Red",
+      "urls": [
+        "https://stream20.usastreams.com:7000/stream"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/kjxabnz92vvu.png",
+      "votes": 306
+    },
+    {
+      "name": "Diana D 102.1 FM",
+      "urls": [
+        "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "classic hits",
+        "classic rock",
+        "clásicos en español",
+        "latin music",
+        "latin pop",
+        "musica latina",
+        "musica popular",
+        "musica romantica",
+        "música en español e inglés",
+        "música latina",
+        "pop",
+        "pop en español",
+        "pop en español e inglés",
+        "rock",
+        "rock en español"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/120323.v2.png",
+      "votes": 176
+    },
+    {
+      "name": "El Fin del Silencio",
+      "urls": [
+        "https://servidor24-1.brlogic.com:7302/live"
+      ],
+      "tags": [
+        "hardcore",
+        "hiphop",
+        "metal",
+        "pop",
+        "punk",
+        "rap",
+        "rock"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 223
+    },
+    {
+      "name": "Emet 441",
+      "urls": [
+        "https://radio.atlantidafm903.com:8010/emet441_radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://emet441.com/logo-emet441.png",
+      "votes": 2
+    },
+    {
+      "name": "Eres Radio 98.5 FM",
+      "urls": [
+        "https://sp5.servidorrprivado.com/8789/stream"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "baladas en español",
+        "ballads",
+        "classic hits",
+        "classic rock",
+        "clásicos en español",
+        "commentary",
+        "culture",
+        "interviews",
+        "latin music",
+        "latin pop",
+        "live show",
+        "música en español",
+        "música en español e inglés",
+        "música latina",
+        "pop",
+        "pop en español",
+        "pop en español e inglés",
+        "rock",
+        "rock en español",
+        "sports"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 286
+    },
+    {
+      "name": "esLatino Radio",
+      "urls": [
+        "https://spanel.gcomstreaming.com/8030/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "farándula",
+        "música"
+      ],
+      "city": "La Paz",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://graph.facebook.com/eslatinoradio/picture?width=200&height=200",
+      "votes": 202
+    },
+    {
+      "name": "Estelar Fm",
+      "urls": [
+        "https://a3.asurahosting.com:6080/radio.mp3"
+      ],
+      "tags": [
+        "entretenimiento",
+        "fútbol",
+        "música",
+        "noticias",
+        "variedades"
+      ],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://graph.facebook.com/RadioEstelar925/picture?type=large",
+      "votes": 15
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 270
+    },
+    {
+      "name": "Fides Tarija",
+      "urls": [
+        "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1"
+      ],
+      "tags": [
+        "entrevistas",
+        "noticias"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "null",
+      "votes": 40
+    },
+    {
+      "name": "FM La Paz",
+      "urls": [
+        "https://spanel.gcomstreaming.com:7008/stream"
+      ],
+      "tags": [
+        "clásicos",
+        "noticias"
+      ],
+      "city": "La Paz (Nuestra Señora de La Paz)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Fm La Paz 96.7",
+      "urls": [
+        "https://spanel.gcomstreaming.com/8018/stream"
+      ],
+      "tags": [
+        "música",
+        "noticias"
+      ],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1035
+    },
+    {
+      "name": "Maritima fm",
+      "urls": [
+        "https://spanel.gcomstreaming.com/8004/stream"
+      ],
+      "tags": [
+        "local news",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 24,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "Melodía",
+      "urls": [
+        "https://stream.consultoradas.com/8244/stream"
+      ],
+      "tags": [
+        "actualidad",
+        "entretenimiento",
+        "musica",
+        "variedades"
+      ],
+      "city": "La Paz",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://graph.facebook.com/radiomelodia991/picture?type=large",
+      "votes": 144
+    },
+    {
+      "name": "Quechua FM",
+      "urls": [
+        "https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ"
+      ],
+      "tags": [
+        "baladas en español",
+        "ballads",
+        "culture",
+        "entertainment",
+        "entretenimiento",
+        "folclore",
+        "folk music",
+        "folklore",
+        "latin music"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img.webme.com/pic/q/quechuafm/FB_IMG_1656200719278.jpg",
+      "votes": 112
+    },
+    {
+      "name": "Radio \"Cumbia 90s\"",
+      "urls": [
+        "https://emiteradio.com/proxy/cumbia90s?mp=/stream"
+      ],
+      "tags": [
+        "cumbia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 586
+    },
+    {
+      "name": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
+      "urls": [
+        "https://stream.zeno.fm/tu8weq69fwzuv"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/K4T08EedRAKq4nVUYZq0dHJSGv88dS-RiODufJeEth8/rs:fill:2048:512/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F5T2k5ekFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FxS2ZEdGdvTW9nRUVlbVZ1YncvbWljcm9zaXRlL2JhY2tncm91bmRfaW1hZ2UvP3U9MTc0NDIyNjc0MjAwMA.webp",
+      "votes": 38
+    },
+    {
+      "name": "Radio Acer",
+      "urls": [
+        "https://live.turadiotv.com/8004/stream"
+      ],
+      "tags": [],
+      "city": "Santa Cruz de la Sierra",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/RadioAcerOficial",
+      "votes": 2
+    },
+    {
+      "name": "Radio Activa Guanay 105.4 Fm",
+      "urls": [
+        "https://sonic.dattassd.com:10902/stream"
+      ],
+      "tags": [
+        "deportes",
+        "information",
+        "latino",
+        "música y noticias",
+        "noticias",
+        "salsa",
+        "social"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://image.winudf.com/v2/image1/Y29tLnRlY25pY29tcHVzZWJhc2VyaS5yYWRpb2FjdGl2YWd1YW5heV9zY3JlZW5fMF8xNzMwMjI3ODkwXzA0OQ/screen-0.webp?h=200&fakeurl=1&type=.webp",
+      "votes": 61
+    },
+    {
+      "name": "radio centro cochabamba",
+      "urls": [
+        "https://radio.yoemito.net/listen/centrofm/stream"
+      ],
+      "tags": [],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Chacaltaya",
+      "urls": [
+        "https://cast6.asurahosting.com/proxy/irfradio/stream"
+      ],
+      "tags": [],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://graph.facebook.com/chacaltaya93.7/picture?width=200&height=200",
+      "votes": 2599
+    },
+    {
+      "name": "Radio Constelación",
+      "urls": [
+        "https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjdQRmU0aTBvVExPc3JNYWpPbmY3aEEiLCJpYXQiOjE3ODk5ODQ4NDMsImV4cCI6MTc4OTk4NDkwM30.8b1Ef-jkc3dSTr6ydV4EgnGx1i5D4zDBblklTxV4aZA"
+      ],
+      "tags": [],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioconstelacionbolivia.com/wp-content/uploads/2023/06/ogo-1536x765.png",
+      "votes": 108
+    },
+    {
+      "name": "Radio Disney - La Paz FM 102.7",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75",
+      "votes": 1681
+    },
+    {
+      "name": "Radio Estrella 93.1 FM",
+      "urls": [
+        "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "70s",
+        "80s",
+        "90s",
+        "alternative rock",
+        "baladas en español",
+        "classic hits",
+        "classic rock",
+        "clásicos en español",
+        "entertainment",
+        "entretenimiento",
+        "latin music",
+        "latin pop",
+        "música en español",
+        "música en español e inglés",
+        "pop",
+        "pop en español e inglés",
+        "pop latino",
+        "pop rock",
+        "progressive rock",
+        "rock en español"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/4382ymgqkex8.png",
+      "votes": 188
+    },
+    {
+      "name": "Radio Éxito (Bolivia)",
+      "urls": [
+        "https://cast6.my-control-panel.com/proxy/radiostr/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://exitonoticias.com.bo/wp-content/uploads/2024/04/radio_exito.jpg",
+      "votes": 438
+    },
+    {
+      "name": "Radio Fides Cochabamba",
+      "urls": [
+        "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1"
+      ],
+      "tags": [
+        "música",
+        "noticias"
+      ],
+      "city": "Cochabamba",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://graph.facebook.com/radiofidescb/picture?width=200&height=200",
+      "votes": 1684
+    },
+    {
+      "name": "Radio Folklorica Uyuni",
+      "urls": [
+        "https://emiteradio.com/proxy/uyuni?mp=/stream"
+      ],
+      "tags": [
+        "bolivia",
+        "folklore",
+        "música"
+      ],
+      "city": "Potosí",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1443
+    },
+    {
+      "name": "RADIO FRONTERA FM 100.3 MHz",
+      "urls": [
+        "https://stream.inliveserver.com:2020/8140/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radiofronterayacuiba.com/imagenes/favicon.png",
+      "votes": 38
+    },
+    {
+      "name": "Radio GAM Viacha",
+      "urls": [
+        "https://server1.fex.red/letanias/stream"
+      ],
+      "tags": [
+        "institucional",
+        "música",
+        "noticias"
+      ],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/v6BKzZfx/logo-viacha.jpg",
+      "votes": 6
+    },
+    {
+      "name": "Radio Horizontes 93.1",
+      "urls": [
+        "https://ares.disfrutaenlared.com:9060/"
+      ],
+      "tags": [
+        "cultura",
+        "deportes",
+        "musica",
+        "noticias y comentarios",
+        "variedades"
+      ],
+      "city": "Sucre",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s303807/images/logod.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Radio Kollasuyo FM",
+      "urls": [
+        "https://azura2.bitstreaming.net:8000/radio128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 885
+    },
+    {
+      "name": "Radio Mega Rurrenabaque",
+      "urls": [
+        "https://live.turadiotv.com/8030/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://cp.rtvenvivo.com/panelradiotv/server/public/images/1729217634fondo.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Oldies - Red Uyuni",
+      "urls": [
+        "https://emiteradio.com/proxy/clasicosingles?mp=/stream"
+      ],
+      "tags": [
+        "clásicos",
+        "música",
+        "oldies",
+        "recuerdos"
+      ],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://red.uyuni.org/wp-content/uploads/2023/04/oldies-logo.jpg",
+      "votes": 65
+    },
+    {
+      "name": "Radio Oueblo",
+      "urls": [
+        "https://stream.zeno.fm/dinhdjwdjeltv"
+      ],
+      "tags": [],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/N2W67qXv/pueblo26.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Pop - Red Uyuni",
+      "urls": [
+        "https://emiteradio.com/proxy/boliviapop?mp=/stream"
+      ],
+      "tags": [
+        "español",
+        "ingles",
+        "latino",
+        "música",
+        "pop"
+      ],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://red.uyuni.org/wp-content/uploads/2023/04/pop_logo.jpg",
+      "votes": 75
+    },
+    {
+      "name": "Radio Qhana FM98.5",
+      "urls": [
+        "https://cast6.asurahosting.com/proxy/radiost4/stream"
+      ],
+      "tags": [],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://qhana.com.bo/wp-content/uploads/2024/03/logo_nav.png",
+      "votes": 431
+    },
+    {
+      "name": "Radio Ritmo 97.3 FM",
+      "urls": [
+        "https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "classic hits",
+        "classic rock",
+        "clásicos en español",
+        "culture",
+        "entertainment",
+        "entretenimiento",
+        "folclore",
+        "folklore",
+        "interviews",
+        "latin music",
+        "latin pop",
+        "música en español",
+        "música en español e inglés",
+        "news",
+        "podcast",
+        "pop",
+        "pop en español e inglés",
+        "rock",
+        "rock en español",
+        "sports"
+      ],
+      "city": "Cochabamba",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioritmobolivia.com/wp-content/uploads/2019/01/1024x500.png",
+      "votes": 212
+    },
+    {
+      "name": "Radio San Rafael 92.5 FM",
+      "urls": [
+        "https://guri.tepuyserver.net:7098/stream"
+      ],
+      "tags": [
+        "ballads",
+        "cumbia",
+        "folkloric",
+        "local news",
+        "pop"
+      ],
+      "city": "Cochabamba",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://radiosanrafael.com.bo/wp-content/uploads/2022/06/logo-san-rafael-simple.jpg",
+      "votes": 477
+    },
+    {
+      "name": "Radio Supermix",
+      "urls": [
+        "https://stream.zeno.fm/v93yq4bmpm0uv"
+      ],
+      "tags": [
+        "información",
+        "musica"
+      ],
+      "city": "La Paz",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://imgur.com/a/OI2hByQ",
+      "votes": 55
+    },
+    {
+      "name": "Radio Wiracocha",
+      "urls": [
+        "https://stream.zeno.fm/rtui1p0xscetv"
+      ],
+      "tags": [],
+      "city": "La Paz",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://images.app.goo.gl/HYF8eBmKqrDNNxap8",
+      "votes": 52
+    },
+    {
+      "name": "RadioSat FM - Bolivia",
+      "urls": [
+        "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3"
+      ],
+      "tags": [
+        "variedad",
+        "world music"
+      ],
+      "city": "Santa Cruz de la Sierra",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/AbYNwYZ.jpeg",
+      "votes": 10
+    },
+    {
+      "name": "Red Uyuni: Radio Recuerdos",
+      "urls": [
+        "https://emiteradio.com/proxy/uyuni2?mp=/stream"
+      ],
+      "tags": [
+        "latina",
+        "música",
+        "recuerdo"
+      ],
+      "city": "Potosí",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1706
+    },
+    {
+      "name": "RKC RADIO",
+      "urls": [
+        "https://sonic.dattassd.com/8198/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://kawsachuncoca.com/assets/img/logo.png",
+      "votes": 20
+    },
+    {
+      "name": "Stereo 97",
+      "urls": [
+        "https://stream.consultoradas.com:8340/stream"
+      ],
+      "tags": [
+        "clásicos",
+        "english music"
+      ],
+      "city": "La Paz (Nuestra Señora de La Paz)",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.stereo97.fm/templates/rt_antares/custom/images/logo/Logo-transparente-website.png",
+      "votes": 11
+    },
+    {
+      "name": "Stereo97",
+      "urls": [
+        "https://stream.consultoradas.com/8340/stream"
+      ],
+      "tags": [
+        "alternativo",
+        "música",
+        "pop",
+        "rock"
+      ],
+      "city": "La Paz",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://graph.facebook.com/Stereo97Bolivia/picture?type=large",
+      "votes": 337
+    },
+    {
+      "name": "Sucremanta Tv",
+      "urls": [
+        "https://stream.zeno.fm/gli54dgn5kwuv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "musica",
+        "noticias"
+      ],
+      "city": "Sucre",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sucremantatv.com/wp-content/uploads/2022/10/cropped-logo-Sucremanta-192x192.png",
+      "votes": 50
+    },
+    {
+      "name": "Tuti internacional (cliza)",
+      "urls": [
+        "https://stream.zeno.fm/nplf6hpufi5uv"
+      ],
+      "tags": [
+        "latinoamérica",
+        "música en español",
+        "recuerdos"
+      ],
+      "city": "Cochabamba-cliza",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img.webme.com/pic/v/vavizacli/tuti.jpg",
+      "votes": 88
+    },
+    {
+      "name": "ZetaxWorld Radio",
+      "urls": [
+        "https://radio.zetaxworld.xyz/stream.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "jazz",
+        "pop rock",
+        "rock",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.postimg.cc/mkfcGX9K/Radio-ZWlogo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Zoy Milton",
+      "urls": [
+        "https://icepool.silvacast.com/GAYFM.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 147
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "code": "GT",
+  "name": "Guatemala",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "LOVE FM: All you need is Love / Clásicos del pop",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 2
+    },
+    {
+      "name": "94.9 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8"
+      ],
+      "tags": [
+        "hits",
+        "music",
+        "musica",
+        "música en inglés",
+        "pop",
+        "pop en español e inglés",
+        "top 40",
+        "top charts"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://949.com.gt/wp-content/uploads/2023/08/Untitled-Logo.jpg",
+      "votes": 265
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 15
+    },
+    {
+      "name": "Actitud 100.9 FM",
+      "urls": [
+        "https://ss.redradios.net:8002/stream?type=.mp3"
+      ],
+      "tags": [],
+      "city": "Ciudad de Guatemala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://actitud.fm/wp-content/uploads/2017/09/logo-fb-white.png",
+      "votes": 56
+    },
+    {
+      "name": "Astro Radio",
+      "urls": [
+        "https://sonicpanel.streamsolutions.us:10945/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/astroradiogt.com/wp-content/uploads/2021/08/cropped-cropped-Banner-1.jpg?fit=180%2C180&ssl=1",
+      "votes": 15
+    },
+    {
+      "name": "Atmósfera 96.5",
+      "urls": [
+        "https://stream.zenolive.com/wbqp37gm8ueuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1085
+    },
+    {
+      "name": "Azúcar 96.7 FM",
+      "urls": [
+        "https://radiostreamingaac.com:8568/azucarzacapa"
+      ],
+      "tags": [
+        "banda",
+        "cumbia",
+        "entretenimiento",
+        "grupera",
+        "regional mexican"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://i0.wp.com/azucar967.com/wp-content/uploads/2022/09/cropped-1.png?w=1920",
+      "votes": 65
+    },
+    {
+      "name": "Azúcar FM 99.9",
+      "urls": [
+        "https://radiostreamingaac.com:8570/azucarjutiapa"
+      ],
+      "tags": [
+        "banda",
+        "entretenimiento",
+        "grupera",
+        "musica",
+        "reggaeton",
+        "regional mexican",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://i0.wp.com/999azucar.com/wp-content/uploads/2022/09/cropped-2.png?w=1920&ssl=1",
+      "votes": 153
+    },
+    {
+      "name": "CARACOL RADIO 105.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/u844q3w08mwtv"
+      ],
+      "tags": [
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "radio comunitaria",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 156
+    },
+    {
+      "name": "Caribean FM 105.1",
+      "urls": [
+        "https://sh4.radioonlinehd.com:8547/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "music",
+        "reggaeton",
+        "salsa",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://caribean.rcdn.com.gt/wp-content/uploads/2021/08/Logo-1024.png ",
+      "votes": 209
+    },
+    {
+      "name": "Clásica 102.5 Guatemala",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac"
+      ],
+      "tags": [
+        "102.5 fm",
+        "américa",
+        "centroamérica",
+        "classic hits",
+        "classics",
+        "clásica",
+        "clásicos",
+        "entretenimiento",
+        "estación",
+        "fm",
+        "guatemala",
+        "guatemala city",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "música del recuerdo",
+        "oldies",
+        "pop clásico",
+        "radio",
+        "retro"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1033
+    },
+    {
+      "name": "Computer Forensic Radio",
+      "urls": [
+        "https://radio.forensedigital.gt:8020/stream"
+      ],
+      "tags": [
+        "educación",
+        "educational",
+        "jazz",
+        "local radio",
+        "technology"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Criollisima GT",
+      "urls": [
+        "https://radio.forensedigital.gt:8060/stream"
+      ],
+      "tags": [
+        "folclore",
+        "folk music",
+        "folklore",
+        "guatemala",
+        "local radio",
+        "venezuela"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.forensedigital.gt/criollisima.png",
+      "votes": 41
+    },
+    {
+      "name": "Dinámica 89.9 FM",
+      "urls": [
+        "https://cloudstream2032.conectarhosting.com/8312/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "música en español",
+        "pop",
+        "pop en español",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.corporacionradialfm.com/assets/img/logo.png",
+      "votes": 66
+    },
+    {
+      "name": "EMAUS RADIO",
+      "urls": [
+        "https://sh2.radioonlinehd.com:8141/;"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 631
+    },
+    {
+      "name": "Emisoras Unidas 89.7",
+      "urls": [
+        "https://stream.zenolive.com/z96sq8tndseuv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://emisorasunidas.com/favicon.ico",
+      "votes": 7585
+    },
+    {
+      "name": "Emisoras Unidas 91.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/3tfg0vng9ueuv"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "information",
+        "noticias",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.emisorasunidas.com/uploads/2024/02/emisoras-unidas-home-radio-noticias-desktop.svg",
+      "votes": 89
+    },
+    {
+      "name": "Emisoras Unidas 91.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/0zashcvc9zquv"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "information",
+        "noticias",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 290
+    },
+    {
+      "name": "Estéreo Alegre 101.5 FM",
+      "urls": [
+        "https://stream.zeno.fm/597dgr66e2zuv"
+      ],
+      "tags": [
+        "banda",
+        "cumbia",
+        "grupera",
+        "music",
+        "regional mexican"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fr-qJkir8FI607bbfLEmcuoa8sLSOJYsaN020F4bQazY%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRc2ZxWXpRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNROGFYWWpBa01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjE2OTgzMzIwMDA.webp&w=1920&q=70",
+      "votes": 194
+    },
+    {
+      "name": "Estéreo Gerardi 107.9 FM",
+      "urls": [
+        "https://aler.org:8445/gerardi.mp3"
+      ],
+      "tags": [
+        "cristiana",
+        "educational",
+        "radio comunitaria",
+        "religious",
+        "social",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radio.com.gt/uploads/img/stereo-gerardi.jpg",
+      "votes": 42
+    },
+    {
+      "name": "Estéreo Santa Sion",
+      "urls": [
+        "https://radio015.gt.gt/radio/8000/live.mp3"
+      ],
+      "tags": [
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.estereosantasionlive.com/contenido-estatico/uploads/sites/76/2023/05/logo-150x150.jpg.webp",
+      "votes": 116
+    },
+    {
+      "name": "Estéreo Solar 104.9 FM",
+      "urls": [
+        "https://radiostreamingaac.com:8566/solarpeten"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://solar1049.com/wp-content/uploads/2024/01/cropped-1049.png",
+      "votes": 41
+    },
+    {
+      "name": "Estéreo Solar 89.5 FM",
+      "urls": [
+        "https://radiostreamingaac.com:8560/solarchiquimula"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://solar895.com/wp-content/uploads/2022/05/cropped-cropped-1-1.png",
+      "votes": 56
+    },
+    {
+      "name": "Estéreo Solar 98.3 FM",
+      "urls": [
+        "https://radiostreamingaac.com:8562/solarjutiapa"
+      ],
+      "tags": [
+        "deportes",
+        "hits",
+        "latino",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://i0.wp.com/solar983.com/wp-content/uploads/2024/01/cropped-983.png?fit=127%2C88&ssl=1",
+      "votes": 78
+    },
+    {
+      "name": "Eventos Catolicos Radio 940 AM",
+      "urls": [
+        "https://stream.zeno.fm/1g9cduy10bruv"
+      ],
+      "tags": [
+        "bible",
+        "catholic",
+        "catolica",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://eventoscatolicos.org/wp-content/uploads/2024/01/cropped-Logo-Eventos-Site.png",
+      "votes": 53
+    },
+    {
+      "name": "Exa FM 101.7 Guatemala",
+      "urls": [
+        "https://stream.zeno.fm/czdkk32qduhvv"
+      ],
+      "tags": [
+        "101.7 fm",
+        "entretenimiento",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "grupo alius",
+        "guatemala",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latin music",
+        "latin pop",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs radio",
+        "música",
+        "música en español",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop dance",
+        "pop music",
+        "pop rock",
+        "radio",
+        "top",
+        "top 100",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top hits"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 3771
+    },
+    {
+      "name": "FeLove Clásica",
+      "urls": [
+        "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://clasica.radiofelove.com/wp-content/uploads/2020/04/cropped-feloveclasica.jpg",
+      "votes": 62
+    },
+    {
+      "name": "Gaiteros de Guatemala",
+      "urls": [
+        "https://radio.forensedigital.gt:8030/stream"
+      ],
+      "tags": [
+        "folk music",
+        "folklore",
+        "musica latinoamericana",
+        "radio educativa de venezuela"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.forensedigital.gt/gaita.png",
+      "votes": 112
+    },
+    {
+      "name": "Globo 98.9 Guatemala",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac"
+      ],
+      "tags": [
+        "98.9 fm",
+        "américa",
+        "centroamérica",
+        "entretenimiento",
+        "estación",
+        "fm",
+        "globo",
+        "guatemala",
+        "guatemala city",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "música del recuerdo",
+        "música en español",
+        "música variada",
+        "radio"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 914
+    },
+    {
+      "name": "Hacker por Cristo Network",
+      "urls": [
+        "https://radio.forensedigital.gt:8010/stream"
+      ],
+      "tags": [
+        "christian-gospel",
+        "education",
+        "educational",
+        "educativa",
+        "evangelical christian",
+        "gospel",
+        "gospel evangélica",
+        "gospel music",
+        "guatemala",
+        "guatemala city",
+        "mensajes cristianos",
+        "musica cristiana",
+        "radio cristiana",
+        "radio educación",
+        "radio evangelica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 162
+    },
+    {
+      "name": "Josy Music Latin",
+      "urls": [
+        "https://dj91.hostingnuclear.com/8144/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+      "votes": 40
+    },
+    {
+      "name": "Josy Music PLUS",
+      "urls": [
+        "https://dj91.hostingnuclear.com/8116/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+      "votes": 21
+    },
+    {
+      "name": "Josy Music Swing",
+      "urls": [
+        "https://dj91.hostingnuclear.com/8146/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+      "votes": 18
+    },
+    {
+      "name": "Kiss FM 97.7",
+      "urls": [
+        "https://stream.zenolive.com/1sgzkhhm8ueuv"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://emisorasunidas.com/favicon.ico",
+      "votes": 2771
+    },
+    {
+      "name": "La Grande 99.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/f1bgph3ve0quv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "music",
+        "pop",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.emisorasunidas.com/uploads/2023/10/emisoras-unidas-inicio-la-grande-desktop.png",
+      "votes": 467
+    },
+    {
+      "name": "La Red 106.1 Guatemala",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac"
+      ],
+      "tags": [
+        "106.1 fm",
+        "américa",
+        "centroamérica",
+        "deportes",
+        "entretenimiento",
+        "estación",
+        "fm",
+        "guatemala",
+        "guatemala city",
+        "la red",
+        "latinoamérica",
+        "moi merino",
+        "news",
+        "noticias",
+        "noticias en español",
+        "noticias locales",
+        "noticias nacionales e internacionales",
+        "noticias y comentarios",
+        "radio",
+        "radio hablada",
+        "sports",
+        "talk"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 855
+    },
+    {
+      "name": "Maranatha Stereo Amen",
+      "urls": [
+        "https://server.radiogs.net:7042/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s201805q.png",
+      "votes": 5
+    },
+    {
+      "name": "Más Música FM Radio",
+      "urls": [
+        "https://vivo.miradio.in/8110/stream"
+      ],
+      "tags": [],
+      "city": "Guatemala city",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Mas Musica-92-5 FM",
+      "urls": [
+        "https://s4.radio.co/s42a526595/listen"
+      ],
+      "tags": [],
+      "city": "Ciudad de Guatemala",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://cdn.instant.audio/images/logos/emisoras-com-gt/mas-musica-92-5.png",
+      "votes": 6
+    },
+    {
+      "name": "Mía 93.7 Guatemala",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac"
+      ],
+      "tags": [
+        "93.7 fm",
+        "américa",
+        "centroamérica",
+        "entretenimiento",
+        "estación",
+        "feminista",
+        "fm",
+        "guatemala",
+        "guatemala city",
+        "latinoamérica",
+        "moi merino",
+        "mujer",
+        "music",
+        "mía",
+        "música",
+        "música en español",
+        "música romántica",
+        "radio",
+        "romántica y femenina"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 498
+    },
+    {
+      "name": "MUSIQUERA",
+      "urls": [
+        "https://securestreams7.autopo.st/?uri=http://s4.voscast.com:9320/stream"
+      ],
+      "tags": [
+        "192kbps",
+        "musiquera",
+        "musiquera 93.3 fm",
+        "rancheras",
+        "tu mejor compañera"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn-profiles.tunein.com/s251791/images/logog.png",
+      "votes": 6
+    },
+    {
+      "name": "Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM",
+      "urls": [
+        "https://stream.zeno.fm/vs325dhm8ueuv"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "musica romantica",
+        "música en español"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://static.emisorasunidas.com/uploads/2023/10/emisoras-unidas-nueva-fabuestereo-desktop-2x.webp",
+      "votes": 128
+    },
+    {
+      "name": "Observatorio OGDI Guatemala",
+      "urls": [
+        "https://radio.forensedigital.gt:8000/stream"
+      ],
+      "tags": [
+        "90s y más",
+        "educational",
+        "radio educación",
+        "techno",
+        "technology",
+        "the best of 80's"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.forensedigital.gt/ogdi.png",
+      "votes": 165
+    },
+    {
+      "name": "Oriòn Stereo",
+      "urls": [
+        "https://ss.redradios.net:8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.orionstereo.org/_nuxt/icons/icon_512.62c0d3.png",
+      "votes": 71
+    },
+    {
+      "name": "Radio Activa 95.1 FM. En linea católica",
+      "urls": [
+        "https://sh4.radioonlinehd.com:8557/stream"
+      ],
+      "tags": [
+        "católica",
+        "diócesis sololá-chimaltenango",
+        "iglesia católica",
+        "música cristiana",
+        "predicas",
+        "tu radio diocesana"
+      ],
+      "city": "Chimaltenango, Guatemala",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 92
+    },
+    {
+      "name": "Radio Cultural TGN",
+      "urls": [
+        "https://stream.infinityhdstream.com/7054/stream"
+      ],
+      "tags": [
+        "christian-gospel",
+        "evangelical"
+      ],
+      "city": "Guatemala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.radiocultural.org/site/templates/yoo_infinite/favicon.ico",
+      "votes": 269
+    },
+    {
+      "name": "Radio Guate digital",
+      "urls": [
+        "https://radioguatedigital.com/live/"
+      ],
+      "tags": [],
+      "city": "Guatemala city",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 183
+    },
+    {
+      "name": "Radio Infinita",
+      "urls": [
+        "https://streams.radio.co/see730c7ab/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/radioinfinita.com/wp-content/uploads/2023/10/infinita-logo-blanco.png?fit=192%2c58&#038;ssl=1",
+      "votes": 1743
+    },
+    {
+      "name": "Radio Ixchel",
+      "urls": [
+        "https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNWZwdWRidGd1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhQQ0hFUkhUUUcyYVg1aXAyZ2R2M2ciLCJpYXQiOjE3Mjg1NzAzNTIsImV4cCI6MTcyODU3MDQxMn0.VvFIl3Nw_mS-gU9NqWTn58XakUv8FxUjIGavl6lfqcA"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "Sumpango",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-1/301523467_518363903427039_6706220393167430379_n.jpg?stp=c100.0.300.300a_dst-jpg_s200x200&_nc_cat=108&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=4oCQa0FlsMwQ7kNvgG_0qcS&_nc_ht=scontent-den2-1.xx&_nc_gid=AP2EObevBQQrIIigmt_4Tf_&oh=00_AYCkZqB4AyUyyCEGJlfHGK1peUA6xOtDfyRIl1Kjn25BBQ&oe=670DCECA",
+      "votes": 6
+    },
+    {
+      "name": "Radio Mesiánica",
+      "urls": [
+        "https://felovemesianica-radiofelove.radioca.st/stream"
+      ],
+      "tags": [
+        "christian",
+        "messianic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "RADIO ORLA - CAMINO ROJO",
+      "urls": [
+        "https://dj91.hostingnuclear.com/8080/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioorlacaminorojo.com/assets/images/radioorla-121x121.jpg",
+      "votes": 24
+    },
+    {
+      "name": "Radio Romance",
+      "urls": [
+        "https://stream.zeno.fm/gnkysrxv3a0uv"
+      ],
+      "tags": [
+        "romantic"
+      ],
+      "city": "huehuetenango ",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 78
+    },
+    {
+      "name": "Radio Sololá",
+      "urls": [
+        "https://sh1.radioonlinehd.com:8039/stream"
+      ],
+      "tags": [
+        "88.7 fm",
+        "contemporary hits",
+        "entretenimiento",
+        "guatemala",
+        "sololá"
+      ],
+      "city": "Sololá",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.radiosolola.com.gt/images/favicon.ico",
+      "votes": 21
+    },
+    {
+      "name": "Radio Universidad",
+      "urls": [
+        "https://stream.zeno.fm/xqbz7b86a0quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 131
+    },
+    {
+      "name": "Radio Viva 95.3 Guatemala",
+      "urls": [
+        "https://stream.zeno.fm/uus2ugdadkhvv"
+      ],
+      "tags": [
+        "95.3 fm",
+        "español",
+        "estación",
+        "fm",
+        "guatemala",
+        "guatemala city",
+        "moi merino",
+        "music",
+        "música cristiana",
+        "música en español",
+        "música religiosa",
+        "radio",
+        "radio cristiana",
+        "radio viva"
+      ],
+      "city": "Ciudad de Guatemala",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s163514d.png",
+      "votes": 371
+    },
+    {
+      "name": "Rhema Stereo",
+      "urls": [
+        "https://radio.fiberstreams.com:2000/stream/8710"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://rhemastereo.fm/wp-content/uploads/2023/05/logo.png",
+      "votes": 250
+    },
+    {
+      "name": "SINAI WORKSHOP",
+      "urls": [
+        "https://radio.forensedigital.gt:8070/stream"
+      ],
+      "tags": [
+        "1990s",
+        "80s en español",
+        "90s dance",
+        "90s y más",
+        "jazz",
+        "the best of 80's"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://forensedigital.gt/sinai.png",
+      "votes": 43
+    },
+    {
+      "name": "Stereo 100, Quetzaltenango",
+      "urls": [
+        "https://sh1.radioonlinehd.com:8056/stream?type=.mp3"
+      ],
+      "tags": [
+        "latin pop",
+        "local news",
+        "traditional music"
+      ],
+      "city": "Quetzaltenango",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 634
+    },
+    {
+      "name": "TGW La Voz de Guatemala",
+      "urls": [
+        "https://stream.radiotgw.gob.gt/8002/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiotgw.gob.gt/wp-content/uploads/2018/11/cropped-TGW-POST-A-192x192.jpg",
+      "votes": 28
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "code": "VC",
+  "name": "Saint Vincent And The Grenadines",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Boom SVG 106.9",
+      "urls": [
+        "https://streaming.shoutcast.com/boom106-9"
+      ],
+      "tags": [
+        "hip-hop",
+        "reggae",
+        "urban"
+      ],
+      "city": "Kingstown",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVwGvGr-dGeCZYYhBrXCQLJqriKtpqIkQ1XZNBILTza574AXUbSkT8KA&s=10",
+      "votes": 10
+    },
+    {
+      "name": "Caribbean Love Radio",
+      "urls": [
+        "https://radio.sttreams.cc/listen/cariloveradio/radio.mp3"
+      ],
+      "tags": [
+        "love songs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobJ0NuRpqbLUi11IhhjyRC-ZutW7XxTll7TD4oM7RuTu1TjZ24kY0zrA&s=10",
+      "votes": 12
+    },
+    {
+      "name": "Hot 97 FM",
+      "urls": [
+        "https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1"
+      ],
+      "tags": [
+        "contemporary hits",
+        "pop",
+        "urban caribbean"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://cdn-profiles.tunein.com/s89438/images/logod.png?t=637197376260000000",
+      "votes": 10
+    },
+    {
+      "name": "Magic 103.7 FM SVG",
+      "urls": [
+        "https://video1.getstreamhosting.com:8388/stream"
+      ],
+      "tags": [
+        "hip-hop",
+        "oldies",
+        "pop",
+        "reggae",
+        "today's hits"
+      ],
+      "city": "Dorsetshire Hill Road, Kingstown",
+      "codec": "MP3",
+      "bitrate": 100,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2E587oK-ml8MVT2Szyl4WAtstUXidczrOPcTDy2B6yOIs1yYlPujACswh&s=10",
+      "votes": 10
+    },
+    {
+      "name": "NBC Radio SVG",
+      "urls": [
+        "https://us1.carihost.com:2020/stream/NBCSVG/"
+      ],
+      "tags": [
+        "calypso",
+        "carnival",
+        "current affairs",
+        "hip-hop",
+        "international news",
+        "local news",
+        "mas",
+        "music",
+        "national radio",
+        "newscasts",
+        "obituaries",
+        "pop",
+        "soca",
+        "vincentian",
+        "vincy",
+        "weather"
+      ],
+      "city": "Richmond Hill, Kingstown",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-MhcovxDQuheSaQ4gAGlgfJd3PFHVbjez1Wlm28BhVAEpMMixgckaP4&s=10",
+      "votes": 9
+    },
+    {
+      "name": "Old School 94.1 FM",
+      "urls": [
+        "https://ec3.yesstreaming.net:4245/stream"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "dance",
+        "disco",
+        "gospel",
+        "reggae"
+      ],
+      "city": "Kingstown",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7u-ddLakUqlSi4UMucAHo7yNKTDG2o-spkfc_WD3Dw&s=10",
+      "votes": 42
+    },
+    {
+      "name": "SVG West Radio",
+      "urls": [
+        "https://stream.zeno.fm/5ugy5k31qf9uv"
+      ],
+      "tags": [
+        "vincy"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://zeno.fm/_ipx/_/https://editor.zenomedia.com/resources/zs_station/756352/CardWebsite/image.jpg",
+      "votes": 11
+    },
+    {
+      "name": "Sweet Radio SVG",
+      "urls": [
+        "https://streaming.radio.co/sdf4651481/listen"
+      ],
+      "tags": [
+        "calypso",
+        "country",
+        "dancehall",
+        "jazz",
+        "r&b",
+        "reggae",
+        "soca",
+        "vincy"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1_CLt-nQ4FIUs26e7v7c_AuhZ_kZWQe9H5rRtlPfCrLaXE3ZTcXenA-l&s=10",
+      "votes": 4
+    }
+  ]
+}

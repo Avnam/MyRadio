@@ -1,0 +1,678 @@
+{
+  "code": "SI",
+  "name": "Slovenia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "bAm BaM RADIO - All shades of house",
+      "urls": [
+        "https://stream.laidbackvib.es:8888/320"
+      ],
+      "tags": [
+        "club",
+        "club dance",
+        "club hits",
+        "club house",
+        "deep house",
+        "funky house",
+        "hits",
+        "house",
+        "party hits",
+        "tech house",
+        "vocal house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.bambamradio.com/img/favicon.png",
+      "votes": 14
+    },
+    {
+      "name": "Best FM Ljubljana",
+      "urls": [
+        "https://live.radio.si/BestFM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1375
+    },
+    {
+      "name": "ENTER.RADIO",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "house"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.datocms-assets.com/91953/1748623411-radio-enter-logo.svg",
+      "votes": 16
+    },
+    {
+      "name": "FRAJER RADIO",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://api.lemon-radio.com/public/logos/19410.png",
+      "votes": 17
+    },
+    {
+      "name": "Koroški radio",
+      "urls": [
+        "https://live.radio.si/Koroski"
+      ],
+      "tags": [],
+      "city": "Koroška",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radi Frajer",
+      "urls": [
+        "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8"
+      ],
+      "tags": [
+        "narodnozabavna glasba",
+        "oberkrainer"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+      "votes": 7
+    },
+    {
+      "name": "Radio 1",
+      "urls": [
+        "https://live.radio1.si/Radio1"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Osrednjeslovenska",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.radio1.si/ico/32.png",
+      "votes": 55
+    },
+    {
+      "name": "Radio 1",
+      "urls": [
+        "https://live.radio.si/Radio1"
+      ],
+      "tags": [
+        "commercial",
+        "hits",
+        "news",
+        "pop",
+        "slovenia",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.radio1.si/ico/192.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio 1 Koroska",
+      "urls": [
+        "https://live.radio1.si/Radio1KOR"
+      ],
+      "tags": [
+        "commercial",
+        "hits",
+        "koroska",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.radio1.si/ico/192.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio 1 Rock",
+      "urls": [
+        "https://live.radio.si/Radio1Rock?t=1776880155210"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://media.radio1.si/ico/rock/32.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Antena (105.2MHz)",
+      "urls": [
+        "https://live.radio.si/Antena"
+      ],
+      "tags": [
+        "mix",
+        "pop",
+        "rock",
+        "song hits"
+      ],
+      "city": "Osrednjeslovenska",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.radioantena.si/ico/32.png",
+      "votes": 227
+    },
+    {
+      "name": "Radio ARS",
+      "urls": [
+        "https://mp3.rtvslo.si/ars"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Celje",
+      "urls": [
+        "https://stream.rgl.si/Celje"
+      ],
+      "tags": [],
+      "city": "Štajerska",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Radio Center Gen X",
+      "urls": [
+        "https://stream2.nextmedia.si/hls/gex/live.m3u8"
+      ],
+      "tags": [
+        "80s",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 134,
+      "logo": "http://radiocenter.si/images/icons/icon_192x192.png",
+      "votes": 24
+    },
+    {
+      "name": "Radio City",
+      "urls": [
+        "https://stream1.radiocity.si/CityMp3128.mp3"
+      ],
+      "tags": [],
+      "city": "Štajerska",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 122
+    },
+    {
+      "name": "Radio Frajer",
+      "urls": [
+        "https://stream2.nextmedia.si/hls/frj/live.m3u8"
+      ],
+      "tags": [
+        "folk",
+        "oberkrainer",
+        "polka"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 134,
+      "logo": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+      "votes": 3
+    },
+    {
+      "name": "Radio KRka",
+      "urls": [
+        "https://live.radio.si/Krka"
+      ],
+      "tags": [
+        "balkan",
+        "mix",
+        "pop",
+        "rock"
+      ],
+      "city": "Dolenjska",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiokrka.si/images/favicon.bmp",
+      "votes": 1629
+    },
+    {
+      "name": "Radio Maribor",
+      "urls": [
+        "https://mp3.rtvslo.si/rmb"
+      ],
+      "tags": [
+        "general",
+        "local"
+      ],
+      "city": "Izberite regijo, državo ali provinco.",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/ramb/icons/favicon-32x32.png",
+      "votes": 1191
+    },
+    {
+      "name": "Radio Maxi",
+      "urls": [
+        "https://live.radio.si/Maxi?t=1722577989752"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.radiomaxi.si/ico/32.png",
+      "votes": 17
+    },
+    {
+      "name": "Radio METEOR .si",
+      "urls": [
+        "https://stream.radiometeor.si/listen/meteor/live.mp3"
+      ],
+      "tags": [
+        "pop",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiometeor.si/logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio MMR",
+      "urls": [
+        "https://mp3.rtvslo.si/mmr"
+      ],
+      "tags": [],
+      "city": "l",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://img.rtvslo.si/_static/novi/channels/radio-mmr.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Nula Beatz",
+      "urls": [
+        "https://strm.radionula.com/lounge"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+      "votes": 597
+    },
+    {
+      "name": "Radio Nula Organic",
+      "urls": [
+        "https://strm.radionula.com/channel2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+      "votes": 407
+    },
+    {
+      "name": "Radio Ognjišče",
+      "urls": [
+        "https://live.radio.si/ognjisce.mp3"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 321
+    },
+    {
+      "name": "Radio Ptuj",
+      "urls": [
+        "https://live.radio.si/Ptuj"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioptuj.svet24.si/images/RadioPtuj_logo.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio robin",
+      "urls": [
+        "https://live.radio.si/Robin"
+      ],
+      "tags": [
+        "entertainment",
+        "local radio",
+        "mix",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.robin.si/wp-content/uploads/2021/09/cropped-robin-favicon-270x270.png",
+      "votes": 88
+    },
+    {
+      "name": "Radio Slovenija 1",
+      "urls": [
+        "https://mp3.rtvslo.si/prvi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Štajerski val",
+      "urls": [
+        "https://stream.stajerskival.si:8443/live"
+      ],
+      "tags": [
+        "local news",
+        "local radio",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.stajerskival.si/assets/banners/0855810001603838423.png",
+      "votes": 54
+    },
+    {
+      "name": "Radio Student",
+      "urls": [
+        "https://kruljo.radiostudent.si:8001/hiq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Terminal",
+      "urls": [
+        "https://air.radioterminal.si/live"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radioterminal.si/favicon.ico",
+      "votes": 163
+    },
+    {
+      "name": "Radio1",
+      "urls": [
+        "https://live.radio1.si/Radio80"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Retro Radio",
+      "urls": [
+        "https://zvok.ragla.si/gr"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.retro.sg/favicon.ico",
+      "votes": 41
+    },
+    {
+      "name": "Retro Radio",
+      "urls": [
+        "https://zvok.ragla.si/gr?1670057106819"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 102
+    },
+    {
+      "name": "Rock Maribor",
+      "urls": [
+        "https://live.radio.si/RockMB?t=1732114443550"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.radio1.si/ico/rock/32.png",
+      "votes": 14
+    },
+    {
+      "name": "Rock Radio",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Osrednjeslovenska",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rockradio.si/images/icons/icon_192x192.png",
+      "votes": 39
+    },
+    {
+      "name": "Rock Radio Best Ballads SLO",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream"
+      ],
+      "tags": [
+        "rock",
+        "rock ballads",
+        "soft rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+      "votes": 100
+    },
+    {
+      "name": "Rock Radio Classics",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Rock radio classics",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rocks_3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Rock Radio Classics SLO",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+      "votes": 27
+    },
+    {
+      "name": "ROCK RADIO Hard & Heavy",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.datocms-assets.com/49761/1624049293-icon.png?auto=format&h=192&w=192",
+      "votes": 3
+    },
+    {
+      "name": "Rock Radio SLO",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+      "votes": 18
+    },
+    {
+      "name": "Rock Radio Slovenia",
+      "urls": [
+        "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "Toti Maxi",
+      "urls": [
+        "https://live.radio.si/Maxi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.radiomaxi.si/maxi.svg?3",
+      "votes": 9
+    },
+    {
+      "name": "Toti Radio",
+      "urls": [
+        "https://live.radio.si/Toti?t=1722581297315"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.totiradio.si/ico/toti32.png?2",
+      "votes": 36
+    },
+    {
+      "name": "Toti Radio",
+      "urls": [
+        "https://live.radio.si/Toti"
+      ],
+      "tags": [
+        "football",
+        "news",
+        "pop music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://media.totiradio.si/toti.jpg",
+      "votes": 187
+    },
+    {
+      "name": "Univox",
+      "urls": [
+        "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Dolenjska",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://univox.si/wp-content/uploads/2021/01/cropped-univox-favicon-192x192.png",
+      "votes": 25
+    },
+    {
+      "name": "Zeleni val",
+      "urls": [
+        "https://jurepeterka.radioca.st/stream"
+      ],
+      "tags": [
+        "slovenian music"
+      ],
+      "city": "Ljubljana",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 118
+    }
+  ]
+}

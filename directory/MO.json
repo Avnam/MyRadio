@@ -1,0 +1,290 @@
+{
+  "code": "MO",
+  "name": "Macao",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "101.1 Smooth FM",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/smooth.aac"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 102
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "Asia FM 106.9",
+      "urls": [
+        "https://lhttp.qingting.fm/live/20071/64k.mp3"
+      ],
+      "tags": [
+        "asian music",
+        "variety"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.asiafm.net/favicon.ico",
+      "votes": 50
+    },
+    {
+      "name": "CGTN Radio - Macau 1341 AM",
+      "urls": [
+        "https://sk.cri.cn/am846.m3u8"
+      ],
+      "tags": [
+        "world news"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",
+      "votes": 111
+    },
+    {
+      "name": "Channel [V] International",
+      "urls": [
+        "https://listen.radioking.com/radio/453221/stream/508076"
+      ],
+      "tags": [
+        "hot ac",
+        "music videos",
+        "top 40"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png",
+      "votes": 28
+    },
+    {
+      "name": "CityFM Macau - 90.5 FM",
+      "urls": [
+        "https://lhttp.qtfm.cn/live/20500153/64k.mp3"
+      ],
+      "tags": [
+        "internet radio",
+        "music"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://pic.qtfm.cn/2022/0703/20220703121159.jpeg",
+      "votes": 113
+    },
+    {
+      "name": "CNR-7 粵港澳大灣區之聲",
+      "urls": [
+        "https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://wx4.sinaimg.cn/mw2000/0081HCo7ly8g9uvqyy67nj30dw0dw756.jpg",
+      "votes": 65
+    },
+    {
+      "name": "Lotus FM Macau HD - 97.4 FM",
+      "urls": [
+        "https://lhttp.qtfm.cn/live/20533/64k.mp3"
+      ],
+      "tags": [
+        "variety",
+        "world music"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+      "votes": 39
+    },
+    {
+      "name": "Lotus Macau Radio - 1062 AM",
+      "urls": [
+        "https://lhttp.qtfm.cn/live/20133/64k.mp3"
+      ],
+      "tags": [
+        "variety",
+        "world music"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+      "votes": 33
+    },
+    {
+      "name": "M80 Radio Macau - 107.1 FM",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "variety"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://m80.pt/favicon.ico",
+      "votes": 76
+    },
+    {
+      "name": "M80 Radio Macau - 80s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8080.aac"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 48
+    },
+    {
+      "name": "M80 Radio Macau - 90s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8090.aac"
+      ],
+      "tags": [
+        "90s",
+        "hits",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://bauermedia.pt/m80/m80-90/favicon.ico",
+      "votes": 71
+    },
+    {
+      "name": "M80 Radio Macau - Rock",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80rock.aac"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://bauermedia.pt/m80/m80-rock/favicon.ico",
+      "votes": 84
+    },
+    {
+      "name": "Record FM 100.3 Macau",
+      "urls": [
+        "https://nl.digitalrm.pt:8028/stream"
+      ],
+      "tags": [
+        "hot ac",
+        "talk",
+        "variety"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzia_Bkrj8iaa6iQ7uAbi1eem1GcDGKDFYGmE_HYjdlILYB2R9hKtMoF&s=10",
+      "votes": 66
+    },
+    {
+      "name": "RTP Macau - 97.1 FM",
+      "urls": [
+        "https://radiocast.rtp.pt/antena1madeira80a.mp3"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madeira.rtp.pt/favicon.ico",
+      "votes": 52
+    },
+    {
+      "name": "SZR 城市 FM 97.1 Macau - HD2",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+      ],
+      "tags": [
+        "top 40",
+        "variety",
+        "world music"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/95/Szr.jpg?20060826171746",
+      "votes": 40
+    },
+    {
+      "name": "VOA Macau",
+      "urls": [
+        "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "world news"
+      ],
+      "city": "Macao",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": null,
+      "votes": 700
+    },
+    {
+      "name": "YW City Radio - Macau 954 AM",
+      "urls": [
+        "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web"
+      ],
+      "tags": [
+        "talk radio"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAloACLs4j25afKVh2uzyJX3NGhCBaZTLSo_Ud6VcuDiP358zYKXSPuw&s=10",
+      "votes": 32
+    },
+    {
+      "name": "澳門綠邨電台",
+      "urls": [
+        "https://macaofm995.com/hls1/fm995.m3u8"
+      ],
+      "tags": [
+        "lifestyle"
+      ],
+      "city": "Macao, SAR of China",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://mfm995.com/wp-content/uploads/2022/09/cropped-icon20220930_1.png",
+      "votes": 14
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "code": "WF",
+  "name": "Wallis And Futuna",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 34
+    },
+    {
+      "name": "Wallis & Futuna 1",
+      "urls": [
+        "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3"
+      ],
+      "tags": [
+        "folk",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://la1ere.francetvinfo.fr/favicon.png",
+      "votes": 370
+    }
+  ]
+}

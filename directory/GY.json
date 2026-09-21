@@ -1,0 +1,139 @@
+{
+  "code": "GY",
+  "name": "Guyana",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "102.5 FM Voice of Guyana",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/ncn1025/stream"
+      ],
+      "tags": [],
+      "city": "Georgetown",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ncnguyana.com/2023/wp-content/uploads/2023/08/vog-155x155.png",
+      "votes": 134
+    },
+    {
+      "name": "104.1 Guyana Lite FM",
+      "urls": [
+        "https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA"
+      ],
+      "tags": [],
+      "city": "Georgetown",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.facebook.com/photo/?fbid=388528319933559&set=a.388528296600228",
+      "votes": 92
+    },
+    {
+      "name": "88.5 Rock FM",
+      "urls": [
+        "https://s2.radio.co/s77716fe53/listen"
+      ],
+      "tags": [
+        "berbice",
+        "caribbean",
+        "guyana",
+        "new amsterdam",
+        "pop",
+        "reggae",
+        "rock",
+        "soca",
+        "talk"
+      ],
+      "city": "East Berbice-Corentyne",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://images.radio.co/station_logos/s77716fe53.20250819042414.jpg",
+      "votes": 4
+    },
+    {
+      "name": "97.5 FM MAAD",
+      "urls": [
+        "https://streaming.broadcastradio.com/brutal"
+      ],
+      "tags": [],
+      "city": "Georgetown",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.maad97.com/favicon.ico",
+      "votes": 118
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 63
+    },
+    {
+      "name": "chwitiweb-new",
+      "urls": [
+        "https://radio.chwitiweb.com/listen/chwitiweb/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "FM 89.1 NTN Radio",
+      "urls": [
+        "https://auds1.intacs.com/ntnradio"
+      ],
+      "tags": [],
+      "city": "Georgetown",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/photo/?fbid=584085576742403&set=a.584085550075739",
+      "votes": 50
+    },
+    {
+      "name": "GoMoseley Radio",
+      "urls": [
+        "https://a2.asurahosting.com:8010/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gomoseleyradio.com/logo-v2.png",
+      "votes": 16
+    },
+    {
+      "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+      "urls": [
+        "https://stream.radio.co/s9668e2ab5/listen"
+      ],
+      "tags": [
+        "89.3 fm",
+        "89.5 fm",
+        "89.7 fm",
+        "berbice",
+        "essequibo",
+        "estación",
+        "fm",
+        "georgetown",
+        "guyana",
+        "moi merino",
+        "radio",
+        "radio guyana inc",
+        "suramérica"
+      ],
+      "city": "Georgetown",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 939
+    }
+  ]
+}

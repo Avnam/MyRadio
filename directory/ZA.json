@@ -1,0 +1,2043 @@
+{
+  "code": "ZA",
+  "name": "South Africa",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "011 Radio",
+      "urls": [
+        "https://sv2.famcast.co.za/stream/011_radio?1769529224555"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/011Radio/011-radio.webp",
+      "votes": 12
+    },
+    {
+      "name": "5FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/5FM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "FLV",
+      "bitrate": 0,
+      "logo": "https://www.5fm.co.za/5fm/wp-content/uploads/2025/08/cropped-5FM-192x192.png",
+      "votes": 9
+    },
+    {
+      "name": "5FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.5fm.co.za/5fm/wp-content/uploads/2025/08/cropped-5FM-192x192.png",
+      "votes": 23
+    },
+    {
+      "name": "919",
+      "urls": [
+        "https://edge.iono.fm/xice/112_medium.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "919",
+      "urls": [
+        "https://edge.iono.fm/xice/112_low.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "94.7 Highveld Stereo",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 19
+    },
+    {
+      "name": "African Praise Radio",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://africanpraiseradio.com/images/Cool-Text-250229628295821-1.png",
+      "votes": 265
+    },
+    {
+      "name": "Afrobeat N1 FM",
+      "urls": [
+        "https://streamer.radio.co/s919e54210/listen"
+      ],
+      "tags": [
+        "afrobeat"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 92
+    },
+    {
+      "name": "afrobeat radio",
+      "urls": [
+        "https://broadcast.icast.world/listen/afrobeatradio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://afrobeatradio.org/assets/images/iso-ar-clr.webp",
+      "votes": 2
+    },
+    {
+      "name": "AFROBEATS FM",
+      "urls": [
+        "https://audio.afrobeatsfm.com:8443/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://afrobeatsfm.com/logo.jpg",
+      "votes": 10
+    },
+    {
+      "name": "AGANANG FM",
+      "urls": [
+        "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8?session_id=1pbxzwxy1RWaVFv&device_id=Q7fauplH"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://www.aganangfm.org.za/assets/images/aganang-fm-logo-website-216x194.png",
+      "votes": 71
+    },
+    {
+      "name": "Al Husnaa Quran Radio",
+      "urls": [
+        "https://stream.zeno.fm/pyc8kax6f2zuv"
+      ],
+      "tags": [],
+      "city": "KwaZulu-Natal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "Amapiano FM",
+      "urls": [
+        "https://stream.zeno.fm/xs6zeac1ts8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.webrad.io/images/logos/radiosa-org/amapiano.png",
+      "votes": 5
+    },
+    {
+      "name": "Amapiano FM",
+      "urls": [
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv?zs=Tf36JxfyQTKE-KteyZLrww"
+      ],
+      "tags": [
+        "amapiano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.webrad.io/images/logos/radiosa-org/amapiano.png",
+      "votes": 698
+    },
+    {
+      "name": "Atiawa Toa FM",
+      "urls": [
+        "https://icast1.streamcom.net/Atiawa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://atiawa.com/wp-content/uploads/2020/11/Te-Atiawa-Logow-768x442.jpg",
+      "votes": 0
+    },
+    {
+      "name": "AUDIO LOUNGE 247",
+      "urls": [
+        "https://a13.asurahosting.com/listen/audio_lounge_247/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://audiolounge247.co.za/logo.png",
+      "votes": 3
+    },
+    {
+      "name": "Ballito 88 FM - Radio Life & Style",
+      "urls": [
+        "https://edge.iono.fm/xhls/165_high.m3u8"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "classic hits",
+        "contemporary",
+        "top 100"
+      ],
+      "city": "KZN",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.iono.fm/files/p2465/logo_165_20210824_111513_600.jpg",
+      "votes": 100
+    },
+    {
+      "name": "Befonk in stereo",
+      "urls": [
+        "https://c42.radioboss.fm:8073/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Pretoria ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://open.spotify.com/user/31hyxl7mwvprh7euli3ywlh5rf3u?si=63SHSEjVRrC09Y9EmjGkYA",
+      "votes": 109
+    },
+    {
+      "name": "BLU RADIIO",
+      "urls": [
+        "https://app.radiio.link/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Bok Radio",
+      "urls": [
+        "https://bokradio.highquality.radiostream.co.za/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.bokradio.co.za/wp-content/uploads/2020/06/logo-4-1-100x100.png",
+      "votes": 127
+    },
+    {
+      "name": "Bosveld Stereo",
+      "urls": [
+        "https://radio.eclipse-streaming.co.za/listen/bosveldstereo/Bosveld64k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bosveldstereo.co.za/wp-content/uploads/2020/01/logo-invert-opt-03.png",
+      "votes": 4
+    },
+    {
+      "name": "BOX : Chillwave",
+      "urls": [
+        "https://play.streamafrica.net/chillwave"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "BOX Chillwave",
+      "urls": [
+        "https://boxradio-edge-00.streamafrica.net/chillwave"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "BOX Dreamscapes",
+      "urls": [
+        "https://boxradio-edge-00.streamafrica.net/dreamscapes"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "BurgStudio",
+      "urls": [
+        "https://radio.burgstudio.co.za:8000/radio.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "classic rock",
+        "folk rock",
+        "indie rock",
+        "metal",
+        "punk rock",
+        "rock"
+      ],
+      "city": "GAUTENG",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://burgstudio.co.za/wp-content/uploads/2020/11/default_logo_dark_200.webp",
+      "votes": 4
+    },
+    {
+      "name": "Bush Radio",
+      "urls": [
+        "https://zas4.ndx.co.za:9100/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bushradio.wordpress.com/wp-content/uploads/2025/06/bush-logo-round.png",
+      "votes": 14
+    },
+    {
+      "name": "Cape Talk 567",
+      "urls": [
+        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC?dist=CapeTalkWeb&pname=TDSdk"
+      ],
+      "tags": [
+        "adult contemporary",
+        "south africa",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "Cape Town Classic",
+      "urls": [
+        "https://edge.iono.fm/xhls/fmr_live_high.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.fmr.co.za/favicon.ico",
+      "votes": 150
+    },
+    {
+      "name": "Cassette Radio",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/cassette_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "CCFM 107.5",
+      "urls": [
+        "https://edge.iono.fm/xice/69_medium.aac"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "Western Cape",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 214
+    },
+    {
+      "name": "Chai FM",
+      "urls": [
+        "https://zas1.ndx.co.za:8008/stream?1702143258610"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 103
+    },
+    {
+      "name": "Cliff Central",
+      "urls": [
+        "https://edge.iono.fm/xice/cliffcentral_live_medium.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 61
+    },
+    {
+      "name": "Diamond Radio",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "East Coast Gold",
+      "urls": [
+        "https://live.ecr.co.za/ecrgoldhigh.mp3"
+      ],
+      "tags": [
+        "decades"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 711
+    },
+    {
+      "name": "East Coast Radio",
+      "urls": [
+        "https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://turntable.kagiso.io/core/images/ecr/apple-touch-icon.png",
+      "votes": 537
+    },
+    {
+      "name": "ECR - East Coast Radio -KwaZulu Natal",
+      "urls": [
+        "https://edge.iono.fm/xice/ecr_live_medium.aac"
+      ],
+      "tags": [
+        "news",
+        "urban",
+        "urban adult contemporary"
+      ],
+      "city": "KwaZulu-Natal",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://turntable.kagiso.io/core/images/ecr/apple-touch-icon.png",
+      "votes": 2416
+    },
+    {
+      "name": "Eden FM",
+      "urls": [
+        "https://iceant.antfarm.co.za/EdenFM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://app.cue24.co.za/images/24/logo.png",
+      "votes": 1
+    },
+    {
+      "name": "Gagasi FM",
+      "urls": [
+        "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8"
+      ],
+      "tags": [],
+      "city": "KwaZulu-Natal",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn.instant.audio/images/logos/radiosa-org/gagasi.png",
+      "votes": 331
+    },
+    {
+      "name": "GaySA Radio",
+      "urls": [
+        "https://zas1.ndx.co.za:8018/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "dance",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://www.gaysaradio.co.za/",
+      "votes": 111
+    },
+    {
+      "name": "Good Hope FM",
+      "urls": [
+        "https://25453.live.streamtheworld.com/GOODHOPEFMAAC"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "Western Cape",
+      "codec": "FLV",
+      "bitrate": 0,
+      "logo": "https://www.goodhopefm.co.za/goodhopefm/favicon.ico",
+      "votes": 72
+    },
+    {
+      "name": "GospelBluesRadio",
+      "urls": [
+        "https://gospelblues365.com/listen/gospelbluesradio/radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 47
+    },
+    {
+      "name": "GrootFM",
+      "urls": [
+        "https://edge.iono.fm/xice/330_medium.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.grootfm.co.za/wordpress/wp-content/uploads/2019/04/GrootFM-logo-small-300x130.jpg 300w",
+      "votes": 20
+    },
+    {
+      "name": "GROOTfm 90.5",
+      "urls": [
+        "https://edge.iono.fm/xice/330_medium.aac?ref=https%3A%2F%2Fwww.grootfm.co.za%2F&adToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkdCI6IjIwMjYtMDYtMTAgMTQ6NTIiLCJpcCI6IjQ5LjE1MC4yMDMuMTA2IiwiYWRpZCI6IiJ9._uG9RxGmrJwf2uo53cVj8hHbGfkssGqZ99YZ-fgkky8&pofToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.grootfm.co.za/wordpress/wp-content/uploads/2019/04/GrootFM-logo-small.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Harties FM",
+      "urls": [
+        "https://s5.radio.co/s68c6f4028/listen"
+      ],
+      "tags": [
+        "afrikaans",
+        "easy listening",
+        "pop",
+        "rock",
+        "smooth"
+      ],
+      "city": "North West",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 116
+    },
+    {
+      "name": "Heart FM",
+      "urls": [
+        "https://streaming.fabrik.fm/heartfm/echocast/audio/low/index.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.heartfm.co.za/content/uploads/2017/12/logo-dark.png",
+      "votes": 31
+    },
+    {
+      "name": "Heaven FM",
+      "urls": [
+        "https://stream.zeno.fm/eequgfw72hhvv"
+      ],
+      "tags": [],
+      "city": "Cape Town",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fs8BCMBe8SFoxoGmF4Gk5pqG5fudBTZsqHIsquERr3W0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJbHRpQ21Bb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJbHFpS29BZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MDc0ODg2MTUwMDA.webp&w=3840&q=100",
+      "votes": 53
+    },
+    {
+      "name": "Helderberg FM",
+      "urls": [
+        "https://helderberg.highquality.radiostream.co.za/"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "Somerset West",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://helderbergfm.co.za/wp-content/uploads/2022/07/cropped-Fav-192x192.png",
+      "votes": 176
+    },
+    {
+      "name": "Hot 102.7 FM",
+      "urls": [
+        "https://edge.iono.fm/xice/57_high.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1248
+    },
+    {
+      "name": "Hot 102.7 FM Club",
+      "urls": [
+        "https://edge.iono.fm/xice/306_high.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 73
+    },
+    {
+      "name": "Hot 102.7 FM Rock",
+      "urls": [
+        "https://edge.iono.fm/xice/303_high.aac"
+      ],
+      "tags": [
+        "classic rock",
+        "rock hits"
+      ],
+      "city": "Johannesburg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://hot1027.co.za/wp-content/uploads/2025/09/hot-rock-stream-icon.png",
+      "votes": 2
+    },
+    {
+      "name": "Hot 102.7FM",
+      "urls": [
+        "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 176
+    },
+    {
+      "name": "Impala Radio",
+      "urls": [
+        "https://maggie.torontocast.com:8014/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 94
+    },
+    {
+      "name": "Inanda FM",
+      "urls": [
+        "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8?session_id=F7QhCzr5lwhLx6D&device_id=gCWDK0co"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.inandafm.co.za/wp-content/uploads/2025/02/1-e1740565998973.png",
+      "votes": 54
+    },
+    {
+      "name": "Izwi LoMzansi",
+      "urls": [
+        "https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8"
+      ],
+      "tags": [
+        "african music",
+        "community radio",
+        "folk",
+        "kwaito"
+      ],
+      "city": "KwaZulu-Natal",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://izwi98fm.co.za/wp-content/uploads/2025/01/cropped-izwi-lomzansi-logo-2-180x180.png",
+      "votes": 569
+    },
+    {
+      "name": "Jacaranda",
+      "urls": [
+        "https://live.jacarandafm.com/jacarandahigh.mp3"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.iono.fm/files/p155/logo_155_20210311_154401_600.jpg",
+      "votes": 254
+    },
+    {
+      "name": "Jacaranda FM",
+      "urls": [
+        "https://edge.iono.fm/xice/jacarandafm_live_medium.aac"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "regional radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://turntable.kagiso.io/core/images/jacaranda/apple-touch-icon.png",
+      "votes": 6433
+    },
+    {
+      "name": "Jacaranda FM",
+      "urls": [
+        "https://edge.iono.fm/xice/jacarandafm_live_medium.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 690
+    },
+    {
+      "name": "jacaranda_high",
+      "urls": [
+        "https://edge.iono.fm/xice/jacarandafm_live_high.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "Jakaranda FM",
+      "urls": [
+        "https://edge.iono.fm/xice/jacarandafm_live_high.mp3"
+      ],
+      "tags": [
+        "80s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1863
+    },
+    {
+      "name": "JOY GOSPEL RADIO",
+      "urls": [
+        "https://servidor17.brlogic.com:7012/live"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.google.com/search?q=joy+gospel+radio+group&client=ms-android-mobicell&prmd=nmiv&sxsrf=APq-WBvKOVGQbCq5i6NX0F8KleM7OsyOlg:1647248530624&source=lnms&tbm=isch&sa=X&ved=2ahUKEwig6pj8nsX2AhWCYsAKHbWfBZQQ_AUoA3oECAIQAw&biw=377&bih=627&dpr=1.27#imgrc=seUxB2JYeu2ZVM",
+      "votes": 741
+    },
+    {
+      "name": "Jozi FM",
+      "urls": [
+        "https://edge.iono.fm/xice/51_medium.aac"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1561
+    },
+    {
+      "name": "Jozi FM (HiFi aac)",
+      "urls": [
+        "https://edge.iono.fm/xice/51_high.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 482
+    },
+    {
+      "name": "Kakarela FM",
+      "urls": [
+        "https://stream.zeno.fm/845opvifkhytv"
+      ],
+      "tags": [
+        "news talk music"
+      ],
+      "city": "Mpumalanga ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "KASIE FM",
+      "urls": [
+        "https://s44.myradiostream.com/9128/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://kasiefm971.co.za/wp-content/uploads/2023/12/cropped-IMG-20210512-WA0010-1_auto_x2-1.jpg",
+      "votes": 49
+    },
+    {
+      "name": "Kaya FM",
+      "urls": [
+        "https://edge.iono.fm/xice/82_medium.aac"
+      ],
+      "tags": [
+        "adult contemporary",
+        "regional radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2927
+    },
+    {
+      "name": "KFM 94.5",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "KM RADIO",
+      "urls": [
+        "https://centova.hostingelectrica.net/proxy/kmradio?mp=/stream&1704296313782"
+      ],
+      "tags": [],
+      "city": "Pretoria",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kmradio.net/wp-content/uploads/2021/08/KMLOGOMOVIL-1.png.webp",
+      "votes": 23
+    },
+    {
+      "name": "Kudu FM",
+      "urls": [
+        "https://kudu.fm/hls/radio.m3u8"
+      ],
+      "tags": [
+        "afrikaans",
+        "music"
+      ],
+      "city": "Western Cape",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://kudu.fm/images/kudu-og-square.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Lekker FM",
+      "urls": [
+        "https://zas3.ndx.co.za:8002/stream"
+      ],
+      "tags": [
+        "local",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.lekkerfm.com/favicon.ico",
+      "votes": 2513
+    },
+    {
+      "name": "Lekoa fm",
+      "urls": [
+        "https://zas1-2-3-6.ndx.co.za/stream/lekoafm?1743647827740"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lekoafm.co.za/wp-content/uploads/2020/10/TRANSPERENT-LOGO-1-400x300.png",
+      "votes": 25
+    },
+    {
+      "name": "Lesedi",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "http://www.lesedifm.co.za/sabc/wcm/connect/1c966b4c-f8cb-4b55-a426-9b607a8fa32e/index.jpg?MOD=AJPERES&CACHEID=1c966b4c-f8cb-4b55-a426-9b607a8fa32e&cache=none",
+      "votes": 1148
+    },
+    {
+      "name": "Lifted Radio",
+      "urls": [
+        "https://stream.zeno.fm/dfetfazcwxjtv"
+      ],
+      "tags": [],
+      "city": "South Carolina",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liftedradio.com/lifted-logo.png",
+      "votes": 2
+    },
+    {
+      "name": "Link FM (RSA-EC)",
+      "urls": [
+        "https://de2.streamingpulse.com/ssl/LinkFM"
+      ],
+      "tags": [
+        "christianity",
+        "gospel music",
+        "local news",
+        "weather"
+      ],
+      "city": "Eastern Cape",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "LM Radio",
+      "urls": [
+        "https://ukwesta.streaming.broadcast.radio/lmradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://lmradio.co.za/wp-content/uploads/2024/03/LM-Radio-Light-Version.png",
+      "votes": 7
+    },
+    {
+      "name": "Loca FM",
+      "urls": [
+        "https://s3.we4stream.com:2020/stream/locafm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://www.locafm.com/assets/img/favicon/android-icon-192x192.png",
+      "votes": 52
+    },
+    {
+      "name": "Magic 828",
+      "urls": [
+        "https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 88
+    },
+    {
+      "name": "Magic 828",
+      "urls": [
+        "https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?"
+      ],
+      "tags": [
+        "128 aac",
+        "128 kbit/s",
+        "128 kbps",
+        "128kbit",
+        "aac",
+        "aac+",
+        "high quality audio"
+      ],
+      "city": "Western Cape",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://magic828.co.za/favicon.ico",
+      "votes": 27
+    },
+    {
+      "name": "Magic 828",
+      "urls": [
+        "https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8"
+      ],
+      "tags": [],
+      "city": "Western Cape",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Maluti FM",
+      "urls": [
+        "https://cast3.my-control-panel.com/proxy/malutifm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://streammedia.org.za/Streams/malutifm/listenlive/Artwork.jpg",
+      "votes": 19
+    },
+    {
+      "name": "Marley Music Radio",
+      "urls": [
+        "https://marleymusic.online/listen/marleymusic/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "mc90.3fm",
+      "urls": [
+        "https://zas4.ndx.co.za:9066/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.knysnafm.co.za/assets/site-images/wavelogo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Megazone Bollywood",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3"
+      ],
+      "tags": [
+        "bollywood"
+      ],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 115
+    },
+    {
+      "name": "Megazone South",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Durban",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "MERAFONG 360 ONLINE RADIO",
+      "urls": [
+        "https://sv2.famcast.co.za/stream/merafong?t=1769529345666"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/ThaboM/merafong-360-online-radio.webp",
+      "votes": 11
+    },
+    {
+      "name": "Metro FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "MFM",
+      "urls": [
+        "https://edge.iono.fm/xice/46_medium.aac"
+      ],
+      "tags": [
+        "maties"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 335
+    },
+    {
+      "name": "Mirchi FM",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/mirchi/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 97
+    },
+    {
+      "name": "Mix 93.8 FM",
+      "urls": [
+        "https://edge.iono.fm/xice/113_medium.aac"
+      ],
+      "tags": [
+        "adult contemporary",
+        "easy listening",
+        "edm"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1415
+    },
+    {
+      "name": "More Bounce to the Ounce",
+      "urls": [
+        "https://streaming.coollective.nl:8443/MoBounce"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.morebouncetotheounce.com/images/Ubuntu.FM.MoBounce.logo.webp",
+      "votes": 9
+    },
+    {
+      "name": "Munghana Lonene",
+      "urls": [
+        "https://27743.live.streamtheworld.com/MUNGANALONENEAAC_SC"
+      ],
+      "tags": [],
+      "city": "Limpopo",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.munghanalonenefm.co.za/munghanalonenefm/wp-content/uploads/2025/03/cropped-MLFM-32x32.png",
+      "votes": 76
+    },
+    {
+      "name": "Mzansi FM",
+      "urls": [
+        "https://a7.asurahosting.com:6850/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Mzansi FM",
+      "urls": [
+        "https://a7.asurahosting.com/listen/mzansi_fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "NCDOH Radio The Healthy Sound from Northern Cape Department of Health",
+      "urls": [
+        "https://stream-154.zeno.fm/grjnbwcxbneuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F1MxoTXLPS4WyYKNdvKzDnchNj4leGge4Jr8Uh7_TkKs%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzVkYjYxZjEyLTUxYjktNDJkNC1iMzY2LWQ5NzY0YmZhODVkZS9pbWFnZS8_dXBkYXRlZD0xNjY2NzAxMTQzMDAw.webp&w=1920&q=100",
+      "votes": 31
+    },
+    {
+      "name": "osmarks internet radio",
+      "urls": [
+        "https://radio-ic.osmarks.net/128k.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128000,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Pan African Space Station",
+      "urls": [
+        "https://pass.out.airtime.pro/pass_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 85
+    },
+    {
+      "name": "Pep Feel good fm",
+      "urls": [
+        "https://edge.iono.fm/xice/feelgood_live_high.aac"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 208
+    },
+    {
+      "name": "Perron FM",
+      "urls": [
+        "https://zas7.ndx.co.za:8044/stream?1694973588521"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Phalaphala FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "http://listen.phalaphalafm.co.za/listenphalaphalafm/images/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Plaas Radio - Rad's Vibes",
+      "urls": [
+        "https://radio.eclipse-streaming.co.za/hls/plaas_radio/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 52,
+      "logo": "https://eclipse-radio.eclipse-streaming.co.za/static/uploads/browser_icon/180.1708559464.png",
+      "votes": 16
+    },
+    {
+      "name": "Power 98.7",
+      "urls": [
+        "https://edge.iono.fm/xice/65_medium.aac"
+      ],
+      "tags": [
+        "news",
+        "news talk",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1583
+    },
+    {
+      "name": "Pretoria FM",
+      "urls": [
+        "https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%2F"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.pretoriafm.co.za/wp-content/uploads/2024/09/favicon-150x150.png",
+      "votes": 53
+    },
+    {
+      "name": "Radio  Daspoort",
+      "urls": [
+        "https://c44.radioboss.fm:8174/stream"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio 786",
+      "urls": [
+        "https://stream.krypton.co.za:8052/index.html?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio786.co.za/786/786.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio 786",
+      "urls": [
+        "https://stream.krypton.co.za/proxy/radio786?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://www.radio786.co.za/wp-content/uploads/elementor/thumbs/cropped-Generic-Testimonial-Logo-1-p7nb9imeuwv5um6i4f7lxsmk46glopvtscb6k2g7k4.png",
+      "votes": 134
+    },
+    {
+      "name": "Radio Atlantis 107.9FM",
+      "urls": [
+        "https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.radioatlantis.org.za/wp-content/uploads/2023/12/RAFM-Logo.png",
+      "votes": 21
+    },
+    {
+      "name": "Radio Bloem",
+      "urls": [
+        "https://stream.zeno.fm/9fg1eqywrf9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://vibe.filesafe.space/1785349684933469813/attachments/7cbea602-28e9-4125-bc60-9bb8e3e1d80e.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Fynbos - Stilbaai",
+      "urls": [
+        "https://stream-152.zeno.fm/w0cyqt4cyy8uv?zs=KrkViuxOTr6gZl4perU1jA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Radio Hallelujah",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Radio Laeveld",
+      "urls": [
+        "https://zas2.ndx.co.za:8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.radiolaeveld.co.za/wp-content/uploads/2018/01/100.5-Fm-Logo-Final.-png-179-KB-1.png",
+      "votes": 14
+    },
+    {
+      "name": "RADIO NAMAKWALAND",
+      "urls": [
+        "https://zas3.ndx.co.za:8034/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 86
+    },
+    {
+      "name": "Radio Namaste",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/radio_namaste/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "Radio Orania",
+      "urls": [
+        "https://stream.radio.co/s7adaa782c/listen"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Pulpit",
+      "urls": [
+        "https://edge.iono.fm/xice/189_medium.aac?ref=https%3A%2F%2Fwww.radiopulpit.co.za%2F&adToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.radiopulpit.co.za/wp-content/uploads/2020/10/cropped-10-180x180.png",
+      "votes": 262
+    },
+    {
+      "name": "Radio Rosestad 100.6 FM",
+      "urls": [
+        "https://edge.iono.fm/xice/122_medium.aac"
+      ],
+      "tags": [
+        "afrikaans",
+        "bloemfontein",
+        "freestate",
+        "south africa"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241025_101050271.jpg?alt=media&token=0b01b450-1b02-4cb1-b3e3-096377ca4a01",
+      "votes": 57
+    },
+    {
+      "name": "Radio Saranghae",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio Today",
+      "urls": [
+        "https://rt1485.out.airtime.pro/rt1485_b"
+      ],
+      "tags": [
+        "old time radio",
+        "soft adult contemporary"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://rt1485.com/wp-content/uploads/2020/06/RTH-Logo01-W.png",
+      "votes": 45
+    },
+    {
+      "name": "Radio Turf",
+      "urls": [
+        "https://iceant.eclipse-streaming.co.za/radio-turf.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-player.eclipse-streaming.co.za/radioturf/img/radioturf_logo.jpeg",
+      "votes": 23
+    },
+    {
+      "name": "Radio Veritas",
+      "urls": [
+        "https://zas5.ndx.co.za:9618/stream?1722433923032"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://radioveritas.co.za/wp-content/uploads/2021/10/Logo2024.webp",
+      "votes": 50
+    },
+    {
+      "name": "Radio Veritas",
+      "urls": [
+        "https://zas5.ndx.co.za:9618/stream?1702476652972"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 46
+    },
+    {
+      "name": "Radio Vilakku",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/radio_vilakku/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Radio Yaadien",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "RadioCross",
+      "urls": [
+        "https://gospelblues365.com/listen/radiocross/radiocross.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Rainbow FM",
+      "urls": [
+        "https://edge.iono.fm/xice/237_low.aac"
+      ],
+      "tags": [
+        "gospel"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://rainbowfm.co.za/wp-content/uploads/2024/08/cropped-rainbowfmicon-180x180.png",
+      "votes": 157
+    },
+    {
+      "name": "Ramkat Radio Kaapstad",
+      "urls": [
+        "https://uslradio.net:8008/stream"
+      ],
+      "tags": [],
+      "city": "Western Cape",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "RISE FM",
+      "urls": [
+        "https://edge.iono.fm/xice/73_medium.aac?ref=https%3A%2F%2Frisefm.co.za%2F&adToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://risefm.co.za/wp-content/uploads/2023/10/Rise-FM-752x1024.png",
+      "votes": 90
+    },
+    {
+      "name": "Rockbox! Radio",
+      "urls": [
+        "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://9300.co.za/rockboxalbum.png",
+      "votes": 1
+    },
+    {
+      "name": "salaammedia",
+      "urls": [
+        "https://iceant.antfarm.co.za/Salaam"
+      ],
+      "tags": [
+        "humanitarian",
+        "islam",
+        "islamic",
+        "journalism"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 118
+    },
+    {
+      "name": "SekhukhuneFM",
+      "urls": [
+        "https://edge.iono.fm/xice/301_low.aac"
+      ],
+      "tags": [],
+      "city": "Limpopo Province",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Simply Making Success Radio",
+      "urls": [
+        "https://stream.zeno.fm/ylvoyhv6tbntv"
+      ],
+      "tags": [
+        "amapiano",
+        "hip-hop",
+        "house",
+        "r&b",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 45
+    },
+    {
+      "name": "Smile 90.4 FM",
+      "urls": [
+        "https://edge.iono.fm/xice/212_medium.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 572
+    },
+    {
+      "name": "Southside Stereo",
+      "urls": [
+        "https://radio.southsidestereo.co.za/listen/southsidestereo/radio.mp3"
+      ],
+      "tags": [
+        "afrobeats",
+        "amapiano",
+        "hip hop",
+        "johannesburg",
+        "kwaito",
+        "rnb",
+        "south africa"
+      ],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://southsidestereo.co.za/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "Springbok Radio",
+      "urls": [
+        "https://springbokradio.xyz:8443/main"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://springbokradio.org.za/image/catalog/logo3.jpg",
+      "votes": 49
+    },
+    {
+      "name": "Talk Radio 702",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://www.primediaplus.com/images/logos/logo-702.png",
+      "votes": 812
+    },
+    {
+      "name": "TAMBO FM",
+      "urls": [
+        "https://listen.radioking.com/radio/326599/stream/374668?fbclid=IwAR3lWR7ZdVVmZBSBedW_Cv1xF_Q7KzGmUQ0stgVCc_A7kx8Cf3Ncek1ntxk"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tambofm.co.za/wp-content/uploads/2023/07/Untitled-3545rrrrr3.jpg",
+      "votes": 40
+    },
+    {
+      "name": "The Grind Radio",
+      "urls": [
+        "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.eclipse-streaming.co.za/static/uploads/browser_icon/180.1708559464.png",
+      "votes": 1
+    },
+    {
+      "name": "The Voice of the Cape",
+      "urls": [
+        "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg"
+      ],
+      "tags": [
+        "islamic"
+      ],
+      "city": "Cape Town",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://vocfm.co.za/wp-content/uploads/2020/06/Logo_2022_VOC_D03-1-1.png",
+      "votes": 3
+    },
+    {
+      "name": "theradio.fm",
+      "urls": [
+        "https://servidor36-2.brlogic.com:7064/live"
+      ],
+      "tags": [
+        "blues",
+        "country",
+        "disco",
+        "edm",
+        "electronic",
+        "pop",
+        "rock"
+      ],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://musiclovequest.pages.dev/img/social.png",
+      "votes": 6
+    },
+    {
+      "name": "ThobelaFM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac"
+      ],
+      "tags": [],
+      "city": "Gauteng/limpopo",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "http://www.thobelafm.co.za/sabc/contenthandler/!ut/p/digest!os-IGfRHDAke8Lr8sjz6Wg/war/CustomTheme8Static/themes/Portal8.0/pivot/thobelafm/images/website-header-main-logo.png",
+      "votes": 1103
+    },
+    {
+      "name": "TUKS FM 107.2",
+      "urls": [
+        "https://edge.iono.fm/xice/tuksfm_live_medium.aac?ref=https%3A%2F%2Fwww.tuksfm.co.za%2Fon-air%2Flisten-live%2F&adToken=&pofToken="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.tuksfm.co.za/wp-content/uploads/2025/04/702.png",
+      "votes": 2
+    },
+    {
+      "name": "UbuntuFM",
+      "urls": [
+        "https://streaming.coollective.nl:8443/UbuntuFM"
+      ],
+      "tags": [
+        "afropop",
+        "afrosoul",
+        "dancehall",
+        "folk",
+        "funk",
+        "hiphop",
+        "jazz",
+        "kwaito",
+        "latin",
+        "nu-jazz",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png",
+      "votes": 1160
+    },
+    {
+      "name": "UbuntuFM Africa",
+      "urls": [
+        "https://streaming.coollective.nl:8443/UbuntuFMafrica"
+      ],
+      "tags": [
+        "africa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 240
+    },
+    {
+      "name": "UbuntuFM Radio International",
+      "urls": [
+        "https://streaming.coollective.nl:8443/RadioXYZ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ubuntufm.international/images/logo.webp",
+      "votes": 28
+    },
+    {
+      "name": "Ukhozi FM S.A",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.ukhozifm.co.za/wp-content/uploads/2023/07/cropped-ukhozi-tranparent-logo.png",
+      "votes": 3
+    },
+    {
+      "name": "ultracol FM",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/ultracol_/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KZN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "uMgungundlovu FM 107.6",
+      "urls": [
+        "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8"
+      ],
+      "tags": [
+        "community",
+        "education",
+        "gospel",
+        "local"
+      ],
+      "city": "KwaZulu-Natal",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://fabrikstore.blob.core.windows.net/9ba0ebb4-7bdd-4cf8-be4d-6cc629cb9500/e573dc31-a7b5-4631-b1a1-2b8a7489e151/directory/livestream/0d398af1-91ae-45e3-b75f-c4e3ef8c1944",
+      "votes": 68
+    },
+    {
+      "name": "Vault Radio 404",
+      "urls": [
+        "https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3"
+      ],
+      "tags": [
+        "multi genre"
+      ],
+      "city": "Gauteng",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://baronvonvault.com/wp-content/uploads/2026/03/Vault_Radio_404_Still_Background_Favicon.jpg",
+      "votes": 0
+    },
+    {
+      "name": "VCR - 90.6 FM Stereo",
+      "urls": [
+        "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/39bd45_3c0fa981a9a14e2e9003646db594564a~mv2.png/v1/fill/w_481,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/39bd45_3c0fa981a9a14e2e9003646db594564a~mv2.png",
+      "votes": 27
+    },
+    {
+      "name": "Victors Radio",
+      "urls": [
+        "https://a13.asurahosting.com/listen/victors_radio_/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Viva Nation Radio",
+      "urls": [
+        "https://servidor34-3.brlogic.com:7056/live?source=website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://public-rf-upload.minhawebradio.net/244271/broadcaster/ca6fce1ca58b93163c0557fd7b65e99e.png",
+      "votes": 11
+    },
+    {
+      "name": "World Gospel Radio",
+      "urls": [
+        "https://www.dn-radio.co.za/listen/world_gospel_radio/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "praise",
+        "worship"
+      ],
+      "city": "Eastern Cape",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.worldgospelradio.co.za/wp-content/uploads/2026/05/cropped-Logo_Square.png",
+      "votes": 12
+    },
+    {
+      "name": "zoibi FM",
+      "urls": [
+        "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/primary"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.eclipse-streaming.co.za/static/uploads/album_art.1708559460.jpg",
+      "votes": 10
+    },
+    {
+      "name": "zoibicube",
+      "urls": [
+        "https://radio3.eclipse-streaming.co.za/listen/zoibi/zoibi.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio3.eclipse-streaming.co.za/api/station/zoibi/art/6473db46b767a1693b441a2e",
+      "votes": 1
+    },
+    {
+      "name": "Zone Radio",
+      "urls": [
+        "https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken="
+      ],
+      "tags": [
+        "blues",
+        "community radio",
+        "talk"
+      ],
+      "city": "Western Cape",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn.iono.fm/files/p3519/logo_3519_20250905_204605_750.jpeg",
+      "votes": 1
+    }
+  ]
+}

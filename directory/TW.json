@@ -1,0 +1,961 @@
+{
+  "code": "TW",
+  "name": "Taiwan, Republic Of China",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 15
+    },
+    {
+      "name": "Ai Radio TAIWAN 台灣AI電台",
+      "urls": [
+        "https://n10.rcs.revma.com/h4ta80hbqwuvv"
+      ],
+      "tags": [
+        "culture",
+        "full service",
+        "information",
+        "news",
+        "science"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.airadiotaiwan.com/stable/Web_logo.svg",
+      "votes": 68
+    },
+    {
+      "name": "AsiaFM 亞太電台",
+      "urls": [
+        "https://n13.rcs.revma.com/kydend74hv8uv"
+      ],
+      "tags": [
+        "entertainment"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.asiafm.com.tw/wp-content/uploads/2021/07/asia_logo1.gif",
+      "votes": 71
+    },
+    {
+      "name": "AsiaFM 亞洲電台",
+      "urls": [
+        "https://n13.rcs.revma.com/xpgtqc74hv8uv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.asiafm.com.tw/wp-content/uploads/2021/07/asia_logo1.gif",
+      "votes": 93
+    },
+    {
+      "name": "B&B RADIO 幫幫廣播網",
+      "urls": [
+        "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8"
+      ],
+      "tags": [
+        "lifestyle"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 139,
+      "logo": "https://bbradio.pch.org.tw/images/BB_radio_logo_200pix.jpg",
+      "votes": 92
+    },
+    {
+      "name": "Boss Boss Radio",
+      "urls": [
+        "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/69241.v15.png",
+      "votes": 4
+    },
+    {
+      "name": "Boss Online Radio",
+      "urls": [
+        "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Boss Online Radio",
+      "urls": [
+        "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Boss Online Radio",
+      "urls": [
+        "https://stream.radiojar.com/ehzvurp9tv8uv"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/107307.v1.png",
+      "votes": 75
+    },
+    {
+      "name": "CanCheers",
+      "urls": [
+        "https://us3.internet-radio.com/proxy/cancheers?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.ilovetacp.org.tw/cancheers/image/CanCheers-Logo.png",
+      "votes": 6
+    },
+    {
+      "name": "HappyRadio",
+      "urls": [
+        "https://happyradio.com.tw/live"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "taipei",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "M Radio 全國廣播",
+      "urls": [
+        "https://n03.rcs.revma.com/044q61ha7a0uv"
+      ],
+      "tags": [
+        "entertainment",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.mradio.com.tw/logo-black.svg",
+      "votes": 75
+    },
+    {
+      "name": "Needs Radio 全球華語廣播網",
+      "urls": [
+        "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8"
+      ],
+      "tags": [
+        "arts",
+        "culture",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A3101.jpg&w=256&q=75",
+      "votes": 258
+    },
+    {
+      "name": "Radio ICRT",
+      "urls": [
+        "https://n27a-eu.rcs.revma.com/nkdfurztxp3vv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s7198q.png",
+      "votes": 51
+    },
+    {
+      "name": "RTI 臺灣之音",
+      "urls": [
+        "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2291
+    },
+    {
+      "name": "Stars RADIO星蹤之愛廣播網",
+      "urls": [
+        "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Supreme Master TV",
+      "urls": [
+        "https://radio.suprememastertv.com/128K"
+      ],
+      "tags": [
+        "animal",
+        "art",
+        "culture",
+        "education",
+        "entertainment",
+        "environment",
+        "health",
+        "international",
+        "spiritual",
+        "worldpeace"
+      ],
+      "city": "Taipei",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "上海麗都廣播電台 1940's Shanghai Vintage Jazz Shidaiqu Radio",
+      "urls": [
+        "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Taipei",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 57
+    },
+    {
+      "name": "世新廣播電台-1",
+      "urls": [
+        "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8"
+      ],
+      "tags": [
+        "education",
+        "educational"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 191,
+      "logo": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4801.jpg&w=256&q=75",
+      "votes": 143
+    },
+    {
+      "name": "世新廣播電台-2",
+      "urls": [
+        "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8"
+      ],
+      "tags": [
+        "student"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 191,
+      "logo": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4802.jpg&w=256&q=75",
+      "votes": 84
+    },
+    {
+      "name": "中國華藝廣播公司 AM873",
+      "urls": [
+        "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3"
+      ],
+      "tags": [
+        "information",
+        "music"
+      ],
+      "city": "Taipei",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://pic.qtfm.cn/sso/48/1648623555209_ZdXzVjyE7.jpeg",
+      "votes": 145
+    },
+    {
+      "name": "中廣 I GO",
+      "urls": [
+        "https://n03.rcs.revma.com/1qxn2vg3qtzuv"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A0401.jpg&w=256&q=75",
+      "votes": 11
+    },
+    {
+      "name": "中廣新聞網",
+      "urls": [
+        "https://n03.rcs.revma.com/78fm9wyy2tzuv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.bcc.com.tw/images/lg1.jpg",
+      "votes": 394
+    },
+    {
+      "name": "中廣流行網",
+      "urls": [
+        "https://n03.rcs.revma.com/aw9uqyxy2tzuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.bcc.com.tw/images/lg2.jpg",
+      "votes": 156
+    },
+    {
+      "name": "中廣鄉親網",
+      "urls": [
+        "https://n03.rcs.revma.com/p2e3rfg3qtzuv"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.bcc.com.tw/images/lg6.jpg",
+      "votes": 16
+    },
+    {
+      "name": "中廣音樂網",
+      "urls": [
+        "https://n03.rcs.revma.com/ndk05tyy2tzuv"
+      ],
+      "tags": [
+        "internet radio",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.bcc.com.tw/images/lg3.jpg",
+      "votes": 180
+    },
+    {
+      "name": "九八新聞台",
+      "urls": [
+        "https://n17a-eu.rcs.revma.com/pntx1639ntzuv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://zuiai.tv/zb_users/upload/2023/9/2023091347046997.jpg",
+      "votes": 233
+    },
+    {
+      "name": "人人廣播電台",
+      "urls": [
+        "https://n01.rcs.revma.com/fkdywbc59duvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Taipei",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/best-98-9.webp",
+      "votes": 26
+    },
+    {
+      "name": "佳音經典音樂網",
+      "urls": [
+        "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8"
+      ],
+      "tags": [
+        "chirstian",
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 65,
+      "logo": null,
+      "votes": 587
+    },
+    {
+      "name": "佳音電台",
+      "urls": [
+        "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8"
+      ],
+      "tags": [
+        "chirstian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 65,
+      "logo": null,
+      "votes": 458
+    },
+    {
+      "name": "佳音音樂網",
+      "urls": [
+        "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://gogoradiofm1043.com.tw/images/f4.png",
+      "votes": 58
+    },
+    {
+      "name": "台北古典廣播",
+      "urls": [
+        "https://stream.zeno.fm/w66d3dp6ynhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F8grF8LP3fMMyhKY1tTrKUAj8tdkhtCYydg7gAJXIXc8%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJX3N1Rzlnb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJOWQtUnR3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NTk0ODQ5NTUwMDA.webp&w=2048&q=100",
+      "votes": 639
+    },
+    {
+      "name": "台北廣播電台",
+      "urls": [
+        "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 322,
+      "logo": "https://www.radio.gov.taipei/images/favicon.ico",
+      "votes": 1219
+    },
+    {
+      "name": "台海之聲",
+      "urls": [
+        "https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://ytmedia.radio.cn/CCYT/202306/12/18/Tmqb0FNuYzW6u5Ym7LhxxSemBelX3h7I70gh2023061218805.jpg",
+      "votes": 252
+    },
+    {
+      "name": "城市廣播網-南投廣播",
+      "urls": [
+        "https://fm997.cityfm.com.tw:8083/997"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fm997.cityfm.tw/Public/MyMedia/Logo-%E5%8D%97%E6%8A%95%E5%B0%81%E9%9D%A2.jpg",
+      "votes": 36
+    },
+    {
+      "name": "城市廣播網-大苗栗廣播",
+      "urls": [
+        "https://fm983.cityfm.com.tw:8083/983"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cityfm.tw/Public/MyMedia/LOGO%E6%96%B9%E5%BD%A2%E5%9F%8E%E5%B8%82%E6%96%B0%E8%81%9E.jpg",
+      "votes": 37
+    },
+    {
+      "name": "山海屯青少年之聲",
+      "urls": [
+        "https://n02.rcs.revma.com/zr7xzec59duvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Taichung",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/best-90-3.webp",
+      "votes": 13
+    },
+    {
+      "name": "曾文溪廣播電台",
+      "urls": [
+        "https://n09.rcs.revma.com/9ssfduqkr0hvv"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.fm899.com.tw/images/common/site-logo.png",
+      "votes": 10
+    },
+    {
+      "name": "栗子的輕音樂",
+      "urls": [
+        "https://lizeradio.com/radio/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "桃園GO GO104.3",
+      "urls": [
+        "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2021/09/gogo-radio-fm-104.3-220x108.jpg",
+      "votes": 312
+    },
+    {
+      "name": "正聲廣播公司",
+      "urls": [
+        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8"
+      ],
+      "tags": [
+        "104.1",
+        "104.1 fm",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www.csbc.com.tw/wp-content/uploads/2019/12/cropped-6044e1b77e91b4fe89b435-2-180x180.png",
+      "votes": 886
+    },
+    {
+      "name": "正聲廣播電台FM104",
+      "urls": [
+        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "Taipei",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1190
+    },
+    {
+      "name": "民本電台-1",
+      "urls": [
+        "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 332
+    },
+    {
+      "name": "民本電台-2",
+      "urls": [
+        "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 417
+    },
+    {
+      "name": "環宇廣播電台",
+      "urls": [
+        "https://n06.rcs.revma.com/srn5f9kmwxhvv"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "http://www.uni967.com/newweb/images/top_1.jpg",
+      "votes": 41
+    },
+    {
+      "name": "神州之聲",
+      "urls": [
+        "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "Taipei",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.cnr.cn/2007zt/2007gbfzlt/yhdw/200708/W020070821501155725836.jpg",
+      "votes": 80
+    },
+    {
+      "name": "神農廣播電台",
+      "urls": [
+        "https://n03.rcs.revma.com/uyaghqmdm3hvv"
+      ],
+      "tags": [
+        "agriculture"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A8201.jpg&w=256&q=75",
+      "votes": 15
+    },
+    {
+      "name": "臺北電台AM",
+      "urls": [
+        "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 322,
+      "logo": "http://www.radio.gov.taipei/images/favicon.ico",
+      "votes": 1310
+    },
+    {
+      "name": "講客廣播電台",
+      "urls": [
+        "https://n08.rcs.revma.com/akqrbx94gbkvv"
+      ],
+      "tags": [
+        "culture",
+        "full service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/hakka-radio.webp",
+      "votes": 6
+    },
+    {
+      "name": "警察廣播電臺 - 全國治安交通網 FM 104.9",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/PBS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 172
+    },
+    {
+      "name": "警察廣播電臺 - 宜蘭分臺 FM 101.3",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Yilan",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 16
+    },
+    {
+      "name": "警察廣播電臺 - 新竹分臺 AM 1512",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/SCS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Hsinchu",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 33
+    },
+    {
+      "name": "警察廣播電臺 - 臺中分臺 FM 94.5",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/TCS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Taichung",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "警察廣播電臺 - 臺北分臺 FM 94.3",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/TPS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Taipei",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 91
+    },
+    {
+      "name": "警察廣播電臺 - 臺南分臺 AM 1314",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Tainan",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 30
+    },
+    {
+      "name": "警察廣播電臺 - 臺東分臺 FM 94.3",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Taitung",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 22
+    },
+    {
+      "name": "警察廣播電臺 - 花蓮分臺 FM 94.3",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/HLS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Hualien",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 21
+    },
+    {
+      "name": "警察廣播電臺 - 高雄分臺 FM 93.1",
+      "urls": [
+        "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8"
+      ],
+      "tags": [
+        "emergency & public safety",
+        "government",
+        "local traffic & weather",
+        "news",
+        "traffic",
+        "weather"
+      ],
+      "city": "Kaohsiung",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+      "votes": 68
+    },
+    {
+      "name": "連花廣播電台",
+      "urls": [
+        "https://n05.rcs.revma.com/vh0xgcc59duvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/best.webp",
+      "votes": 23
+    },
+    {
+      "name": "領袖廣播",
+      "urls": [
+        "https://n14.rcs.revma.com/hpeqh9mkc6hvv"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "Tainan",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://myradio.com.tw/_next/image?url=https%3A%2F%2Fimages.myradio.com.tw%2Fimages%2FA11501.jpg&w=256&q=75",
+      "votes": 22
+    },
+    {
+      "name": "飛揚調頻FM89.5",
+      "urls": [
+        "https://n13.rcs.revma.com/e0tdah74hv8uv"
+      ],
+      "tags": [
+        "music",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.flyradio.com.tw/wp-content/uploads/2021/09/895-280x280.png",
+      "votes": 75
+    },
+    {
+      "name": "飛碟聯播網 飛碟電台",
+      "urls": [
+        "https://n10.rcs.revma.com/em90w4aeewzuv"
+      ],
+      "tags": [
+        "entertainment",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A0501.jpg&w=256&q=75",
+      "votes": 93
+    },
+    {
+      "name": "高雄廣播電台",
+      "urls": [
+        "https://n13.rcs.revma.com/pet2dvug1bkvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/fm-94-3.webp",
+      "votes": 33
+    },
+    {
+      "name": "高雄廣播電台AM1089",
+      "urls": [
+        "https://n05.rcs.revma.com/4r99rt1g1bkvv"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://zuiai.tv/zb_users/upload/2025/7/2025071455091025_mini.jpg",
+      "votes": 18
+    },
+    {
+      "name": "高雄港都廣播",
+      "urls": [
+        "https://n10.rcs.revma.com/q2m07dc59duvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.radoxo.com/images/taiwan/best-98-3.webp",
+      "votes": 35
+    }
+  ]
+}

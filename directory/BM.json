@@ -1,0 +1,51 @@
+{
+  "code": "BM",
+  "name": "Bermuda",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 16
+    },
+    {
+      "name": "dr_dick's dub shack",
+      "urls": [
+        "https://streamer.radio.co/s0635c8b0d/listen"
+      ],
+      "tags": [
+        "bass",
+        "downtempo",
+        "dub",
+        "dub reggae",
+        "dub techno",
+        "dubtechno",
+        "future bass"
+      ],
+      "city": "Hamilton",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://drdicksdubshack.com/favicon.ico",
+      "votes": 328
+    },
+    {
+      "name": "Irie 98 FM",
+      "urls": [
+        "https://usa19.fastcast4u.com:7430/;?type=http&nocache=1711133099"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static.wixstatic.com/media/53b8c6_80e2a0310f5b49c38f0b36fae1ca8a6b~mv2.jpg/v1/fill/w_140,h_140,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/53b8c6_80e2a0310f5b49c38f0b36fae1ca8a6b~mv2.jpg",
+      "votes": 101
+    }
+  ]
+}

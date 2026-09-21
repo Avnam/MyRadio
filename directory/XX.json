@@ -1,0 +1,30 @@
+{
+  "code": "XX",
+  "name": "XX",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "MUGEN Radio",
+      "urls": [
+        "https://mugenradio.com/hls/live.m3u8"
+      ],
+      "tags": [
+        "ai",
+        "ambient",
+        "chill",
+        "instrumental",
+        "japanese",
+        "koto",
+        "lofi",
+        "piano",
+        "rain",
+        "study"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://mugenradio.com/cover-mugen-3000.png",
+      "votes": 10
+    }
+  ]
+}

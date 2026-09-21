@@ -1,0 +1,3106 @@
+{
+  "code": "BE",
+  "name": "Belgium",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Radio RGR Dance Rotselaar, Be",
+      "urls": [
+        "https://stream2.rgrfm.be/"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "Brabant",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "'t Is Vloms - Affligem,. be (n.s.)",
+      "urls": [
+        "https://cast1.torontocast.com:4605/stream"
+      ],
+      "tags": [
+        "vlaamse muziek"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "100% Retro",
+      "urls": [
+        "https://server.musicstars.online/radio/8000/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.starradio.online/favicon-194x194.png?v=0.3.0",
+      "votes": 215
+    },
+    {
+      "name": "2dance",
+      "urls": [
+        "https://webradiobe.be/listen/2dance/2dance128.mp3"
+      ],
+      "tags": [
+        "dance music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "48FM",
+      "urls": [
+        "https://stream.48fm.com:8000/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://48fm.com/wp-content/uploads/48FM_Logo_header-site.png",
+      "votes": 5
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "Accent Radio",
+      "urls": [
+        "https://www.clubfmserver.be/accent.mp3"
+      ],
+      "tags": [],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radioaccent.be/apple-touch-icon.png",
+      "votes": 25
+    },
+    {
+      "name": "Afrikana Radio – Live African",
+      "urls": [
+        "https://admin.afrikanabestsounds.com/listen/live_african/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Afrikana Radio – Live African",
+      "urls": [
+        "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3"
+      ],
+      "tags": [
+        "african music",
+        "african vibes",
+        "afro mix",
+        "afro pop",
+        "afrobeats",
+        "afrohouse",
+        "amapiano",
+        "dancehall"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Ajoin Music",
+      "urls": [
+        "https://play.ajoinmusic.be/ajoinmusic.mp3"
+      ],
+      "tags": [
+        "carnaval"
+      ],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.ajoinmusic.be/",
+      "votes": 13
+    },
+    {
+      "name": "AudioDrama Radio",
+      "urls": [
+        "https://fritske.be:8000/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 67,
+      "logo": "https://media.audiodrama.com/2026/01/10142806/cropped-Copy-of-AUDIODRAMA-1000-x-1000-px_20260123_171114_0000-180x180.png",
+      "votes": 7
+    },
+    {
+      "name": "Belgian Dance Radio",
+      "urls": [
+        "https://s4.radio.co/sf5a880a25/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://belgian-dance-radio.com/wp-content/uploads/2022/06/240812985_917631145500501_905793297627216541_n.png",
+      "votes": 21
+    },
+    {
+      "name": "BEST OLDIES RADIO (BOR)",
+      "urls": [
+        "https://a8.asurahosting.com:8090/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Oost Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng",
+      "votes": 66
+    },
+    {
+      "name": "Best Oldies Radio 2 THC",
+      "urls": [
+        "https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "BNL",
+      "urls": [
+        "https://stream.bnlradio.be/stream.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "culture",
+        "rock"
+      ],
+      "city": "Limburg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://bnlradio.be/wp-content/uploads/2025/11/logo_trans_vierkant.png",
+      "votes": 5
+    },
+    {
+      "name": "Boutersem On Air",
+      "urls": [
+        "https://135.125.183.109/listen/boutersemonair/radio.mp3"
+      ],
+      "tags": [
+        "classic hits",
+        "dance",
+        "nederlandstalig",
+        "pop",
+        "rock",
+        "schlager"
+      ],
+      "city": "Vlaams-Brabant",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BRF1 Radio",
+      "urls": [
+        "https://streaming.brf.be/brf1-high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brf.be/wp-content/themes/pixelpress/dist/assets/images/1/icons/apple-icon-180x180.png",
+      "votes": 9
+    },
+    {
+      "name": "BRF2 Radio",
+      "urls": [
+        "https://streaming.brf.be/brf2-high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://2.brf.be/wp-content/themes/pixelpress/dist/assets/images/3/icons/apple-icon-120x120.png",
+      "votes": 298
+    },
+    {
+      "name": "Bruzz",
+      "urls": [
+        "https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png",
+      "votes": 86
+    },
+    {
+      "name": "BRUZZ",
+      "urls": [
+        "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3"
+      ],
+      "tags": [],
+      "city": "Brussels",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/f57H5FZt9ZyztXUDWFOz0BiO56m7k8tlZWozFWq-BAgWv7z03N13rhcKfouB29gzy8y8=w480-h960-rw",
+      "votes": 14
+    },
+    {
+      "name": "BUZZ RADIO",
+      "urls": [
+        "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.buzzradio.be/wp-content/uploads/2015/04/Buzzban.png",
+      "votes": 7
+    },
+    {
+      "name": "BX1",
+      "urls": [
+        "https://bx1radio.ice.infomaniak.ch/bx1radio.mp3?4376"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bx1.be/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "c-dance retro",
+      "urls": [
+        "https://s45.myradiostream.com/:18304/;"
+      ],
+      "tags": [
+        "90"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 17
+    },
+    {
+      "name": "Candie",
+      "urls": [
+        "https://clubfmserver.be/pink.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://candie.eu/wp-content/uploads/2023/07/candie_logo_trans@4x-768x333.png",
+      "votes": 5
+    },
+    {
+      "name": "Chérie Belgique",
+      "urls": [
+        "https://stream.rcs.revma.com/r3cprzsqtg0uv"
+      ],
+      "tags": [
+        "64kbps",
+        "aac",
+        "lovesongs",
+        "soft pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.cheriebelgique.be/build/images/favicon.png",
+      "votes": 42
+    },
+    {
+      "name": "CK Bleu",
+      "urls": [
+        "https://mixmyday.ice.infomaniak.ch/ckbleu.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "pop rock",
+        "popular"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.ck-radio.com/upload/5fd8b3b7c4c2b2.18853261.ico",
+      "votes": 7
+    },
+    {
+      "name": "CK Deejay",
+      "urls": [
+        "https://radio-pub.be/CKDJ/ckdjmix.mp3"
+      ],
+      "tags": [
+        "club house trance dance",
+        "deejay remix",
+        "disco",
+        "electronic music",
+        "eurodance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio-pub.be/CKDJ/CK%20DJ'smix.png",
+      "votes": 5
+    },
+    {
+      "name": "CK Radio",
+      "urls": [
+        "https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3"
+      ],
+      "tags": [
+        "charleking",
+        "charleroi",
+        "dance",
+        "dj mixes",
+        "house",
+        "pop",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.ck-radio.com/upload/design/65e9f581394a33.38466363.png",
+      "votes": 11
+    },
+    {
+      "name": "CK RADIO Belgique",
+      "urls": [
+        "https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio-pub.be/CKRADIO/CK%20RADIO%20Officiel.png",
+      "votes": 23
+    },
+    {
+      "name": "Classic 21 80's New Wave",
+      "urls": [
+        "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361"
+      ],
+      "tags": [
+        "1980's",
+        "new wave"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/m4US9L9A3g.jpg",
+      "votes": 171
+    },
+    {
+      "name": "Classic 21 80's New Wave",
+      "urls": [
+        "https://radio.rtbf.be/c21-80nw/mp3-128/me"
+      ],
+      "tags": [
+        "80's",
+        "new wave"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.rtbf.be/favicon.ico",
+      "votes": 722
+    },
+    {
+      "name": "Classic 21 80’s Hits",
+      "urls": [
+        "https://radio.rtbf.be/c21-80s/mp3-128/me"
+      ],
+      "tags": [
+        "80's",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.rtbf.be/favicon.ico",
+      "votes": 139
+    },
+    {
+      "name": "Classic 21 Blues",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-blues-128.mp3"
+      ],
+      "tags": [
+        "classic blues"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbfradioplayer.be/favicon.ico",
+      "votes": 318
+    },
+    {
+      "name": "Contact MAX",
+      "urls": [
+        "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3"
+      ],
+      "tags": [
+        "2000's",
+        "80's",
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "De Geluidsfabriek",
+      "urls": [
+        "https://s5.radio.co/s4674a3b1c/listen"
+      ],
+      "tags": [
+        "blues",
+        "classic rock",
+        "dutch music",
+        "jazz",
+        "pop",
+        "r&b soul",
+        "singer-songwriter"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Depeche Mode Radio",
+      "urls": [
+        "https://c2.radioboss.fm:8494/stream"
+      ],
+      "tags": [],
+      "city": "Brussels",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Dmusic",
+      "urls": [
+        "https://stream.dmusic.be/listen/dmusic/radio.mp3"
+      ],
+      "tags": [
+        "club dance",
+        "dance",
+        "dance pop",
+        "edm",
+        "hardstyle",
+        "house",
+        "retro music",
+        "techno"
+      ],
+      "city": "West-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://dmusic.be//themes/Dmusicv2/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "Equinoxe, La Radio Découverte",
+      "urls": [
+        "https://stream.equinoxenamur.be/Equinoxe.mp3"
+      ],
+      "tags": [
+        "country",
+        "jazz",
+        "rock",
+        "talk"
+      ],
+      "city": "Wallonia",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Fiësta Radio",
+      "urls": [
+        "https://media1.hostin.cc/fiestaradio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.fiestaradio.be/wp-content/uploads/2020/05/fiesta_radio_logo.png",
+      "votes": 13
+    },
+    {
+      "name": "FM Goud Limburg",
+      "urls": [
+        "https://stream.fmgoud.be/fm-goud-noord-limburg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+      "votes": 9
+    },
+    {
+      "name": "FM Goud Maasland",
+      "urls": [
+        "https://stream.fmgoud.be/fm-goud-maasland"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+      "votes": 6
+    },
+    {
+      "name": "FM Goud Tenerife",
+      "urls": [
+        "https://stream.fmgoud.be/fm-goud-tenerife"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+      "votes": 16
+    },
+    {
+      "name": "Fun Radio",
+      "urls": [
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
+      ],
+      "tags": [],
+      "city": "Forest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png",
+      "votes": 2937
+    },
+    {
+      "name": "galaxiebelgium.com",
+      "urls": [
+        "https://listen.radioking.com/radio/309647/stream/356660"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Goeiedag Radio",
+      "urls": [
+        "https://stream.goeiedagradio.be/"
+      ],
+      "tags": [],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.goeiedagradio.be%2F",
+      "votes": 9
+    },
+    {
+      "name": "GOLD FM",
+      "urls": [
+        "https://onair.goldfm.be:8000/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://goldfm.be/wp-content/uploads/2020/09/GOLDFMNEWLOGO3-170x170.png",
+      "votes": 16
+    },
+    {
+      "name": "Grand Prix Radio",
+      "urls": [
+        "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2",
+      "votes": 11
+    },
+    {
+      "name": "Grandprix Radio - BE",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3"
+      ],
+      "tags": [
+        "classics",
+        "pop",
+        "sports news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2",
+      "votes": 17
+    },
+    {
+      "name": "GRK",
+      "urls": [
+        "https://grk.level27.be/;stream.mp3"
+      ],
+      "tags": [
+        "sport"
+      ],
+      "city": "Limburg",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Impact FM",
+      "urls": [
+        "https://impactfm.ice.infomaniak.ch/impactfm-64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "Inside Radio",
+      "urls": [
+        "https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv"
+      ],
+      "tags": [
+        "must fm",
+        "namur"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.radioplayer.be/v1/image/station/1011/logo_600x600.png",
+      "votes": 6
+    },
+    {
+      "name": "Instrumentals Forever",
+      "urls": [
+        "https://c30.radioboss.fm/stream/1031"
+      ],
+      "tags": [
+        "instrumental music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://instrumentalsforever.eu/wp-content/uploads/2021/09/IF-logo-600.jpg",
+      "votes": 19
+    },
+    {
+      "name": "Instrumentals Forever [AAC 64 kbit]",
+      "urls": [
+        "https://quincy.torontocast.com:1925/stream"
+      ],
+      "tags": [
+        "beautiful music",
+        "easy listening",
+        "instrumental"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://instrumentalsforever.eu/wp-content/uploads/2018/03/Instrumentals-Forever.png",
+      "votes": 213
+    },
+    {
+      "name": "JOE",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+      "votes": 574
+    },
+    {
+      "name": "Joe",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "Joe - All the way",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Vlaanderen ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.joe.be/favicon.ico",
+      "votes": 127
+    },
+    {
+      "name": "Joe - Top 2000",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Joe 80's & 90's",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3"
+      ],
+      "tags": [
+        "80's",
+        "90's",
+        "hits"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+      "votes": 1439
+    },
+    {
+      "name": "JOE 80s & 90s",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3"
+      ],
+      "tags": [
+        "80s & 90s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-radio.dpgmedia.net/c/7e/12/49/87/JOE_80s___90s-4-WEBSITE-220x220.png",
+      "votes": 2
+    },
+    {
+      "name": "Joe 80s & 90s",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-radio.dpgmedia.net/c/7e/12/49/87/JOE_80s___90s-4-WEBSITE-220x220.png",
+      "votes": 79
+    },
+    {
+      "name": "joe easy",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3"
+      ],
+      "tags": [
+        "smoothest songs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 165
+    },
+    {
+      "name": "JOE Gold",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png",
+      "votes": 8
+    },
+    {
+      "name": "Joe Gold",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Joe Lage Landen",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://joe.be/favicon.ico",
+      "votes": 28
+    },
+    {
+      "name": "Joe Lage Landen",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 95,
+      "logo": "https://cdn-radio.dpgmedia.net/d/67/d8/ab/39/JOE_EASY-4-WEBSITE-220x220.png",
+      "votes": 12
+    },
+    {
+      "name": "K I F",
+      "urls": [
+        "https://broadcast.sksgroup.com/kif_aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://kif.be/assets/img/logo@2x.png",
+      "votes": 6
+    },
+    {
+      "name": "Ketnet Hits",
+      "urls": [
+        "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.vrt.be/vrtnu-resources/images/apple-touch-icon_max.png",
+      "votes": 20
+    },
+    {
+      "name": "Kiosk Radio",
+      "urls": [
+        "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b"
+      ],
+      "tags": [
+        "independent",
+        "music",
+        "variety",
+        "dj sets",
+        "electro"
+      ],
+      "city": "Brussels",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://kioskradio.com/favicon.png",
+      "votes": 367
+    },
+    {
+      "name": "La Cible",
+      "urls": [
+        "https://quincy.torontocast.com:3195/stream"
+      ],
+      "tags": [
+        "70's",
+        "80's",
+        "music",
+        "oldies",
+        "pop",
+        "slow",
+        "smooth",
+        "soft rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.lacibleradio.net/favicon.ico",
+      "votes": 28
+    },
+    {
+      "name": "Lehabs Radio",
+      "urls": [
+        "https://stream.zeno.fm/v4ney0hn5z3uv"
+      ],
+      "tags": [
+        "afrobeats",
+        "dance",
+        "hip hop"
+      ],
+      "city": "Zaventem",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Mint",
+      "urls": [
+        "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3"
+      ],
+      "tags": [],
+      "city": "wallonie",
+      "codec": "AAC+",
+      "bitrate": 144,
+      "logo": "https://assets.radioplayer.org/056/0567/600/600/kz4elh2i.png",
+      "votes": 165
+    },
+    {
+      "name": "Mixx FM Charleroi",
+      "urls": [
+        "https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mixxfm.be/assets/favicon.png",
+      "votes": 28
+    },
+    {
+      "name": "MOOYZO (MP3)",
+      "urls": [
+        "https://play.mooyzo.be/mooyzo.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mooyzo.be/wp-content/uploads/2022/01/mooyzo-FB.jpg",
+      "votes": 6
+    },
+    {
+      "name": "Musiq3 Baroque",
+      "urls": [
+        "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.rtbf.be/favicon.ico",
+      "votes": 478
+    },
+    {
+      "name": "Musiq3 Jazz RTBF",
+      "urls": [
+        "https://radios.rtbf.be/wr-m3-jazz-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/107862.v1.png",
+      "votes": 22
+    },
+    {
+      "name": "MyNoise Pure Nature",
+      "urls": [
+        "https://purenature-mynoise.radioca.st/stream"
+      ],
+      "tags": [
+        "ambient",
+        "ambient and relaxation music",
+        "nature"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://mynoise.net/apple-touch-icon.png",
+      "votes": 1626
+    },
+    {
+      "name": "Nostalgie + (Belgique)",
+      "urls": [
+        "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
+      ],
+      "tags": [
+        "60s",
+        "64kbps",
+        "70s",
+        "aac",
+        "belgium",
+        "chansons françaises",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nostalgie.be/build/images/favicon.png",
+      "votes": 62
+    },
+    {
+      "name": "Nostalgie 80's",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2614
+    },
+    {
+      "name": "Nostalgie Belgique",
+      "urls": [
+        "https://stream.rcs.revma.com/5gd04cwptg0uv"
+      ],
+      "tags": [
+        "64kbps",
+        "aac",
+        "belgium",
+        "chanson française",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nostalgie.be/build/images/favicon.png",
+      "votes": 156
+    },
+    {
+      "name": "Nostalgie Belgique Live",
+      "urls": [
+        "https://stream.rcs.revma.com/gk3466c9rv3vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nostalgie.be/build/images/favicon.png",
+      "votes": 0
+    },
+    {
+      "name": "Nostalgie Cinema",
+      "urls": [
+        "https://stream.rcs.revma.com/urds0v43ehuvv"
+      ],
+      "tags": [
+        "cinema",
+        "classic",
+        "french",
+        "movie",
+        "ost",
+        "soundtracks"
+      ],
+      "city": "Brussels",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nostalgie.be/favicon.ico",
+      "votes": 8
+    },
+    {
+      "name": "Nostalgie Extra (What a Feeling)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3"
+      ],
+      "tags": [
+        "192kbps",
+        "easy listening",
+        "pop"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nl.nostalgie.be/icons/icon-144x144.png?v=afcbc45fada5babe32741403f76fa06c",
+      "votes": 438
+    },
+    {
+      "name": "Nostalgie Italia",
+      "urls": [
+        "https://stream.rcs.revma.com/81ta7143ehuvv"
+      ],
+      "tags": [
+        "musica italiana"
+      ],
+      "city": "Brussels-Capital Region",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Nostalgie Love1",
+      "urls": [
+        "https://stream.rcs.revma.com/53zabb43ehuvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Nostalgie New Wave",
+      "urls": [
+        "https://n03.rcs.revma.com/52g2hx43ehuvv"
+      ],
+      "tags": [
+        "new wave",
+        "no ads",
+        "non stop music",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://uk.radio.net/300/nostalgiebenewwave.png?version=1f972569565aa614589625271462bc2f",
+      "votes": 63
+    },
+    {
+      "name": "Nostalgie Plus",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3"
+      ],
+      "tags": [
+        "60's",
+        "70's",
+        "80's"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nostalgieplus.eu/images/favicon/favicon-32x32.png",
+      "votes": 18
+    },
+    {
+      "name": "Nostalgie Vlaanderen",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser"
+      ],
+      "tags": [
+        "70's",
+        "80's",
+        "90's",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+      "votes": 1542
+    },
+    {
+      "name": "NRJ België",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser"
+      ],
+      "tags": [
+        "hits",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1887
+    },
+    {
+      "name": "NRJ Belgique",
+      "urls": [
+        "https://stream.rcs.revma.com/xh00fwuptg0uv"
+      ],
+      "tags": [
+        "contemporary hits radio",
+        "dance",
+        "pop",
+        "top40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nrj.be/build/images/favicon.ico",
+      "votes": 124
+    },
+    {
+      "name": "NRJ+ (Belgique)",
+      "urls": [
+        "https://stream.rcs.revma.com/1a6hdnzbebuvv"
+      ],
+      "tags": [
+        "00s",
+        "64kbps",
+        "90s",
+        "aac",
+        "contemporary hits radio",
+        "dance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.nrj.be/build/images/favicon.ico",
+      "votes": 20
+    },
+    {
+      "name": "Oilsjt Mjoezik",
+      "urls": [
+        "https://stream.oilsjtmjoezik.be/?1739170252723"
+      ],
+      "tags": [],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.oilsjtmjoezik.be%2F",
+      "votes": 19
+    },
+    {
+      "name": "One World Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+      "votes": 73
+    },
+    {
+      "name": "ONIB Dj RADIO",
+      "urls": [
+        "https://listen.radioking.com/radio/583019/stream/643364?ver=699277"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onibradio.com/wp-content/uploads/2023/10/onib-radio-dj-radio-170x170.jpg",
+      "votes": 17
+    },
+    {
+      "name": "ONIB Radio",
+      "urls": [
+        "https://www.radioking.com/play/galaxieradio-belgium-1/356660"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onibradio.com/favicon.ico",
+      "votes": 9
+    },
+    {
+      "name": "Opsinjoor Volksradio",
+      "urls": [
+        "https://media2.hostin.cc/volksradio.mp3"
+      ],
+      "tags": [
+        "dutch",
+        "flemish"
+      ],
+      "city": "Flanders",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "PHARE FM Belgique",
+      "urls": [
+        "https://str0.creacast.com/pharefm_mons"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
+      "votes": 27
+    },
+    {
+      "name": "PINK",
+      "urls": [
+        "https://www.clubfmserver.be/pink.mp3"
+      ],
+      "tags": [
+        "pop",
+        "top 40",
+        "women"
+      ],
+      "city": "West-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.pinkradio.be/favicon.ico",
+      "votes": 22
+    },
+    {
+      "name": "PROS",
+      "urls": [
+        "https://stream4.audiostreamen.nl/radiopros"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiopros.be/wp-content/uploads/2020/07/logo-PROS.png",
+      "votes": 27
+    },
+    {
+      "name": "Pure (FM)",
+      "urls": [
+        "https://radios.rtbf.be/pure-128.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 1667
+    },
+    {
+      "name": "Q Music België",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 95,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Q-Allstars",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png",
+      "votes": 11
+    },
+    {
+      "name": "Q-Foute Radio",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://qmusic.be/favicon.ico",
+      "votes": 414
+    },
+    {
+      "name": "Q-Foute Radio",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",
+      "votes": 44
+    },
+    {
+      "name": "Qmusic",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s87683/images/logod.png",
+      "votes": 5
+    },
+    {
+      "name": "Qmusic BE",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac"
+      ],
+      "tags": [],
+      "city": "Vilvoorde",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+      "votes": 1
+    },
+    {
+      "name": "Qmusic Foute Radio",
+      "urls": [
+        "https://audio-streaming.qmusic.be/q-foute-radio.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-profiles.tunein.com/s308757/images/logod.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Qmusic Maximum Hits",
+      "urls": [
+        "https://audio-streaming.qmusic.be/q-maximum-hits.aac"
+      ],
+      "tags": [
+        "dpgmedia",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-profiles.tunein.com/s348071/images/logod.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Qmusic Q-Allstars",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+      ],
+      "tags": [
+        "00's",
+        "10's",
+        "80's",
+        "90's"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+      "votes": 62
+    },
+    {
+      "name": "RADIO 2",
+      "urls": [
+        "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/"
+      ],
+      "tags": [],
+      "city": "Antwerpen",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/",
+      "votes": 0
+    },
+    {
+      "name": "Radio 4910",
+      "urls": [
+        "https://radio7.pro-fhi.net:19073/stream.mp3"
+      ],
+      "tags": [
+        "culture",
+        "jazz",
+        "local news",
+        "local radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://usercontent.one/wp/radio4910.be/wp-content/uploads/2024/01/Radio-4910-logo-new-big.png?media=1705857804",
+      "votes": 15
+    },
+    {
+      "name": "Radio 700",
+      "urls": [
+        "https://stream.radio700.eu/radio700-live/mp3-192?ref=radiobrowser"
+      ],
+      "tags": [],
+      "city": "België",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "RADIO ACCENT",
+      "urls": [
+        "https://clubfmserver.be/accent.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radioaccent.be/wp-content/themes/radioaccent-theme/assets/img/logo2023.webp",
+      "votes": 7
+    },
+    {
+      "name": "Radio Air Libre",
+      "urls": [
+        "https://streaming.domainepublic.net/radioairlibre.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://radioairlibre.net/static/css/logo-airlibre.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Apollo",
+      "urls": [
+        "https://radioapollo.beheerstream.nl/8004/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radioapollo.be/wp-content/uploads/2020/05/cropped-voorsite-1-192x192.jpg",
+      "votes": 26
+    },
+    {
+      "name": "Radio Appolo",
+      "urls": [
+        "https://loa.beheerstream.nl:8004/stream"
+      ],
+      "tags": [
+        "news",
+        "various music"
+      ],
+      "city": "Lindestraat 7a, Wiekevorst",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://usercontent.one/wp/www.radioapollo.be/wp-content/uploads/2023/10/radioapollo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Radio Bonheur (BE)",
+      "urls": [
+        "https://france1.coollabel-productions.com/proxy/radiobonheur317/stream"
+      ],
+      "tags": [
+        "chansons françaises",
+        "local radio",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Radio BOO",
+      "urls": [
+        "https://stream03.level27.be/;stream.mp3https://stream03.level27.be/;stream.mp3"
+      ],
+      "tags": [
+        "hits",
+        "news",
+        "pop",
+        "regional"
+      ],
+      "city": "BE",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Campus BXL 92.1 [AAC+]",
+      "urls": [
+        "https://www.radiocampus.be/stream/stream.aacplus"
+      ],
+      "tags": [
+        "alternative",
+        "bruxelles",
+        "eclectic",
+        "electro",
+        "experimental",
+        "folk",
+        "hip hop",
+        "indie",
+        "jazz",
+        "progressive",
+        "punk",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Campus BXL 92.1 [Ogg HQ]",
+      "urls": [
+        "https://www.radiocampus.be/stream/stream_hi.ogg"
+      ],
+      "tags": [
+        "alternative",
+        "eclectic",
+        "electro",
+        "experimental",
+        "folk",
+        "hip hop",
+        "indie",
+        "jazz",
+        "progressive",
+        "rock"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 106
+    },
+    {
+      "name": "Radio Chevaucoir",
+      "urls": [
+        "https://radio10.pro-fhi.net/flux-nqjpklks/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.webradiostreams.nl/illus/logo's%20radio/Radio%20Chevauchoir.jpg",
+      "votes": 17
+    },
+    {
+      "name": "Radio Continu - the original",
+      "urls": [
+        "https://streams.dutchmediacenter.nl/listen/radiocontinu/live"
+      ],
+      "tags": [
+        "70",
+        "80",
+        "classic hits",
+        "news",
+        "regional news"
+      ],
+      "city": "Antwerpen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiocontinu.com/favicon.ico",
+      "votes": 6
+    },
+    {
+      "name": "Radio Demerstad",
+      "urls": [
+        "https://stream.radiodemerstad.be/radiodemerstad.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Emotion Belgique",
+      "urls": [
+        "https://stream1.dgnet.be/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 57
+    },
+    {
+      "name": "Radio FG Antwerpen",
+      "urls": [
+        "https://stream.rcs.revma.com/5wesqhfap98uv"
+      ],
+      "tags": [
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiofg.be/wp-content/uploads/2021/09/LOGO-FG-GLOBAL-cropped.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Lorali",
+      "urls": [
+        "https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://lorali.be/favicon.ico",
+      "votes": 14
+    },
+    {
+      "name": "Radio LRL",
+      "urls": [
+        "https://s2.ssl-stream.com/radio/8070/live.mp3"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "regional",
+        "schlager"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Memory",
+      "urls": [
+        "https://live.radiostudio.be/radiomemory"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiomemory.be/img/logo/memory-transparant-wit.png",
+      "votes": 13
+    },
+    {
+      "name": "Radio Mol",
+      "urls": [
+        "https://radiomol.ice.infomaniak.ch/radiomol-192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiomol.be/images/logo/radiomol-logo@2x.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Ninove",
+      "urls": [
+        "https://radioninove.streamer.radioninove.be/"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://usercontent.one/wp/www.radioninove.be/wp-content/uploads/2021/03/cropped-RadioNinove_Logo_Instagram-192x192.png?media=1768646972",
+      "votes": 4
+    },
+    {
+      "name": "Radio Ninove Non-Stop Hits",
+      "urls": [
+        "https://nonstophits.streamer.radioninove.be/"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Nova",
+      "urls": [
+        "https://nova.dzradio.nl/nova"
+      ],
+      "tags": [
+        "hollands",
+        "nederlandstalig",
+        "oldies",
+        "schlager"
+      ],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://usercontent.one/wp/www.radionova.be/wp-content/uploads/2023/03/cropped-2-180x180.png?media=1699536891",
+      "votes": 22
+    },
+    {
+      "name": "Radio Oost-West",
+      "urls": [
+        "https://icecast.movemedia.be/oostwest"
+      ],
+      "tags": [
+        "dutch music",
+        "french music",
+        "local music",
+        "local radio",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiooostwest.be/wp-content/uploads/2018/01/cropped-Logo-enkel-32x32.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Opsinjoor",
+      "urls": [
+        "https://icecast.movemedia.be/opsinjoor"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.opsinjoor.be/player/img/logos/opsinjoor.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio Panik",
+      "urls": [
+        "https://streaming.domainepublic.net/radiopanik.ogg"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "Brussels",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
+      "votes": 83
+    },
+    {
+      "name": "Radio Paradise",
+      "urls": [
+        "https://phoebe.streamerr.co:3445/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Parkies",
+      "urls": [
+        "https://stream.radioparkies.com/listen/parkies/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://parkinson-radio-parkies.weebly.com/uploads/1/5/0/6/15065266/radiologo_orig.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Radio RGR Classic Hits Rotselaar, Be",
+      "urls": [
+        "https://stream1.rgrfm.be/"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "Brabant",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Ruby  - Gent, be",
+      "urls": [
+        "https://ruby.stream.laut.fm/ruby"
+      ],
+      "tags": [],
+      "city": "Oost-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Singjaal",
+      "urls": [
+        "https://mscp2.live-streams.nl:8202/radiosingjaal"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosingjaal.be/wp-content/uploads/2022/08/favicon.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio STAR",
+      "urls": [
+        "https://stream.radiostar.be/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Sud",
+      "urls": [
+        "https://streaming.domainepublic.net/radiosud.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiosud.be/favicon/android-icon-192x192.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Valencia 105 FM - Meer, Be",
+      "urls": [
+        "https://stream.radiovalencia.be/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "Radio Victoria",
+      "urls": [
+        "https://streamer1.radiovictoria.be/"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "happy music",
+        "pop music"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiovictoria.be/wp-content/uploads/2025/08/cropped-Victoria_RGB_Kat_Blauw-scaled-1-192x192.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio Vintage Plus",
+      "urls": [
+        "https://radio2.pro-fhi.net/radio/9039/stream.mp3"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Wfm 105.4 - Westerlo, be",
+      "urls": [
+        "https://mcp-2.mm-stream.nl:8126/WFM"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "Antwerpen",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Yujen Briag - Power Station",
+      "urls": [
+        "https://play.radioking.io/iujenbriagburgas/524027"
+      ],
+      "tags": [],
+      "city": "Brussels-Capital Region",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.google.com/interests/saved?hl=bg-BE",
+      "votes": 2
+    },
+    {
+      "name": "Radio Zuidrand",
+      "urls": [
+        "https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3."
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "RadioSpinner - Atmospheric Breaks",
+      "urls": [
+        "https://tower.hayva.ru/5jwuo-96"
+      ],
+      "tags": [
+        "atmospheric",
+        "breakbeat",
+        "chillout"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Radyo Gar",
+      "urls": [
+        "https://gargara.net/listen/zana/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Brussels",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "RBL",
+      "urls": [
+        "https://radios.rtbf.be/laprem1ere-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/favicon.ico",
+      "votes": 96
+    },
+    {
+      "name": "RBS gold radio",
+      "urls": [
+        "https://caster04.streampakket.com/proxy/8090/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://play-lh.googleusercontent.com/1ZNe9Da6T9YJ2GQljgViXjYlk2F6_Woo7EG4i_-WEN1kpC6kMbSjouHP3rNzB7oH2A",
+      "votes": 7
+    },
+    {
+      "name": "Rowyna Music (n.strm)",
+      "urls": [
+        "https://server7.radio-streams.net/proxy/rowynamu/stream"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "RTBF Classic 21",
+      "urls": [
+        "https://radios.rtbf.be/classic21-128.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "Wallonia",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 6112
+    },
+    {
+      "name": "RTBF Classic 21",
+      "urls": [
+        "https://radios.rtbf.be/classic21-64.aac"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.rtbf.be/favicon.ico",
+      "votes": 1431
+    },
+    {
+      "name": "RTBF Classic 21 - 60's",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-60-128.mp3"
+      ],
+      "tags": [
+        "60s",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 1367
+    },
+    {
+      "name": "RTBF Classic 21 - 70's",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-70-128.mp3"
+      ],
+      "tags": [
+        "70s",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 774
+    },
+    {
+      "name": "RTBF Classic 21 - 80's",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-80-128.mp3"
+      ],
+      "tags": [
+        "80s",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 897
+    },
+    {
+      "name": "RTBF Classic 21 - 90's",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-90-128.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png",
+      "votes": 73
+    },
+    {
+      "name": "RTBF Classic 21 - Live",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-live-128.mp3"
+      ],
+      "tags": [
+        "live"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://assets.maradio.be/stationimages/1107_programme_image.png",
+      "votes": 26
+    },
+    {
+      "name": "RTBF Classic 21 - Metal",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-metal-128.mp3"
+      ],
+      "tags": [
+        "metal",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 631
+    },
+    {
+      "name": "RTBF Classic 21 - Reggae",
+      "urls": [
+        "https://radios.rtbf.be/wr-eventradio-128.mp3"
+      ],
+      "tags": [
+        "reggae",
+        "roots reggae",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 438
+    },
+    {
+      "name": "RTBF Classic 21 - Route 66",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-route66-128.mp3"
+      ],
+      "tags": [
+        "country",
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbfradioplayer.be/favicon.ico",
+      "votes": 1076
+    },
+    {
+      "name": "RTBF Classic 21 - Soul Power",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-soul-128.mp3"
+      ],
+      "tags": [
+        "rtbf",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbfradioplayer.be/favicon.ico",
+      "votes": 179
+    },
+    {
+      "name": "RTBF Classic 21 - Underground",
+      "urls": [
+        "https://radios.rtbf.be/wr-c21-underground-128.mp3"
+      ],
+      "tags": [
+        "underground"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radio.fr/300/classic21underground.png",
+      "votes": 54
+    },
+    {
+      "name": "RTBF Jam.",
+      "urls": [
+        "https://radios.rtbf.be/jam-128.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "electro",
+        "folk",
+        "nu-jazz",
+        "pop",
+        "rock",
+        "urban",
+        "world music"
+      ],
+      "city": "Wallonia",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 123
+    },
+    {
+      "name": "RTBF La Première",
+      "urls": [
+        "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "RTBF La Première",
+      "urls": [
+        "https://radios.rtbf.be/laprem1ere-64.aac"
+      ],
+      "tags": [
+        "news",
+        "rtbf",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 7173
+    },
+    {
+      "name": "RTBF Musiq3",
+      "urls": [
+        "https://radios.rtbf.be/musiq3-128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "RTBF Pure FM",
+      "urls": [
+        "https://radios.rtbf.be/pure-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbf.be/favicon.ico",
+      "votes": 595
+    },
+    {
+      "name": "RTBF Tarmac",
+      "urls": [
+        "https://radios.rtbf.be/tarmac-128.mp3"
+      ],
+      "tags": [
+        "hiphop",
+        "rap",
+        "rtbf",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.rtbfradioplayer.be/favicon.ico",
+      "votes": 648
+    },
+    {
+      "name": "RTBF Viva+",
+      "urls": [
+        "https://radios.rtbf.be/vivaplus-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radio.fr/300/rtbfvivaplus.jpeg",
+      "votes": 53
+    },
+    {
+      "name": "RTBF VivaCité Bruxelles",
+      "urls": [
+        "https://radios.rtbf.be/vivabxl-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 1441
+    },
+    {
+      "name": "RTBF VivaCité Charleroi",
+      "urls": [
+        "https://radios.rtbf.be/vivacharleroi-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 200
+    },
+    {
+      "name": "RTBF VivaCité Hainaut",
+      "urls": [
+        "https://radios.rtbf.be/vivahainaut-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 382
+    },
+    {
+      "name": "RTBF Vivacité Liège",
+      "urls": [
+        "https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/930/rtbf-vivacite-liege.0e9279d5.png",
+      "votes": 5
+    },
+    {
+      "name": "RTBF VivaCité Liège",
+      "urls": [
+        "https://radios.rtbf.be/vivaliege-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 520
+    },
+    {
+      "name": "RTBF VivaCité Luxembourg",
+      "urls": [
+        "https://radios.rtbf.be/vivalux-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 321
+    },
+    {
+      "name": "RTBF VivaCité Namur & Brabant Wallon",
+      "urls": [
+        "https://radios.rtbf.be/vivanamurbw-64.aac"
+      ],
+      "tags": [
+        "rtbf"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+      "votes": 304
+    },
+    {
+      "name": "scorpio",
+      "urls": [
+        "https://stream.radioscorpio.be/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 94
+    },
+    {
+      "name": "Sport FM Hoeselt",
+      "urls": [
+        "https://s11.ssl-stream.com/ssl/sportfm/stream"
+      ],
+      "tags": [],
+      "city": "Limburg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Stadsradio Halle",
+      "urls": [
+        "https://mscp2.live-streams.nl:8132/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Star FM Belgium",
+      "urls": [
+        "https://shoutcast2.wirelessbelgie.be/starfm"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Studio Brussel De Jaren Nul",
+      "urls": [
+        "https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "hits",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Studio Grensstad",
+      "urls": [
+        "https://caster.hosting078.nl:1175/stream"
+      ],
+      "tags": [],
+      "city": "Antwerpen",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://studiogrensstad.nl/wp-content/uploads/2020/12/logo-grensstad.jpg",
+      "votes": 6
+    },
+    {
+      "name": "Studio Jessa",
+      "urls": [
+        "https://caster05.streampakket.com/proxy/8692/stream"
+      ],
+      "tags": [],
+      "city": "Hasselt",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vrto-2.be/studio-jessa-avatar.png",
+      "votes": 4
+    },
+    {
+      "name": "The Funky Channel",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/breakou1/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 517
+    },
+    {
+      "name": "Tommorowland One World Radio - Daybreak Sessions",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+      "votes": 720
+    },
+    {
+      "name": "Tomorrowland One World Radio - Anthems",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "Top (BAM)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3"
+      ],
+      "tags": [
+        "hardstyle",
+        "techno"
+      ],
+      "city": "Flanders",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.topradio.be/favicons/favicon-128x128.png",
+      "votes": 22
+    },
+    {
+      "name": "Top 2",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp3"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://api.topradio.be/images/34337.961abf7.16-9.1000.90.jpg",
+      "votes": 5
+    },
+    {
+      "name": "top radio retro",
+      "urls": [
+        "https://str.topradio.be/topradioretroarena.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.topradio.be/favicons/favicon-96x96.png",
+      "votes": 1507
+    },
+    {
+      "name": "Top Retro",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.topradio.be/images/7249.9571f36.16-9.1000.90.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Top Techno",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.topradio.be/images/8178.91fb06c.16-9.1000.90.jpg",
+      "votes": 11
+    },
+    {
+      "name": "TopRadio FM",
+      "urls": [
+        "https://str.topradio.be/topradio.mp3"
+      ],
+      "tags": [
+        "topradio"
+      ],
+      "city": "België",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Topradio TopRetroArena",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac"
+      ],
+      "tags": [
+        "90s",
+        "dance",
+        "electronic",
+        "house",
+        "retro",
+        "techno",
+        "trance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.topradio.be/favicons/favicon-196x196.png",
+      "votes": 175
+    },
+    {
+      "name": "TOPradio TOPschaamteloos",
+      "urls": [
+        "https://27793.live.streamtheworld.com/TOPSCHAAMTELOZE.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://topradio.be/_next/image?url=https%3A%2F%2Fapi.topradio.be%2Fimages%2F7251.cd99757.1-1.128.90.webp&w=64&q=75",
+      "votes": 0
+    },
+    {
+      "name": "TOPschaamteloos",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZEAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Toptechno",
+      "urls": [
+        "https://27913.live.streamtheworld.com/TOPSPINNING.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "TradCan",
+      "urls": [
+        "https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "Versuz",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Vienna FM",
+      "urls": [
+        "https://radio.ministry.fr/listen/vienna/radio.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "lounge",
+        "oldies",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio.ministry.fr/static/uploads/vienna/album_art.1788600534.png",
+      "votes": 1
+    },
+    {
+      "name": "Villa Bota",
+      "urls": [
+        "https://caster04.streampakket.com/proxy/8186/stream"
+      ],
+      "tags": [],
+      "city": "West-Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Vlaamse Wonderjaren",
+      "urls": [
+        "https://cast1.torontocast.com:3305/stream"
+      ],
+      "tags": [
+        "folklore",
+        "golden oldies",
+        "goldies",
+        "nederlandstalig",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://vlaamsewonderjaren.be/wp-content/uploads/2018/11/cropped-vlaamse-wonderjaren-logo-transparant-180x180.png",
+      "votes": 30
+    },
+    {
+      "name": "VRT NWS HQ",
+      "urls": [
+        "https://icecast.vrtcdn.be/vrtnws-high.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Vlaanderen",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "VRT Radio 1",
+      "urls": [
+        "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/yeD5X7FMM5.png",
+      "votes": 183
+    },
+    {
+      "name": "VRT Radio 1 NWS",
+      "urls": [
+        "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "VRT Verkeer",
+      "urls": [
+        "https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "WabiSabi radio",
+      "urls": [
+        "https://s4.radio.co/sd1a7a0223/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.wabisabiradio.com/wp-content/uploads/2023/09/cropped-JPEG-file-04-2-192x192.jpg",
+      "votes": 3
+    },
+    {
+      "name": "We Are Various",
+      "urls": [
+        "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Webradio Atlantis - Zandvliet, BE",
+      "urls": [
+        "https://zyrmuuzd.beheerstream.nl:8048/stream"
+      ],
+      "tags": [
+        "community",
+        "oldies",
+        "pop"
+      ],
+      "city": "Antwerpen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "WILLY",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Vlaanderen",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-profiles.tunein.com/s308770/images/logog.png",
+      "votes": 63
+    },
+    {
+      "name": "Willy",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Vlaanderen",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-profiles.tunein.com/s308770/images/logod.jpg",
+      "votes": 163
+    },
+    {
+      "name": "Willy",
+      "urls": [
+        "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.willy.radio/assets/favicon/willy-1c69cc3992bd551e908f2ec0f8c77337b6fe0daa61a3ab891d4934210dee95f4.ico",
+      "votes": 299
+    },
+    {
+      "name": "Willy Class X",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Vlaanderen",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn-profiles.tunein.com/s322560/images/logod.jpg",
+      "votes": 102
+    },
+    {
+      "name": "Willy Classix",
+      "urls": [
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
+      ],
+      "tags": [
+        "classics"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.willy.radio/favicon.ico",
+      "votes": 46
+    },
+    {
+      "name": "XBeat",
+      "urls": [
+        "https://radio.xbeat.org/stream1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "YOLO - Life is like a dance",
+      "urls": [
+        "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance"
+      ],
+      "tags": [
+        "eurodance"
+      ],
+      "city": "Limburg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.yoloradio.be/uploads/3/9/6/3/3963899/editor/logo.png?1652812395",
+      "votes": 234
+    },
+    {
+      "name": "Zen Garden (myNoise Radio)",
+      "urls": [
+        "https://zengarden-mynoise.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://mynoise.net/apple-touch-icon.png",
+      "votes": 62
+    },
+    {
+      "name": "ZOE.radio",
+      "urls": [
+        "https://stream.zoe.radio/48"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "SD",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
+      "votes": 22
+    },
+    {
+      "name": "ZOE.radio",
+      "urls": [
+        "https://stream.zoe.radio/"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
+      "votes": 15
+    },
+    {
+      "name": "ZZRock",
+      "urls": [
+        "https://axtran.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/4e31c3_ede9d3a6d2844853ac326447082428c2~mv2.png/v1/fill/w_238,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ZZROCK.png",
+      "votes": 3
+    }
+  ]
+}

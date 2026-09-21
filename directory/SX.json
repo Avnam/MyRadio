@@ -1,0 +1,19 @@
+{
+  "code": "SX",
+  "name": "Dutch Part Sint Maarten",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Tropik FM Live St Barth",
+      "urls": [
+        "https://stream10.vestaradio.com/TROPIKFM"
+      ],
+      "tags": [],
+      "city": "Guadeloupe",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "code": "BQ",
+  "name": "Bonaire",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "Club De Daltons",
+      "urls": [
+        "https://proxy1.audiostreamen.nl/clubdedaltons.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://ClubDeDaltons.nl",
+      "votes": 3
+    },
+    {
+      "name": "KISS FM Nederland",
+      "urls": [
+        "https://stream.kissfm.nl/kissfm"
+      ],
+      "tags": [
+        "hits",
+        "pop music",
+        "top 40"
+      ],
+      "city": "Noord-Holland, Amsterdam",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Mega Hit FM",
+      "urls": [
+        "https://megahitfm.krioyohosting.com:1012/stream"
+      ],
+      "tags": [
+        "top hit 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Non Stop Hits Alex FM",
+      "urls": [
+        "https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&start_time=1709718045653"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.laut.fm/a06fa03c8f781b6ea0fbc821d8f55b0f?t=_640x640",
+      "votes": 147
+    },
+    {
+      "name": "Radio Transmundial Bonaire 800 Khz",
+      "urls": [
+        "https://cdn.instream.audio/:9050/stream"
+      ],
+      "tags": [
+        "christian",
+        "cristiana",
+        "musica cristiana"
+      ],
+      "city": "Bonaire",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/17299.v3.png",
+      "votes": 833
+    },
+    {
+      "name": "Studio De Groene Knuppel",
+      "urls": [
+        "https://mars.streamerr.co/8238/studiodegroeneknuppel"
+      ],
+      "tags": [
+        "piratenhits"
+      ],
+      "city": "Dalfsen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/6ITWtFt.jpeg",
+      "votes": 11
+    }
+  ]
+}

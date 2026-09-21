@@ -1,0 +1,203 @@
+{
+  "code": "AQ",
+  "name": "Antarctica",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 33
+    },
+    {
+      "name": "Gachi Station (Ukrainian playlist) #1",
+      "urls": [
+        "https://stream.zeno.fm/bmb6ihzfbpdtv"
+      ],
+      "tags": [
+        "gachi",
+        "gachibass",
+        "gachimuchi",
+        "gachiremix",
+        "local music",
+        "music",
+        "pop music",
+        "ukraine",
+        "ukrainian",
+        "ukrainian rock",
+        "гачи",
+        "гачи ремикс",
+        "гачимучи",
+        "україномовне"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/oqLAeUqFEaQa_hXKeYTlaxTFs5XOrXl9rEjvTPF4yaY/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2I4YmZjZTlkLTRiN2UtNDM1Ni1hYmM5LTU0NjdlNDkyNmU3Ni9pbWFnZS8_dT0xNzI1ODM5OTQ2NTUw.webp",
+      "votes": 117
+    },
+    {
+      "name": "Gachi Station #1",
+      "urls": [
+        "https://stream.zeno.fm/y513614qvzzuv"
+      ],
+      "tags": [
+        "chinese",
+        "gachibass",
+        "gachimuchi",
+        "gachiremix",
+        "jazz",
+        "meme music",
+        "music",
+        "pop music",
+        "rap",
+        "russian",
+        "russian hits",
+        "russian pop",
+        "russian rock",
+        "trap",
+        "ukrainian",
+        "гачи",
+        "диско",
+        "классическая музыка",
+        "лëгкая музыка",
+        "металл",
+        "поп-музыка",
+        "популярная музыка",
+        "россия",
+        "русская популярная музыка",
+        "современная музыка",
+        "электронная музыка"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/vbDcIPCT67c4hqHWfhezqD6K2482ISHirz9sZK9SsTM/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnNGRtNjZBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRaG9MWWx3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MjU4MzkwNDYwNTQ.webp",
+      "votes": 216
+    },
+    {
+      "name": "Gachi Station #2",
+      "urls": [
+        "https://stream.zeno.fm/p7ume1dmbd0uv"
+      ],
+      "tags": [
+        "chinese",
+        "gachi",
+        "gachibass",
+        "gachimuchi",
+        "gachiremix",
+        "local music",
+        "music",
+        "philosophy",
+        "pop music",
+        "regional music",
+        "russia",
+        "russian",
+        "russian hits",
+        "russian music",
+        "russian pop",
+        "russian rock",
+        "ukrainian",
+        "классическая музыка",
+        "лëгкая музыка",
+        "музыка",
+        "поп-музыка",
+        "популярная музыка",
+        "разная музыка",
+        "русская популярная музыка",
+        "русский",
+        "русский рок",
+        "русский шансон",
+        "современная музыка",
+        "танцевальная музыка",
+        "электронная музыка"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/8hwRuEzG_asll1FvW-o7fWkMB6MNRZ_ZQdspvZ9rw_A/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnNGRtNjZBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRdk95bWtnc01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MjU4Mzk1Mzg0MzQ.webp",
+      "votes": 91
+    },
+    {
+      "name": "Gachi Station #3",
+      "urls": [
+        "https://stream.zeno.fm/cucqe20mixktv"
+      ],
+      "tags": [
+        "community",
+        "gachi",
+        "gachibass",
+        "gachimuchi",
+        "gachiremix",
+        "local music",
+        "meme music",
+        "music",
+        "pop",
+        "pop music",
+        "regional music",
+        "retro",
+        "retro music",
+        "russian",
+        "russian hits",
+        "russian music",
+        "russian pop",
+        "russian rock",
+        "world music",
+        "металл"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/vbDcIPCT67c4hqHWfhezqD6K2482ISHirz9sZK9SsTM/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnNGRtNjZBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRaG9MWWx3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MjU4MzkwNDYwNTQ.webp",
+      "votes": 57
+    },
+    {
+      "name": "kbs",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNjM1NTZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bebtC3N5q3n0ESDHEZsybkdSobSEbLXeTnKHG2RPYkedCDwZ7isdFhGKpNRNLGHw20UN~3evvwwd5J1TT1uiw8xHLbS60GwfG8aDYm8EVA2~8uj22jdMRsciHYQ3fOa~J3v0t8KJLXKu8RqREBNdPoVjq2kFiii99x86WAjHSrZaqKheb37RJn~Gd6xWJoN81n-pzZI3BicAhVhxQ7PqKb6QMPjHwwwIxYLsnMAV9pphkVDgOOvPbUTx4p337AVDeYJruKnN0Va52ykOIwFiY7JyTMI08CgDXRKLWi3BwzxRYvgkR~gCUwW9g50OQkh~gpLLUsCGd1Ibzp24XIEpcQ__"
+      ],
+      "tags": [
+        "kbs"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 528
+    },
+    {
+      "name": "pastacast",
+      "urls": [
+        "https://radio.nudel.cc/listen/pastacast/radio.mp3"
+      ],
+      "tags": [
+        "algorave"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio X",
+      "urls": [
+        "https://stream.radiox.sk:8443/mood.mp3"
+      ],
+      "tags": [
+        "mood"
+      ],
+      "city": "Uniza",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://uiuiui.in/uploads/posts/2022-11/783436035-7a890000a5f2bd305a992d50ffc480b3.webp",
+      "votes": 16
+    }
+  ]
+}

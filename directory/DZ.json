@@ -1,0 +1,797 @@
+{
+  "code": "DZ",
+  "name": "Algeria",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 3132
+    },
+    {
+      "name": "LOVE FM: أغاني البوب ​​الكلاسيكية من الثمانينيات وحتى الآن",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 20
+    },
+    {
+      "name": ". إذاعة ماهر المعيقلي",
+      "urls": [
+        "https://backup.qurango.net/radio/maher"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4450
+    },
+    {
+      "name": "..مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3709
+    },
+    {
+      "name": ".القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2798
+    },
+    {
+      "name": ".صور من حياة الصحابة",
+      "urls": [
+        "https://qurango.net/radio/sahabah"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6362
+    },
+    {
+      "name": ".مختصر السيرة",
+      "urls": [
+        "https://qurango.net/radio/almukhtasar_fi_alsiyra"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3707
+    },
+    {
+      "name": "A ntinea Radio",
+      "urls": [
+        "https://listen.radioking.com/radio/6640/stream/347"
+      ],
+      "tags": [],
+      "city": "Tizi-Ouzou",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6020
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [
+        "islamic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 1541
+    },
+    {
+      "name": "al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2357
+    },
+    {
+      "name": "Alger Chaîne 3",
+      "urls": [
+        "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Algérie Chaine 1",
+      "urls": [
+        "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png",
+      "votes": 1038
+    },
+    {
+      "name": "Algérie Chaine 2",
+      "urls": [
+        "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png",
+      "votes": 1120
+    },
+    {
+      "name": "beautiful recitation",
+      "urls": [
+        "https://qurango.net/radio/salma"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2469
+    },
+    {
+      "name": "Beur FM",
+      "urls": [
+        "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8163
+    },
+    {
+      "name": "France Maghreb 2",
+      "urls": [
+        "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8868
+    },
+    {
+      "name": "Hitradio RTL Chemnitz",
+      "urls": [
+        "https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Sachsen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 212
+    },
+    {
+      "name": "Hits 1 Algérie",
+      "urls": [
+        "https://radio12.pro-fhi.net/listen/whmnrlow/stream"
+      ],
+      "tags": [
+        "pop",
+        "top40"
+      ],
+      "city": "Alger",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 35986
+    },
+    {
+      "name": "International  radio",
+      "urls": [
+        "https://radio.jump.bg/proxy/mariana4/stream"
+      ],
+      "tags": [],
+      "city": "Bulgaria ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 65
+    },
+    {
+      "name": "Jil FM",
+      "urls": [
+        "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png",
+      "votes": 1604
+    },
+    {
+      "name": "Radio Adrar",
+      "urls": [
+        "https://radioadrar.ice.infomaniak.ch/adrar.mp3"
+      ],
+      "tags": [
+        "local news",
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png",
+      "votes": 151
+    },
+    {
+      "name": "Radio Algérie Internationale",
+      "urls": [
+        "https://radiointernationale.ice.infomaniak.ch/internationale.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png",
+      "votes": 671
+    },
+    {
+      "name": "Radio Annaba",
+      "urls": [
+        "https://radioannaba.ice.infomaniak.ch/annaba.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---023.png",
+      "votes": 135
+    },
+    {
+      "name": "Radio Batna",
+      "urls": [
+        "https://radiobatna.ice.infomaniak.ch/batna.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---005.png",
+      "votes": 129
+    },
+    {
+      "name": "Radio Bechar",
+      "urls": [
+        "https://radiobechar.ice.infomaniak.ch/bechar.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---008.png",
+      "votes": 163
+    },
+    {
+      "name": "Radio Bejaïa",
+      "urls": [
+        "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---006.png",
+      "votes": 597
+    },
+    {
+      "name": "Radio Biskra",
+      "urls": [
+        "https://radiobiskra.ice.infomaniak.ch/biskra.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---007.png",
+      "votes": 105
+    },
+    {
+      "name": "Radio Blida",
+      "urls": [
+        "https://radioblida.ice.infomaniak.ch/blida.mp3"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---009.png",
+      "votes": 309
+    },
+    {
+      "name": "Radio Bouira",
+      "urls": [
+        "https://radiobouira.ice.infomaniak.ch/bouira.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---010.png",
+      "votes": 69
+    },
+    {
+      "name": "Radio Chlef",
+      "urls": [
+        "https://radiochlef.ice.infomaniak.ch/chlef.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---002.png",
+      "votes": 177
+    },
+    {
+      "name": "Radio Constantine",
+      "urls": [
+        "https://radioconstantine.ice.infomaniak.ch/constantine.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---025.png",
+      "votes": 305
+    },
+    {
+      "name": "Radio Coran",
+      "urls": [
+        "https://radiocoran.ice.infomaniak.ch/coran.mp3"
+      ],
+      "tags": [
+        "coran"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png",
+      "votes": 490
+    },
+    {
+      "name": "Radio Culture",
+      "urls": [
+        "https://radioculture.ice.infomaniak.ch/culture.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png",
+      "votes": 399
+    },
+    {
+      "name": "Radio Djelfa",
+      "urls": [
+        "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---017.png",
+      "votes": 67
+    },
+    {
+      "name": "Radio El Bahdja",
+      "urls": [
+        "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png",
+      "votes": 1342
+    },
+    {
+      "name": "Radio El Bayadh",
+      "urls": [
+        "https://radioelbayedh.ice.infomaniak.ch/radioelbayedh.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---032.png",
+      "votes": 61
+    },
+    {
+      "name": "Radio Guelma",
+      "urls": [
+        "https://radioguelma.ice.infomaniak.ch/guelma.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---024.png",
+      "votes": 67
+    },
+    {
+      "name": "Radio Illizi",
+      "urls": [
+        "https://radioillizi.ice.infomaniak.ch/illizi.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---033.png",
+      "votes": 62
+    },
+    {
+      "name": "Radio Jijel",
+      "urls": [
+        "https://radiojijel.ice.infomaniak.ch/jijel.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---018.png",
+      "votes": 82
+    },
+    {
+      "name": "Radio Laghouat",
+      "urls": [
+        "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---003.png",
+      "votes": 176
+    },
+    {
+      "name": "Radio M'sila",
+      "urls": [
+        "https://radiomsila.ice.infomaniak.ch/msila.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png",
+      "votes": 182
+    },
+    {
+      "name": "Radio Mascara",
+      "urls": [
+        "https://radiomascara.ice.infomaniak.ch/mascara.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---029.png",
+      "votes": 63
+    },
+    {
+      "name": "Radio Medea",
+      "urls": [
+        "https://radiomedea.ice.infomaniak.ch/medea.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---026.png",
+      "votes": 67
+    },
+    {
+      "name": "Radio Mostaganem",
+      "urls": [
+        "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---027.png",
+      "votes": 84
+    },
+    {
+      "name": "Radio Oran",
+      "urls": [
+        "https://radiooran.ice.infomaniak.ch/oran.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---031.png",
+      "votes": 258
+    },
+    {
+      "name": "Radio Ouargla",
+      "urls": [
+        "https://radioouargla.ice.infomaniak.ch/ouargla.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/2021-10/wilaya---030.png",
+      "votes": 69
+    },
+    {
+      "name": "Radio Oum Bouaghi",
+      "urls": [
+        "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---004.png",
+      "votes": 98
+    },
+    {
+      "name": "Radio Saïda",
+      "urls": [
+        "https://radiosaida.ice.infomaniak.ch/saida.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---020.png",
+      "votes": 63
+    },
+    {
+      "name": "Radio Setif",
+      "urls": [
+        "https://radiosetif.ice.infomaniak.ch/setif.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---019.png",
+      "votes": 626
+    },
+    {
+      "name": "Radio Sidi Bel Abbes",
+      "urls": [
+        "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---022.png",
+      "votes": 123
+    },
+    {
+      "name": "Radio Skikda",
+      "urls": [
+        "https://radioskikda.ice.infomaniak.ch/skikda.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---021.png",
+      "votes": 143
+    },
+    {
+      "name": "Radio Tamanrasset",
+      "urls": [
+        "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---011.png",
+      "votes": 68
+    },
+    {
+      "name": "Radio Tebessa",
+      "urls": [
+        "https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/locales.png",
+      "votes": 201
+    },
+    {
+      "name": "Radio Tiaret",
+      "urls": [
+        "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---014.png",
+      "votes": 71
+    },
+    {
+      "name": "Radio Tizi Ouzou",
+      "urls": [
+        "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3"
+      ],
+      "tags": [],
+      "city": "Tizi-Ouzou",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png",
+      "votes": 3330
+    },
+    {
+      "name": "Radio Tlemcen",
+      "urls": [
+        "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radioalgerie.dz/player/sites/default/files/logo_2.ico",
+      "votes": 580
+    },
+    {
+      "name": "Radio Zaman",
+      "urls": [
+        "https://radiozamen.ice.infomaniak.ch/zamen.mp3"
+      ],
+      "tags": [],
+      "city": "Blida",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "تفسير بن عثيمين رحمه الله",
+      "urls": [
+        "https://qurango.net/radio/tafseer"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6420
+    }
+  ]
+}

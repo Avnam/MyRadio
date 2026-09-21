@@ -1,0 +1,1193 @@
+{
+  "code": "HR",
+  "name": "Croatia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "057 radio, Zadar, Croatia",
+      "urls": [
+        "https://audio.alter-media.hr/9052/stream"
+      ],
+      "tags": [],
+      "city": "Banana state",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "Banovina Light",
+      "urls": [
+        "https://audio.radio-banovina.hr:7008/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Banovina Turbo",
+      "urls": [
+        "https://audio.radio-banovina.hr:7010/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.radio-banovina.hr/turbo/tmp/images/logo.1642614175.png",
+      "votes": 503
+    },
+    {
+      "name": "bravo! kids",
+      "urls": [
+        "https://audio.social3.hr/listen/bravo_kids/stream?3367"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ",
+      "votes": 1999
+    },
+    {
+      "name": "Club Music Radio - 70's 80's 90's",
+      "urls": [
+        "https://cmr-hosting.com:7003/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 172
+    },
+    {
+      "name": "Club Music Radio - CRO HITS",
+      "urls": [
+        "https://cmr-hosting.com:7006/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "Club Music Radio - Dance",
+      "urls": [
+        "https://cmr-hosting.com:7002/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 71
+    },
+    {
+      "name": "Club Music Radio - FOLK",
+      "urls": [
+        "https://cmr-hosting.com:7001/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "Club Music Radio - ITALO DISCO",
+      "urls": [
+        "https://cmr-hosting.com:7005/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 178
+    },
+    {
+      "name": "Club Music Radio - LOVE SONG",
+      "urls": [
+        "https://cmr-hosting.com:7004/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://clubmusic-1.com/wp-content/uploads/2017/12/Logo-za-header-e1515976776641.png",
+      "votes": 66
+    },
+    {
+      "name": "Club Music Radio - TAMBURA",
+      "urls": [
+        "https://cmr-hosting.com:7007/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "CMC Radio",
+      "urls": [
+        "https://radio-stream.cmc.com.hr:9011/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.cmc.com.hr/favicon.ico",
+      "votes": 76
+    },
+    {
+      "name": "Drama radio Dubrovnik",
+      "urls": [
+        "https://listen.radioking.com/radio/626884/stream/689500"
+      ],
+      "tags": [
+        "news talk",
+        "pop music"
+      ],
+      "city": "Dalmatia",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://images.keepone.net/1725392485-2024-09-03.png",
+      "votes": 42
+    },
+    {
+      "name": "dvb.digital",
+      "urls": [
+        "https://radio.dvb.digital/listen/dvb.digital/hq.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://dvb.digital/favicon_io/apple-touch-icon.png",
+      "votes": 1
+    },
+    {
+      "name": "Extra FM",
+      "urls": [
+        "https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://extrafm.hr/sw-content/themes/sw/img/extrafm-2.png",
+      "votes": 0
+    },
+    {
+      "name": "Folk Radio Kneginec",
+      "urls": [
+        "https://stream.zeno.fm/yetzdv442k8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/KEAX5uaryr.png",
+      "votes": 351
+    },
+    {
+      "name": "FolkyTon Radio",
+      "urls": [
+        "https://ec2s.crolive.com.hr:6035/stream"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "Velika Mlaka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.folkyton.com/index_htm_files/292@2x.png",
+      "votes": 345
+    },
+    {
+      "name": "GalacticFM - Progressive House & Trance",
+      "urls": [
+        "https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Gamerz Inn - Jamz",
+      "urls": [
+        "https://radio.gamerzinn.com:1385/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.gamerzinn.com:1320/media/CACHE/images/djs/logo/20e3697337de33cec38284f24bc660ce.png",
+      "votes": 1
+    },
+    {
+      "name": "Happy Fest",
+      "urls": [
+        "https://audio.social3.hr/listen/happy_fest/stream?9763"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "HRT Drugi program",
+      "urls": [
+        "https://25453.live.streamtheworld.com/PROGRAM2AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "HRT HR 2",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3"
+      ],
+      "tags": [],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 88
+    },
+    {
+      "name": "HRT Prvi program",
+      "urls": [
+        "https://27743.live.streamtheworld.com/PROGRAM1AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "HRT Radio Sljeme (mp3)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Hrvatski Katolički Radio",
+      "urls": [
+        "https://stream.hkr.hr/hkr.mp3"
+      ],
+      "tags": [
+        "chatolic",
+        "christian",
+        "croatia",
+        "hkr",
+        "katolički",
+        "kršćanski"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/hr/c/cd/Hkr.jpg",
+      "votes": 214
+    },
+    {
+      "name": "KLFM.org",
+      "urls": [
+        "https://klfmorgborg.radioca.st/stream?type=http&nocache=1089"
+      ],
+      "tags": [],
+      "city": "Splitsko-Dalmatinska",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 231
+    },
+    {
+      "name": "Narodni Radio Goga",
+      "urls": [
+        "https://cmr-hosting.com:7013/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Otvoreni - Live",
+      "urls": [
+        "https://stream.otvoreni.hr/otvoreni"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w480-h960",
+      "votes": 98
+    },
+    {
+      "name": "Otvoreni Chill",
+      "urls": [
+        "https://stream.otvoreni.hr/chill"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+      "votes": 27
+    },
+    {
+      "name": "Otvoreni Hot",
+      "urls": [
+        "https://stream.otvoreni.hr/hot"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+      "votes": 76
+    },
+    {
+      "name": "Otvoreni Live",
+      "urls": [
+        "https://stream2.otvoreni.hr/otvoreni"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+      "votes": 25
+    },
+    {
+      "name": "Otvoreni LIVE",
+      "urls": [
+        "https://stream.otvoreni.hr/stream48"
+      ],
+      "tags": [
+        "croatia",
+        "croatian",
+        "hrvatska",
+        "pop",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 1285
+    },
+    {
+      "name": "Otvoreni Love",
+      "urls": [
+        "https://stream2.otvoreni.hr/love"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8",
+      "votes": 74
+    },
+    {
+      "name": "Otvoreni Radio - Fitness",
+      "urls": [
+        "https://stream.otvoreni.hr/fitness"
+      ],
+      "tags": [
+        "fitness"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 631
+    },
+    {
+      "name": "Otvoreni Radio - Love",
+      "urls": [
+        "https://stream.otvoreni.hr/love"
+      ],
+      "tags": [
+        "love songs"
+      ],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "Podravski Radio",
+      "urls": [
+        "https://streaming.podravskiradio.hr/live"
+      ],
+      "tags": [
+        "domaca",
+        "domaća",
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Poslovni FM",
+      "urls": [
+        "https://ec2s.crolive.com.hr:2665/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.poslovnifm.com/favicon.ico",
+      "votes": 31
+    },
+    {
+      "name": "Prolaznik Evergreen Lepoglava",
+      "urls": [
+        "https://s8.ssl-stream.com/prolaznik"
+      ],
+      "tags": [
+        "classic hits 60s 70a 80s",
+        "oldies",
+        "pop"
+      ],
+      "city": "Varaždinska",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://prolaznik.com/radio/wp-content/uploads/2026/01/cropped-Ploca-515-32x32.png\"",
+      "votes": 8
+    },
+    {
+      "name": "Radio 101 Rock",
+      "urls": [
+        "https://live.radio101.hr:8010/"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio101.hr/favicon.ico",
+      "votes": 231
+    },
+    {
+      "name": "Radio 101 ROCK",
+      "urls": [
+        "https://live.radio101.hr:8010/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 170
+    },
+    {
+      "name": "Radio 101 Soft Sound",
+      "urls": [
+        "https://live.radio101.hr:8020/"
+      ],
+      "tags": [
+        "rock",
+        "soft sound"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio101.hr/favicon.ico",
+      "votes": 108
+    },
+    {
+      "name": "Radio 105 Selnica (HR)",
+      "urls": [
+        "https://azuracast.novi-net.net/radio/8050/radio105.aac"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "Medjimurje",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.radio105.hr/favicon.ico",
+      "votes": 51
+    },
+    {
+      "name": "Radio 92 FM",
+      "urls": [
+        "https://onlineradiobox.com/json/hr/92fm/play?platform=web"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 192,
+      "logo": "https://cdn.onlineradiobox.com/img/logo/7/47297.v2.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Baranja",
+      "urls": [
+        "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream"
+      ],
+      "tags": [
+        "news",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio Belišće",
+      "urls": [
+        "https://mcp1.mydataknox.com:8006/stream"
+      ],
+      "tags": [
+        "family",
+        "local music",
+        "local news",
+        "local radio",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio-belisce.net/wp-content/uploads/2019/05/GRBlogobijeliobrub.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Biograd na Moru",
+      "urls": [
+        "https://onlineradiobox.com/json/hr/bnm/play?platform=web"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-bnm.hr/wp-content/uploads/2024/04/cropped-logo_radio_bnm_fav-180x180.png",
+      "votes": 65
+    },
+    {
+      "name": "Radio Boom Hits",
+      "urls": [
+        "https://stream.zeno.fm/7n7hwy8s9k0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Daruvar",
+      "urls": [
+        "https://mcp1.mydataknox.com:8020/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Drniš 89,0 MHz",
+      "urls": [
+        "https://ec2s.crolive.com.hr:2415/stream"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "Kralja Zvonimira 8, Drniš",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radiodrnis.hr/wp-content/uploads/2023/03/LOGO11.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Đakovo",
+      "urls": [
+        "https://ec2s.crolive.com.hr:8305/stream"
+      ],
+      "tags": [
+        "family",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/XxwX7VSzXB.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Radio Grubišno Polje",
+      "urls": [
+        "https://ec2s.crolive.com.hr:8215/stream"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Radio Jaska",
+      "urls": [
+        "https://uk1.streamingpulse.com/ssl/RadioJaska"
+      ],
+      "tags": [
+        "folk music",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 97
+    },
+    {
+      "name": "Radio Kaj",
+      "urls": [
+        "https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream"
+      ],
+      "tags": [
+        "pop",
+        "regional"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3679
+    },
+    {
+      "name": "Radio Kampus",
+      "urls": [
+        "https://audio.alter-media.hr:7016/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.unist.hr/img/favicon/favicon-16x16.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Križevci",
+      "urls": [
+        "https://s8.iqstreaming.com:8048/stream"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 144
+    },
+    {
+      "name": "Radio Marija Hrvatska",
+      "urls": [
+        "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico",
+      "votes": 232
+    },
+    {
+      "name": "Radio Max",
+      "urls": [
+        "https://azuracast.novi-net.net/radio/8010/radiomax.aac"
+      ],
+      "tags": [],
+      "city": "Varaždinska",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png",
+      "votes": 374
+    },
+    {
+      "name": "Radio Max",
+      "urls": [
+        "https://azuracast.novi-net.net/listen/radiomax/radiomax.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
+      "urls": [
+        "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "Zagorje",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 80
+    },
+    {
+      "name": "Radio Megaton",
+      "urls": [
+        "https://chopin.bizmusic.net/radio/8030/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiomegaton.hr/wp-content/uploads/2021/03/megaton-logo-rm-256.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio NU",
+      "urls": [
+        "https://slusaj.hr:10445/stream?type=http&nocache=634"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nu.net.hr/wp-content/uploads/2023/03/Logo-radio-nu.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Orahovica",
+      "urls": [
+        "https://ec2s.crolive.com.hr:2595/stream"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://takenupload.com/faviconjutawan",
+      "votes": 49
+    },
+    {
+      "name": "Radio Otok Krk",
+      "urls": [
+        "https://s8.iqstreaming.com:8014/stream"
+      ],
+      "tags": [
+        "easy listening",
+        "local radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "Radio Ritam",
+      "urls": [
+        "https://ec2s.crolive.com.hr:8455/stream"
+      ],
+      "tags": [
+        "various music"
+      ],
+      "city": "Šibenik",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioritam.hr/wp-content/uploads/elementor/thumbs/Radio-Ritam-SQUARE-LOGO-RED-PNG-FINAL-pzj6jx2x1xqqsmjhwrtijmkext8d5d8dtec4vbbzb0.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Rojc",
+      "urls": [
+        "https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8"
+      ],
+      "tags": [
+        "community radio",
+        "cultural"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/radio.rojc.eu/wp-content/uploads/2023/08/radio-rojc-frekvencija-logo-4-1-3.png",
+      "votes": 220
+    },
+    {
+      "name": "Radio Tvornica",
+      "urls": [
+        "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001"
+      ],
+      "tags": [],
+      "city": "Grad Zagreb",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiotvornica.hr/favicon.png",
+      "votes": 1978
+    },
+    {
+      "name": "Radio Velika Gorica",
+      "urls": [
+        "https://s8.iqstreaming.com:2020/stream/rvg"
+      ],
+      "tags": [],
+      "city": "Zagrebačka županija",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://st.telekomcloud.hr/4gitpx8y",
+      "votes": 1
+    },
+    {
+      "name": "Radio Vinkovci",
+      "urls": [
+        "https://onlineradiobox.com/json/hr/vinkovci/play?platform=web"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 77
+    },
+    {
+      "name": "Radio Zelina",
+      "urls": [
+        "https://ec2s.crolive.com.hr:1690/stream"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Županja",
+      "urls": [
+        "https://audio.alter-media.hr:7019/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "REPLAY NEWS - Hrvatski         Radio informacija svakih 5 minuta",
+      "urls": [
+        "https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-HR.png",
+      "votes": 4
+    },
+    {
+      "name": "Slavonski Radio",
+      "urls": [
+        "https://ec2s.crolive.com.hr:8035/stream"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "rock",
+        "slavonija",
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 654
+    },
+    {
+      "name": "Thompson 24/7 - Radio NU",
+      "urls": [
+        "https://slusaj.hr:10446/stream?type=http&nocache=9"
+      ],
+      "tags": [
+        "hard rock",
+        "rock",
+        "thompson"
+      ],
+      "city": "Dalmatia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nu.net.hr/wp-content/uploads/2023/03/Logo-radio-nu.png",
+      "votes": 9
+    },
+    {
+      "name": "Top Radio",
+      "urls": [
+        "https://c5.hostingcentar.com/streams/topradio/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://topradio.hr/favicon.ico",
+      "votes": 4386
+    },
+    {
+      "name": "Top Radio Gold",
+      "urls": [
+        "https://audio.social3.hr/listen/top_radio_gold/stream?7802"
+      ],
+      "tags": [],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 73
+    },
+    {
+      "name": "Top Radio Pop",
+      "urls": [
+        "https://audio.social3.hr/listen/top_radio_pop/stream?5483"
+      ],
+      "tags": [],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://topradio.hr/favicon.ico",
+      "votes": 199
+    },
+    {
+      "name": "Top Radio Rock",
+      "urls": [
+        "https://audio.social3.hr/listen/top_radio_rock/stream?7435"
+      ],
+      "tags": [],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 85
+    },
+    {
+      "name": "Top Radio Yugo",
+      "urls": [
+        "https://audio.social3.hr/listen/top_exyu/stream?8298"
+      ],
+      "tags": [],
+      "city": "Zagreb",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://topradio.hr/favicon.ico",
+      "votes": 151
+    },
+    {
+      "name": "Tranzistor",
+      "urls": [
+        "https://ec2s.crolive.com.hr/tranzistor"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/6dddvp8f7qcb.png",
+      "votes": 21
+    },
+    {
+      "name": "Yammat FM",
+      "urls": [
+        "https://stream.yammat.fm/radio/8000/yammat.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "dance",
+        "disco",
+        "experimental",
+        "funk",
+        "gospel",
+        "hip-hop",
+        "house",
+        "indie",
+        "punk",
+        "reagge",
+        "rock",
+        "soul",
+        "techno",
+        "world"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 132
+    },
+    {
+      "name": "Yammat FM Romantic Rebels & Pop Waves",
+      "urls": [
+        "https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "new wave",
+        "synth-pop"
+      ],
+      "city": "Grad Zagreb",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Yammat FM Soul Sayer",
+      "urls": [
+        "https://stream.yammat.fm/listen/soul_sayer/radio.mp3"
+      ],
+      "tags": [
+        "groove",
+        "r'n'b",
+        "soul"
+      ],
+      "city": "Grad Zagreb",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Yammat FM Street Spitta",
+      "urls": [
+        "https://stream.yammat.fm/listen/street_spitta/radio.mp3"
+      ],
+      "tags": [
+        "grime",
+        "hip hop",
+        "rap",
+        "trap"
+      ],
+      "city": "Grad Zagreb",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Zagorski radio",
+      "urls": [
+        "https://s8.iqstreaming.com:2020/stream/zagorski/stream"
+      ],
+      "tags": [
+        "folk",
+        "news",
+        "pop",
+        "regional"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 858
+    },
+    {
+      "name": "ZFM",
+      "urls": [
+        "https://ec2s.crolive.com.hr:7015/stream"
+      ],
+      "tags": [
+        "80s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-MINI.png",
+      "votes": 249
+    }
+  ]
+}

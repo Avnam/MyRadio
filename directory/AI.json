@@ -1,0 +1,31 @@
+{
+  "code": "AI",
+  "name": "Anguilla",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 39
+    },
+    {
+      "name": "Klass FM 92.9",
+      "urls": [
+        "https://klassfm929.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://klass929.com/wp-content/uploads/2020/01/headerlogo.png",
+      "votes": 144
+    }
+  ]
+}

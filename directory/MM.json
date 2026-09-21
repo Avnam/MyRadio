@@ -1,0 +1,55 @@
+{
+  "code": "MM",
+  "name": "Myanmar",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Cherry FM",
+      "urls": [
+        "https://cherry.akiyaresearch.com:444/stream/89/"
+      ],
+      "tags": [],
+      "city": "Ayeyarwady",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 188
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 464
+    },
+    {
+      "name": "MandalayFM",
+      "urls": [
+        "https://edge.mixlr.com/channel/nmtev"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.raddio.net/img/icons/apple-icon-120x120.png",
+      "votes": 4734
+    },
+    {
+      "name": "Padamyar FM",
+      "urls": [
+        "https://stream.zeno.fm/og9btsnj00tuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://padamyarfm.com.mm/favicon-32x32.png",
+      "votes": 150
+    }
+  ]
+}

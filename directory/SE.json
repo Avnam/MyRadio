@@ -1,0 +1,2426 @@
+{
+  "code": "SE",
+  "name": "Sweden",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": ". Al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+      "votes": 73
+    },
+    {
+      "name": "24/7 Continuous Music",
+      "urls": [
+        "https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "2010s",
+        "2020s",
+        "90s",
+        "pop",
+        "soft rock",
+        "world"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "90s Rewind",
+      "urls": [
+        "https://mml1.prostream.se/listen/90s_rewind/radio.mp3"
+      ],
+      "tags": [
+        "90s",
+        "hits",
+        "pop",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 13
+    },
+    {
+      "name": "Aftab",
+      "urls": [
+        "https://mml1.prostream.se/listen/aftab/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "instrumental",
+        "meditation",
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "AI Playlist Radio",
+      "urls": [
+        "https://radio.aiplaylist.io/radio.mp3"
+      ],
+      "tags": [
+        "curated",
+        "music",
+        "online radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.aiplaylist.io/brand/apr-logo-master.png?v=20260807-1",
+      "votes": 0
+    },
+    {
+      "name": "Alt Edge Radio",
+      "urls": [
+        "https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "grunge",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "American Truckers",
+      "urls": [
+        "https://mml2.prostream.se/listen/american_truckers/radio.mp3"
+      ],
+      "tags": [
+        "americana",
+        "country",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 12
+    },
+    {
+      "name": "Auralis Radio",
+      "urls": [
+        "https://auralis-radio.com/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "chillout",
+        "downtempo",
+        "electronic",
+        "idm",
+        "lounge",
+        "relax",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://auralis-radio.com/favicon.svg",
+      "votes": 6
+    },
+    {
+      "name": "Back to the 80s",
+      "urls": [
+        "https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3"
+      ],
+      "tags": [
+        "80s",
+        "hits",
+        "pop",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 30
+    },
+    {
+      "name": "BANANRADION",
+      "urls": [
+        "https://lyssna.bananradion.se/listen/bananradion/128aac"
+      ],
+      "tags": [
+        "caribbean",
+        "children",
+        "kids",
+        "misc",
+        "tropical",
+        "various"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
+      "votes": 2
+    },
+    {
+      "name": "Bandit Ballads",
+      "urls": [
+        "https://wr21-ice.stream.khz.se/wr21_aac"
+      ],
+      "tags": [
+        "ballads",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn.khz.se/images/90x90/7b209b9e4cb15399730e27e4c89e5a64.png",
+      "votes": 115
+    },
+    {
+      "name": "Bandit Classic Rock",
+      "urls": [
+        "https://wr11-ice.stream.khz.se/wr11_mp3"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "National, Sweden",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 401
+    },
+    {
+      "name": "Bandit ÍRock",
+      "urls": [
+        "https://fm02-ice.stream.khz.se/fm02_mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/banditrock/wp-content/themes/ilikeradio/favicon.png",
+      "votes": 139
+    },
+    {
+      "name": "Bandit Metal",
+      "urls": [
+        "https://wr03-ice.stream.khz.se/wr03_mp3"
+      ],
+      "tags": [
+        "death metal",
+        "hard rock",
+        "metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.phonostar.de/images/auto_created/bandit_metal2184x184.png",
+      "votes": 254
+    },
+    {
+      "name": "Banjalučki Sevdah Radio Šeherčani",
+      "urls": [
+        "https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014"
+      ],
+      "tags": [
+        "bosna",
+        "bosnia",
+        "sevdah",
+        "sevdah 24 sata"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://1fc37794eb.cbaul-cdnwnd.com/2c9019783c06142013565e2eaf54e92d/200000528-42732436c7/samir_logo%5B1%5D-8.png?ph=1fc37794eb",
+      "votes": 14
+    },
+    {
+      "name": "Best of ericade.radio",
+      "urls": [
+        "https://radio.ericade.net/sc/stream/2/"
+      ],
+      "tags": [],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Blues",
+      "urls": [
+        "https://mml1.prostream.se/listen/blues/radio.mp3"
+      ],
+      "tags": [
+        "blues",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Bollywood Bangers",
+      "urls": [
+        "https://mml2.prostream.se/listen/bollywood_bangers/radio.mp3"
+      ],
+      "tags": [
+        "bhangra",
+        "bollywood",
+        "indian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Classical",
+      "urls": [
+        "https://mml2.prostream.se/listen/classical/radio.mp3"
+      ],
+      "tags": [
+        "classical",
+        "orchestral",
+        "symphony"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Country",
+      "urls": [
+        "https://mml1.prostream.se/listen/country/radio.mp3"
+      ],
+      "tags": [
+        "americana",
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Dagnys Jukebox",
+      "urls": [
+        "https://stream.dagnysjukebox.se/dagny"
+      ],
+      "tags": [
+        "rock",
+        "rockabilly"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dagnysjukebox.se/wp-content/uploads/2021/06/cropped-dagnys-jukebox-logo-180x180.png",
+      "votes": 22
+    },
+    {
+      "name": "Dansbandskanalen",
+      "urls": [
+        "https://fm09-ice.stream.khz.se/fm09_mp3"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dansbandskanalen.se/wp-content/uploads/2021/10/logo.png",
+      "votes": 42
+    },
+    {
+      "name": "Dansbandskanalen.se*",
+      "urls": [
+        "https://stream.dbmedia.se/dbkMP3"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 249
+    },
+    {
+      "name": "DansBandsRadio.se",
+      "urls": [
+        "https://sc.dansbandsradio.se/dbr64.aac"
+      ],
+      "tags": [
+        "dans",
+        "dansband",
+        "dansbandsdax",
+        "dansbandskanalen",
+        "dansbandsradio",
+        "danseband",
+        "dansk",
+        "norsk",
+        "svensk",
+        "swedish"
+      ],
+      "city": "Skåne",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://dansbandsradio.se/images/dbr2.png",
+      "votes": 2
+    },
+    {
+      "name": "Decades",
+      "urls": [
+        "https://mml1.prostream.se/listen/decades/radio.mp3"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "classics",
+        "oldies",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Disco 54",
+      "urls": [
+        "https://wr15-ice.stream.khz.se/wr15_mp3"
+      ],
+      "tags": [
+        "disco",
+        "i like radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png",
+      "votes": 271
+    },
+    {
+      "name": "EDM",
+      "urls": [
+        "https://mml2.prostream.se/listen/edm_/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Epic Soundtracks Only",
+      "urls": [
+        "https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3"
+      ],
+      "tags": [
+        "cinematic",
+        "film music",
+        "orchestral",
+        "soundtracks"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 21
+    },
+    {
+      "name": "ericade.radio",
+      "urls": [
+        "https://radio.ericade.net/sc/stream/1/"
+      ],
+      "tags": [],
+      "city": "Sweden",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://ericade.radio/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "Faith Beats Radio",
+      "urls": [
+        "https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "worship"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Gamla Favoritter",
+      "urls": [
+        "https://wr09-ice.stream.khz.se/wr09_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/180x180/a70c1024cd53244ef1d912961ca37be4.png",
+      "votes": 114
+    },
+    {
+      "name": "Gen X",
+      "urls": [
+        "https://mml1.prostream.se/listen/gen_x/radio.mp3"
+      ],
+      "tags": [
+        "90s",
+        "alternative",
+        "hip-hop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Go Country",
+      "urls": [
+        "https://wr14-ice.stream.khz.se/wr14_mp3"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "votes": 303
+    },
+    {
+      "name": "Groove Revival Radio",
+      "urls": [
+        "https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3"
+      ],
+      "tags": [
+        "disco",
+        "funk",
+        "groove",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Guldkanalen (80-tal)",
+      "urls": [
+        "https://stream.dbmedia.se/gk80tal96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://playnow.se/wp-content/uploads/gk_play.jpg",
+      "votes": 80
+    },
+    {
+      "name": "Guldkanalen (90-tal)",
+      "urls": [
+        "https://stream.dbmedia.se/gk90tal96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Guldkanalen 60-tal",
+      "urls": [
+        "https://stream.dbmedia.se/gk60tal96"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Skåne",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Hackerspace radio",
+      "urls": [
+        "https://broadcast.sonologic.net/signal.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://signal.hackerspaces.org/img/logo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Harmony Frequencies",
+      "urls": [
+        "https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "healing",
+        "meditation",
+        "new age"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Hello Africa",
+      "urls": [
+        "https://mml1.prostream.se/listen/hello_africa/radio.mp3"
+      ],
+      "tags": [
+        "african",
+        "afrobeat",
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "HITCITY",
+      "urls": [
+        "https://stream.hitcity.se/live"
+      ],
+      "tags": [
+        "pop music",
+        "techno",
+        "trance"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://hitcity.se/HITCITY_logga.png",
+      "votes": 2
+    },
+    {
+      "name": "HITCITY",
+      "urls": [
+        "https://stream.hitcity.se/live.mp3"
+      ],
+      "tags": [
+        "00s",
+        "2010s",
+        "2020s",
+        "80s",
+        "90s",
+        "hot ac",
+        "pop music",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "HitMix90's",
+      "urls": [
+        "https://wr19-ice.stream.khz.se/wr19_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/700x700/1ea69de586d07cf14bd6fba152fe8d00.png",
+      "votes": 153
+    },
+    {
+      "name": "Hitzfm 97,8 Sommenbygd",
+      "urls": [
+        "https://s2.stationplaylist.com:7098/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://hitzfm.nu/wp-content/uploads/2022/08/nedladdning-4-170x168.jpeg",
+      "votes": 2
+    },
+    {
+      "name": "Höganäs Närradio",
+      "urls": [
+        "https://deb.patrikmalmgrenrask.se:10443/"
+      ],
+      "tags": [
+        "1950s",
+        "1960s",
+        "blues",
+        "classic rock",
+        "country",
+        "jazz",
+        "pop",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio-kullabygden.se/wp-content/uploads/2016/04/hnfloggo_100px.png",
+      "votes": 17
+    },
+    {
+      "name": "House",
+      "urls": [
+        "https://mml1.prostream.se/listen/house/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic",
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Ivory Echoes",
+      "urls": [
+        "https://mml1.prostream.se/listen/ivory_echoes/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "classical",
+        "instrumental",
+        "piano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Jazz",
+      "urls": [
+        "https://mml1.prostream.se/listen/jazz/radio.mp3"
+      ],
+      "tags": [
+        "bebop",
+        "jazz",
+        "swing"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Kpop",
+      "urls": [
+        "https://mml2.prostream.se/listen/kpop/radio.mp3"
+      ],
+      "tags": [
+        "k-pop",
+        "korean pop",
+        "kpop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Latin",
+      "urls": [
+        "https://mml2.prostream.se/listen/latin/radio.mp3"
+      ],
+      "tags": [
+        "latin",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Linköpings närradio",
+      "urls": [
+        "https://stream.linkopingsnarradio.se:8005/radioprogram"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Mad Mix Beats",
+      "urls": [
+        "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3"
+      ],
+      "tags": [
+        "classics",
+        "hits",
+        "mixed",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Mad Mix Curated",
+      "urls": [
+        "https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3"
+      ],
+      "tags": [
+        "curated",
+        "hits",
+        "mixed",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 11
+    },
+    {
+      "name": "Mad Mix Main",
+      "urls": [
+        "https://mml1.prostream.se/listen/mad_mix_main/radio.mp3"
+      ],
+      "tags": [
+        "hits",
+        "mixed",
+        "pop",
+        "rock",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Melancholy",
+      "urls": [
+        "https://mml2.prostream.se/listen/melancholy/radio.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "emotional",
+        "indie",
+        "sad"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Metal Mayhem",
+      "urls": [
+        "https://mml2.prostream.se/listen/metal_mayhem/radio.mp3"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal",
+        "metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Midnight Silk Eros",
+      "urls": [
+        "https://mml1.prostream.se/listen/midnight_silk_eros/radio.mp3"
+      ],
+      "tags": [
+        "r&b",
+        "romantic",
+        "slow jams",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Mix Megapol 104,3",
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg",
+      "votes": 191
+    },
+    {
+      "name": "Mix Megapol 104,3",
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg",
+      "votes": 82
+    },
+    {
+      "name": "Northern Metal Radio",
+      "urls": [
+        "https://dc5.serverse.com/proxy/lvzgnvcj/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://usercontent.one/wp/www.northernmetalradio.com/wp-content/uploads/2021/08/cropped-northern-metal-hand-12-1-180x180.png?media=1686508177",
+      "votes": 111
+    },
+    {
+      "name": "Northern Metal Radio Extreme",
+      "urls": [
+        "https://s2.free-shoutcast.com/stream/18092"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://usercontent.one/wp/www.northernmetalradio.com/wp-content/uploads/2023/05/NMR-Extreme-1.png?media=1686508177",
+      "votes": 163
+    },
+    {
+      "name": "Oldies FM",
+      "urls": [
+        "https://stream3.themediasite.co.uk:8030/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "P4 Jämtland",
+      "urls": [
+        "https://live1.sr.se/p4jmtl-aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "P4 Kalmar",
+      "urls": [
+        "https://live1.sr.se/p4kalm-mp3-96"
+      ],
+      "tags": [
+        "news talk music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 176,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 19
+    },
+    {
+      "name": "P4 Värmland",
+      "urls": [
+        "https://live1.sr.se/p4vrml-aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "P4 Västerbotten",
+      "urls": [
+        "https://live1.sr.se/p4vbtn-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 144,
+      "logo": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=100x100",
+      "votes": 20
+    },
+    {
+      "name": "P4 Västernorrland",
+      "urls": [
+        "https://live1.sr.se/p4vnrl-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 130,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 4
+    },
+    {
+      "name": "P4 Västernorrland",
+      "urls": [
+        "https://live1.sr.se/p4vnrl-aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "P4 Västmanland",
+      "urls": [
+        "https://live1.sr.se/p4vstm-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 164,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Pain",
+      "urls": [
+        "https://stream.pcradio.ru/Pain-hi"
+      ],
+      "tags": [
+        "discography",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "Party 247",
+      "urls": [
+        "https://mml2.prostream.se/listen/party_247/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic",
+        "party"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Polushon",
+      "urls": [
+        "https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream"
+      ],
+      "tags": [
+        "experimental",
+        "jazz",
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/5/d/0/1/aa1b-e4e6-48e8-9128-75506e38dd92.jpg",
+      "votes": 448
+    },
+    {
+      "name": "PopBurst",
+      "urls": [
+        "https://mml1.prostream.se/listen/popburst/radio.mp3"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Power Club",
+      "urls": [
+        "https://wr06-ice.stream.khz.se/wr06_mp3"
+      ],
+      "tags": [
+        "club",
+        "i like radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/700x700/413c0945925c2a8eefe0f574c5a01a15.png",
+      "votes": 64
+    },
+    {
+      "name": "Power Hit Radio",
+      "urls": [
+        "https://fm04-ice.stream.khz.se/fm04_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/powerhitradio/wp-content/themes/ilikeradio/favicon.png",
+      "votes": 71
+    },
+    {
+      "name": "Power Street",
+      "urls": [
+        "https://wr07-ice.stream.khz.se/wr07_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Punk Classics",
+      "urls": [
+        "https://mml2.prostream.se/listen/punk_classics/radio.mp3"
+      ],
+      "tags": [
+        "classic punk",
+        "hardcore",
+        "punk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Radio 163",
+      "urls": [
+        "https://mml1.prostream.se/listen/radio_163/radio.mp3"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Radio 567",
+      "urls": [
+        "https://mml1.prostream.se/listen/radio_567/radio.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "rock",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Radio 789",
+      "urls": [
+        "https://mml1.prostream.se/listen/radio_789/radio.mp3"
+      ],
+      "tags": [
+        "classics",
+        "hits",
+        "oldies",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Radio 88 Partille - Golden Hits",
+      "urls": [
+        "https://streaming.943.se/radio88dans"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Radio 94,3",
+      "urls": [
+        "https://stream.radio943.se/stream"
+      ],
+      "tags": [
+        "country",
+        "dansband",
+        "easy listening",
+        "pop",
+        "rock"
+      ],
+      "city": "Närke",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio943.se/Logotype.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Båstad",
+      "urls": [
+        "https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://impro.usercontent.one/appid/oneComWsb/domain/radiobastad.se/media/radiobastad.se/onewebmedia/256742-314242-gh757dh3xq.png?etag=%2215a98-64edeed2%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=576%2B576&extract=0%2B0%2B576%2B544",
+      "votes": 3
+    },
+    {
+      "name": "Radio bubb.la",
+      "urls": [
+        "https://live.radio.bubb.la/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Radio Faceit FM",
+      "urls": [
+        "https://stream.zeno.fm/c6ufpty9w1ctv"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio Gbg Sevdah",
+      "urls": [
+        "https://stream.radiogbg.se:8050/relay4"
+      ],
+      "tags": [
+        "bosna",
+        "sevdah",
+        "sevdah 24 sata"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "Radio Gold Sweden",
+      "urls": [
+        "https://streaming.943.se/radiogold"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Hope",
+      "urls": [
+        "https://s2.radio.co/sfbf5f5b85/listen"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.radiohope.se/favicon.ico",
+      "votes": 14
+    },
+    {
+      "name": "Radio Nostalgi",
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "-",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1675257327/brand_manager/stations/lhx9kbonnysevy9wq7zx.svg",
+      "votes": 46
+    },
+    {
+      "name": "Radio Nostalgi SE",
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "Radio Orinoco",
+      "urls": [
+        "https://icecast.radio-orinoco.com/orinoco"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Radio Rainbow",
+      "urls": [
+        "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web"
+      ],
+      "tags": [
+        "dance",
+        "dj remix",
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio Rivendell",
+      "urls": [
+        "https://play.radiorivendell.com/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "fantasy"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "Radio Rivendell",
+      "urls": [
+        "https://play.radiorivendell.com/radio/8000/radio.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": "https://www.radiorivendell.com/site-content/themes/rivendell-2k21/dist/images/logotype-radio-rivendell--horizontal--gold.png",
+      "votes": 23
+    },
+    {
+      "name": "Radio Sandviken",
+      "urls": [
+        "https://shout.rs8990.com/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosandviken.se/wp-content/uploads/2024/12/rslogotyp2-1.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio Svea",
+      "urls": [
+        "https://mml2.prostream.se/listen/radio_svea/radio.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "swedish"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Radio45 (Dalsland Sweden)",
+      "urls": [
+        "https://streaming.943.se/radio45"
+      ],
+      "tags": [],
+      "city": "Dalsland",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radio45.se/webplayer/favicon-96x96.png",
+      "votes": 1
+    },
+    {
+      "name": "Redback Radio",
+      "urls": [
+        "https://redback.mywire.org/stream.mp3"
+      ],
+      "tags": [
+        "eclectic",
+        "experimental",
+        "psychedelic"
+      ],
+      "city": "Select state",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Reggae",
+      "urls": [
+        "https://mml1.prostream.se/listen/reggae/radio.mp3"
+      ],
+      "tags": [
+        "dancehall",
+        "island",
+        "reggae",
+        "ska"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Relax & Meditation",
+      "urls": [
+        "https://mml1.prostream.se/listen/relax_meditation/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "meditation",
+        "new age",
+        "relaxation"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 20
+    },
+    {
+      "name": "REPLAY NEWS - Svenska",
+      "urls": [
+        "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png",
+      "votes": 6
+    },
+    {
+      "name": "Retro FM Skåne",
+      "urls": [
+        "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1530
+    },
+    {
+      "name": "Retro FM Sverige",
+      "urls": [
+        "https://stream.rcs.revma.com/25knctp5vepwv"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "RIX FM",
+      "urls": [
+        "https://fm01-ice.stream.khz.se/fm01_mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/rixfm/wp-content/themes/ilikeradio/assets/images/apple-icon-touch.png",
+      "votes": 145
+    },
+    {
+      "name": "RIX FM 106,7",
+      "urls": [
+        "https://fm01-ice.stream.khz.se/fm01_aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn.khz.se/images/161x80/c4b8642fb86f50849ac5ca144afdc365.png",
+      "votes": 29
+    },
+    {
+      "name": "RIX FM Fresh",
+      "urls": [
+        "https://wr04-ice.stream.khz.se/wr04_mp3"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/700x700/63d7c54c7bc4a8d5cd1ee7b9296beef8.png",
+      "votes": 67
+    },
+    {
+      "name": "Rock",
+      "urls": [
+        "https://mml1.prostream.se/listen/rock/radio.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Roxette",
+      "urls": [
+        "https://stream.pcradio.ru/Roxette-hi"
+      ],
+      "tags": [
+        "discography"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 23
+    },
+    {
+      "name": "Sauna Radio",
+      "urls": [
+        "https://stream.saunaradio.com/live"
+      ],
+      "tags": [
+        "community radio",
+        "dj sets",
+        "electronic",
+        "live",
+        "stockholm"
+      ],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.prod.website-files.com/68299d95b4257010638944e5/6a95f1c5530f9b3492a55af3_sauna-radio-favicon-512.png",
+      "votes": 3
+    },
+    {
+      "name": "SceneSat Radio (AAC+ mobile)",
+      "urls": [
+        "https://streams.scenesat.com/main/mobile.aac"
+      ],
+      "tags": [
+        "demoscene"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 219
+    },
+    {
+      "name": "SceneSat Radio (MP3)",
+      "urls": [
+        "https://streams.scenesat.com/main/hq.mp3"
+      ],
+      "tags": [
+        "demoscene"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://scenesat.com/quadsputnik.png",
+      "votes": 434
+    },
+    {
+      "name": "Skärgårdsradion",
+      "urls": [
+        "https://fm06-ice.stream.khz.se/fm06_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Soul Classics",
+      "urls": [
+        "https://wr08-ice.stream.khz.se/wr08_mp3"
+      ],
+      "tags": [
+        "classic soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "votes": 236
+    },
+    {
+      "name": "Spinning Seal FM",
+      "urls": [
+        "https://stream.zeno.fm/9q3ez3k3fchvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 80
+    },
+    {
+      "name": "SR P1",
+      "urls": [
+        "https://live1.sr.se/p1-aac-32"
+      ],
+      "tags": [
+        "public service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "SR P2",
+      "urls": [
+        "https://live1.sr.se/p2-flac"
+      ],
+      "tags": [
+        "classical",
+        "jazz"
+      ],
+      "city": "Stockholm",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "SR P4 Jönköping",
+      "urls": [
+        "https://live1.sr.se/p4jkpg-aac-320"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original",
+      "votes": 3
+    },
+    {
+      "name": "SR P4 Malmöhus",
+      "urls": [
+        "https://live1.sr.se/p4malm-mp3-96"
+      ],
+      "tags": [],
+      "city": "Skåne",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "SR P4 Radio Malmöhus",
+      "urls": [
+        "https://ljud1-cdn.sr.se/lc/p4malm.m3u8"
+      ],
+      "tags": [
+        "malmö",
+        "malmöhus",
+        "skåne",
+        "sveriges radio"
+      ],
+      "city": "Scania",
+      "codec": "AAC",
+      "bitrate": 37,
+      "logo": "https://sverigesradio.se/icon.png",
+      "votes": 3
+    },
+    {
+      "name": "SR4- Sthlm",
+      "urls": [
+        "https://live1.sr.se/p4sth-aac-32"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "STAR FM 107,1",
+      "urls": [
+        "https://fm05-ice.stream.khz.se/fm05_aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://cdn.khz.se/images/90x90/283491c5df7ee85947ab916a80f50578.png",
+      "votes": 36
+    },
+    {
+      "name": "STAR FM 107,1",
+      "urls": [
+        "https://fm05-ice.stream.khz.se/fm05_mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Stockholm",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.khz.se/images/90x90/283491c5df7ee85947ab916a80f50578.png",
+      "votes": 61
+    },
+    {
+      "name": "Stars on 45",
+      "urls": [
+        "https://mml2.prostream.se/listen/stars_on_45/radio.mp3"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "classics",
+        "disco",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Sveiges Radio - P4 Kristianstad",
+      "urls": [
+        "https://live1.sr.se/p4krist-mp3-96"
+      ],
+      "tags": [],
+      "city": "Skåne",
+      "codec": "MP3",
+      "bitrate": 158,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Sveiges Radio - P4 Malmöhus",
+      "urls": [
+        "https://sverigesradio.se/topsy/direkt/207-hi.mp3"
+      ],
+      "tags": [],
+      "city": "Skåne",
+      "codec": "MP3",
+      "bitrate": 130,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 99
+    },
+    {
+      "name": "Sveriges Radio - Ekot sänder direkt",
+      "urls": [
+        "https://live1.sr.se/ekotdirekt-aac-320"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 142
+    },
+    {
+      "name": "Sveriges Radio - P1",
+      "urls": [
+        "https://live1.sr.se/p1-aac-320"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 3383
+    },
+    {
+      "name": "Sveriges Radio - P2",
+      "urls": [
+        "https://live1.sr.se/p2-aac-320"
+      ],
+      "tags": [
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 539
+    },
+    {
+      "name": "Sveriges Radio - P2",
+      "urls": [
+        "https://edge1.sr.se/p2-flac"
+      ],
+      "tags": [
+        "classical music"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Sveriges Radio - P2 Språk och musik",
+      "urls": [
+        "https://live1.sr.se/p2sm-aac-320"
+      ],
+      "tags": [
+        "music",
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 296,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 125
+    },
+    {
+      "name": "Sveriges Radio - P3",
+      "urls": [
+        "https://live1.sr.se/p3-aac-320"
+      ],
+      "tags": [
+        "public radio",
+        "sveriges radio",
+        "youth"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 328,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 1677
+    },
+    {
+      "name": "Sveriges Radio - P3",
+      "urls": [
+        "https://live1.sr.se/p3-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 108,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p3.png",
+      "votes": 541
+    },
+    {
+      "name": "Sveriges Radio - P3 Din gata",
+      "urls": [
+        "https://live1.sr.se/dingata-aac-320"
+      ],
+      "tags": [
+        "local radio",
+        "public radio",
+        "rap",
+        "sveriges radio"
+      ],
+      "city": "Malmoe",
+      "codec": "AAC",
+      "bitrate": 304,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 109
+    },
+    {
+      "name": "Sveriges Radio - P4 Blekinge",
+      "urls": [
+        "https://live1.sr.se/p4blek-mp3-96"
+      ],
+      "tags": [
+        "local",
+        "music",
+        "talkshow"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 152,
+      "logo": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg?preset=100x100",
+      "votes": 18
+    },
+    {
+      "name": "Sveriges Radio - P4 Halland",
+      "urls": [
+        "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3"
+      ],
+      "tags": [],
+      "city": "Halland",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 29
+    },
+    {
+      "name": "Sveriges Radio - P4 Plus",
+      "urls": [
+        "https://live1.sr.se/p4plus-aac-320"
+      ],
+      "tags": [
+        "00s",
+        "30s",
+        "40s",
+        "50s",
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 304,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 738
+    },
+    {
+      "name": "Sveriges Radio - P4 Sjuhärad",
+      "urls": [
+        "https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 164,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtosAvN4DU-pQuFNjv-DkYUobGoZnBrfsYdv-ZfWEHw&s",
+      "votes": 0
+    },
+    {
+      "name": "Sveriges Radio - P4 Väst",
+      "urls": [
+        "https://live1.sr.se/p4vast-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 110,
+      "logo": "https://www.sverigesradio.se/default.aspx?programid=125",
+      "votes": 48
+    },
+    {
+      "name": "Sveriges Radio - P6",
+      "urls": [
+        "https://live1.sr.se/p6-aac-320"
+      ],
+      "tags": [
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 296,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 104
+    },
+    {
+      "name": "Sveriges Radio P1",
+      "urls": [
+        "https://live1.sr.se/p1-mp3-96"
+      ],
+      "tags": [
+        "culture",
+        "news",
+        "talk"
+      ],
+      "city": "National, Sweden",
+      "codec": "MP3",
+      "bitrate": 148,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p1.png",
+      "votes": 107
+    },
+    {
+      "name": "Sveriges Radio P1",
+      "urls": [
+        "https://edge1.sr.se/p1-aac-320"
+      ],
+      "tags": [
+        "culture",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p1.png",
+      "votes": 60
+    },
+    {
+      "name": "Sveriges Radio P3",
+      "urls": [
+        "https://edge1.sr.se/p3-aac-320"
+      ],
+      "tags": [
+        "music",
+        "youth"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 328,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p3.png",
+      "votes": 84
+    },
+    {
+      "name": "Sveriges Radio P4 Dalarna",
+      "urls": [
+        "https://live1.sr.se/p4dala-aac-320"
+      ],
+      "tags": [
+        "local"
+      ],
+      "city": "Dalarna",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Sveriges Radio P4 Gävleborg",
+      "urls": [
+        "https://live1.sr.se/p4gavl-mp3-96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 188,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Sveriges Radio P4 Göteborg",
+      "urls": [
+        "https://live1.sr.se/p4gbg-aac-320"
+      ],
+      "tags": [
+        "local radio",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 288,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "votes": 221
+    },
+    {
+      "name": "Sveriges Radio P4 Halland",
+      "urls": [
+        "https://live1.sr.se/p4hall-aac-128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "votes": 1
+    },
+    {
+      "name": "Sveriges Radio P4 Malmöhus",
+      "urls": [
+        "https://live1.sr.se/p4malm-aac-32"
+      ],
+      "tags": [
+        "public service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://image-proxy.clipsource.com/eyJidWNrZXQiOiJjbGlwc291cmNlLXNvdXJjZS1pbWFnZXMtYW5kLWZpbGVzIiwia2V5IjoiNjlhYWJkOWRlNmE5MFwvc3ZlLTY5YWFiZGI3MTgyYjVcLzIwMjZcLzA0XC8xN1wvNjllMjA1OTIyMmZjZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyODAsImhlaWdodCI6bnVsbH19fQ==?format=webp",
+      "votes": 1
+    },
+    {
+      "name": "Sveriges Radio P4 Stockholm",
+      "urls": [
+        "https://edge1.sr.se/p4sth-aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "votes": 84
+    },
+    {
+      "name": "Sveriges Radio P4 Uppland",
+      "urls": [
+        "https://live1.sr.se/p4uppl-aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 296,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Sveriges Radion P4 Östergötland",
+      "urls": [
+        "https://live1.sr.se/p4ostg-mp3-96"
+      ],
+      "tags": [
+        "local news",
+        "local talk",
+        "music",
+        "sport",
+        "östergötland"
+      ],
+      "city": "Select One",
+      "codec": "MP3",
+      "bitrate": 136,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "votes": 49
+    },
+    {
+      "name": "Swarm Radio",
+      "urls": [
+        "https://stream.zeno.fm/d6ozvqgvrvktv"
+      ],
+      "tags": [],
+      "city": "Malmoe",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Swedish Truckers",
+      "urls": [
+        "https://mml1.prostream.se/listen/swedish_truckers/radio.mp3"
+      ],
+      "tags": [
+        "country",
+        "folk",
+        "nordic",
+        "swedish"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "The ModStation - Amiga ProTracker Modules",
+      "urls": [
+        "https://broadcast.sonologic.net/modstation.mp3"
+      ],
+      "tags": [
+        "chiptune",
+        "chiptunes",
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Tjenamors Radio!",
+      "urls": [
+        "https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3"
+      ],
+      "tags": [
+        "punk",
+        "reagge",
+        "rock",
+        "ska"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.tjenamors.se/static/uploads/tjenamors_radio/album_art.1781430542.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Tyresöradion",
+      "urls": [
+        "https://s5.radio.co/s8ace52d32/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.tyresoradion.se/images/favicon/apple-touch-icon.png",
+      "votes": 5
+    },
+    {
+      "name": "Urban Flow",
+      "urls": [
+        "https://mml2.prostream.se/listen/urban_flow/radio.mp3"
+      ],
+      "tags": [
+        "hip-hop",
+        "rap",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "VIBE Radio",
+      "urls": [
+        "https://streamer.radio.co/s0c62f7351/listen"
+      ],
+      "tags": [
+        "chr",
+        "dance",
+        "dance classics",
+        "electronic",
+        "hits",
+        "old school",
+        "r&b/urban",
+        "rhythmic adult contemporary",
+        "rhythmic contemporary hits",
+        "throwbacks"
+      ],
+      "city": "Stockholm ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Vinyl FM",
+      "urls": [
+        "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/458.svg?ver=1589463934",
+      "votes": 445
+    },
+    {
+      "name": "Vinylgodis",
+      "urls": [
+        "https://fwd.autopo.st/runedervall"
+      ],
+      "tags": [
+        "1970s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/sjJ6efGC0YpjeT2ehVnVuIewLsEyf2SmqGTWr-wIxc12Ch4rJYBtxJnsedvVNLHTkDYYL8pxvoEgtT6vWm5btYo",
+      "votes": 3
+    },
+    {
+      "name": "Wolf FM",
+      "urls": [
+        "https://sstream.ueteknik.se/listen/wolffm/radio.mp3"
+      ],
+      "tags": [
+        "country",
+        "rockabilly"
+      ],
+      "city": "Dalarna",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://wolffmradio.se/wp-content/uploads/2026/01/logotype.webp",
+      "votes": 3
+    },
+    {
+      "name": "Workout",
+      "urls": [
+        "https://mml2.prostream.se/listen/workout/radio.mp3"
+      ],
+      "tags": [
+        "edm",
+        "fitness",
+        "motivation",
+        "workout"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://madmix.se/images/logo.jpg",
+      "votes": 17
+    },
+    {
+      "name": "ZERGAN RADYO  (47an)",
+      "urls": [
+        "https://sslyayin.netyayin.net/radyozergan/;"
+      ],
+      "tags": [
+        "kurdish",
+        "turkish music"
+      ],
+      "city": "Sweden",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "http://radio.radyozergan.com/images/logobanner.png",
+      "votes": 12
+    }
+  ]
+}

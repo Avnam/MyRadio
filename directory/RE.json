@@ -1,0 +1,481 @@
+{
+  "code": "RE",
+  "name": "Reunion",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "102FM.RE",
+      "urls": [
+        "https://ecmanager4.pro-fhi.net/102fmoriginale"
+      ],
+      "tags": [
+        "créole",
+        "réunion",
+        "saint-pierre"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 9
+    },
+    {
+      "name": "Antenne Réunion Radio",
+      "urls": [
+        "https://rtlre.ice.infomaniak.ch/rtlre-64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.wixstatic.com/media/dafa71_883786e5405c4e909d9dcfe152dfb89d%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/dafa71_883786e5405c4e909d9dcfe152dfb89d%7Emv2.png",
+      "votes": 290
+    },
+    {
+      "name": "Azot Radio",
+      "urls": [
+        "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3"
+      ],
+      "tags": [
+        "creole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/kjys9gmfn5ce.png",
+      "votes": 103
+    },
+    {
+      "name": "Capital FM Réunion",
+      "urls": [
+        "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion",
+        "saint-denis"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/4qa2fweqmadn.jpg",
+      "votes": 10
+    },
+    {
+      "name": "Chérie FM Réunion",
+      "urls": [
+        "https://streaming.nrjaudio.fm/ouw82wsk6j4d"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/n8PyG1KB/1019-cherie-fm-reunion-1c6097d3.png",
+      "votes": 57
+    },
+    {
+      "name": "Exo FM",
+      "urls": [
+        "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac"
+      ],
+      "tags": [],
+      "city": "Ile De La Réunion",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Zy_N3_PJo7HCVKT1v4e1KQHaHa%26pid%3DApi&f=1&ipt=f66ce81e4c07f2889f8927e37f92e277716bfac06da60f0e1530c2e38d6ec189&ipo=images",
+      "votes": 485
+    },
+    {
+      "name": "Hit FM Réunion",
+      "urls": [
+        "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3"
+      ],
+      "tags": [
+        "créole",
+        "réunion",
+        "saint-denis"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/uufgnpkexh6t.png",
+      "votes": 47
+    },
+    {
+      "name": "Kreolkoneksyon Radio",
+      "urls": [
+        "https://listen.radioking.com/radio/511600/stream/569401"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "reggae",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/343/kreolkoneksyon-radio.ce0c7492.jpg",
+      "votes": 66
+    },
+    {
+      "name": "Le passage du chat blanc",
+      "urls": [
+        "https://play.radioking.io/wa-ho"
+      ],
+      "tags": [
+        "pop",
+        "raggae",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "louange radio",
+      "urls": [
+        "https://radio13.pro-fhi.net:19079/"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 84
+    },
+    {
+      "name": "Love Hit Reunion",
+      "urls": [
+        "https://stream.zeno.fm/wcfjkonehdlvv.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 104
+    },
+    {
+      "name": "MaronRfm",
+      "urls": [
+        "https://listen.radioking.com/radio/331087/stream/379402"
+      ],
+      "tags": [],
+      "city": "Saint-Denis",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/145909.v1.png",
+      "votes": 23
+    },
+    {
+      "name": "NRJ Réunion",
+      "urls": [
+        "https://streaming.nrjaudio.fm/ougonmrb92oc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/B5w8zvHr/nrj-reunion-9d96388c.png",
+      "votes": 25
+    },
+    {
+      "name": "Passion Tropical",
+      "urls": [
+        "https://listen.radioking.com/radio/7495/stream/16988"
+      ],
+      "tags": [
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/142/passion-tropical.cdd411fb.jpg",
+      "votes": 30
+    },
+    {
+      "name": "Radio Freedom 2",
+      "urls": [
+        "https://freedomice.streamakaci.com/freedom2.mp3"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.ibb.co/JWDzwWRY/k4-SXf84-Df7-upscayl-2x-digital-art-4x.png",
+      "votes": 30
+    },
+    {
+      "name": "Radio Kayanm",
+      "urls": [
+        "https://hosting.studioradiomedia.fr:2245/stream"
+      ],
+      "tags": [
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/g3ZH3BfWkR.png",
+      "votes": 34
+    },
+    {
+      "name": "Radio Merveille Océan Indien",
+      "urls": [
+        "https://listen.radioking.com/radio/694373/stream/759203"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/940/radio-merveille-ocean-indien.d4bccf3f.jpg",
+      "votes": 32
+    },
+    {
+      "name": "Radio Oxygène Réunion",
+      "urls": [
+        "https://ecmanager2.pro-fhi.net:1535/stream"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion",
+        "sainte-rose"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/203/radio-oxygene-reunion-reunion.423a79d3.png",
+      "votes": 38
+    },
+    {
+      "name": "Radio Pikan",
+      "urls": [
+        "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650"
+      ],
+      "tags": [
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "Radio Star Réunion",
+      "urls": [
+        "https://cdnradio.streamakaci.com/radiostar.mp3"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i.ibb.co/m5CLJbxc/67a887528dc318-57430710-upscayl-2x-digital-art-4x.png",
+      "votes": 1
+    },
+    {
+      "name": "RC Radio Reconnaissance du Coeur",
+      "urls": [
+        "https://listen.radioking.com/radio/672001/stream/736156"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/830/rc-radio-renaissance-du-coeur.cba7149a.png",
+      "votes": 17
+    },
+    {
+      "name": "Réunion La 1ère",
+      "urls": [
+        "https://reunion.ice.infomaniak.ch/reunion-128.mp3"
+      ],
+      "tags": [
+        "french overseas",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://la1ere.francetvinfo.fr/favicon.ico",
+      "votes": 3212
+    },
+    {
+      "name": "RFM Réunion",
+      "urls": [
+        "https://rfmreunio.ice.infomaniak.ch/rfmrun-128.mp3"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/bj9cXm6N/rfm-reunion-b42948f8-upscayl-2x-digital-art-4x.png",
+      "votes": 4
+    },
+    {
+      "name": "Rire et Chansons Réunion",
+      "urls": [
+        "https://streaming.nrjaudio.fm/oun3wuqn5eyc"
+      ],
+      "tags": [
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/882/1065-rire-chansons-reunion.1c74c9f1.png",
+      "votes": 74
+    },
+    {
+      "name": "RSL Radio",
+      "urls": [
+        "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/DfrhWk8F/epk-VRTsjbz-upscayl-2x-digital-art-4x.png",
+      "votes": 61
+    },
+    {
+      "name": "Sensuelle Radio Réunion",
+      "urls": [
+        "https://radio10.pro-fhi.net/radio/9169/stream"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "le tampon",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/dycw4yxnq8jx.png",
+      "votes": 24
+    },
+    {
+      "name": "SUN FM | 97.8 | 102 | 94.1",
+      "urls": [
+        "https://listen.radioking.com/radio/669814/stream/733864"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion",
+        "saint-pierre"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/832/sun-fm-reunion.c24f8d79.png",
+      "votes": 34
+    },
+    {
+      "name": "Sunlight FM",
+      "urls": [
+        "https://listen.radioking.com/radio/355933/stream/405250"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion",
+        "saint-philippe"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/832/austral-fm.a3b2cae3.jpg",
+      "votes": 18
+    },
+    {
+      "name": "Top Fm Maxi Dance",
+      "urls": [
+        "https://streamingv2.shoutcast.com/-TopFm-Maxidance"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/bnzjbtbqfqbv.png",
+      "votes": 14
+    },
+    {
+      "name": "Urban Hit Réunion",
+      "urls": [
+        "https://listen.radioking.com/radio/400111/stream/452236"
+      ],
+      "tags": [
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/Gf8jmD25/urban-hit-36b7398e-upscayl-2x-digital-art-4x.png",
+      "votes": 12
+    },
+    {
+      "name": "Waho",
+      "urls": [
+        "https://listen.radioking.com/radio/214300/stream/257431"
+      ],
+      "tags": [
+        "974",
+        "créole",
+        "réunion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/779/waho.0fd25aeb.png",
+      "votes": 12
+    }
+  ]
+}

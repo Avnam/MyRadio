@@ -1,0 +1,280 @@
+{
+  "code": "TT",
+  "name": "Trinidad And Tobago",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "95 the ultimate one",
+      "urls": [
+        "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tbcradionetwork.co.tt/95theultimateone/wp-content/uploads/sites/3/2022/03/cropped-951-Logo-Color-Glow-80x53.png",
+      "votes": 312
+    },
+    {
+      "name": "95.1 Remix live",
+      "urls": [
+        "https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 19
+    },
+    {
+      "name": "Bacchanal Radio",
+      "urls": [
+        "https://c13.radioboss.fm:18470/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bacchanal-radio.com/wp-content/uploads/2021/04/cropped-IMG-1504.JPG-150x150.png",
+      "votes": 59
+    },
+    {
+      "name": "BOOM 94FM",
+      "urls": [
+        "https://s8.yesstreaming.net:17103/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://i0.wp.com/boomchampionstt.com/wp-content/uploads/2022/01/cropped-94fav.jpg",
+      "votes": 240
+    },
+    {
+      "name": "Fully Catholic Radio",
+      "urls": [
+        "https://usa10.fastcast4u.com/fullycat2?x=1740578197868"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.fullycatholic.com/wp-content/uploads/Fully-Catholic-Radio-Logo-NEW-w-Headset-1.png",
+      "votes": 25
+    },
+    {
+      "name": "Isaac 98.1fm",
+      "urls": [
+        "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15"
+      ],
+      "tags": [
+        "christian",
+        "christian-gospel",
+        "gospel",
+        "jesus"
+      ],
+      "city": "Port of Spain",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 1100
+    },
+    {
+      "name": "JO Radio HD",
+      "urls": [
+        "https://medncxfardtsdpzezzsb.supabase.co/functions/v1/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "gospel",
+        "r&b",
+        "reggae"
+      ],
+      "city": "Port of Spain",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://app-c02qmnhobp4x.appmedo.com",
+      "votes": 2
+    },
+    {
+      "name": "LIT 102.3FM",
+      "urls": [
+        "https://s8.yesstreaming.net:17106/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://i0.wp.com/lit102fm.com/wp-content/uploads/2021/05/lit-logo-500x500-1.png?w=500&ssl=1",
+      "votes": 135
+    },
+    {
+      "name": "Music Radio 97.1 FM",
+      "urls": [
+        "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988"
+      ],
+      "tags": [],
+      "city": "Port of Spain",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.musicradio97.com/favicon.ico",
+      "votes": 69
+    },
+    {
+      "name": "Sangee 106.1 fm",
+      "urls": [
+        "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 56
+    },
+    {
+      "name": "Scorch Radio 101.1FM",
+      "urls": [
+        "https://stream.velalabs.co/scorch"
+      ],
+      "tags": [
+        "soca",
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 57
+    },
+    {
+      "name": "Slam 100.5",
+      "urls": [
+        "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen"
+      ],
+      "tags": [
+        "music",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240426_002405318.jpg?alt=media&token=93055922-497c-4979-b456-0ad25123152c",
+      "votes": 157
+    },
+    {
+      "name": "Star 94.7",
+      "urls": [
+        "https://fms.ttrn.org/live/star947.sdp/chunklist_w2060647527.m3u8"
+      ],
+      "tags": [],
+      "city": "Port of Spain",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://ojoworldtt.com/wp-content/uploads/2019/10/logo.png",
+      "votes": 19
+    },
+    {
+      "name": "Talk City 91.1 FM",
+      "urls": [
+        "https://media.streambrothers.com:8450/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "TAMBRIN",
+      "urls": [
+        "https://ice42.securenetsystems.net/TAMBRIN"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 320
+    },
+    {
+      "name": "Vibe CT (Port of Spain)",
+      "urls": [
+        "https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 199
+    },
+    {
+      "name": "Vibe CT 105",
+      "urls": [
+        "https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "Woods Hit Radio",
+      "urls": [
+        "https://stream.zeno.fm/2f33725t4mzuv"
+      ],
+      "tags": [
+        "music",
+        "rock pop trinidad 80s 70s 90s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://whrfm.webnode.page/favicon.ico",
+      "votes": 91
+    },
+    {
+      "name": "Woods Hit Radio AC",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/nigel/stream"
+      ],
+      "tags": [
+        "70 80 hits",
+        "adult contemporary",
+        "classic hits",
+        "classic rock",
+        "classic rock oldies",
+        "music 70s 80s 90s",
+        "soft rock"
+      ],
+      "city": "Petit Valley",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 48
+    }
+  ]
+}

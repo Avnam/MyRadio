@@ -1,0 +1,33 @@
+{
+  "code": "CG",
+  "name": "The Congo",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [
+        "islamic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 77
+    },
+    {
+      "name": "Radio Maria Democratic Rep. Congo",
+      "urls": [
+        "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 661
+    }
+  ]
+}

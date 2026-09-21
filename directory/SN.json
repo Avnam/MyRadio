@@ -1,0 +1,367 @@
+{
+  "code": "SN",
+  "name": "Senegal",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 378
+    },
+    {
+      "name": "Afia FM 93.0 Dakar",
+      "urls": [
+        "https://stream.zeno.fm/skjrn6kzzxptv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 535
+    },
+    {
+      "name": "Bamtaare FM 103.4 Dodel",
+      "urls": [
+        "https://stream.zeno.fm/n1mugn1am1duv"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 623
+    },
+    {
+      "name": "Dakar Musique",
+      "urls": [
+        "https://stream.dakarmusique.com/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.dakarmusique.com/wp-content/uploads/2022/11/logo.jpg",
+      "votes": 50
+    },
+    {
+      "name": "FM Sénégal 103.1 Dakar",
+      "urls": [
+        "https://stream-154.zeno.fm/t8gcyq6ts0quv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 2921
+    },
+    {
+      "name": "GMS FM 89.3 Ziguinchor",
+      "urls": [
+        "https://myfm.acan.group/radio/8140/radio.mp3?1690707378"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/www.gms.sn/wp-content/uploads/2023/02/cropped-cropped-logo-set.png?fit=180%2c180&#038;ssl=1",
+      "votes": 414
+    },
+    {
+      "name": "H24 Senegal",
+      "urls": [
+        "https://listen.senemultimedia.net:8072/stream"
+      ],
+      "tags": [
+        "music",
+        "senegal",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 461
+    },
+    {
+      "name": "Love FM 107.3 Dakar",
+      "urls": [
+        "https://stream.zeno.fm/7cru7g7rcwzuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 808
+    },
+    {
+      "name": "Manooré FM 89.4 Dakar",
+      "urls": [
+        "https://stream.zeno.fm/sad0xwh0mg8uv"
+      ],
+      "tags": [
+        "general",
+        "women"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 465
+    },
+    {
+      "name": "Metraf FM 103.7 Dakar",
+      "urls": [
+        "https://stream.zeno.fm/66yrv69ffv8uv"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 323
+    },
+    {
+      "name": "Or FM 89.6 Orkadiéré",
+      "urls": [
+        "https://stream.zeno.fm/gy7fpc2am1duv"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 1030
+    },
+    {
+      "name": "Radio AI",
+      "urls": [
+        "https://a13.asurahosting.com/listen/radio_ai/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://r.mobirisesite.com/2031852/assets/images/logo2-h_mmujsr7l.png",
+      "votes": 33
+    },
+    {
+      "name": "Radio Al Fayda 90.1 Kaolack",
+      "urls": [
+        "https://usa5.fastcast4u.com/proxy/lyartech?mp=/stream/1/"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 753
+    },
+    {
+      "name": "Radio Fulbe FM 102.6 Dakar",
+      "urls": [
+        "https://stream.zeno.fm/e0grbn8e3rquv"
+      ],
+      "tags": [
+        "african music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2014
+    },
+    {
+      "name": "Radio Keur Massar",
+      "urls": [
+        "https://stream.keurmassar.info/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.keurmassar.info/wp-content/uploads/2024/01/kminfos200.png",
+      "votes": 314
+    },
+    {
+      "name": "Radio Thiossane",
+      "urls": [
+        "https://stream.radiothiossane.com/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiothiossane.com/assets/images/logo.webp",
+      "votes": 77
+    },
+    {
+      "name": "Radio Thiossane",
+      "urls": [
+        "https://listen.senemultimedia.net:8112/stream"
+      ],
+      "tags": [
+        "african music",
+        "music",
+        "traditional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2528
+    },
+    {
+      "name": "Rewmi FM 97.5 Dakar",
+      "urls": [
+        "https://stream-61.zeno.fm/nkzsqg16t8quv"
+      ],
+      "tags": [
+        "general"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1643
+    },
+    {
+      "name": "RTS 92.5 RSI",
+      "urls": [
+        "https://10gb1.acangroup.org:8000/rsi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.rts.sn/favicon.ico",
+      "votes": 5464
+    },
+    {
+      "name": "RTS Kaolack 103",
+      "urls": [
+        "https://stream.zeno.fm/2fkd4h0ts1duv.m4a"
+      ],
+      "tags": [
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static-media.streema.com/media/cache/09/25/09258dddae8ecd2312c57ccbc497a103.jpg",
+      "votes": 599
+    },
+    {
+      "name": "RTS Matam 89.1",
+      "urls": [
+        "https://stream.zeno.fm/kxud8vhqt1duv"
+      ],
+      "tags": [
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1294
+    },
+    {
+      "name": "RTS Tambacounda 92.0",
+      "urls": [
+        "https://stream.zeno.fm/nqxg7p8pt1duv"
+      ],
+      "tags": [
+        "regional",
+        "tamba"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/zmX1WsGEbTqQdM_MgWuJCUgsJiv6GFaoy8TUJgorpjo/rs:fit:1500:600/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeE5hNXhRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBd0w3SG1Rb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjExNjE0NTgwMDA.webp",
+      "votes": 870
+    },
+    {
+      "name": "Timtimol FM 91.9 Ourossogui",
+      "urls": [
+        "https://stream.zeno.fm/4yx608hnu1duv"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 665
+    },
+    {
+      "name": "Waar Fi FM 104.9 Sébikhotane",
+      "urls": [
+        "https://stream.zeno.fm/rmg4rfewweruv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 412
+    },
+    {
+      "name": "Zig FM 100.3 Kolda",
+      "urls": [
+        "https://stream.zeno.fm/akh0t25nc18uv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 1163
+    },
+    {
+      "name": "Zig FM 100.8 Ziguinchor",
+      "urls": [
+        "https://stream.zeno.fm/zfdk0c69d3quv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1751
+    }
+  ]
+}

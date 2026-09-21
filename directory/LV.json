@@ -1,0 +1,645 @@
+{
+  "code": "LV",
+  "name": "Latvia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Chillax",
+      "urls": [
+        "https://streams.chillaxfm.lv/chillax"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://skontotev.lv/uploads/LOGO/128x83/128x128%20px%20Chillax_labots.png",
+      "votes": 6
+    },
+    {
+      "name": "Chillax FM",
+      "urls": [
+        "https://streams.chillaxfm.lv/chillaxfm"
+      ],
+      "tags": [
+        "chill & relax"
+      ],
+      "city": "Riga",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://skontotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/straumes_1a_kartite_chillax%20FM.png",
+      "votes": 13
+    },
+    {
+      "name": "Divu Krastu Radio",
+      "urls": [
+        "https://live.dkradio.lv/01"
+      ],
+      "tags": [
+        "retro"
+      ],
+      "city": "Daugavpils",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.dkradio.lv/userfiles/theme/logo.svg",
+      "votes": 4
+    },
+    {
+      "name": "EHR",
+      "urls": [
+        "https://stream.ehrhiti.lv:8000/ehr.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ehr.fm/build/favicons/favicon.png",
+      "votes": 63
+    },
+    {
+      "name": "EHR+",
+      "urls": [
+        "https://stream.ehrhiti.lv:8000/khr.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ehr.fm/content/channels/fc039806-e0c3-49bc-82d8-4f421f45be63.png?w=205&h=205&fm=webp&s=3b8d5106ea026855e5700c9c260f45b4",
+      "votes": 30
+    },
+    {
+      "name": "gradio.lv ONE",
+      "urls": [
+        "https://stream.gradio.lv/gradio-one.mp4a"
+      ],
+      "tags": [
+        "dance",
+        "eurodance",
+        "hands up",
+        "hard dance",
+        "house",
+        "pop",
+        "trance"
+      ],
+      "city": "Grobina",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://gradio.lv/logo/only-g-without-gloss-web-200.png",
+      "votes": 7
+    },
+    {
+      "name": "IvoFm",
+      "urls": [
+        "https://radio.ivofm.lv/listen/ivofm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Latviešu hiti",
+      "urls": [
+        "https://stream.ehrhiti.lv:8000/Stream_22.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ehr.fm/content/channels/e253bd86-c97a-4117-a7d8-4dd65fe00a2c.png?w=205&h=205&fm=webp&s=ce07c22c9642da2d67534f85b1c14180",
+      "votes": 40
+    },
+    {
+      "name": "Latvijas Kristīgais Radio",
+      "urls": [
+        "https://radio.lkr.lv/;?type=http&nocache=40"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://lkr.lv/icon-128x128.png",
+      "votes": 41
+    },
+    {
+      "name": "Latvijas Radio 1",
+      "urls": [
+        "https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "latvijas radio",
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Latvijas Radio 2",
+      "urls": [
+        "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "latvijas radio",
+        "pop",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "LRMAROCKRADIO",
+      "urls": [
+        "https://c22.radioboss.fm:18318/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 813
+    },
+    {
+      "name": "Mix FM 102,7",
+      "urls": [
+        "https://live.relaxfm.lv/07"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "city": "Rīgā ",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://mixfm.lv/upload/players/6564bef731b954.54432755.png",
+      "votes": 18
+    },
+    {
+      "name": "NewDanceRadio",
+      "urls": [
+        "https://stream.newdanceradio.lv/mp3_192"
+      ],
+      "tags": [
+        "dance",
+        "eurodance",
+        "house",
+        "pop",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Njoyradio",
+      "urls": [
+        "https://live.njoyradio.lv/02"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Nordic Chillout Indie",
+      "urls": [
+        "https://listen.radioking.com/radio/768542/stream/835766"
+      ],
+      "tags": [
+        "indie pop",
+        "rock chillout music"
+      ],
+      "city": "Riga",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://indie.nordichilloutradio.com/wp-content/themes/indie-chillout-main/media/apple-touch-icon.png",
+      "votes": 10
+    },
+    {
+      "name": "Nordic Chillout Radio",
+      "urls": [
+        "https://play.radioking.io/nordic-chillout-radio/736489"
+      ],
+      "tags": [
+        "chillout",
+        "downtempo",
+        "electronic"
+      ],
+      "city": "Riga",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png",
+      "votes": 291
+    },
+    {
+      "name": "Radio 7",
+      "urls": [
+        "https://listen.radio7.lv:2053/Radio7"
+      ],
+      "tags": [
+        "latvian",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-32x32.png",
+      "votes": 24
+    },
+    {
+      "name": "Radio Liepāja",
+      "urls": [
+        "https://stream.radioliepaja.lv/live/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Liepāja",
+      "codec": "MP4",
+      "bitrate": 128000,
+      "logo": "https://radioliepaja.lv/favicon.svg",
+      "votes": 5
+    },
+    {
+      "name": "Radio Melodija",
+      "urls": [
+        "https://live.relaxfm.lv/08"
+      ],
+      "tags": [
+        "folk",
+        "jazz",
+        "news",
+        "pop"
+      ],
+      "city": "Рига",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radiomelodija.lv/upload/photos/69048604d622c8.08038779_final.png",
+      "votes": 21
+    },
+    {
+      "name": "Radio Nemiers",
+      "urls": [
+        "https://stream.radionemiers.com/nmrs/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP4",
+      "bitrate": 128000,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Roks",
+      "urls": [
+        "https://live.relaxfm.lv/06"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radioroks.lv/upload/design/63891096d7cfc0.23308165.png",
+      "votes": 74
+    },
+    {
+      "name": "Radio Skonto Plus",
+      "urls": [
+        "https://stream.radioskontoplus.lv:8443/st128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "Radio SWH LV",
+      "urls": [
+        "https://live.radioswh.lv:8443/swh_lv"
+      ],
+      "tags": [
+        "classic rock",
+        "latvian rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radioswhlv.lv/wp-content/uploads/2022/02/cropped-swh_lv_512_2-32x32.png",
+      "votes": 86
+    },
+    {
+      "name": "Radio SWH+",
+      "urls": [
+        "https://live.radioswh.lv:8443/plusmp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 130
+    },
+    {
+      "name": "Radio TEV",
+      "urls": [
+        "https://stream.radiotev.lv:8443/radiov"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio Viens",
+      "urls": [
+        "https://radioviens.lv/live"
+      ],
+      "tags": [
+        "24/7",
+        "ai music",
+        "latvian pop",
+        "latviešu mūzika",
+        "radio",
+        "synthpop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioviens.lv/avatar.png",
+      "votes": 1
+    },
+    {
+      "name": "Relax",
+      "urls": [
+        "https://live.relaxfm.lv/02"
+      ],
+      "tags": [],
+      "city": "Jelgava",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 210
+    },
+    {
+      "name": "Retro FM",
+      "urls": [
+        "https://23613.live.streamtheworld.com/RETRO_FM.mp3"
+      ],
+      "tags": [],
+      "city": "Riga",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://retrofm.lv/files/logo_01.png",
+      "votes": 12
+    },
+    {
+      "name": "Retro FM 70s 80s 90s",
+      "urls": [
+        "https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3"
+      ],
+      "tags": [],
+      "city": "Riga",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://retrofm.lv/files/logo_03.png",
+      "votes": 19
+    },
+    {
+      "name": "Retro FM Disco",
+      "urls": [
+        "https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3"
+      ],
+      "tags": [],
+      "city": "Riga",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://retrofm.lv/files/logo_02.png",
+      "votes": 11
+    },
+    {
+      "name": "Retro FM Latvija",
+      "urls": [
+        "https://stream.ehrhiti.lv:8000/Stream_RE.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ehr.fm/content/channels/614c776f-f4e9-4370-a221-999d4c675c97.png?w=205&h=205&fm=webp&s=63442b5cdd1bc22bc65780825c083d18",
+      "votes": 51
+    },
+    {
+      "name": "Skonto",
+      "urls": [
+        "https://stream.radioskonto.lv:8443/stereo"
+      ],
+      "tags": [],
+      "city": "Rīgā ",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Star FM Latvia",
+      "urls": [
+        "https://live.advailo.com/audio/live/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://tv3cdn.lv/skaties/images/starfm/apple-touch-icon-precomposed.png",
+      "votes": 11
+    },
+    {
+      "name": "StarFM",
+      "urls": [
+        "https://live.advailo.com/audio/mp3/icecast.audio"
+      ],
+      "tags": [
+        "folk",
+        "local news",
+        "pop music",
+        "rock"
+      ],
+      "city": "Latvia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tv3cdn.lv/tv3/images/logos/tv3-starfm.svg?ver=3",
+      "votes": 12
+    },
+    {
+      "name": "SuperHits",
+      "urls": [
+        "https://stream.ehrhiti.lv:8000/Stream_21.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ehr.fm/content/channels/1097ed8f-d318-4a08-89bd-a1fa548674f5.png?w=205&h=205&fm=webp&s=ab323f7af1c6835a75ef5b27185f360d",
+      "votes": 50
+    },
+    {
+      "name": "Tīrkultūra",
+      "urls": [
+        "https://s3.radio.co/s216811754/listen"
+      ],
+      "tags": [],
+      "city": "Rīgā ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://tirkultura.lv/favicon-32x32.png",
+      "votes": 9
+    },
+    {
+      "name": "TOP radio",
+      "urls": [
+        "https://topradio.live.advailo.com/topradio/mp3/icecast.audio"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://topradio.lv/favicon.ico",
+      "votes": 1057
+    },
+    {
+      "name": "TOP radio lv",
+      "urls": [
+        "https://live.advailo.com/topradio/live/playlist.m3u8"
+      ],
+      "tags": [
+        "club dj remix dance pop"
+      ],
+      "city": "Riga",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "XO.FM",
+      "urls": [
+        "https://live.xo.fm/xofm128"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 383
+    },
+    {
+      "name": "XO.FM",
+      "urls": [
+        "https://live.xo.fm/xofm256"
+      ],
+      "tags": [],
+      "city": "Riga",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://xo.fm/files/xo_fm.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Your City Padio",
+      "urls": [
+        "https://c28.radioboss.fm:18234/stream"
+      ],
+      "tags": [
+        "lounge pop house"
+      ],
+      "city": "Riga",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Your City Radio",
+      "urls": [
+        "https://c34.radioboss.fm:8234/stream"
+      ],
+      "tags": [
+        "afro house",
+        "afrobeat",
+        "chillout",
+        "disco funk",
+        "lounge",
+        "smooth jazz",
+        "soulful house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://c28.radioboss.fm/stationlogo/234.jpg?9299",
+      "votes": 9
+    },
+    {
+      "name": "Авторадио Латвия",
+      "urls": [
+        "https://live.relaxfm.lv/03"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Riga",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://avtoradio.lv/upload/design/64df68073caa85.35482071.png",
+      "votes": 2079
+    },
+    {
+      "name": "Ретро FM Рига (Retro FM)",
+      "urls": [
+        "https://live.retrofm.lv/retrofmlatvia"
+      ],
+      "tags": [
+        "classic hits",
+        "hits"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "http://retrofm.lv/view/site/favicons/apple-touch-icon.png",
+      "votes": 4932
+    }
+  ]
+}

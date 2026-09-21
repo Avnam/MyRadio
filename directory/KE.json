@@ -1,0 +1,401 @@
+{
+  "code": "KE",
+  "name": "Kenya",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "#Radio Quran",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 205
+    },
+    {
+      "name": "98.4 Capital FM",
+      "urls": [
+        "https://atunwadigital.streamguys1.com/capitalfm"
+      ],
+      "tags": [
+        "hits",
+        "local news",
+        "news",
+        "pop",
+        "rock",
+        "urban"
+      ],
+      "city": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.capitalfm.co.ke/apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 29
+    },
+    {
+      "name": "Aldai Radio",
+      "urls": [
+        "https://stream.zeno.fm/sojbskv8s10vv"
+      ],
+      "tags": [
+        "afrobeat",
+        "news",
+        "pop",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "AT254 Online Radio",
+      "urls": [
+        "https://s127.radiolize.com/radio/8100/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Nairobi",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Campus Radio Kenya",
+      "urls": [
+        "https://stream.zenolive.com/mayn36v1v8quv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/www.campusradio.co.ke/wp-content/uploads/2019/09/2-CRK-Official-Logo-1.png?fit=307%2C138&ssl=1",
+      "votes": 263
+    },
+    {
+      "name": "CARRIBEAN",
+      "urls": [
+        "https://streams.rautemusik.fm/caribbean-wave/mp3-192/"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 190
+    },
+    {
+      "name": "CRI Kiswahili",
+      "urls": [
+        "https://sk.cri.cn/kenya.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "Nairobi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://so1.360tres.com/t01d42733f392b2585c.jpg",
+      "votes": 6
+    },
+    {
+      "name": "Easy FM 101.5",
+      "urls": [
+        "https://stream.zeno.fm/wvw02zaqpxquv"
+      ],
+      "tags": [
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 212
+    },
+    {
+      "name": "Emmachev Radio",
+      "urls": [
+        "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3"
+      ],
+      "tags": [
+        "indie",
+        "urban"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://emmachev.com/wp-content/uploads/2022/07/Emmachev-Radio-Logo-1.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Exclusive radio George Straight",
+      "urls": [
+        "https://streaming.exclusive.radio/er/georgestrait/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 147
+    },
+    {
+      "name": "Flamingo Radio",
+      "urls": [
+        "https://stream.zeno.fm/215bpympks8uv"
+      ],
+      "tags": [
+        "afro-rhumba",
+        "congolese rhumba",
+        "dancehall",
+        "gospel",
+        "hiphop",
+        "hits",
+        "pop",
+        "reggae"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "George Jones",
+      "urls": [
+        "https://streaming.exclusive.radio/er/georgejones/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Nairobi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2021/02/Exclusively-Kylie-Minogue.jpg",
+      "votes": 114
+    },
+    {
+      "name": "ghetto kenya",
+      "urls": [
+        "https://stream.zeno.fm/kvudezx1h2zuv"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1263
+    },
+    {
+      "name": "JEMBE FM",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/jembemed/stream"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 250
+    },
+    {
+      "name": "JESUS IS LORD radio",
+      "urls": [
+        "https://stream-285.surfernetwork.com/thdtw5xd9eiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aGR0dzV4ZDllaXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI0OUMxUU9PMFIyeTl5SThnTno0VTB3IiwiaWF0IjoxNzg1OTU0NjI0LCJleHAiOjE3ODU5NTQ2ODR9.TEC2qyYYTCv3OjNepwCqgyWWPAoxPRanj5XLmznekcA"
+      ],
+      "tags": [
+        "holiness",
+        "repentance",
+        "worship"
+      ],
+      "city": "Nakuru",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Kameme FM",
+      "urls": [
+        "https://kamemefm-atunwadigital.streamguys1.com/kamemefm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cdn.radiosphere.io/images/f6b2a79d-b842-40f7-993a-d0ec902b156f_1720863384.webp.90?type=medium&blocking=false",
+      "votes": 1754
+    },
+    {
+      "name": "KENYA1 FM",
+      "urls": [
+        "https://stream.zeno.fm/cmgkmed5u18uv"
+      ],
+      "tags": [
+        "comedy",
+        "music",
+        "news",
+        "talkshow"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 287
+    },
+    {
+      "name": "Kustommediaradio",
+      "urls": [
+        "https://stream.zeno.fm/3zgc6zpfvorvv"
+      ],
+      "tags": [
+        "pepea show la kijanja 1-4pm"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 16
+    },
+    {
+      "name": "Mayian FM",
+      "urls": [
+        "https://mayianfm-atunwadigital.streamguys1.com/mayianfm"
+      ],
+      "tags": [
+        "christian",
+        "music",
+        "news",
+        "politics"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "NRG FM",
+      "urls": [
+        "https://streamingv2.shoutcast.com/nrg-radio-ke"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 181
+    },
+    {
+      "name": "Radio Generation Kenya 88.8",
+      "urls": [
+        "https://stream-158.zeno.fm/f3wvbbqmdg8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Radio Safari Kenya",
+      "urls": [
+        "https://stream.zeno.fm/t65cszbgunhvv"
+      ],
+      "tags": [
+        "christian",
+        "hits",
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Radio47",
+      "urls": [
+        "https://streaming.shoutcast.com/radio-47?ver=690109"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://yt3.googleusercontent.com/a3-veb-GPFI4o15P_DyjAXssVg_TTKGAjdgsWL_Iuvev83rzTB3xUfmoMxrMkbpNfO9IuFmT=s900-c-k-c0x00ffffff-no-rj",
+      "votes": 75
+    },
+    {
+      "name": "REPLAY NEWS - Kiswahili",
+      "urls": [
+        "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SW.png",
+      "votes": 31
+    },
+    {
+      "name": "Taach FM",
+      "urls": [
+        "https://pegasus.nucast.co.uk:8064/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://taachfm.co.ke/wp-content/uploads/2021/02/cropped-c1-2.jpg",
+      "votes": 18
+    },
+    {
+      "name": "Universal Health Radio (Kiswahili)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-sw.mp3"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "news",
+        "public health",
+        "swahili",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 1
+    }
+  ]
+}

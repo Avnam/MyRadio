@@ -1,0 +1,67 @@
+{
+  "code": "GL",
+  "name": "Greenland",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 39
+    },
+    {
+      "name": "Dfm rtv int160k",
+      "urls": [
+        "https://stereo.dfm.nu/"
+      ],
+      "tags": [],
+      "city": "Netherlands",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 421
+    },
+    {
+      "name": "KNR Live Radio",
+      "urls": [
+        "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://knr.gl/themes/custom/pco_theme/favicon.ico?v=1",
+      "votes": 33
+    },
+    {
+      "name": "Original Laikos",
+      "urls": [
+        "https://play.streams.gr:22035/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
+      "urls": [
+        "https://play.streams.gr/sc/radiodiplopenies/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/146808.v6.png",
+      "votes": 71
+    }
+  ]
+}

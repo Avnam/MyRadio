@@ -1,83 +1,1448 @@
 {
   "code": "IL",
   "name": "Israel",
-  "builtAt": "2026-09-21T00:00:00Z",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
   "stations": [
     {
-      "name": "Eco 99FM",
+      "name": ".assalam",
       "urls": [
-        "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
-        "https://eco-live.mediacast.co.il/99fm_aac"
+        "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
       ],
-      "tags": ["pop", "hits"],
-      "city": "Tel Aviv",
-      "codec": "AAC",
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
       "bitrate": 128,
       "logo": null,
-      "votes": 0
+      "votes": 91
+    },
+    {
+      "name": "#joint radio Beat Trance",
+      "urls": [
+        "https://jointil.com/stream-beat"
+      ],
+      "tags": [
+        "ambient",
+        "edm",
+        "edm radioshows",
+        "electronic",
+        "electronic music",
+        "goa",
+        "goa trance",
+        "goa trance psychedelic trance",
+        "progressive psytrance",
+        "progressive trance",
+        "psytrance",
+        "trance"
+      ],
+      "city": "Tel Aviv",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.jointil.com/broadcast/images/joint.radio350X350.png",
+      "votes": 263
+    },
+    {
+      "name": "#joint radio Blues Rock",
+      "urls": [
+        "https://jointil.com/stream-blues"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "alternative rock",
+        "bluegrass",
+        "blues",
+        "blues rock",
+        "chicago blues",
+        "classic blues",
+        "classic hits",
+        "classic rock",
+        "country blues",
+        "hits",
+        "pop rock",
+        "rhythm and blues (1960s randb (eg. the rolling stones))",
+        "rock",
+        "soft rock",
+        "top hits"
+      ],
+      "city": "Tel Aviv",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.jointil.com/broadcast/images/joint.radio350X350.png",
+      "votes": 541
+    },
+    {
+      "name": "#Joint Radio Reggae",
+      "urls": [
+        "https://jointil.com/stream-reggae"
+      ],
+      "tags": [],
+      "city": "Tel Aviv",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://jointil.com/broadcast/images/joint.radio350X350.png",
+      "votes": 159
+    },
+    {
+      "name": "#Radio CS",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+      "urls": [
+        "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://1015.radiodarom.co.il/Upload/Media/RadioStationLogo/radioStation_6_Logo_27072021180024.png",
+      "votes": 32
+    },
+    {
+      "name": "101.5fm רדיו התחנה",
+      "urls": [
+        "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.hatahana.co.il/wp-content/uploads/2023/03/logo.png",
+      "votes": 56
+    },
+    {
+      "name": "101fm radio jerusalem",
+      "urls": [
+        "https://radio.streamgates.net/stream/101fm"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.rlive.co.il/storage/uploads/stations/zdB75EspkE93lzmOQQDmaI8tmOGtVzW2xzsuaqdU.jpg",
+      "votes": 67
+    },
+    {
+      "name": "104.5fm radio זשכםמ",
+      "urls": [
+        "https://radio.streamgates.net/stream/1045fm"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.rlive.co.il/storage/uploads/stations/idOPKeykio01mD3JccdAJwveMAqfDOGsKgiJ43SN.jpeg",
+      "votes": 26
+    },
+    {
+      "name": "88 FM",
+      "urls": [
+        "https://29073.live.streamtheworld.com/KAN_88.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "91FM",
+      "urls": [
+        "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/logo.png",
+      "votes": 13
+    },
+    {
+      "name": "94fm רדיו גלי ישראל",
+      "urls": [
+        "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.gly.co.il/Upload/Media/RadioStationLogo/radioStation_2_Logo_26042021170757.svg",
+      "votes": 35
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "AudioVersity",
+      "urls": [
+        "https://1062onair.runi.ac.il/idc123.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Eco 99fm",
+      "urls": [
+        "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://eco99fm.maariv.co.il/",
+      "votes": 8
+    },
+    {
+      "name": "ECO99FM",
+      "urls": [
+        "https://eco-live.mediacast.co.il/99fm_aac"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "city": "telford",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radio.net/images/broadcasts/39/23/20612/1/c300.png",
+      "votes": 635
+    },
+    {
+      "name": "Eli Nisman Radio",
+      "urls": [
+        "https://listen6.myradio24.com/25715"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
     },
     {
       "name": "Galgalatz",
-      "urls": ["https://glzwizzlv.bynetcdn.com/glglz_mp3"],
-      "tags": ["pop", "rock"],
-      "city": "Tel Aviv",
+      "urls": [
+        "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+      ],
+      "tags": [],
+      "city": "",
       "codec": "MP3",
       "bitrate": 128,
       "logo": null,
-      "votes": 0
+      "votes": 38
     },
     {
-      "name": "Galei Tzahal",
-      "urls": ["https://glzwizzlv.bynetcdn.com/glz_mp3"],
-      "tags": ["news", "talk"],
-      "city": "Jaffa",
+      "name": "Galgalatz 91.8 FM",
+      "urls": [
+        "https://glzicylv01.bynetcdn.com/glglz_mp3"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "world"
+      ],
+      "city": "",
       "codec": "MP3",
       "bitrate": 128,
       "logo": null,
-      "votes": 0
+      "votes": 820
     },
     {
-      "name": "Galgalatz Rock",
-      "urls": ["https://glzwizzlv.bynetcdn.com/glglz_rock_mp3"],
-      "tags": ["rock"],
-      "city": "Tel Aviv",
+      "name": "Glglz",
+      "urls": [
+        "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+      "votes": 3069
+    },
+    {
+      "name": "Glglz - Rock",
+      "urls": [
+        "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://glz.co.il/Content/assets/favicons/glglz/favicon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Glglz - רגוע (סופשבוע)",
+      "urls": [
+        "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3"
+      ],
+      "tags": [
+        "relax",
+        "weekend"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://glz.co.il/Content/assets/favicons/glglz/favicon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Hedva Shaltiel",
+      "urls": [
+        "https://icecast.live/ivr"
+      ],
+      "tags": [],
+      "city": "Israel",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Ivri 6",
+      "urls": [
+        "https://streaming.radio.co/sa06221901/listen"
+      ],
+      "tags": [],
+      "city": "",
       "codec": "MP3",
       "bitrate": 128,
       "logo": null,
-      "votes": 0
+      "votes": 23
+    },
+    {
+      "name": "Jewish Music Stream",
+      "urls": [
+        "https://stream.jewishmusicstream.com:8000/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://jewishmusicstream.com/favicon.ico",
+      "votes": 1026
+    },
+    {
+      "name": "KAN 88",
+      "urls": [
+        "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions&dvr=7200000"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.kan.org.il/media/44oe24fl/01white-logo-channel-header-kan88-2026.svg",
+      "votes": 8
     },
     {
       "name": "Kan Bet",
       "urls": [
-        "https://28563.live.streamtheworld.com/KAN_BET.mp3",
-        "https://25583.live.streamtheworld.com/KAN_BET.mp3"
+        "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133"
       ],
-      "tags": ["news", "talk"],
-      "city": "Jerusalem",
+      "tags": [
+        "news"
+      ],
+      "city": "",
       "codec": "MP3",
       "bitrate": 128,
+      "logo": "https://www.kan.org.il/media/wgtfcyp2/%D7%91-%D7%9C%D7%95%D7%92%D7%95-%D7%9C%D7%91%D7%9F-2.svg",
+      "votes": 46
+    },
+    {
+      "name": "Kan Bet",
+      "urls": [
+        "https://28563.live.streamtheworld.com/KAN_BET.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.kan.org.il/media/wgtfcyp2/%D7%91-%D7%9C%D7%95%D7%92%D7%95-%D7%9C%D7%91%D7%9F-2.svg",
+      "votes": 203
+    },
+    {
+      "name": "Kan Bet 64K",
+      "urls": [
+        "https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=64000&audioId=1&lang=pol&renditions"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
       "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "KAN Gimel כאן גימל",
+      "urls": [
+        "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "KAN TARBUT",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/720/kan-tarbut.17461622.png",
       "votes": 0
     },
     {
-      "name": "Kan 88",
-      "urls": ["https://29073.live.streamtheworld.com/KAN_88.mp3"],
-      "tags": ["music"],
-      "city": "Jerusalem",
+      "name": "Kan Tarbut",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist"
+      ],
+      "tags": [],
+      "city": "",
       "codec": "MP3",
       "bitrate": 128,
       "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Kcm FM Channel 01 Live",
+      "urls": [
+        "https://media2.93fm.co.il/livemusic"
+      ],
+      "tags": [
+        "hasidic",
+        "hebrew",
+        "israël",
+        "religious",
+        "yiddish"
+      ],
+      "city": "Jerusalem",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://kcm.fm/favicon.ico",
+      "votes": 47
+    },
+    {
+      "name": "KHZ - רדיו קול הצפון",
+      "urls": [
+        "https://live.ecast.co.il/stream/khz"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "kol hai",
+      "urls": [
+        "https://live.kcm.fm/livemusic"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Kol Rega קול רגע 91.5/96",
+      "urls": [
+        "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pop",
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://96fm.co.il/wp-content/uploads/2022/10/cropped-Logo-192x192.png",
+      "votes": 46
+    },
+    {
+      "name": "kzradio",
+      "urls": [
+        "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Music-ToraVeZimra",
+      "urls": [
+        "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Nachman",
+      "urls": [
+        "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://breslevforyou.co.il/assets/favicon/favicon-512x512.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio 100% 90s",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio"
+      ],
+      "tags": [
+        "90s",
+        "classic hits",
+        "dance",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 153
+    },
+    {
+      "name": "Radio 100% Latina",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio 103FM",
+      "urls": [
+        "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://cdn-profiles.tunein.com/s14201/images/logog.png",
+      "votes": 3948
+    },
+    {
+      "name": "Radio 90FM",
+      "urls": [
+        "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.90fm.co.il/resource/images/logo.png",
+      "votes": 22
+    },
+    {
+      "name": "radio darom 95.8fm 97fm",
+      "urls": [
+        "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://odsv.org/wp-content/uploads/2020/03/%D7%A8%D7%93%D7%99%D7%95-%D7%93%D7%A8%D7%95%D7%9D-1.png",
+      "votes": 25
+    },
+    {
+      "name": "Radio France Israël",
+      "urls": [
+        "https://stream10.vestaradio.com/Radio-France-Israel"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiofranceisrael.com/uploads/user-music/1811/site-logo/sitelogo_91_1787912087_6825f8.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Radio Haifa רדיו חיפה",
+      "urls": [
+        "https://1075.livecdn.biz/radiohaifa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "Radio Nahariya",
+      "urls": [
+        "https://cast.radionahariya.com:8443/main.mp3"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.radionahariya.com/assets/icons/apple-touch-icon.png",
+      "votes": 72
+    },
+    {
+      "name": "Radio Nas",
+      "urls": [
+        "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 115
+    },
+    {
+      "name": "Radio Qualita",
+      "urls": [
+        "https://www.radioking.com/play/radio-qualita"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/9faaae_a396c0df8aa54320bd31c04ddaab6b3c~mv2.png/v1/fill/w_426,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9faaae_a396c0df8aa54320bd31c04ddaab6b3c~mv2.png",
+      "votes": 67
+    },
+    {
+      "name": "Radio Sahar",
+      "urls": [
+        "https://live.ecast.co.il/stream/sahar/stream"
+      ],
+      "tags": [
+        "hebrew",
+        "hip-hop",
+        "interviews",
+        "jazz",
+        "music",
+        "news",
+        "news talk",
+        "pop",
+        "psychedelic",
+        "psytrance",
+        "r&b",
+        "rap",
+        "rock",
+        "soul",
+        "trap"
+      ],
+      "city": "south",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiosahar.co.il/images/logo.png",
+      "votes": 12
+    },
+    {
+      "name": "Radios 100FM   רדיוס",
+      "urls": [
+        "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/SmallLogo.png",
+      "votes": 158
+    },
+    {
+      "name": "Radios 100FM - 100% Blues",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8"
+      ],
+      "tags": [
+        "blues"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 146,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Britpop",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8"
+      ],
+      "tags": [
+        "britpop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Chillout",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png",
+      "votes": 5
+    },
+    {
+      "name": "Radios 100FM - 100% Classic",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8"
+      ],
+      "tags": [
+        "classic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 147,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png",
       "votes": 0
     },
     {
-      "name": "Kan Gimmel",
-      "urls": ["https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3"],
-      "tags": ["mizrahi", "music"],
+      "name": "Radios 100FM - 100% Classic Rock",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 148,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Club",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Club/icecast.audio"
+      ],
+      "tags": [
+        "club"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Country",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 148,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Covers",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8"
+      ],
+      "tags": [
+        "covers"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Disney",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio"
+      ],
+      "tags": [
+        "disney"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Eurovision",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8"
+      ],
+      "tags": [
+        "eurovision",
+        "eurovision song contest"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 148,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% Gamer",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio"
+      ],
+      "tags": [
+        "gamer"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png",
+      "votes": 4
+    },
+    {
+      "name": "Radios 100FM - 100% Hits",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% Jazz",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% K-pop",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png",
+      "votes": 6
+    },
+    {
+      "name": "Radios 100FM - 100% Kids",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png",
+      "votes": 4
+    },
+    {
+      "name": "Radios 100FM - 100% Latin",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8"
+      ],
+      "tags": [
+        "latin"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% Legends",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8"
+      ],
+      "tags": [
+        "legends"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 147,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% Love",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8"
+      ],
+      "tags": [
+        "love"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 146,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Mizrachit (מזרחי)",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio"
+      ],
+      "tags": [
+        "mizrachit",
+        "מזרחי"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png",
+      "votes": 6
+    },
+    {
+      "name": "Radios 100FM - 100% Movies",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8"
+      ],
+      "tags": [
+        "movies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 145,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png",
+      "votes": 4
+    },
+    {
+      "name": "Radios 100FM - 100% Nostalgia",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8"
+      ],
+      "tags": [
+        "nostalgia"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 146,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png",
+      "votes": 8
+    },
+    {
+      "name": "Radios 100FM - 100% Relax",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio"
+      ],
+      "tags": [
+        "relax"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Retro",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio"
+      ],
+      "tags": [
+        "retro"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Rock",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 148,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Selfie",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 145,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png",
+      "votes": 0
+    },
+    {
+      "name": "Radios 100FM - 100% StandUp",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio"
+      ],
+      "tags": [
+        "standup"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png",
+      "votes": 1
+    },
+    {
+      "name": "Radios 100FM - 100% Stars (ערוץ הכוכבים)",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Tiktok",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio"
+      ],
+      "tags": [
+        "tiktok"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% Top40",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png",
+      "votes": 5
+    },
+    {
+      "name": "Radios 100FM - 100% Workout",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8"
+      ],
+      "tags": [
+        "workout"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-workout.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios 100FM - 100% World Music",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 147,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png",
+      "votes": 3
+    },
+    {
+      "name": "Radios 100FM - 100% Yehudi (יהודי)",
+      "urls": [
+        "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8"
+      ],
+      "tags": [
+        "yehudi"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 144,
+      "logo": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png",
+      "votes": 2
+    },
+    {
+      "name": "Radios Nostalgia 96.3FM (רדיוס נוסטלגי)",
+      "urls": [
+        "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.963fm.co.il/wp-content/uploads/2025/11/cropped-F-270x270.png",
+      "votes": 3
+    },
+    {
+      "name": "Rak Musica",
+      "urls": [
+        "https://play.radioking.io/rak-musica/670240"
+      ],
+      "tags": [],
+      "city": "Jerusalem",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rak-musica.webnode.be/",
+      "votes": 11
+    },
+    {
+      "name": "Star 33 Radiostation",
+      "urls": [
+        "https://online.star33radio.com:1115/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://drive.google.com/file/d/1jrJxOLRQU3ffbWUt0NNNi9LRlpKYUBF2/view?usp=drive_link",
+      "votes": 14
+    },
+    {
+      "name": "Tel Aviv 102FM רדיו תל אביב",
+      "urls": [
+        "https://102.livecdn.biz/102fm_aac"
+      ],
+      "tags": [
+        "contenmporary",
+        "music",
+        "talk",
+        "ישראל"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://102fm.co.il/img/images/logo-top-menu.jpg",
+      "votes": 30
+    },
+    {
+      "name": "TIMBR Radio",
+      "urls": [
+        "https://radio.betteradio.live/listen/better_radio/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://timbr.music/apple-touch-icon.png",
+      "votes": 1
+    },
+    {
+      "name": "toker",
+      "urls": [
+        "https://live.toker.fm:6060/"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Up2Dance Radio",
+      "urls": [
+        "https://icecast.live/up2dance"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://up2dance.com/wp-content/uploads/2021/01/Up2Dance-Radio-01-01-768x742.png",
+      "votes": 2
+    },
+    {
+      "name": "yStream",
+      "urls": [
+        "https://ystream.live/ystream-mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "ai radio",
+        "hebrew",
+        "international",
+        "israeli",
+        "pop",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ystream.live/assets/img/icon-512.png",
+      "votes": 1
+    },
+    {
+      "name": "Ze Rock Radio",
+      "urls": [
+        "https://icecast.live/proxy/zerock/zerock"
+      ],
+      "tags": [
+        "indy",
+        "metal",
+        "post punk",
+        "punk",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zerockradio.com/favicon.ico",
+      "votes": 80
+    },
+    {
+      "name": "Мессианское онлайн радио Орэну",
+      "urls": [
+        "https://listen7.myradio24.com/orenu"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orenu.co.il/wp-content/uploads/2020/07/logo-80x80.png",
+      "votes": 12
+    },
+    {
+      "name": "Первое радио 89.1FM",
+      "urls": [
+        "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dyjvnjd6yl5jx.cloudfront.net/wp-content/uploads/2020/11/d0bbd0bed0b3d0be-d0bdd0bed0b2d18bd0b9-d0bcd0b0d0bbd18bd0b9.png",
+      "votes": 2152
+    },
+    {
+      "name": "ברסלב פוריו: הלכות ודף יומי",
+      "urls": [
+        "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3"
+      ],
+      "tags": [
+        "jewish",
+        "music"
+      ],
+      "city": "Jerusalem",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "votes": 2
+    },
+    {
+      "name": "ברסלב פוריו: ספרי ברסלב",
+      "urls": [
+        "https://cast.breslevforyou.co.il/listen/books/radio.mp3"
+      ],
+      "tags": [
+        "books",
+        "jewish"
+      ],
       "city": "Jerusalem",
       "codec": "MP3",
       "bitrate": 128,
+      "logo": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "votes": 2
+    },
+    {
+      "name": "ברסלב פוריו: קצר וקולע",
+      "urls": [
+        "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3"
+      ],
+      "tags": [
+        "jewish",
+        "music"
+      ],
+      "city": "Jerusalem",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "votes": 3
+    },
+    {
+      "name": "גלצ",
+      "urls": [
+        "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+      ],
+      "tags": [
+        "local music",
+        "local news",
+        "local radio",
+        "politics & current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://glz.co.il/Content/assets/favicons/glz/ms-icon-144x144.png",
+      "votes": 78
+    },
+    {
+      "name": "כאן רקע Kan Reka",
+      "urls": [
+        "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions"
+      ],
+      "tags": [
+        "amharic",
+        "foreign languages",
+        "international",
+        "israel",
+        "jewish",
+        "politics",
+        "russian",
+        "spanish"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
       "logo": null,
-      "votes": 0
+      "votes": 7
+    },
+    {
+      "name": "קול חי - Kol Chai",
+      "urls": [
+        "https://media2.93fm.co.il/live-new"
+      ],
+      "tags": [
+        "israel",
+        "orthodox",
+        "דתי"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 286
+    },
+    {
+      "name": "קול פליי | kol-play",
+      "urls": [
+        "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Tel Aviv",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png",
+      "votes": 48
+    },
+    {
+      "name": "اذاعة الشمس - A-Shams",
+      "urls": [
+        "https://cdna.streamgates.net/Ashams/Live/icecast.audio"
+      ],
+      "tags": [
+        "ilstations"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://s.ashams.com/static/css/images/logo-header.png",
+      "votes": 2921
     }
   ]
 }

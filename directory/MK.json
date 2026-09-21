@@ -1,0 +1,388 @@
+{
+  "code": "MK",
+  "name": "Republic Of North Macedonia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Antenna 5",
+      "urls": [
+        "https://fms.off.net.mk:8000/antenna5.stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.antenna5.com.mk/Images/Logos/logo2.png",
+      "votes": 69
+    },
+    {
+      "name": "Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+      "urls": [
+        "https://s1.skyradio.com.mk/hits.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://skyradio.com.mk/img/logo.png",
+      "votes": 19
+    },
+    {
+      "name": "Jazz FM",
+      "urls": [
+        "https://radio.jazzfm.mk/listen/jazzfm/live"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "mk",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://jazzfm.mk/favicon.png",
+      "votes": 376
+    },
+    {
+      "name": "Just Music Radio",
+      "urls": [
+        "https://radiostream.neotel.mk/justmusicradio"
+      ],
+      "tags": [
+        "blues",
+        "disco",
+        "funk",
+        "funky",
+        "fusion",
+        "jazz",
+        "lounge",
+        "smooth jazz",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png",
+      "votes": 598
+    },
+    {
+      "name": "Lider FM 107,4",
+      "urls": [
+        "https://liderfm.ipradio.mk/"
+      ],
+      "tags": [
+        "fm radio station",
+        "liderfm",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 335
+    },
+    {
+      "name": "Life Radio",
+      "urls": [
+        "https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://life.com.mk/wp-content/uploads/2024/03/LIFEradio-768x452.jpg",
+      "votes": 23
+    },
+    {
+      "name": "Makedonsko Radio 1 - Radio Skopje",
+      "urls": [
+        "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Metropolis Radio Network",
+      "urls": [
+        "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
+      ],
+      "tags": [
+        "club",
+        "electronic",
+        "pop",
+        "rock"
+      ],
+      "city": "Macedonia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 425
+    },
+    {
+      "name": "Radio 105 Bombarder",
+      "urls": [
+        "https://radio105bombarder.com:21010/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "radio 22",
+      "urls": [
+        "https://radio.server14.kariha.net:8008/"
+      ],
+      "tags": [
+        "pop music",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Bubamara 105.2 Skopje, Macedonia",
+      "urls": [
+        "https://stream.bubamara.com.mk/live"
+      ],
+      "tags": [
+        "exyu",
+        "macedonian pop",
+        "macedonian rock",
+        "serbian"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radiobubamara.mk/",
+      "votes": 97
+    },
+    {
+      "name": "Radio Fortuna 96.8 FM",
+      "urls": [
+        "https://radiofortuna.ipradio.mk/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio Fortuna 96.8 Skopje, Macedonia",
+      "urls": [
+        "https://radiofortuna.ipradio.mk/;*.mp3%22"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://makedonijafm.net/images/radio/fortuna-small.png",
+      "votes": 70
+    },
+    {
+      "name": "Radio Kanal 77 Skopje, Macedonia",
+      "urls": [
+        "https://radiocnd.mms.mk/proxy/offnet/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.makedonijafm.net/images/radio/kanal77-small.png",
+      "votes": 81
+    },
+    {
+      "name": "Radio Meff",
+      "urls": [
+        "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 373
+    },
+    {
+      "name": "Radio VMRO 1",
+      "urls": [
+        "https://radiovmro.radioca.st/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "RadioBar",
+      "urls": [
+        "https://visual.shoutca.st:8122/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 47
+    },
+    {
+      "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+      "urls": [
+        "https://s1.skyradio.com.mk/retro.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://skyradio.com.mk/img/logo.png",
+      "votes": 102
+    },
+    {
+      "name": "SKY FOLK",
+      "urls": [
+        "https://eu.live.skyfolk.mk/live.m3u8"
+      ],
+      "tags": [
+        "macedonian folk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 414
+    },
+    {
+      "name": "Sky Radio 102.5 Skopje, Macedonia",
+      "urls": [
+        "https://s1.skyradio.com.mk/;*.mp3"
+      ],
+      "tags": [
+        "exyu",
+        "hits",
+        "macedonian pop",
+        "macedonian rock",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://skyradio.com.mk/img/logo.png",
+      "votes": 139
+    },
+    {
+      "name": "Star Radio (Plus) Skopje, Macedonia",
+      "urls": [
+        "https://radiostar.pro/stream/starplus.php"
+      ],
+      "tags": [
+        "macedonian pop",
+        "serbian pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": "https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png",
+      "votes": 36
+    },
+    {
+      "name": "Star Radio (World Hits) Skopje, Macedonia",
+      "urls": [
+        "https://radiostar.pro/stream/worldretro.php"
+      ],
+      "tags": [
+        "pop",
+        "world hits"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "STIL RADIO",
+      "urls": [
+        "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1576
+    },
+    {
+      "name": "Time FM Gevgelija",
+      "urls": [
+        "https://s2.free-shoutcast.com/stream/18058"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 297
+    },
+    {
+      "name": "Urban FM 90.8 Skopje",
+      "urls": [
+        "https://securestreams4.autopo.st:1668/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Macedonia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 297
+    },
+    {
+      "name": "Канал 77 Радио Мрежа",
+      "urls": [
+        "https://radiocnd.mms.mk/proxy/player/stream"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 185
+    }
+  ]
+}

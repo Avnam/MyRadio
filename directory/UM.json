@@ -1,0 +1,358 @@
+{
+  "code": "UM",
+  "name": "The United States Minor Outlying Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "106.9 KROC FM",
+      "urls": [
+        "https://prod-52-55-242-202.amperwave.net/townsquare-krocfmaac-hlsc3.m3u8?"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "MN",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://townsquare.media/site/717/files/2019/11/logo.png",
+      "votes": 7
+    },
+    {
+      "name": "93.7 KHJ Oldies",
+      "urls": [
+        "https://ice26.securenetsystems.net/KKHJHD2"
+      ],
+      "tags": [],
+      "city": "American Samoa",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 73
+    },
+    {
+      "name": "940 Gospel Radio",
+      "urls": [
+        "https://servidor26.brlogic.com:7088/live"
+      ],
+      "tags": [
+        "christian-gospel",
+        "gospel",
+        "gospel music"
+      ],
+      "city": "Florida",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.940gospelradio.com/",
+      "votes": 29
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 25
+    },
+    {
+      "name": "amR",
+      "urls": [
+        "https://c25.radioboss.fm:8425/stream"
+      ],
+      "tags": [],
+      "city": "Wyoming",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://c25.radioboss.fm/stationlogo/425.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Coolfm Dance 90",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc06"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 617
+    },
+    {
+      "name": "Dps Soul",
+      "urls": [
+        "https://streaming.live365.com/a50157"
+      ],
+      "tags": [
+        "classic r&b",
+        "quiet storm",
+        "smooth r&b",
+        "soul music"
+      ],
+      "city": "Columbus Ohio",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Fun 104",
+      "urls": [
+        "https://prod-52-91-27-46.amperwave.net/townsquare-kfnlfmmp3-ibc3?session-id=526240798c02759a1fdc495c2f40c299"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "greatest hits"
+      ],
+      "city": "MN",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://townsquare.media/site/720/files/2021/09/attachment-256.png",
+      "votes": 3
+    },
+    {
+      "name": "Halloween Radio Oldies",
+      "urls": [
+        "https://radio1.streamserver.link/radio/8020/hro-aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "Hard Rock Heaven",
+      "urls": [
+        "https://ais-sa2.cdnstream1.com/1521_128"
+      ],
+      "tags": [
+        "80s",
+        "hair metal",
+        "hard rock"
+      ],
+      "city": "CA",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.hrhradio.com/wp-content/uploads/2023/08/HRH-BLANCO.png",
+      "votes": 2
+    },
+    {
+      "name": "iHeart 2000s Radio",
+      "urls": [
+        "https://n23b-e2.revma.ihrhls.com/zc6850/hls.m3u8?rj-ttl=5&rj-tok=AAABoAtx4zgAWafLS3OZolBX9Q"
+      ],
+      "tags": [
+        "2000s",
+        "hits",
+        "pop"
+      ],
+      "city": "TX",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6884213a07fd7649591e3d10",
+      "votes": 8
+    },
+    {
+      "name": "iHeart 70s Radio",
+      "urls": [
+        "https://n2cb-e2.revma.ihrhls.com/zc6843/hls.m3u8?rj-ttl=5&rj-tok=AAABoAubRgEAC7zvsAIPlRf8Ag"
+      ],
+      "tags": [
+        "70s",
+        "hits",
+        "pop"
+      ],
+      "city": "TX",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6884224207fd7649591e3d1f",
+      "votes": 6
+    },
+    {
+      "name": "iHeart 80s Radio",
+      "urls": [
+        "https://n22b-e2.revma.ihrhls.com/zc5060/hls.m3u8?rj-ttl=5&rj-tok=AAABoAvF0cgA9IKCFYKaKbyoGA"
+      ],
+      "tags": [
+        "80s",
+        "hits",
+        "pop"
+      ],
+      "city": "TX",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6884220b07fd7649591e3d1b",
+      "votes": 9
+    },
+    {
+      "name": "iHeart 90s Radio",
+      "urls": [
+        "https://n17b-e2.revma.ihrhls.com/zc6834/hls.m3u8?rj-ttl=5&rj-tok=AAABoAvTY-IA1MznGDOHc3T55A"
+      ],
+      "tags": [
+        "90s",
+        "hits",
+        "pop"
+      ],
+      "city": "TX",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/688421c507fd7649591e3d17",
+      "votes": 7
+    },
+    {
+      "name": "KRPR 89.9 FM",
+      "urls": [
+        "https://ice23.securenetsystems.net/KRPR"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "MN",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://krpr.org/wp-content/uploads/elementor/thumbs/KRPR899_7_FB-ozojv790vzlns0zrotdrewg5439ynvkxkep1y5t5vk.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Laser 101.7",
+      "urls": [
+        "https://n08b-e2.revma.ihrhls.com/zc4463/hls.m3u8?rj-ttl=5&rj-tok=AAABoAxy-JgA-hSyk0bZIzTTJA"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "MN",
+      "codec": "AAC",
+      "bitrate": 24,
+      "logo": "https://i.iheart.com/v3/re/assets.brands/641a20a13c8c9a1eed30d60f?ops=gravity(%22center%22),contain(0,200)&quality=80",
+      "votes": 3
+    },
+    {
+      "name": "Minnesota Music Channel",
+      "urls": [
+        "https://stream-01.aiir.com/vtrrdk83knmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dHJyZGs4M2tubXV2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6ImRZQjlQQXZ4VHZhMjc3Y1ZCMVpGSFEiLCJpYXQiOjE3ODY5MTUyNTMsImV4cCI6MTc4NjkxNTMxM30.1fezl3hfb1bfcJKpN-0Zzh_X-bYb78PDSir0Se7f2oo"
+      ],
+      "tags": [
+        "the station focuses entirely on music tied to minnesota's history and culture"
+      ],
+      "city": "MN",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/1620/66ce09d8549fa.jpg",
+      "votes": 3
+    },
+    {
+      "name": "MXTR FM",
+      "urls": [
+        "https://streaming.live365.com/a03037"
+      ],
+      "tags": [],
+      "city": "VA",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 205
+    },
+    {
+      "name": "Radio Farda",
+      "urls": [
+        "https://stream.radiojar.com/cp13r2cpn3quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 19463
+    },
+    {
+      "name": "Rockin' the Suburbs Radio",
+      "urls": [
+        "https://streaming.radio.co/sca22d43b1/listen"
+      ],
+      "tags": [
+        "alternative rock",
+        "eclectic",
+        "indie rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i0.wp.com/www.suburbspod.com/wp-content/uploads/2022/01/rts-radio-web_thumb.jpg",
+      "votes": 614
+    },
+    {
+      "name": "Workout Time",
+      "urls": [
+        "https://stream-175.surfernetwork.com/60pg6mi67hytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MHBnNm1pNjdoeXR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrX0dzOEU3Q1JKU0piU2NoZFYwY0NBIiwiaWF0IjoxNzg2OTIwNTgzLCJleHAiOjE3ODY5MjA2NDN9.EVpOGXMTOtGNydRMlQzIUO8rfhG5KYRyBSNaF6kU46s"
+      ],
+      "tags": [
+        "electronic dance music",
+        "workout"
+      ],
+      "city": "NY",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/YXeTLa2e7erckTN9hbes5qKpEgFrFTqNJ7gmwdAEa3g/rs:fill:304:304/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmRhMTUwYjgtNTkwYS00ODU5LWExZmMtY2NhMGRlZDM2NzM2L2ltYWdlLz91PTE3MDEyODA4ODUwMDA",
+      "votes": 9
+    },
+    {
+      "name": "WSNR.US",
+      "urls": [
+        "https://www.stepnorthdigitalradio.com:6008/stream"
+      ],
+      "tags": [
+        "r&b",
+        "smooth jazz",
+        "soul"
+      ],
+      "city": "IL",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "WTMB 94.5 FM",
+      "urls": [
+        "https://prod-23-20-60-37.amperwave.net/magnumbroadcasting-wtmbfmaac-hlsc1.m3u8"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "WI",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Y 105 FM",
+      "urls": [
+        "https://prod-52-55-242-202.amperwave.net/townsquare-kybafmaac-hlsc3.m3u8?"
+      ],
+      "tags": [
+        "pop",
+        "variety"
+      ],
+      "city": "MN",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://townsquare.media/site/715/files/2021/09/attachment-256.png",
+      "votes": 3
+    }
+  ]
+}

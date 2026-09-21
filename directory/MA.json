@@ -1,0 +1,757 @@
+{
+  "code": "MA",
+  "name": "Morocco",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1201
+    },
+    {
+      "name": ".. مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2405
+    },
+    {
+      "name": ".إذاعة ماهر المعيقلي",
+      "urls": [
+        "https://backup.qurango.net/radio/maher"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1921
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 478
+    },
+    {
+      "name": "ACHKID FM",
+      "urls": [
+        "https://stream.zeno.fm/7nqu31p6xg0uv"
+      ],
+      "tags": [
+        "al amazighia en direct",
+        "morocco",
+        "music",
+        "radio amazigh"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolive.ma/logos/achkid-fm.png",
+      "votes": 57
+    },
+    {
+      "name": "Al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1485
+    },
+    {
+      "name": "Aswat FM",
+      "urls": [
+        "https://broadcast.ice.infomaniak.ch/aswat-high.mp3"
+      ],
+      "tags": [
+        "arabic music",
+        "classic hits",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioaswat.ma/favicon.ico",
+      "votes": 2567
+    },
+    {
+      "name": "Atlantic Radio",
+      "urls": [
+        "https://atlantic-sonic.nindohost.net:9300/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1455
+    },
+    {
+      "name": "Aziz Mustaphi",
+      "urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3"
+      ],
+      "tags": [
+        "coran",
+        "mp3",
+        "news",
+        "quran"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://infoplus60.blogspot.com/favicon.ico",
+      "votes": 1626
+    },
+    {
+      "name": "CAP RADIO",
+      "urls": [
+        "https://listen.radioking.com/radio/710810/stream/776366"
+      ],
+      "tags": [
+        "actualités",
+        "music",
+        "radio maroc",
+        "radio marocaine"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiolive.ma/icons/CAP%20RADIO.png",
+      "votes": 56
+    },
+    {
+      "name": "Chada FM",
+      "urls": [
+        "https://stream.bodkas.com/playlist?id=chadafmradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png",
+      "votes": 56
+    },
+    {
+      "name": "Fayroz",
+      "urls": [
+        "https://stream.zeno.fm/zv3e5wykprhvv.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6222
+    },
+    {
+      "name": "HIT RADIO",
+      "urls": [
+        "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.hitradio.ma/logo/small-logo-hitradio.webp",
+      "votes": 95
+    },
+    {
+      "name": "MA:-Hit Radio Maroc",
+      "urls": [
+        "https://stream.zeno.fm/une3a02mb"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6980
+    },
+    {
+      "name": "MA:-Radio Sawt Alamal",
+      "urls": [
+        "https://stream.zeno.fm/d4u7zbqh5qruv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1552
+    },
+    {
+      "name": "Marrakech Plus",
+      "urls": [
+        "https://cast5.my-control-panel.com/proxy/marrakec/stream"
+      ],
+      "tags": [
+        "actualités",
+        "essaouira",
+        "marrakech",
+        "morocco",
+        "music",
+        "safi",
+        "youssofia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolive.ma/icons/Marrakech%20Plus.jpg",
+      "votes": 51
+    },
+    {
+      "name": "MEDI 1 RADIO",
+      "urls": [
+        "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8"
+      ],
+      "tags": [
+        "actualités",
+        "business",
+        "information",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://radiolive.ma/icons/MEDI%201%20RADIO.jpg",
+      "votes": 118
+    },
+    {
+      "name": "Medi1 Hits",
+      "urls": [
+        "https://cdn.live.easybroadcast.io/medi1radio/Hits"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
+      "votes": 115
+    },
+    {
+      "name": "MEDINA FM",
+      "urls": [
+        "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3"
+      ],
+      "tags": [
+        "actualités",
+        "morocco",
+        "music",
+        "music marocaine traditionnelle"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiolive.ma/icons/MEDINAFM.png",
+      "votes": 82
+    },
+    {
+      "name": "Medina FM (128 kbps)",
+      "urls": [
+        "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "news",
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp",
+      "votes": 16
+    },
+    {
+      "name": "Medina FM Amazigh (128 kbps)",
+      "urls": [
+        "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3"
+      ],
+      "tags": [
+        "berber amazigh music",
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp",
+      "votes": 38
+    },
+    {
+      "name": "Medina FM Andalou (128 kbps)",
+      "urls": [
+        "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3"
+      ],
+      "tags": [
+        "al-ala",
+        "malhoun",
+        "morocco"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.medinafm.ma/uploads/fbd01c81-1f43-4f10-8682-19738ca43aec-w320.webp",
+      "votes": 18
+    },
+    {
+      "name": "Medina FM Nachat (128 kbps)",
+      "urls": [
+        "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3"
+      ],
+      "tags": [
+        "chaabi",
+        "moroccan",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.medinafm.ma/uploads/43a70411-46cc-40c7-b4bb-7fcb41ce70ea-w320.webp",
+      "votes": 13
+    },
+    {
+      "name": "Medina FM Tarab (128 kbps)",
+      "urls": [
+        "https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3"
+      ],
+      "tags": [
+        "morocco",
+        "nostalgic",
+        "tarab music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.medinafm.ma/uploads/f0b5829f-c5ed-4acc-a775-d921ecd2edc7-w320.webp",
+      "votes": 48
+    },
+    {
+      "name": "MFM RADIO",
+      "urls": [
+        "https://a5.asurahosting.com:7980/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiolive.ma/icons/MFM.png",
+      "votes": 182
+    },
+    {
+      "name": "MRC:-Hip Hop Soul Radio \tRadio Music",
+      "urls": [
+        "https://stream.zeno.fm/k7cdrm450s8uv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1209
+    },
+    {
+      "name": "MRC:-Radio Adwaa ATFAL 4",
+      "urls": [
+        "https://stream.zeno.fm/8wrs2bh0x1zuv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1004
+    },
+    {
+      "name": "MRC:-Radio Adwaa FM 2",
+      "urls": [
+        "https://stream.zeno.fm/5bxh2nh0x1zuv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1951
+    },
+    {
+      "name": "MRC:-Radio Adwaa Music 3",
+      "urls": [
+        "https://stream.zeno.fm/x4451xh0x1zuv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1314
+    },
+    {
+      "name": "MRC:-Radio plus",
+      "urls": [
+        "https://stream.radio.co/s8cc7a5da4/listen"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2305
+    },
+    {
+      "name": "Ness Radio",
+      "urls": [
+        "https://radio.nessradio.net:8212/nessradio-hd"
+      ],
+      "tags": [
+        "eclectic"
+      ],
+      "city": "Marrakech",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D14937484W10000H3633/views/1,width=500,height=500,appearanceId=839,backgroundColor=fff/logo-ness-typo-sticker.jpg",
+      "votes": 206
+    },
+    {
+      "name": "Radio Adwaa FM 6",
+      "urls": [
+        "https://stream.zeno.fm/tvxvud2kpm0uv"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s",
+      "votes": 19
+    },
+    {
+      "name": "Radio Atbir",
+      "urls": [
+        "https://stream-156.zeno.fm/bqdbb6hd0neuv?zs=VGAZo-zKSX-08bLa8RiUVg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/atbir.png",
+      "votes": 1431
+    },
+    {
+      "name": "Radio Azawan",
+      "urls": [
+        "https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radioazawan.ma/redio/azawan.svg",
+      "votes": 56
+    },
+    {
+      "name": "Radio Azawan (192 kbps)",
+      "urls": [
+        "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "news",
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radioazawan.ma/redio/azawan.svg",
+      "votes": 13
+    },
+    {
+      "name": "Radio Azrou Live",
+      "urls": [
+        "https://stream.zeno.fm/nzdw7gqc0s8uv"
+      ],
+      "tags": [
+        "culture",
+        "folk",
+        "morocco",
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10",
+      "votes": 18
+    },
+    {
+      "name": "Radio Manarat",
+      "urls": [
+        "https://listen.radioking.com/radio/252934/stream/297385"
+      ],
+      "tags": [
+        "culture",
+        "education",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3494
+    },
+    {
+      "name": "Radio Mars",
+      "urls": [
+        "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"
+      ],
+      "tags": [],
+      "city": "Casablanca",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+      "votes": 5842
+    },
+    {
+      "name": "Radio Plus Agadir FM 92.4",
+      "urls": [
+        "https://stream-158.zeno.fm/bqdbb6hd0neuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1142
+    },
+    {
+      "name": "Radio Sawt Alamal",
+      "urls": [
+        "https://stream.zeno.fm/qgw73bqh5qruv"
+      ],
+      "tags": [
+        "espoire",
+        "inspiration",
+        "la voix de l'espoir",
+        "maroc",
+        "morocco",
+        "motivation",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolive.ma/logos/radio-sawt-alamal.png",
+      "votes": 44
+    },
+    {
+      "name": "Radio Star Maroc FM",
+      "urls": [
+        "https://a2.asurahosting.com:6100/radio.mp3"
+      ],
+      "tags": [
+        "moroccan",
+        "morocco",
+        "music",
+        "star"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiolive.ma/logos/radio-star-maroc-fm.png",
+      "votes": 100
+    },
+    {
+      "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
+      "urls": [
+        "https://stream.zeno.fm/ivdufrl7q0quv"
+      ],
+      "tags": [
+        "french rap",
+        "hip-hop",
+        "rap",
+        "rap hiphop rnb"
+      ],
+      "city": "casa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_144x144/https://images.zeno.fm/6Ia8cwPUky2CXZukwJE-pUBZDer_E45bLRuQtQpToyc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzY2Nzc3YTAtZjFjNy00ZGVjLTlhNWQtN2M2ZmJiNmUxNmZkL2ltYWdlLz91PTE3MzQxMTQ3NzUwMDA.webp",
+      "votes": 1600
+    },
+    {
+      "name": "Skyrock Casablanca",
+      "urls": [
+        "https://icecast.skyrock.net/s/casa_aac_64k"
+      ],
+      "tags": [
+        "artists",
+        "hits",
+        "moroccans",
+        "morocco",
+        "rap"
+      ],
+      "city": "Casablanca",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://skyrock.fm/favicon.ico",
+      "votes": 2900
+    },
+    {
+      "name": "Tarab Radio",
+      "urls": [
+        "https://stream.zeno.fm/fy8achbq97zuv"
+      ],
+      "tags": [
+        "oldies",
+        "tarab"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/64429.png",
+      "votes": 90
+    },
+    {
+      "name": "U RADIO",
+      "urls": [
+        "https://uradio-aac.ice.infomaniak.ch/uradio.aac"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "hits",
+        "moroccans",
+        "morocco",
+        "music",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radiolive.ma/logos/u-radio.png",
+      "votes": 37
+    },
+    {
+      "name": "Yabiladi Azawan Amazigh",
+      "urls": [
+        "https://radio.yabiladi.com:9002/;stream.mp3"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+      "votes": 644
+    },
+    {
+      "name": "Yabiladi Chaabi Maroc",
+      "urls": [
+        "https://radio.yabiladi.com:8102/;stream.mp3"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+      "votes": 2528
+    },
+    {
+      "name": "Yabiladi Radio",
+      "urls": [
+        "https://radio.yabiladi.com:8002/;stream.mp3"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+      "votes": 648
+    },
+    {
+      "name": "ZINE BLADI",
+      "urls": [
+        "https://asmaki.ma:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radiolive.ma/icons/ZINE%20BLADI.png",
+      "votes": 66
+    },
+    {
+      "name": "تفسير بن عثيمين",
+      "urls": [
+        "https://qurango.net/radio/tafseer"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 891
+    }
+  ]
+}

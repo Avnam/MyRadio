@@ -1,0 +1,1668 @@
+{
+  "code": "NP",
+  "name": "Nepal",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "24 Nepali Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5648733377134592"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Aandhikhola Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1754975810747"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 61
+    },
+    {
+      "name": "ACORAB",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/156"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Advance FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1777266954225"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Afno Fm Okhaldhunga",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5135177703489536"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Antenna Foundation Nepal",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/362"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Baideshik Rojgar",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5645757971431424"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BBC Nepali",
+      "urls": [
+        "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Bagmati",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+      "votes": 6242
+    },
+    {
+      "name": "BBC World Service English",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5639388954361856"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BFBS Gurkha Radio",
+      "urls": [
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac",
+      "votes": 212
+    },
+    {
+      "name": "Bhaktapur FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/303"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Bhojpuriya FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Birgunj Network FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1754976086579"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BODHI FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5782147784900608"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Butwal FM",
+      "urls": [
+        "https://streaming.softnep.net:10994/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Chitwan Radio Network",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/123"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "CIN",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5630818481340416"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "CIN Khabar",
+      "urls": [
+        "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+      ],
+      "tags": [
+        "entertainment",
+        "news",
+        "pop",
+        "talk"
+      ],
+      "city": "Bagmati",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
+      "votes": 1467
+    },
+    {
+      "name": "Daman FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5118707611205632"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "FM Adhyatma Jyoti",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/502"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Good News FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5098435466231808"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Hajurko Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5718242976858112"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Hetauda Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1755667163178"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Hits FM 91.2",
+      "urls": [
+        "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Bagmati",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2989
+    },
+    {
+      "name": "Image FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/9"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Image News",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/439"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Itahari FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5704214992912384"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Jagaran Radio Online",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5122105970524160"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Janata Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5204489751494656"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Jayaprithvi F.M.",
+      "urls": [
+        "https://streaming.softnep.net:10824/"
+      ],
+      "tags": [
+        "classical",
+        "news"
+      ],
+      "city": "Sudurpaschim",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg?t=638841604500000000",
+      "votes": 77
+    },
+    {
+      "name": "Jayaprithvi FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5668801058177024"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kalika F.M",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/38"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kalika FM 95.2 FM",
+      "urls": [
+        "https://streaming.softnep.net:10828/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
+      "votes": 9522
+    },
+    {
+      "name": "Kalika FM Musical",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5722620169289728"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Kalinchowk FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/107"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kantipur FM",
+      "urls": [
+        "https://radio-broadcast.ekantipur.com/stream"
+      ],
+      "tags": [
+        "kantipur",
+        "kathmandu",
+        "nepal",
+        "nepali"
+      ],
+      "city": "Bagmati",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12023
+    },
+    {
+      "name": "Khulaasa News",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5663048301805568"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Kingdom Voice FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5096889982648320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "KOOL FM 90.3",
+      "urls": [
+        "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70"
+      ],
+      "tags": [],
+      "city": "Kathmandu",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
+      "votes": 173
+    },
+    {
+      "name": "Krishi Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5159000981110784"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Makalu FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/318"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Music City",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5685532208136192"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Music Joy Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/373"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Music Maithili",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1754975476345"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Nagarik FM (107.5 MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5723814438633472"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Napho Radio FM 88.25",
+      "urls": [
+        "https://radio11.plathong.net/7136/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "NB Radio Network",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5695504950231040"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Nepal Network",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5092732051652608"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "NepalBodh",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5762972326559744"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Nepali Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1754975892132"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Nepali Radio Network",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/560"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Nepali Sanchar Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/160"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Newa FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/624"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Nsanchar Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5729629102931968"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Online Radio Darpan",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5752453079236608"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Prime Fm",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5744707193798656"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "QN Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/432"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Amurta (91.6 MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/201"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Annapurna Nepal",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/34"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Artha Sarokar",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5641049345097728"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Audio",
+      "urls": [
+        "https://stream.zeno.fm/fvrx47wpg0quv"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "pop"
+      ],
+      "city": "Bagmati",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1525
+    },
+    {
+      "name": "Radio Audio Full Time Comedy",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/16"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bandhan",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5676510457364480"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bandipur FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/60"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bhimeshwar",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5686949836750848"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bijayabasti",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/536"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Chhimeki",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5195102160945152"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Chitwan",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5756424605007872"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Chitwan Aawaj",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1765183103366"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio City",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/192"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Comedy Champion",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5694556735537152"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Deshantar",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/603"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Entertainment",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5659565563707392"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Gaatha",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1754975331580"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Ganatantra Aawaj",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5661090081931264"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Harpal",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/604"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Himalaya",
+      "urls": [
+        "https://live.itech.host/himalayaradio?1588276425741"
+      ],
+      "tags": [
+        "himalaya",
+        "nepal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+      "votes": 2899
+    },
+    {
+      "name": "Radio Holeri FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/613"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Janmabhumi",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5072336292151296"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Jhapa",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/612"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Jugar FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5098565154111488"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Kalaiya",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/638"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Kathmandu",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/592"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Lokpriya Netrajyoti",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5066985635315712"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Madhyabindu",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/39"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Makawanpur",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/44"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Mangsebung",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/168"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Melamchi",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/165"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Nagarik Chaso",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5724460680216576"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Namaste (92.8 MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/45"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Namaste (Ghorahi Dang)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5676250880278528"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Nepal",
+      "urls": [
+        "https://stream1.radionepal.gov.np/live/"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5456
+    },
+    {
+      "name": "Radio Olive Nepal",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/6280161257324544"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Parasi",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/223"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Pariwartan",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5702767270166528"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Planet",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/167"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Rolpa",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5661344508411904"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Rudraksha",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/25"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Sagarmatha",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/36"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Sajha Online",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5153047720230912"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Samarpan",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/545"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Sambridha Nepal (Nesdo Fm) (92.6)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5712961207271424"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Sarangi (Morang)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5730595890003968"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Sarangi (Pokhara) (101.3 Mhz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5666633592864768"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Saugat",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/401"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Sauraha",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5697008457220096"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Shivashakti",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/556"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Shyamlatal",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1777269398552"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Simana",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/649"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Swabhiman",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5114406746718208"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Thaha Sanchar",
+      "urls": [
+        "https://streaming.softnep.net:10988/;stream.nsv&type=mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 123
+    },
+    {
+      "name": "RadioSagar",
+      "urls": [
+        "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 433
+    },
+    {
+      "name": "Rajbanshi Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5089000765259776"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Rautahat FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5753165192364032"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Red FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5070153408577536"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Relation FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/492"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Sandarva Sanchar Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/308"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Saru Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/1771399074879"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Siddhartha  FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5664612039000064"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Sky FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/118"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Sumiran FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5132813491765248"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Swadesh FM",
+      "urls": [
+        "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.hamropatro.com/favicon.ico",
+      "votes": 582
+    },
+    {
+      "name": "Syangja Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5080939950505984"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Synergy FM",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5761100687605760"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Times FM (90.6 MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/82"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Tinau FM",
+      "urls": [
+        "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70"
+      ],
+      "tags": [],
+      "city": "Butwal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Tinjure Online",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/145"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Triveni Times FM 100.6",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5172139856494592"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Ultimaě radio",
+      "urls": [
+        "https://ultimae-bofaradio.radioca.st/"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 524
+    },
+    {
+      "name": "Unique FM (90MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5145621453340672"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Unique FM (97.6 MHz)",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/360"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Universal Health Radio (नेपाली)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-ne.mp3"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "nepali",
+        "news",
+        "public health",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 2
+    },
+    {
+      "name": "VSansar Online Radio",
+      "urls": [
+        "https://www.hamropatro.com/api/radio/stream/5117028245438464"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "रेडियो हिमालय",
+      "urls": [
+        "https://live.itech.host/himalayaradio"
+      ],
+      "tags": [
+        "nepali evergreen"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 435
+    }
+  ]
+}

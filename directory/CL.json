@@ -1,0 +1,5154 @@
+{
+  "code": "CL",
+  "name": "Chile",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Radio Mix 360                                        |",
+      "urls": [
+        "https://sp001.servidoresph.com:7035/stream"
+      ],
+      "tags": [],
+      "city": "Biobío",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiomix360.cl/favicon.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio la Sureña",
+      "urls": [
+        "https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlPZDZjcFZMUldpcFJEdDZLUU1KTHciLCJpYXQiOjE3ODk5NjY5NDgsImV4cCI6MTc4OTk2NzAwOH0.qy_vC7VoUIa-1lfOWIMjahduxDPnmdmcSnWgFSGitRY"
+      ],
+      "tags": [],
+      "city": "carahue",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 81
+    },
+    {
+      "name": "100.9 Play FM",
+      "urls": [
+        "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "pop music",
+        "pop rock",
+        "top 100",
+        "top 40",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": "https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/633db501b938191960de607d/assets/playconfondo.png",
+      "votes": 364
+    },
+    {
+      "name": "106.1 Exitos San Vicente",
+      "urls": [
+        "https://sonic.mistreamingtv.uno/8062/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "13C",
+      "urls": [
+        "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d/playlist.m3u8"
+      ],
+      "tags": [
+        "cultura",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/6305400df11545083964b856/assets/Logo13cRadio_sitio.png",
+      "votes": 41
+    },
+    {
+      "name": "13c Radio",
+      "urls": [
+        "https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8"
+      ],
+      "tags": [],
+      "city": "Metropolitana de Santiago",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2F13cRadio.cl%2F&psig=AOvVaw0tGx_Yv1k8Yp2FdTrBlj5j&ust=1700534834920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC7rYnI0YIDFQAAAAAdAAAAABAD",
+      "votes": 71
+    },
+    {
+      "name": "4FUN ROCK",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8358/stream"
+      ],
+      "tags": [
+        "punk rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "92Punto3 FM Puerto Montt",
+      "urls": [
+        "https://archi-us.digitalproserver.com/nueva-belen-fm.aac"
+      ],
+      "tags": [],
+      "city": "Los Lagos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Acordes de Chile",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/acordesdechile/stream"
+      ],
+      "tags": [
+        "folclore"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Acústica",
+      "urls": [
+        "https://radio.tvstream.cl/8036/stream"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "ADN",
+      "urls": [
+        "https://27413.live.streamtheworld.com/ADNAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 1123
+    },
+    {
+      "name": "ADN Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "noticias",
+        "noticias y comentarios",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://www.adnradio.cl/pf/resources/adn-radio/favicon.ico?d=91",
+      "votes": 310
+    },
+    {
+      "name": "All About Music - AAM",
+      "urls": [
+        "https://n11.radiojar.com/50yyfr4wz1zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Almeyda",
+      "urls": [
+        "https://sonic.streamingchilenos.com/9974/stream.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "null",
+      "votes": 7
+    },
+    {
+      "name": "Alta Fidelidad Radio",
+      "urls": [
+        "https://s21.myradiostream.com/14464/;?type=http&nocache=1724080980?0.022147003328686576"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://www.altafidelidadradio.com/site/wp-content/uploads/2021/08/fidelidad-logo-retina.png",
+      "votes": 10
+    },
+    {
+      "name": "Alternativa FM",
+      "urls": [
+        "https://radio.tvstream.cl/8056/stream"
+      ],
+      "tags": [
+        "noticias"
+      ],
+      "city": "Atacama",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "Altura FM",
+      "urls": [
+        "https://club.asdmedios.cl/listen/alturafm/radio.mp3"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Amistad stereo",
+      "urls": [
+        "https://stream-159.zeno.fm/dg69bex4gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkZzY5YmV4NGd4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRQUlBTMkczUkRXdmVIUHNhbW1JMHciLCJpYXQiOjE3NDAwNDk3MTAsImV4cCI6MTc0MDA0OTc3MH0.vQVac4IPmjOImU79H_guLZdW1EI2HY1GKKxoIIKYmqU"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/s_144x144/https://images.zeno.fm/wbT6AwihMIr9rAge1zQk_TfyrTsi9t0i-JtK7110Qb4/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREFtcGZXNmdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2drT3pRMkFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNTQ1OTU5MjAwMA.webp",
+      "votes": 7
+    },
+    {
+      "name": "Amor FM",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8194/stream/1/"
+      ],
+      "tags": [
+        "variety hits"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Atractiva 101.3",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl/8126/;"
+      ],
+      "tags": [
+        "musica latina"
+      ],
+      "city": "Los Rios ,Los lagos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioatractivafm.cl/atractivafm/site/artic/20230512/imag/foto_0000000420230512131258/logo-atractiva2.png",
+      "votes": 5
+    },
+    {
+      "name": "Beethoven - Santiago FM",
+      "urls": [
+        "https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio"
+      ],
+      "tags": [
+        "classical music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/800px-Logo_Radio_Beethoven_FM.png",
+      "votes": 158
+    },
+    {
+      "name": "BeethovenFM",
+      "urls": [
+        "https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.beethovenfm.cl/htdocs/content/themes/uc-radio-beethoven/dist/images/favicon.png",
+      "votes": 129
+    },
+    {
+      "name": "Bío-Bío Concepción 98.1",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "opinion",
+        "pop",
+        "talk"
+      ],
+      "city": "Concepción",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 518
+    },
+    {
+      "name": "Bío-Bío Los Ángeles 96.7",
+      "urls": [
+        "https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "opinion",
+        "talk"
+      ],
+      "city": "Los Ángeles",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 143
+    },
+    {
+      "name": "Bio-Bio Osorno",
+      "urls": [
+        "https://redirector.dps.live/biobioosorno/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://www.biobiochile.cl/assets/escritorio/bbcl-2020/img/bbcl-logo-2-dark.svg",
+      "votes": 1
+    },
+    {
+      "name": "BioBio Chile",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png",
+      "votes": 4897
+    },
+    {
+      "name": "Biobio Valdivia",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio"
+      ],
+      "tags": [
+        "música y noticias"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://www.biobiochile.cl/quienes-somos/_nuxt/img/logo-radio.fd1336e.png",
+      "votes": 30
+    },
+    {
+      "name": "Blaster radio",
+      "urls": [
+        "https://stream2.mcvhost.com/blaster/"
+      ],
+      "tags": [
+        "vari"
+      ],
+      "city": "Magallanes",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BlueRadio",
+      "urls": [
+        "https://stream.zeno.fm/udk5orfzet5vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "BlueRadio",
+      "urls": [
+        "https://stream-175.zeno.fm/udk5orfzet5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGs1b3JmemV0NXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFreVNWMThWUlBxbTN4enVOamZpemciLCJpYXQiOjE3MzQyNDIzNzYsImV4cCI6MTczNDI0MjQzNn0.23h_xxF5T74k5SnoUzP_iRfuisaRoMmmmXy_VpKZv3o"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Bonita",
+      "urls": [
+        "https://sonicpanel.chileservidores.cl/8032/stream"
+      ],
+      "tags": [],
+      "city": "Rancagua",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 109
+    },
+    {
+      "name": "Cadenza Radio",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8230/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Canal 8090 Retro Hits Radio",
+      "urls": [
+        "https://stream.radiojar.com/syk7c423n48uv"
+      ],
+      "tags": [
+        "clasicos"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Canal Sur Patagonia",
+      "urls": [
+        "https://audio2.tustreaming.cl:10979/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "pop music",
+        "variada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Canciones Lejanas Version Anglo - Zeno.FM",
+      "urls": [
+        "https://stream.zeno.fm/8hv9e0uqb0hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "Canciones Lejanas Version Latina - Zeno.FM",
+      "urls": [
+        "https://stream.zeno.fm/5kasc2zta0hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+      "votes": 28
+    },
+    {
+      "name": "Caramelo Rengo FM",
+      "urls": [
+        "https://sonic01.zglobalhost.com/8020/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 224,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "CARNAVAL ANTOFAGASTA",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "CARNAVAL VINA DEL MAR",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://envivo.radiocarnaval.cl/vinadelmar/img/img-log-reproductor.png?81549",
+      "votes": 22
+    },
+    {
+      "name": "Charanga Latina",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Chillout FM",
+      "urls": [
+        "https://listen2.myradio24.com/8795?f8f9356c"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "CLG Radio 93.5 FM",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8012/streamstream"
+      ],
+      "tags": [
+        "2000s",
+        "70s",
+        "80s",
+        "90s",
+        "adult contemporary",
+        "classic hits",
+        "entretenimiento",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "CLUB DANCE CHILE",
+      "urls": [
+        "https://audio.bitsur.cl/cp/links.php?p=8002&m=pls"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://clubdance.cl/android-icon-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "Código Metal Radio",
+      "urls": [
+        "https://streaming.viphosting.cl/8012/stream"
+      ],
+      "tags": [
+        "metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 185
+    },
+    {
+      "name": "Conexion Radio",
+      "urls": [
+        "https://tunein.radiomaniacos.cl/conexionradio"
+      ],
+      "tags": [],
+      "city": "Los Vilos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://conexionradio.cl/favicon.ico",
+      "votes": 34
+    },
+    {
+      "name": "congreso",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/congreso.aac"
+      ],
+      "tags": [
+        "bachata",
+        "cumbia",
+        "folclore",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 24,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Consuelo FM",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/consuelo.mp3"
+      ],
+      "tags": [],
+      "city": "Villa alegre",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://www.consuelofm.cl/Logo_Consuelo2.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Cooperativa",
+      "urls": [
+        "https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio"
+      ],
+      "tags": [
+        "música y noticias"
+      ],
+      "city": "Santiago",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://myradioonline.cl/public/uploads/radio_img/radio-cooperativa/fb_cover.jpg",
+      "votes": 304
+    },
+    {
+      "name": "Corporación FM",
+      "urls": [
+        "https://audio1.tustreaming.cl/8026/stream/1/"
+      ],
+      "tags": [
+        "radio cristiana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "CyberNation Radio",
+      "urls": [
+        "https://stream.zeno.fm/lcj8aoodegouv"
+      ],
+      "tags": [],
+      "city": "Magallanes",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cybernationradio.com/wp-content/uploads/2026/02/cropped-507225256_1191085793060025_8536711721737989958_n.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Dance FM",
+      "urls": [
+        "https://video.mediawebchile.com:9332/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Década de los 90s",
+      "urls": [
+        "https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeHYxY2V1ZTc0enV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhHaGMzbzlzUTBteW9EQ2QwQzF1ZnciLCJpYXQiOjE3ODk5NDk1NjgsImV4cCI6MTc4OTk0OTYyOH0.AigsLTAHFEYuf6q4vThf8WAqDQh1NiO1ga4Kj_CmLxk"
+      ],
+      "tags": [
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Desierto FM",
+      "urls": [
+        "https://broadcast.radio247.net/listen/desierto_web/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Antofagasta",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Digital 105.5 FM - CONCEPCIÓN",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/concepcion1"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png",
+      "votes": 28
+    },
+    {
+      "name": "Digital 105.5 FM - TALCA",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/talca"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.digitalfm.cl/favicon.ico",
+      "votes": 11
+    },
+    {
+      "name": "Digital 89.5 FM - CALAMA",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/calama1"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png",
+      "votes": 11
+    },
+    {
+      "name": "Digital 94.9 FM - VALPARAISO",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/valparaiso1"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Digital 97.1 FM - ANTOFAGASTA",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/antofagasta1"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png",
+      "votes": 20
+    },
+    {
+      "name": "Digital 97.7 FM - LA SERENA",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/laserena1"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.digitalfm.cl/favicon.ico",
+      "votes": 16
+    },
+    {
+      "name": "Digital 99.1 FM - PUNTA ARENAS",
+      "urls": [
+        "https://radio.digitalfm.cl:8000/ptaarenas"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Digital FM",
+      "urls": [
+        "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Concepción",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.digitalfm.cl/favicon.ico",
+      "votes": 1445
+    },
+    {
+      "name": "Distorsión FM",
+      "urls": [
+        "https://tunein.radiomaniacos.cl/distorsion.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 719
+    },
+    {
+      "name": "Distorsion FM",
+      "urls": [
+        "https://radioemisoras.cl/distorsion.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.distortionradio.com/i/c/x9S6Kj.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Distorsión FM",
+      "urls": [
+        "https://radioemisoras.cl/distorsion.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://distorsion.fm/logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Distorsion FM FLAC",
+      "urls": [
+        "https://radioemisoras.cl/distorsion.flac"
+      ],
+      "tags": [
+        "flac",
+        "jazz",
+        "rock"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 1200,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "Duna",
+      "urls": [
+        "https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8"
+      ],
+      "tags": [
+        "business news",
+        "classic rock",
+        "pop rock"
+      ],
+      "city": "Santiago",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 737
+    },
+    {
+      "name": "Edelweiss",
+      "urls": [
+        "https://encoder.stationlink.cl/listen/edelweiss/radio.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "hits"
+      ],
+      "city": "Temuco, Araucanía",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://edelweiss.fm/wp-content/uploads/2021/10/radio-edelweiss-chile.png",
+      "votes": 0
+    },
+    {
+      "name": "El Conquistador FM",
+      "urls": [
+        "https://stream10.usastreams.com/9314/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "El Conquistador Fm (Santiago)",
+      "urls": [
+        "https://stream10.usastreams.com/9314/stream/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 228
+    },
+    {
+      "name": "En Línea Radio",
+      "urls": [
+        "https://chileservidores.cl/audio/?p=8006"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Estación Activa",
+      "urls": [
+        "https://sonicpanel.chileservidores.cl/8064/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Estación Latina",
+      "urls": [
+        "https://video.mediawebchile.com:8004/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Estilo FM",
+      "urls": [
+        "https://audio3.tustreaming.cl/7120/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "ESTRELLA DEL MAR",
+      "urls": [
+        "https://streaming.chiloestreaming.com/9626/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Europa Beat",
+      "urls": [
+        "https://s4.radio.co/s13e4f2090/listen"
+      ],
+      "tags": [],
+      "city": "Viña del Mar",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.app.goo.gl/HB8KPSvFAJLp7zKZ7",
+      "votes": 11
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 30
+    },
+    {
+      "name": "Exitosa",
+      "urls": [
+        "https://stream-024.zeno.fm/dg69bex4gxquv?zs=XUpp6K5zR3aUWceZbwXJcQ"
+      ],
+      "tags": [],
+      "city": "Talca",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 212
+    },
+    {
+      "name": "Fernanda Música en Línea",
+      "urls": [
+        "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Festival",
+      "urls": [
+        "https://stream.festival.cl/1"
+      ],
+      "tags": [
+        "bailable",
+        "news"
+      ],
+      "city": "Viña del Mar",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 948
+    },
+    {
+      "name": "FM Music",
+      "urls": [
+        "https://stream.fmmusic.cl/9980/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "FM Okey",
+      "urls": [
+        "https://streaming.fmokey.cl/moviles.mp3"
+      ],
+      "tags": [
+        "música"
+      ],
+      "city": "Atacama",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://www.fmokey.cl/favicon.ico",
+      "votes": 322
+    },
+    {
+      "name": "FM PlayBack",
+      "urls": [
+        "https://audio3.tustreaming.cl/7270/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "FM Plus",
+      "urls": [
+        "https://conectapp.misradios.cl/radio/fmplus.mp3"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "dance",
+        "pop"
+      ],
+      "city": "Antofagasta",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://player-conecta.s3.us-east-1.amazonaws.com/production/logos/694aeda2c541c7703780a9b0/1766520465068-h4blxsypuc.png",
+      "votes": 30
+    },
+    {
+      "name": "FM Siete Rock",
+      "urls": [
+        "https://sp1.streamingssl.com/8036/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fm7.s3-accelerate.amazonaws.com/media/img/stations/2a520731-069b-4ef6-a110-590b65f72dda.png",
+      "votes": 11
+    },
+    {
+      "name": "FM+",
+      "urls": [
+        "https://audio5.tustreaming.cl/8010/fmmas"
+      ],
+      "tags": [],
+      "city": "región del maule",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofmmas.cl/wp-content/uploads/2023/05/cropped-cropped-cropped-logo_superior.png",
+      "votes": 3
+    },
+    {
+      "name": "Forever Classic FM",
+      "urls": [
+        "https://live-audio-lite-1.digitalproserver.com/proxy/foreverclassic/foreverclassic"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Frecuencia Tropical FM",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/8236/stream"
+      ],
+      "tags": [
+        "musica tropical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "FUTURO Chile",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 398
+    },
+    {
+      "name": "Happy Radio Chile",
+      "urls": [
+        "https://a6.asurahosting.com:8840/radio.mp3"
+      ],
+      "tags": [
+        "#top40",
+        "kpop",
+        "latin pop",
+        "pop dance",
+        "pop hits",
+        "top 40 hits",
+        "top charts",
+        "top40"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "ICC RADIO",
+      "urls": [
+        "https://play8.tikast.com/proxy/iccradio?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Imagina 88.1",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Inicia Radio",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/iniciaradio.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Isadora",
+      "urls": [
+        "https://streaming.comunicacioneschile.net/9326/stream.aac"
+      ],
+      "tags": [],
+      "city": "Chillán, Ñuble",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 131
+    },
+    {
+      "name": "Isla Negra Slowbeat",
+      "urls": [
+        "https://radioislanegra.org/radio/8010/basic.aac"
+      ],
+      "tags": [
+        "indie",
+        "non-commercial",
+        "non-profit"
+      ],
+      "city": "Santiago",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioislanegra.com/wp-content/uploads/thegem-logos/logo_d18025944dfac3c9e1b7a89a603f58b6_1x.png",
+      "votes": 157
+    },
+    {
+      "name": "Isla Negra Upbeat",
+      "urls": [
+        "https://radioislanegra.org/radio/8030/basic.aac"
+      ],
+      "tags": [
+        "indie",
+        "non-commercial",
+        "non-profit"
+      ],
+      "city": "Santiago",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "Kawaii Anime Radio",
+      "urls": [
+        "https://canada1.reliastream.com/proxy/danser?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://i.imgur.com/5ThetMT.png",
+      "votes": 35
+    },
+    {
+      "name": "La Buena 101.5",
+      "urls": [
+        "https://app.sonicpanelradio.com/8198/stream"
+      ],
+      "tags": [],
+      "city": "El Manzano",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.ibb.co/nJvQBYJ/La-buena.png",
+      "votes": 3
+    },
+    {
+      "name": "La Clave 92.9FM",
+      "urls": [
+        "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
+      ],
+      "tags": [
+        "80s",
+        "hits",
+        "news",
+        "pop",
+        "rock"
+      ],
+      "city": "Santiago",
+      "codec": "AAC",
+      "bitrate": 3428,
+      "logo": null,
+      "votes": 418
+    },
+    {
+      "name": "La Imbatible FM",
+      "urls": [
+        "https://pragustream.live:8060/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "La jaula del Mono RadioActiva (19/03/2023 - Tramo de 02:00 a 03:00)",
+      "urls": [
+        "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3?dist=radioactiva_cl-web-aod_play"
+      ],
+      "tags": [
+        "r&b/urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "La Más Kaliente",
+      "urls": [
+        "https://audio1stream.com/8002/stream"
+      ],
+      "tags": [
+        "tropical music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lamaskaliente.com/assets/favicon.ico",
+      "votes": 37
+    },
+    {
+      "name": "la mega fm",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8478/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://lamegafm.cl/favicon.ico",
+      "votes": 52
+    },
+    {
+      "name": "La Melinkana FM",
+      "urls": [
+        "https://audio3.tustreaming.cl/7050/stream"
+      ],
+      "tags": [
+        "folk",
+        "musica chilena",
+        "news",
+        "pop music",
+        "rancheras",
+        "talk radio"
+      ],
+      "city": "Aysén",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "La Mexicana Chile",
+      "urls": [
+        "https://audio0.tustreaming.cl/7170/casablanca"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 136
+    },
+    {
+      "name": "La Palabra",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8126/stream:8000"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "La Retro 80s Chile",
+      "urls": [
+        "https://s2.radio.co:80/s9ecef4f68/listen"
+      ],
+      "tags": [
+        "1980s",
+        "80s",
+        "80s en español"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.laretro.cl/icons/apple-icon-120x120.png",
+      "votes": 6362
+    },
+    {
+      "name": "La Sabrosita",
+      "urls": [
+        "https://audio.streaminghd.cl:9234/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "La Voz de Yungay",
+      "urls": [
+        "https://streaming.comunicacioneschile.net:7040/stream"
+      ],
+      "tags": [],
+      "city": "Yungay",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-1/298837109_464729655660656_1098981855635272549_n.png?stp=cp0_dst-png_s50x50&_nc_cat=111&ccb=1-7&_nc_sid=f907e8&_nc_ohc=DAhc059lbvsQ7kNvwGV1o01&_nc_oc=Adrn5XJ2Nlzc98s9fGMlsky_kxLo6wBBIob8EBBokj-Bpx4N8ZTvbTZu2I22BnTXeYwjhrEy4dOwjxZh7wzo9i1d&_nc_zt=24&_nc_ht=scontent.fccp1-1.fna&edm=AHhUBXQEAAAA&_nc_gid=xbSHZxtGCwRRd5G-0sjpqQ&oh=00_AQHefDB8m_AjgvkN0YhO7SH_KRFaAzviRH7dwZVSr-INSw&oe=6A8962AA",
+      "votes": 1
+    },
+    {
+      "name": "La Voz del Cipres",
+      "urls": [
+        "https://live.lavozdelcipres.cl/radiomelinka.ogv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "La Zarzamora",
+      "urls": [
+        "https://radio.latina.red/lazarzamora.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/lazarzamora.cl/wp-content/uploads/2024/07/IMG-20221011-WA0024.jpg?resize=300%2C300&ssl=1",
+      "votes": 11
+    },
+    {
+      "name": "Lafken Mawida",
+      "urls": [
+        "https://radio.latina.red/lafkenmawida.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.lafkenmawida.org/wp-content/uploads/2018/11/cropped-favicon-1-32x32.png",
+      "votes": 4
+    },
+    {
+      "name": "LibelulaChile ONLINE",
+      "urls": [
+        "https://radio.libelulachile.cl/listen/online/radio.mp3"
+      ],
+      "tags": [
+        "familia",
+        "música"
+      ],
+      "city": "Arica",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "LOS40 Chile",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac"
+      ],
+      "tags": [
+        "américa",
+        "chile",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "juvenil",
+        "latin pop",
+        "los40",
+        "moi merino",
+        "music",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "prisa radio",
+        "radio",
+        "santiago",
+        "suramérica"
+      ],
+      "city": "Santiago",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
+      "votes": 665
+    },
+    {
+      "name": "Maldonado FM",
+      "urls": [
+        "https://jm8n.net:7013/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "maray",
+      "urls": [
+        "https://video.mediawebchile.com:2000/stream/8212/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "Maricón radio",
+      "urls": [
+        "https://radio.maricon.org/vocaloid"
+      ],
+      "tags": [
+        "vocaloid"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Mas Longaví FM",
+      "urls": [
+        "https://radio.mediadev.cl/radio/8030/fmmas"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Más Radio 95.9 FM",
+      "urls": [
+        "https://broadcast.radio247.net/listen/mas_radio_la_union/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Master of Rock Chile",
+      "urls": [
+        "https://stream.zeno.fm/n0ndubthhaytv"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ldTgc_P3vzTWAj3rWPnfYugBl2CRgKlNnH-BgbwsvnQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZmMxMjk3OGItMDQ3Ny00ZWEzLTk1NmUtZTZlODAxOTIxMzQ4L2ltYWdlLz91PTE3MjQ2MzQxMzMwMDA.webp",
+      "votes": 1
+    },
+    {
+      "name": "Máxima FM",
+      "urls": [
+        "https://sonic01.zglobalhost.com/8086/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Medios Unidos",
+      "urls": [
+        "https://stream.polarhost.cl/MediosUnidos"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Mi Radio",
+      "urls": [
+        "https://audio1.tustreaming.cl/9020/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.miradiols.cl/wp-content/uploads/2020/03/cropped-favicon-verde-01-192x192.png",
+      "votes": 265
+    },
+    {
+      "name": "Mi Radio",
+      "urls": [
+        "https://audio2.tustreaming.cl/9020/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.miradiols.cl/wp-content/uploads/2019/10/Mi_Radio_Ls_Logo_2019.png",
+      "votes": 12
+    },
+    {
+      "name": "Motiva",
+      "urls": [
+        "https://radiomotiva.edz.cl/motiva"
+      ],
+      "tags": [],
+      "city": "San Ignacio",
+      "codec": "AAC",
+      "bitrate": 40,
+      "logo": "https://radiomotiva.cl/gallery_gen/7f0e62220ec9f191e731120045693f9c_214x214_fit.png?ts=1784556973",
+      "votes": 2
+    },
+    {
+      "name": "Motiva2",
+      "urls": [
+        "https://radiomotiva.edz.cl/motiva2"
+      ],
+      "tags": [],
+      "city": "San Ignacio",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://radiomotiva.cl/motiva2/img/logo2.png?ts=1768925473",
+      "votes": 0
+    },
+    {
+      "name": "Musicoop",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8486/stream"
+      ],
+      "tags": [
+        "chile",
+        "classical music",
+        "regional radio"
+      ],
+      "city": "Los Lagos",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://4.bp.blogspot.com/-fbiHouUdQ6I/YMylILVZI8I/AAAAAAAAICA/tP70eZSFmkUAWVkjpKsDlDTYTEA9idcAgCK4BGAYYCw/w800/logo1nuevo.png",
+      "votes": 42
+    },
+    {
+      "name": "MyTuner 90s",
+      "urls": [
+        "https://stream.zeno.fm/vtzf1dppgxiuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Ni Tan Retro FM",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/8090/;"
+      ],
+      "tags": [
+        "retro r&b"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Nostálgica 2026",
+      "urls": [
+        "https://video.mediawebchile.com/stream/8032"
+      ],
+      "tags": [],
+      "city": "Atacama",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nostalgica.cl/player-online/img/default_nostalgica.png",
+      "votes": 2
+    },
+    {
+      "name": "Océano FM",
+      "urls": [
+        "https://audio2.tustreaming.cl/9025/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "PalMundo FM",
+      "urls": [
+        "https://stream.palmundofm.cl/listen/reggaetonoldschool/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://palmundofm.cl/wp-content/uploads/2026/01/NUEVO-COVER-512-x-512-px-1200-x-1200-px.webp",
+      "votes": 5
+    },
+    {
+      "name": "Panal Radio",
+      "urls": [
+        "https://sonic01.zglobalhost.com/8064/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Pangal FM",
+      "urls": [
+        "https://cast235.indax.cl/8002/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "PARA TI FM",
+      "urls": [
+        "https://01.solumedia.com.ar:9072/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 125,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Patagonia FM",
+      "urls": [
+        "https://audio.streaminghd.cl:2000/stream/patagoniaradio/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Portal 90 Radio",
+      "urls": [
+        "https://sonic.mallocohosting.cl/8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Positiva",
+      "urls": [
+        "https://unlimited4-us.dps.live/positiva/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Santiago",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 61
+    },
+    {
+      "name": "Principios Radio",
+      "urls": [
+        "https://stream.zeno.fm/i5darmt2oi7tv"
+      ],
+      "tags": [
+        "cristiano",
+        "david hormachea",
+        "hogar",
+        "principios"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240516_091527881.jpg?alt=media&token=99b082aa-0b5c-4a88-88bb-f0f9929c4254",
+      "votes": 31
+    },
+    {
+      "name": "Puerto Salsa Radio",
+      "urls": [
+        "https://sonic.portalfoxmix.cl:7028/stream?icy=http"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Punto 7 - Concepción",
+      "urls": [
+        "https://redirector.dps.live/p7concepcion/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 2
+    },
+    {
+      "name": "Punto 7 - Los Ángeles",
+      "urls": [
+        "https://redirector.dps.live/p7losangeles/mp3/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "Punto 7 - Osorno",
+      "urls": [
+        "https://redirector.dps.live/p7osorno/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "Punto 7 - Puerto Montt",
+      "urls": [
+        "https://redirector.dps.live/p7puertomontt/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "Punto 7 - Temuco",
+      "urls": [
+        "https://redirector.dps.live/p7temuco/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Punto 7 - Valdivia",
+      "urls": [
+        "https://redirector.dps.live/p7valdivia/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Punto 7 - Valparaíso",
+      "urls": [
+        "https://redirector.dps.live/p7valparaiso/aac/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "punto7",
+      "urls": [
+        "https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Purranque FM",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8396//stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Radio 13c",
+      "urls": [
+        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d"
+      ],
+      "tags": [
+        "cultural programming"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "RADIO 24-7 CHILE",
+      "urls": [
+        "https://broadcast.radio247.net/radio/8000/;"
+      ],
+      "tags": [
+        "2000s",
+        "2010s",
+        "2020s",
+        "70s",
+        "80s",
+        "90s",
+        "hits",
+        "música en español e inglés"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio247.net/images/247-favicon.ico",
+      "votes": 68
+    },
+    {
+      "name": "Radio 4ever",
+      "urls": [
+        "https://pragustream.live:8020/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio 7 Tazas de Molina FM",
+      "urls": [
+        "https://miradio.f96.cl/8006/streaming"
+      ],
+      "tags": [
+        "cumbia"
+      ],
+      "city": "Maule",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Agricultura",
+      "urls": [
+        "https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8"
+      ],
+      "tags": [
+        "adult contemporary",
+        "news talk",
+        "sports talk",
+        "talk & speech",
+        "talk show"
+      ],
+      "city": "Santiago, Región Metropolitana",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/wXT2vZ5ai-MAEN-oO3BwFpOulBYlDqoywVnQBDR9uDIMHo0yK02Osa_RT5wBSgDKbw=w240-h480-rw",
+      "votes": 172
+    },
+    {
+      "name": "Radio Alborada 106.1",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8438/stream"
+      ],
+      "tags": [],
+      "city": "Chillán, Ñuble",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.squarespace-cdn.com/content/v1/5903889c197aea3eb83a5b71/1617044764552-VHACSO13UDL0BB3B68JI/logo+alborada+vectorizado+colores+originales.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Ancoa La Radio de Linares",
+      "urls": [
+        "https://audio2.tustreaming.cl:10991/;"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "local radio",
+        "music",
+        "various"
+      ],
+      "city": "Linares,",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5fd388ccfae2191165f5a37b/mediaLibrary/photo/78c6a46e-c370-4185-b35a-047f4ce62e58-extra-large-standard-q100.webp",
+      "votes": 3
+    },
+    {
+      "name": "Radio Angelina 730 AM",
+      "urls": [
+        "https://sonic.portalfoxmix.cl:7025/;"
+      ],
+      "tags": [
+        "bible",
+        "evangelio",
+        "religious",
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioangelina.cl/portal/assets/img/logoRadioAngelina.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio Antofagasta Online Retro",
+      "urls": [
+        "https://sonic.portalfoxmix.club:7157/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Araucana",
+      "urls": [
+        "https://audio.streaminghd.cl:2000/stream/radioaraucana959"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio arcoiris FM",
+      "urls": [
+        "https://audio2.tustreaming.cl/7210/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Arrayan",
+      "urls": [
+        "https://streaming.biox3.cl/8190/stream.AAC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Aun estamos vivos",
+      "urls": [
+        "https://radio.tvstream.cl:7075/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Austral",
+      "urls": [
+        "https://archi-us.digitalproserver.com/austral.aac"
+      ],
+      "tags": [
+        "80's",
+        "90's",
+        "news",
+        "rock"
+      ],
+      "city": "Valdivia",
+      "codec": "AAC+",
+      "bitrate": 112,
+      "logo": "https://www.radioaustralvaldivia.cl/storage/2024/08/cropped-N300-1.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Azúcar",
+      "urls": [
+        "https://audio2.tustreaming.cl/8300/azucarsantiago"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio BBN",
+      "urls": [
+        "https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 515
+    },
+    {
+      "name": "RADIO BEETHOVEN",
+      "urls": [
+        "https://unlimited5-us.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://infiny.live/uploads/multimedia/2022/05/s_532c52bc4eb194cdde4a1435d70280240.png",
+      "votes": 77
+    },
+    {
+      "name": "Radio Bendiciónn FM",
+      "urls": [
+        "https://sonic.comunikados.stream:8112/;"
+      ],
+      "tags": [
+        "radio cristiana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bio Bio",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Santiago",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2969
+    },
+    {
+      "name": "Radio Bio Bio Temuco",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Araucanía",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Radio Bio-Bio Puerto Montt",
+      "urls": [
+        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio"
+      ],
+      "tags": [
+        "música y noticias"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Radio Bohemia",
+      "urls": [
+        "https://audio.streaminghd.cl:2000/stream/bohemia-memoria-eterna/;stream.mp3"
+      ],
+      "tags": [
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Bravísima",
+      "urls": [
+        "https://club.asdmedios.cl/radio/8030/radio.mp3"
+      ],
+      "tags": [
+        "noticias en español"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Buena Nueva Linares",
+      "urls": [
+        "https://archi-us.digitalproserver.com/buena-nueva.aac"
+      ],
+      "tags": [
+        "radio cristiana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Camelia 93.5 - CPR Presencia",
+      "urls": [
+        "https://streaming.comunicacioneschile.net/8010/stream"
+      ],
+      "tags": [],
+      "city": "Bulnes",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pbs.twimg.com/profile_images/973926029327781889/8j_jsDe4.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Radio Candela",
+      "urls": [
+        "https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/candela/playlist/manifest/gotardisz/audio/now/livestream1.m3u8?dpssid=29655ee97d58fc6cbb68acea3ab0dbfc&sid=ba5t1l1xb21323264718688affc0e6864&ndvc=0"
+      ],
+      "tags": [
+        "tropical; cross over",
+        "urban"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Carabineros",
+      "urls": [
+        "https://streaming.prositel.cl/8374/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "Radio Caramelo San Vicente",
+      "urls": [
+        "https://cast.radioservicios.cl:8316/sanvicente"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Caricia",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8244/stream/"
+      ],
+      "tags": [
+        "miscellaneous"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Cariñosa",
+      "urls": [
+        "https://archi-us.digitalproserver.com/carinosa-fm.aac"
+      ],
+      "tags": [
+        "musica latina"
+      ],
+      "city": "Chillán, Ñuble",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/811/radio-carinosa.442aaaaf.jpg",
+      "votes": 40
+    },
+    {
+      "name": "Radio Carnaval (La Serena)",
+      "urls": [
+        "https://cp2.streamchileno.cl//listen//radiocarnaval//radio.mp3"
+      ],
+      "tags": [],
+      "city": "La Serena",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://radiocarnavalfm.cl/wp/wp-content/uploads/2022/05/cropped-RADIO-CARNAVAL-300x300.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Radio Cassette",
+      "urls": [
+        "https://sonic.mistreamingtv.uno/8020/stream"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Catalina",
+      "urls": [
+        "https://streaming.comunicacioneschile.net/8034/stream"
+      ],
+      "tags": [],
+      "city": "Coronel",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/u52PD2d3LM.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Catalina 106.3 FM",
+      "urls": [
+        "https://streaming.comunicacioneschile.net/9398/stream"
+      ],
+      "tags": [],
+      "city": "El Carmen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiocatalina.cl/wp-content/uploads/2013/07/Logo-4.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Centro Cristiano",
+      "urls": [
+        "https://vivo.miradio.in:7008/"
+      ],
+      "tags": [
+        "chile",
+        "cristianismo",
+        "evangelio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 98
+    },
+    {
+      "name": "Radio Clásica FM Chile",
+      "urls": [
+        "https://sp001.servidoresph.com:8130/;"
+      ],
+      "tags": [
+        "música clásica romántica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Club 80",
+      "urls": [
+        "https://stream.radioclub80.cl:8002/clasicos80.flac"
+      ],
+      "tags": [
+        "other"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 6144,
+      "logo": "https://ibb.co/bMfVPpZs",
+      "votes": 133
+    },
+    {
+      "name": "Radio Club 80",
+      "urls": [
+        "https://stream.radioclub80.cl:8002/clasicos80.mp3"
+      ],
+      "tags": [
+        "other"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://i.postimg.cc/sfhJgKDG/PROMO-SERVER.png",
+      "votes": 227
+    },
+    {
+      "name": "Radio Club 80 Euro FLAC",
+      "urls": [
+        "https://stream.radioclub80.cl:8032/stream.euro80flac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 3072,
+      "logo": null,
+      "votes": 330
+    },
+    {
+      "name": "Radio Club 80: Retro",
+      "urls": [
+        "https://stream.radioclub80.cl:8022/retro80.flac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 6144,
+      "logo": "https://cdn.sanity.io/images/orhkaa59/production/143a67d9a64de62032bdb8f06b0e665f82a62d4a-1080x1080.jpg?w=384&q=75",
+      "votes": 13
+    },
+    {
+      "name": "Radio Cobremar - Chañaral FM 89.9",
+      "urls": [
+        "https://audio.bitsur.cl/8066/stream"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "música variada",
+        "noticias",
+        "noticias y comentarios",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocobremar.cl/wp-content/uploads/2020/11/16992359_1264977716921496_6536192034114262655_o.jpg",
+      "votes": 12
+    },
+    {
+      "name": "Radio Colina 107.3 FM",
+      "urls": [
+        "https://streaming01.xhost.cl/8156/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio ColoColo",
+      "urls": [
+        "https://audio2.tustreaming.cl:10997/stream"
+      ],
+      "tags": [
+        "moringa",
+        "música",
+        "noticias"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 325
+    },
+    {
+      "name": "Radio Colombina",
+      "urls": [
+        "https://cast.radioservicios.cl:8314/radio"
+      ],
+      "tags": [
+        "classic rock",
+        "misc",
+        "música pop",
+        "new wave",
+        "pop rock"
+      ],
+      "city": "Ohiggins",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Radio Concierto Chile",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "Radio Concierto Chile",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://envivo.concierto.cl/build/assets/conciertochile/img/logo.png",
+      "votes": 106
+    },
+    {
+      "name": "Radio Condell 92.7 FM",
+      "urls": [
+        "https://zeus.miradio.pro/radio/8090/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Contexto Ñuble",
+      "urls": [
+        "https://streaming.viphosting.cl/8028/stream"
+      ],
+      "tags": [
+        "non-profit"
+      ],
+      "city": "Chillán",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://contextonuble.cl/favicon.ico",
+      "votes": 585
+    },
+    {
+      "name": "Radio Cosmos FM",
+      "urls": [
+        "https://audio3.tustreaming.cl/7410/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Creación FM",
+      "urls": [
+        "https://archi-us.digitalproserver.com/creacion-fm.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Cristiana Manantial de Vida",
+      "urls": [
+        "https://audio3.tustreaming.cl/7080/stream"
+      ],
+      "tags": [
+        "radio cristiana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Radio Crystal Cabildo 101.9",
+      "urls": [
+        "https://radiolatina.live/9980/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocrystal.cl/wp-content/uploads/2022/07/Logo-Retina.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Cumbia",
+      "urls": [
+        "https://stream.zeno.fm/h5eannlep1gvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 224,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Radio Del Maipo",
+      "urls": [
+        "https://sonic.mallocohosting.cl/8012/stream"
+      ],
+      "tags": [],
+      "city": "Melipilla",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/552/radio-del-maipo-fm.374c34c3.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Dinámica 100.7 FM",
+      "urls": [
+        "https://streaming.comunicacioneschile.net/8030/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "music",
+        "música variada",
+        "noticias",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.radiosonline.app/87963/agwebjkae.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Dulce 95.3 en La Ligua",
+      "urls": [
+        "https://stream.zeno.fm/3yv0enxnp7zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio Dulce CALERA - QUILLOTA 95.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/bx6zuwssrnjvv"
+      ],
+      "tags": [
+        "adult contemporary",
+        "entretenimiento",
+        "musica romantica",
+        "música en español",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 22
+    },
+    {
+      "name": "Radio Dulce CASABLANCA 97.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/yo6udiulqhbvv"
+      ],
+      "tags": [
+        "adult contemporary",
+        "entretenimiento",
+        "musica romantica",
+        "música en español",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Dulce ILLAPEL 98.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/kc5hofr05tavv"
+      ],
+      "tags": [
+        "adult contemporary",
+        "entretenimiento",
+        "musica romantica",
+        "música en español",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 17
+    },
+    {
+      "name": "Radio Dulce PETORCA- -CABILDO 104.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/uftblekcpxguv"
+      ],
+      "tags": [
+        "adult contemporary",
+        "entretenimiento",
+        "musica romantica",
+        "música en español",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Dulce SAN FELIPE y LOS ANDES 100.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/dzvavezs85ouv"
+      ],
+      "tags": [
+        "adult contemporary",
+        "entretenimiento",
+        "musica romantica",
+        "música en español",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png",
+      "votes": 23
+    },
+    {
+      "name": "Radio Duna",
+      "urls": [
+        "https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Ecos Del Valle",
+      "urls": [
+        "https://sonic.mallocohosting.cl/8092/stream"
+      ],
+      "tags": [],
+      "city": "Los Rios",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ecosdelvallefm.cl/wp-content/uploads/2026/02/ecos-512.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio El Carbón",
+      "urls": [
+        "https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Lota",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 65
+    },
+    {
+      "name": "Radio El Sembrador",
+      "urls": [
+        "https://sonic-cl.arkeo.cl:9330/;mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Electro",
+      "urls": [
+        "https://stream.zeno.fm/ywnrindjwxjtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 224,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Encanto 88.5 FM",
+      "urls": [
+        "https://archi-us.digitalproserver.com/encanto_ovalle.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Energía",
+      "urls": [
+        "https://sonic.mistreamingtv.uno/8016/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Estallido Tuitero",
+      "urls": [
+        "https://stream.zeno.fm/ws9z11fhrd0uv"
+      ],
+      "tags": [
+        "estallido social"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mobile.twitter.com/favicon.ico",
+      "votes": 75
+    },
+    {
+      "name": "Radio Euro Éxtasis",
+      "urls": [
+        "https://conexion.radioeuroextasis.com/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://radioeuroextasis.com/wp-content/uploads/2022/07/LOGO-12-512.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Evocación",
+      "urls": [
+        "https://radiolatina.live/8016/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Exclusiva FM",
+      "urls": [
+        "https://sonic.portalfoxmix.club:7198/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Exitosa",
+      "urls": [
+        "https://audio3.tustreaming.cl/7330/stream"
+      ],
+      "tags": [
+        "musica tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Exquisita Valdivia",
+      "urls": [
+        "https://audio.bitsur.cl/8136/exquisita"
+      ],
+      "tags": [],
+      "city": "Valdivia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Favorita",
+      "urls": [
+        "https://zeus.miradio.pro/hls/favorita/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 70,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Fe Pentecostal",
+      "urls": [
+        "https://sonic.comunikados.stream:8012/;"
+      ],
+      "tags": [
+        "cristiana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Fiessta",
+      "urls": [
+        "https://mdstrm.com/audio/64ed1a4905a8915e7674ea80/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Fira FM 89.7 - Quillota",
+      "urls": [
+        "https://stream.zeno.fm/puvdqzbsb2zuv"
+      ],
+      "tags": [],
+      "city": "Quillota",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/ZnMkiIbrWCvyQ9EgdIRjcvl7jyhQTtUh-2rSqYwuSss/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwYW5ycXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FrZXlibUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MjIxNjUyNDAwMA.webp",
+      "votes": 4
+    },
+    {
+      "name": "Radio FM Centro 91.7",
+      "urls": [
+        "https://s02.azuracast.cl/radio/8210/fmcentro"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "actualidad",
+        "entretenimiento",
+        "latin pop",
+        "musica",
+        "música en español",
+        "pop en español"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://fmcentro.cl/wp-content/uploads/2023/12/graficaFMcentro2.jpg ",
+      "votes": 14
+    },
+    {
+      "name": "Radio FM Latina 89.1",
+      "urls": [
+        "https://jm8n.com/proxy/radiofmlatina/stream"
+      ],
+      "tags": [
+        "chile",
+        "latino",
+        "pop",
+        "ragga",
+        "reggaeton",
+        "trap",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiofmlatina.com/wp-content/uploads/2017/01/600x600-370x370.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio FM Universidad de Antofagasta 99.9",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl/8040/radioua"
+      ],
+      "tags": [
+        "radio universitaria",
+        "university radio"
+      ],
+      "city": "Antofagasta",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQudZh8p87r1j3csSL4Sp3fynhs7ePHGqYg&s",
+      "votes": 5
+    },
+    {
+      "name": "Radio Futuro",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 350
+    },
+    {
+      "name": "Radio Gabriela",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8180/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Genoveva Valdivia",
+      "urls": [
+        "https://audio.bitsur.cl/8032/stream"
+      ],
+      "tags": [
+        "anglo",
+        "latino"
+      ],
+      "city": "Valdivia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiogenoveva.cl/wp-content/uploads/2019/05/Logo-Radio-Genoveva1-1024x614.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Gente 105.7 FM",
+      "urls": [
+        "https://mdstrm.com/audio/5de27ed416dea236fa7b4309/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 187,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Guayacán",
+      "urls": [
+        "https://sonic.mallocohosting.cl/8038/stream"
+      ],
+      "tags": [],
+      "city": "Coquimbo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Radio Iglesia Cristiana La Serena",
+      "urls": [
+        "https://servidor32.brlogic.com:7050/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://public-rf-upload.minhawebradio.net/247229/logo/f1f3b87f871192cec670057dede57adc.png",
+      "votes": 196
+    },
+    {
+      "name": "Radio Ignacio Serrano",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8242/stream/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.radioprensa.cl/favicon.ico",
+      "votes": 7
+    },
+    {
+      "name": "Radio Indomables",
+      "urls": [
+        "https://myradio.live:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Infinita",
+      "urls": [
+        "https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 125,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Interamericana",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/radiointeramericana.aac"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "Concepción",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 396
+    },
+    {
+      "name": "Radio Isla Negra",
+      "urls": [
+        "https://radioislanegra.org/radio/8000/basic.aac"
+      ],
+      "tags": [
+        "non-commercial",
+        "non-stop music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "RADIO ISLA ONLINE",
+      "urls": [
+        "https://sp.totalstreaming.net:8018/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioisla.cl/wp-content/uploads/2024/07/unnamed-67x67.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Jazz y Mas",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8208/stream"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Kambio",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8048/stream"
+      ],
+      "tags": [
+        "folcklore",
+        "rock",
+        "trova"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radiokambio.cl",
+      "votes": 3
+    },
+    {
+      "name": "Radio La Chúkara",
+      "urls": [
+        "https://stm7.voxhd.com.br:10788/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio La Mega",
+      "urls": [
+        "https://sonic.portalfoxmix.cl:7066/stream?icy=http"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Radio La Mexicana",
+      "urls": [
+        "https://audio0.tustreaming.cl/7160/aire"
+      ],
+      "tags": [
+        "ranchera",
+        "tropical"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolamexicana.cl/wp-content/uploads/2023/06/logomx.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio La Movida",
+      "urls": [
+        "https://server01.heplayer.com/9900/stream"
+      ],
+      "tags": [
+        "cumbia"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio La Nueva FM",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl/8196/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio La Palabra",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8126/stream:8000/;?download=false"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://radiolapalabra.cl/wp-content/uploads/2024/03/LOGO-RLP-FM-1-2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio La Popular FM",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8056/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio la Sureña",
+      "urls": [
+        "https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFwaXhSN3ZWUUlDYzVweWNXY3Q1TFEiLCJpYXQiOjE3OTAwMDYwNjcsImV4cCI6MTc5MDAwNjEyN30.-TdLpA9aFLhpCGNR5gSRmjahYddb7OVa1ExRivuZhj8"
+      ],
+      "tags": [],
+      "city": "Lautaro",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.instant.audio/images/logos/emisora-cl/la-surena.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio La Vitrola",
+      "urls": [
+        "https://stream.zeno.fm/7ga8ab3w968uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio la Voz del Mar",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8186/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Lado B Classic Dance",
+      "urls": [
+        "https://audio.streaminghd.cl:2000/stream/ladobclassicdance/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Las Nieves",
+      "urls": [
+        "https://audio2.tustreaming.cl:10987/stream"
+      ],
+      "tags": [
+        "00s",
+        "80s",
+        "90s",
+        "anglo",
+        "latin music",
+        "musica chilena",
+        "pop",
+        "regional radio",
+        "talk radio"
+      ],
+      "city": "Aysén",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 112
+    },
+    {
+      "name": "Radio Latin-Amerika",
+      "urls": [
+        "https://stream.radiolatinamerika.no/latam_hq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Lautaro Talca",
+      "urls": [
+        "https://audio2.tustreaming.cl/7320/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolautarotalca.cl/wp-content/uploads/2022/01/favicon.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Maipu Fm",
+      "urls": [
+        "https://pragustream.live:8040/stream/1/"
+      ],
+      "tags": [],
+      "city": "Maipu",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.instant.audio/images/logos/emisora-cl/radio-maipu.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Mar FM",
+      "urls": [
+        "https://cp.sonicpanel.stream:8204/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Marisol",
+      "urls": [
+        "https://audio0.tustreaming.cl/7620/stream"
+      ],
+      "tags": [
+        "80's",
+        "80s"
+      ],
+      "city": "región del maule",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "Radio Master",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8130/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://radiomaster.cl/assets/wp-content/uploads/2026/01/brand-w.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Maule Sur",
+      "urls": [
+        "https://stream-178.surfernetwork.com/b6kmhqjgmmwvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiNmttaHFqZ21td3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJTWHBCaG96b1I4NllCRV9yM000VU53IiwiaWF0IjoxNzg2NjUxODM2LCJleHAiOjE3ODY2NTE4OTZ9.7j_Sc4XwzZW_gpF3MbqbdWfRByULO0Knu5JXU8ASeMQ&1786651811157"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomaulesur.cl/favicon.ico",
+      "votes": 1
+    },
+    {
+      "name": "Radio Mirador",
+      "urls": [
+        "https://encoder.stationlink.cl/listen/mirador_lautaro/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Lautaro",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.instant.audio/images/logos/emisora-cl/mirador-lautaro.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Montecarlo",
+      "urls": [
+        "https://sonic.mallocohosting.cl/8032/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Municipal Iquique",
+      "urls": [
+        "https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "Tarapaca",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiomunicipal.cl/wp-content/uploads/2022/06/logo-comprimido.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio Naval",
+      "urls": [
+        "https://s4.radio.co/s740f80d28/listen"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.armada.cl/armada/site/artic/20241023/imag/foto_0000000120241023095820/radio-naval-logo.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Nervios",
+      "urls": [
+        "https://cast6.asurahosting.com/proxy/happype1/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radionervios.cl/wp-content/uploads/2024/11/WhatsApp-Image-2024-10-11-at-14.29.42-768x369.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Ocurrente, Ocurrente Como Tú",
+      "urls": [
+        "https://stream2.mcvhost.com/radioocurrente/"
+      ],
+      "tags": [],
+      "city": "santiago",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Orión FM",
+      "urls": [
+        "https://usa10.fastcast4u.com:2750/;?nocache=1702325798&type=http"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Palabra",
+      "urls": [
+        "https://sonic.streamingchilenos.com:7034/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://fmpalabra.net/wp-content/uploads/2020/05/cropped-logo-2020-con-sci-fied-2002-mostaza-blanco-DEF-cabecera-2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Paloma",
+      "urls": [
+        "https://audio3.tustreaming.cl/7320/stream"
+      ],
+      "tags": [],
+      "city": "Talca",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiopaloma.cl/icon.png",
+      "votes": 72
+    },
+    {
+      "name": "Radio Pamela FM 107.3",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8562/stream.mp3?ts=1769817329142"
+      ],
+      "tags": [
+        "local news",
+        "spanish",
+        "spanish contemporary hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.zyrosite.com/mnlJ35WR8KCNDEv4/logo-radio-pamela-1200-x-1200-px-YrD4LleDPbCRENDl.png",
+      "votes": 3
+    },
+    {
+      "name": "RADIO PAULINA",
+      "urls": [
+        "https://sp1.streamingssl.com/8058/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Radio Pauta",
+      "urls": [
+        "https://unlimited5-us.dps.live/radiopauta/gotardis/audio/now/livestream1.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 55
+    },
+    {
+      "name": "Radio Perfección 80s",
+      "urls": [
+        "https://video.mediawebchile.com:8134/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Perla del Maule",
+      "urls": [
+        "https://grupcomunicados.us:8084/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Picados",
+      "urls": [
+        "https://a10.asurahosting.com:7630/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://azura.picados.beer/static/uploads/radio/album_art.1745611419.webp",
+      "votes": 2
+    },
+    {
+      "name": "Radio Picarona",
+      "urls": [
+        "https://sonic.portalfoxmix.cl:7046/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Radio picarona",
+      "urls": [
+        "https://sonic.portalfoxmix.cl:7045/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 36,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Pilmaiquén",
+      "urls": [
+        "https://streaming.chiloestreaming.com:10977/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Placeres",
+      "urls": [
+        "https://sonic.streamingchilenos.com/9856/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "RADIO PODER PENTECOSTAL",
+      "urls": [
+        "https://streaming2.locucionar.com/proxy/poderpentecostal?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://streaminglocucionar.com/portal/images/logos/poderpentecostal.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Primavera",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8240/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio puangue",
+      "urls": [
+        "https://sonic.mallocohosting.cl:8036/stream"
+      ],
+      "tags": [],
+      "city": "curacavi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/95234.v9.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Putupur",
+      "urls": [
+        "https://audio0.tustreaming.cl/7540/stream"
+      ],
+      "tags": [
+        "folclore"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Rara",
+      "urls": [
+        "https://sonicpanel.chileservidores.cl/8004/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "jazz"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/nrbVpq73/Radio-Rara.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Rebuena 95.7FM",
+      "urls": [
+        "https://audio5.tustreaming.cl/7930/stream"
+      ],
+      "tags": [],
+      "city": "Huasco -Freirina",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": "https://www.radiorebuena.cl/wp-content/uploads/2024/04/rebuena-log3-300x300.png",
+      "votes": 13
+    },
+    {
+      "name": "Radio Recreo",
+      "urls": [
+        "https://sonicpanel.cc/8018/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Retro Online",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8138/stream"
+      ],
+      "tags": [
+        "80s",
+        "dance",
+        "pop"
+      ],
+      "city": "Santiago",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 532
+    },
+    {
+      "name": "Radio Rock",
+      "urls": [
+        "https://stream-174.zeno.fm/ygcafb1mxxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Z2NhZmIxbXh4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlMOVF0NkdkUUphOERDeGF0UU1USlEiLCJpYXQiOjE3MTY0NTc0OTcsImV4cCI6MTcxNjQ1NzU1N30.wqY88_gP9MEYCEfI8v"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio RTL ( curico )",
+      "urls": [
+        "https://radio.mediadev.cl/radio/8070/rtlcurico"
+      ],
+      "tags": [
+        "tropical lattina"
+      ],
+      "city": "Curicó",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/643/radio-rtl.02aba817.png",
+      "votes": 37
+    },
+    {
+      "name": "Radio Rural Chile",
+      "urls": [
+        "https://stm7.voxhd.com.br:10788/stream"
+      ],
+      "tags": [],
+      "city": "Santa Juana",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Radio Ruta Norte FM",
+      "urls": [
+        "https://sonic.globalstreaming.net:10920/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Sago",
+      "urls": [
+        "https://audio.divalstream.com:7001/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Salsa Chile",
+      "urls": [
+        "https://stream.zeno.fm/70sehzr9ssluv"
+      ],
+      "tags": [
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio San Gabriel FM",
+      "urls": [
+        "https://archi-us.digitalproserver.com/san-gabriel-fm.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio Sanfurgo",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8146/stream"
+      ],
+      "tags": [
+        "classic"
+      ],
+      "city": "Santa Cruz",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://us0-cdn.onlineradiobox.com/img/l/6/79706.v4.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Santa María",
+      "urls": [
+        "https://archi-us.digitalproserver.com/santa-maria-am.aac"
+      ],
+      "tags": [
+        "iglesia católica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Sembrador",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/9884/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Sinfónica",
+      "urls": [
+        "https://stream-177.surfernetwork.com/9wzpfshiu2nvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5d3pwZnNoaXUybnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdYSjY2WWJxUjRPMU5VME5pcjE3LUEiLCJpYXQiOjE3OTAwMDY3ODQsImV4cCI6MTc5MDAwNjg0NH0.HmxJaXwhwJRW1N8_M5LrqQuQFKOARyuI4F9LJgeUnAE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "RADIO SOL",
+      "urls": [
+        "https://us9.maindigitalstream.com/ssl/7389"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Radio Sol Classic",
+      "urls": [
+        "https://us9.maindigitalstream.com/ssl/radiosol"
+      ],
+      "tags": [],
+      "city": "Antofagasta",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4752
+    },
+    {
+      "name": "Radio Súper Sol Osorno",
+      "urls": [
+        "https://sonic-us.fhost.cl/8366/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Superbuena Paredones",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl:7014/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Sur Valdivia",
+      "urls": [
+        "https://audio.divalstream.com/8026/stream"
+      ],
+      "tags": [
+        "80"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Tapihue 107.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/kt0wcc9rqwzuv?amb-uid=4601098318750674809&an-uid=0&aw_0_req_lsid=8b70f06538ffd40cf639452369ae9c59&dot-uid=0aca2203006e4e28b6efd6b8&dyn-uid=1496550315181718955&triton-uid="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Techno Chile",
+      "urls": [
+        "https://stream.zeno.fm/lsiyqroai88uv"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Tecno",
+      "urls": [
+        "https://stream-158.zeno.fm/29pmsm3w968uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyOXBtc20zdzk2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZNZ2tBZHJMU1ltdXEwSE5Xc2ZqS1EiLCJpYXQiOjE3MTYzOTM5MTIsImV4cCI6MTcxNjM5Mzk3Mn0.2hesTrBIpJxdZfufoJ"
+      ],
+      "tags": [
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Tenina FM",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl/8012/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Toconao",
+      "urls": [
+        "https://server.radiostreaming.com.ar/8086/stream"
+      ],
+      "tags": [
+        "diverses"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Tongoy fm 107.1",
+      "urls": [
+        "https://sonicstream-puntual.grupozgh.cl:7068/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Tricolor",
+      "urls": [
+        "https://radiolatina.live/8112/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio TropiConce",
+      "urls": [
+        "https://sonic.mistreamingtv.uno/8044/stream"
+      ],
+      "tags": [
+        "90",
+        "90s",
+        "cumbia",
+        "latinoamérica"
+      ],
+      "city": "Biobío",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiotropiconce.cl/logo-icon.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Tropikal Ranchera",
+      "urls": [
+        "https://streaming.viphosting.cl/8034/stream"
+      ],
+      "tags": [],
+      "city": "Cañete",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/359/radio-tropikal-rancheras2.04a17a3b.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio UdeC",
+      "urls": [
+        "https://audio.divalstream.com:7019/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Radio UNAP 101.9",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8276/stream"
+      ],
+      "tags": [
+        "radio universitaria",
+        "university radio"
+      ],
+      "city": "Tarapaca",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lh5.googleusercontent.com/proxy/wCMEziq6VDJJQ2lLTfZuUBQ-Qjbc7JW35qG5wNaRXhzM2WSuWsO3-zPOXkvSwhTeBkcI1RTL4BoeOtgYz3fU8GP8fl60mJl8",
+      "votes": 3
+    },
+    {
+      "name": "Radio Universal FM",
+      "urls": [
+        "https://s02.azuracast.cl/radio/8010/universal"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Universal Villarrica",
+      "urls": [
+        "https://s02.azuracast.cl/radio/8120/villarrica"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Urbana FM",
+      "urls": [
+        "https://sonic-us.arkeo.cl/8574/stream"
+      ],
+      "tags": [
+        "cumbia",
+        "mambo",
+        "merengue",
+        "ranchera",
+        "reggaeton",
+        "salsa",
+        "trap",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lwQt8zE6mFXn3q-MrgZBvBoqLNG2WsprXsuexaGwXqlsnL=s160-c-k-c0x00ffffff-no-rj",
+      "votes": 5
+    },
+    {
+      "name": "Radio USM",
+      "urls": [
+        "https://stream99.usastreams.com:8012/stream"
+      ],
+      "tags": [
+        "classical",
+        "easy listening"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.usm.cl/wp-content/uploads/2021/11/logo.png",
+      "votes": 2
+    },
+    {
+      "name": "RADIO UVM",
+      "urls": [
+        "https://streaming1.tecnoera.com:8020/;stream.mp3?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radio.uvm.cl/wp-content/uploads/sites/6/2024/06/l-uvm-300x300.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Vida Curicó",
+      "urls": [
+        "https://audio3.tustreaming.cl:8052/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Violeta - La música de ayer y hoy las 24 h/d",
+      "urls": [
+        "https://server01.heplayer.com/9390/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 23
+    },
+    {
+      "name": "RADIO VISION",
+      "urls": [
+        "https://neondex.cl/listen/radio_vision/radio.mp3"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "city": "Ñuble",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiovisionweb.cl/wp-content/uploads/2021/07/new_end_logo_mini.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio XQA5",
+      "urls": [
+        "https://archi-us.digitalproserver.com/xqa-5.aac"
+      ],
+      "tags": [
+        "freirina",
+        "huasco",
+        "noticias",
+        "vallenar"
+      ],
+      "city": "Atacama",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Radiofavoritaranchera",
+      "urls": [
+        "https://stream.zeno.fm/pdlp0sxtdjkvv"
+      ],
+      "tags": [],
+      "city": "Concepción",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 112
+    },
+    {
+      "name": "RadioMiX",
+      "urls": [
+        "https://video.mediawebchile.com:2000/stream/radiomixsc/stream"
+      ],
+      "tags": [
+        "80s",
+        "remixes"
+      ],
+      "city": "Iquique",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 443
+    },
+    {
+      "name": "Radioroins",
+      "urls": [
+        "https://stream.zeno.fm/dd3rxeuxznhvv"
+      ],
+      "tags": [
+        "jpop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Raudal FM97.1",
+      "urls": [
+        "https://audio.streaminghd.cl:9164/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Raxies FM",
+      "urls": [
+        "https://stream.zeno.fm/annpmyskb4jtv"
+      ],
+      "tags": [
+        "edm",
+        "electro",
+        "house",
+        "local news",
+        "local weather",
+        "music",
+        "news",
+        "news talk",
+        "pop",
+        "pop music",
+        "rock",
+        "talk",
+        "weather"
+      ],
+      "city": "Tarapaca",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://raxiesfm.neocities.org/FAVICON.gif",
+      "votes": 12
+    },
+    {
+      "name": "Recuerdos Retro",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/8226/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Retro Clásicos Radio",
+      "urls": [
+        "https://streamtotal.net/proxy/oajaime/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Retro Plus Señal 1",
+      "urls": [
+        "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
+      ],
+      "tags": [
+        "retro hits"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 2184,
+      "logo": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319",
+      "votes": 15
+    },
+    {
+      "name": "Retro Plus Señal 2",
+      "urls": [
+        "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8"
+      ],
+      "tags": [
+        "retro hits"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 2298,
+      "logo": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319",
+      "votes": 17
+    },
+    {
+      "name": "Retro Radio 80 & 90",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8394/stream"
+      ],
+      "tags": [
+        "80",
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Retro Top's",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/9942/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Retroactiva Concepción",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8168/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Rio Claro FM 88.5",
+      "urls": [
+        "https://streaming01.xhost.cl/8030/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Ritmo FM",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/9976/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 67
+    },
+    {
+      "name": "Ritoque FM",
+      "urls": [
+        "https://archi-us.digitalproserver.com/ritoquefm_aac"
+      ],
+      "tags": [
+        "classic rock",
+        "pop rock popular"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 375
+    },
+    {
+      "name": "Rock En Español Chile",
+      "urls": [
+        "https://stream-290.surfernetwork.com/aaxwtg4w6x1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXh3dGc0dzZ4MXV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZWb3RVclNuUWp5a1BQZ1Jjb3o4bWciLCJpYXQiOjE3ODk5OTM3MTMsImV4cCI6MTc4OTk5Mzc3M30.Pw-kbjSJM_Rgd84gdrGGRh-G2zALxepUgyCjrAqqZhs"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Rock The Bones Radio - Rock & Metal Chile",
+      "urls": [
+        "https://sp001.servidoresph.com:8086/;"
+      ],
+      "tags": [
+        "metallica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Rock&Pop Chile",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 124
+    },
+    {
+      "name": "Rockaxis Radio",
+      "urls": [
+        "https://cl-a9-p-e-pt11-audio.cdn.mdstrm.com/live-audio/5c0efabde4c87f3f2d3e8036/5de7fdb07e2fde0798203821/playlist.m3u8?aid=5c0efabde4c87f3f2d3e8036&pid=y17ljD0047v09HO15qERoDg1IHF4CMPc&sid=idOANFonoPKF755oWzoId1suQeSvQFai&uid=5bO0dwJoxlycdbJSRZf6jhlZ1cuSVVAK&es=cl-a9-p-e-pt11-audio.cdn.mdstrm.com&ote=1770300062726&ot=-zwH-pCa0tfwVqKtapOryA&proto=https&pz=us&cP=128000"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "heavy metal",
+        "progressive rock",
+        "rock"
+      ],
+      "city": "santiago de chile",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://catalogo-rm.prochile.cl/wp-content/uploads/2020/10/LOGO_400-169.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Romántica Chile",
+      "urls": [
+        "https://stream.zeno.fm/mb5l1xfyu7yuv"
+      ],
+      "tags": [
+        "música clásica romántica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Romántica FM",
+      "urls": [
+        "https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio"
+      ],
+      "tags": [
+        "romantica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 125,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "RUIDOS FM",
+      "urls": [
+        "https://sonic.streamingchilenos.com/9880/stream"
+      ],
+      "tags": [],
+      "city": "santiago de chile",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://logo.vconline.cl/ruidosfm.png",
+      "votes": 5
+    },
+    {
+      "name": "Sabor a Cumbia",
+      "urls": [
+        "https://sonic.globalstreaming.net/8150/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "San Bernardo Radio",
+      "urls": [
+        "https://streaming01.xhost.cl/8172/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "San José FM",
+      "urls": [
+        "https://archi-us.digitalproserver.com/radiosanjose.aac"
+      ],
+      "tags": [],
+      "city": "Los Rios",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://sanjosefm.cl/wp-content/uploads/2024/01/cropped-copita-192x192.jpeg",
+      "votes": 2
+    },
+    {
+      "name": "Señal Dance Chile",
+      "urls": [
+        "https://stream-285.surfernetwork.com/12qqry2t0nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxMnFxcnkydDBuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBRRFhzTVU3U1BTdmZxZ2lyc3RMN3ciLCJpYXQiOjE3ODk5Mjk2MDMsImV4cCI6MTc4OTkyOTY2M30.z2Ej-U5hyKP_-991sl2v8ALbHx_v619MiMzATLuSIJw"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Silens Clamor",
+      "urls": [
+        "https://www.silensclamor.com/live"
+      ],
+      "tags": [
+        "alternative",
+        "darkwave",
+        "metal",
+        "post-punk",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.silensclamor.com/img/logo.png",
+      "votes": 22
+    },
+    {
+      "name": "Sintonizados con Cristo Radio - IMPCH San Miguel",
+      "urls": [
+        "https://audio.streaminghd.cl:9130/live"
+      ],
+      "tags": [
+        "radio cristiana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Sonar 105.3 FM",
+      "urls": [
+        "https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox"
+      ],
+      "tags": [
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": null,
+      "votes": 1840
+    },
+    {
+      "name": "Star Radio",
+      "urls": [
+        "https://stream.zeno.fm/sowa6evoo9kvv"
+      ],
+      "tags": [
+        "chil",
+        "podcast",
+        "pop",
+        "reggae",
+        "rock alternativo",
+        "rock en español",
+        "suave",
+        "tropical"
+      ],
+      "city": "Valparaíso",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 19
+    },
+    {
+      "name": "STEED EDM Radio",
+      "urls": [
+        "https://radios.blumhost.es:8042/stream"
+      ],
+      "tags": [],
+      "city": "Arica y Parinacota",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Sunrise",
+      "urls": [
+        "https://sonic-cl.arkeo.cl/8044/stream"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Sunrise Dance",
+      "urls": [
+        "https://sonic-cl.arkeo.cl/8054/stream"
+      ],
+      "tags": [
+        "dance",
+        "electronic dance music",
+        "eurodance",
+        "house",
+        "pop dance",
+        "techno"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Sunrise Lounge",
+      "urls": [
+        "https://sonic-cl.arkeo.cl/8098/stream"
+      ],
+      "tags": [
+        "jazz",
+        "lounge music",
+        "lounge radio",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Super Stereo 5",
+      "urls": [
+        "https://streams.radiomast.io/radioblues-flac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 1500,
+      "logo": null,
+      "votes": 278
+    },
+    {
+      "name": "Super45.fm",
+      "urls": [
+        "https://s4.radio.co/s421105570/listen"
+      ],
+      "tags": [
+        "alternative / indie",
+        "experimental electronic music",
+        "indie electronic",
+        "jazz fusion",
+        "post-rock",
+        "shoegaze",
+        "sophisticated underground music",
+        "trip-hop"
+      ],
+      "city": "Santiago, Región Metropolitana",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2G2hrZMZmI0JIFCf0yrQLjyQlpliE6YLU6g&s",
+      "votes": 5
+    },
+    {
+      "name": "SuperStereo Network",
+      "urls": [
+        "https://icecast.centaury.cl:7610/SSDEMO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://superstereohires.com/images/108/16639522/ss-2024-vPKyuF6SxYedJh63k3CFYg.png",
+      "votes": 8
+    },
+    {
+      "name": "Tele13 Radio 103.3",
+      "urls": [
+        "https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8"
+      ],
+      "tags": [
+        "local news",
+        "news talk music",
+        "pop rock"
+      ],
+      "city": "santiago de chile",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj",
+      "votes": 26
+    },
+    {
+      "name": "UC Radio Beethoven",
+      "urls": [
+        "https://unlimited5-us.dps.live/beethovenfm/aac/icecast.audio"
+      ],
+      "tags": [
+        "classical",
+        "classical music",
+        "cultural",
+        "jazz"
+      ],
+      "city": "Santiago, Región Metropolitana",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://i.postimg.cc/1tDdNTFb/Radio-Beethoven.png",
+      "votes": 2
+    },
+    {
+      "name": "UCV Radio",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/ucvradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ucvradio.cl/imagenes/logo-ucvradio-200.png",
+      "votes": 30
+    },
+    {
+      "name": "UCV radio vivan los lentos",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/ucvradio2"
+      ],
+      "tags": [
+        "university radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "UFRO Radio",
+      "urls": [
+        "https://mdstrm.com/audio/5e7d00bf57988307b310abff/live.m3u8"
+      ],
+      "tags": [
+        "radio universitaria",
+        "university radio"
+      ],
+      "city": "Araucanía",
+      "codec": "AAC",
+      "bitrate": 111,
+      "logo": "https://www.ufro.cl/wp-content/uploads/2024/08/ufromedios-ufroradio.webp",
+      "votes": 4
+    },
+    {
+      "name": "Universal Malleco Chile",
+      "urls": [
+        "https://s02.azuracast.cl/listen/radio_universal_victoria/victoria"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Universal Pitrufquen Chile",
+      "urls": [
+        "https://s02.azuracast.cl/listen/radio_universal/universal"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "Valdivia Radio",
+      "urls": [
+        "https://sonic.nnw.cl:7058/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Venus Radio Fm Chile",
+      "urls": [
+        "https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "top 40 hits",
+        "top40"
+      ],
+      "city": "Biobío",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.venusradiofm.cl/wp-content/uploads/2025/10/cropped-cw29YV3.png",
+      "votes": 9
+    },
+    {
+      "name": "Vilas Radio 100.1",
+      "urls": [
+        "https://sonic.streamingchilenos.com/8072/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Vilas Radio 98.1",
+      "urls": [
+        "https://sonic.portalfoxmix.club/8042/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "VLN Radio",
+      "urls": [
+        "https://sonando-us.digitalproserver.com/vln_lo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://vlnradio.s3.amazonaws.com/wp-content/uploads/2023/09/c21f969b5f03d33d43e04f8f136e7682_1695763756.png",
+      "votes": 164
+    },
+    {
+      "name": "World Hits Radio",
+      "urls": [
+        "https://stream.zeno.fm/6vytsnbkb8zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://3.bp.blogspot.com/-HgK4GM6_wwk/XD1lLvs3ofI/AAAAAAAAAFo/1qeLRr7VlVgw1PxbguILxrmFMT4kk9WXACPcBGAYYCw/s200/descarga.png",
+      "votes": 39
+    },
+    {
+      "name": "Zumbale Radio",
+      "urls": [
+        "https://archi-us.digitalproserver.com/caramelo-fm-angol.aac"
+      ],
+      "tags": [
+        "cumbia",
+        "música popular mexicana",
+        "ranchera"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    }
+  ]
+}

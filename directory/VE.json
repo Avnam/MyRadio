@@ -1,0 +1,2324 @@
+{
+  "code": "VE",
+  "name": "Bolivarian Republic Of Venezuela",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "LOVE FM: Amor en cada canción / Música Romántica",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 1
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 9
+    },
+    {
+      "name": "Acción 104.5 FM (La diferencia en el dial)",
+      "urls": [
+        "https://stream.intervalohost.com/accionfm/stream"
+      ],
+      "tags": [
+        "deportes",
+        "music",
+        "noticias",
+        "radio hablada",
+        "variety",
+        "varios"
+      ],
+      "city": "Merida",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "https://accion1045fm.com/wp-content/uploads/2018/12/logo.png",
+      "votes": 118
+    },
+    {
+      "name": "ACTIVA 104.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/t31pbasum7zuv"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "entretenimiento",
+        "local radio",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/ZccuXmvhXb393WZBBZNgMafcmyWY6cAhuvM2se4PBSs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwX0RJM1FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EwOXFrNndvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY5OTgxMzAwMA.webp",
+      "votes": 14
+    },
+    {
+      "name": "Adulto Joven 88.1",
+      "urls": [
+        "https://server6.globalhostla.com:9168/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1212
+    },
+    {
+      "name": "Alba Ciudad 96.3 FM",
+      "urls": [
+        "https://envivo.albaciudad.org/albaciudad.mp3"
+      ],
+      "tags": [
+        "cultural",
+        "entretenimiento",
+        "government",
+        "noticias",
+        "radio hablada",
+        "variedad"
+      ],
+      "city": "Caracas",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "Alba Ciudad Radio 93.6 FM16k",
+      "urls": [
+        "https://envivo.albaciudad.org/alba16.mp3"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://albaciudad.org/favicon.ico",
+      "votes": 604
+    },
+    {
+      "name": "Audaz FM 94.5",
+      "urls": [
+        "https://servers58.com/proxy/audaz?mp=/stream"
+      ],
+      "tags": [
+        "cristiana",
+        "evangélica",
+        "musica cristiana",
+        "religion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Baladas de Oro",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/hwmgkabt/stream"
+      ],
+      "tags": [
+        "amor sólo música romántica",
+        "baladas en español",
+        "romance"
+      ],
+      "city": "Cojedes",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://baladasdeoro.carrd.co/assets/images/image01.jpg?v=69b56b5c",
+      "votes": 0
+    },
+    {
+      "name": "Barroso Radio",
+      "urls": [
+        "https://stream.zeno.fm/zrh0rnwuarzuv"
+      ],
+      "tags": [
+        "cumbia",
+        "music",
+        "música en español",
+        "música variada",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/jcjsIJ7eCjYShlbDzb5jvWshTxwaoznK967oJjzBAdM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGdwNUNoNlFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGcyOVRmcUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyMTMxMTExOTAwMA.webp",
+      "votes": 44
+    },
+    {
+      "name": "Bella FM 96.9",
+      "urls": [
+        "https://server6.globalhostla.com:9380/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "pop music",
+        "popular",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://bellafm.com.ve/wp-content/uploads/2022/06/fondo-bella-web.jpg",
+      "votes": 27
+    },
+    {
+      "name": "Blue Radio Web",
+      "urls": [
+        "https://stream.zeno.fm/m8s8m3oflj8uv"
+      ],
+      "tags": [
+        "merengue",
+        "musica romantica",
+        "pop",
+        "salsa",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/0aon0WUNkvaY0cNeN9ru3ed9XUnWW_U2UEIKEVnAT_A/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOWIyNTE4Y2MtN2M1Mi00YWM5LTlhMTYtY2QxYjc4ODc1MmVmL2ltYWdlLz91PTE3MzMyMzAxNDYwMDA.webp",
+      "votes": 22
+    },
+    {
+      "name": "Bravas 99.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/nnzbefxo8cjvv"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "merengue",
+        "music",
+        "radio hablada",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.radiobravas.com/favicon.png ",
+      "votes": 16
+    },
+    {
+      "name": "BUENA COMPAÑÍA 94.1 FM",
+      "urls": [
+        "https://stream-178.surfernetwork.com/ekzk93vtmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJla3prOTN2dG1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imk1aDFkbEVDUUF5R0hJbEJTcmZ5dFEiLCJpYXQiOjE3ODk5NzM1NzUsImV4cCI6MTc4OTk3MzYzNX0.953EPPrj8GZcpfN1viJVEsuKwtLd-qv_7PoWbnFLhu0"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "music",
+        "pop",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/dfRWr3YVpg9H-CUssHXfbNAedVwj7m24lWkJTyHYzR8/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lvTFQwekFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l3S3pHOEFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTE2NTIwMjAwMA.webp",
+      "votes": 14
+    },
+    {
+      "name": "Candela Pura 91.9 FM",
+      "urls": [
+        "https://acp2.lorini.net:58400/stream"
+      ],
+      "tags": [
+        "candela pura",
+        "caracas",
+        "fm center",
+        "merengue",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "CAPITAL 92.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/m7vfjoruxg2uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "music",
+        "música en español",
+        "popular",
+        "salsa",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/mRqN849dzcLLL0ofnxTsp4iBSHt6L9TPFoG0cmwdZ38/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDk1NDBhODctMzFkOS00MzY0LWI0MDctZjg5MDI2MTJlMmQzL2ltYWdlLz91PTE2OTYzODY1NzQwMDA.webp",
+      "votes": 18
+    },
+    {
+      "name": "Caracas. Salsa Brava...",
+      "urls": [
+        "https://stream.zeno.fm/fq0c9ohszctuv"
+      ],
+      "tags": [
+        "latino",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/SYCYOPUdV8Ho1PV7IQG4SeglGWv_yN7Z6_lpsMRbNIY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDRiNGE4NjgtNzIyNi00NTZkLTk5ZmUtZDNkYTA0ZmM4YmU4L2ltYWdlLz91PTE3Mjk1OTIxNTAwMDA.webp",
+      "votes": 389
+    },
+    {
+      "name": "Caracas. Salsa Romántica...",
+      "urls": [
+        "https://stream-285.surfernetwork.com/ftly191pojttv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdGx5MTkxcG9qdHR2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBfd3J5M28zUmdXdWYxazFGSGtobWciLCJpYXQiOjE3OTAwMDgyMTQsImV4cCI6MTc5MDAwODI3NH0.8KQK5YzLQnBC2SNVDBPV9S8IHNuxr6Q2zph78R0jq4Q"
+      ],
+      "tags": [
+        "latino",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/0554b123-d7ae-4423-82d8-a969a6f97871/cards/3b6a52c2-0705-4968-8d5e-a43023c4c452 ",
+      "votes": 1179
+    },
+    {
+      "name": "Caribeña 97.9 FM",
+      "urls": [
+        "https://radios.mipanel.stream:6994/stream"
+      ],
+      "tags": [],
+      "city": "Falcón",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "CDR 98.7 FM",
+      "urls": [
+        "https://laradiossl.online:8347/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "música en español",
+        "música variada",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "Merida",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://cdrmerida.net.ve/wp-content/uploads/2024/01/CDR-Logo-Nuevo.png ",
+      "votes": 34
+    },
+    {
+      "name": "CIMA RADIO 100.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/8vugdnevn18uv"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "music",
+        "reggaeton",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/s1AyEm6G1Iynl7cXYcKMFTHamkOlHrMt1oOPehkt3wA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d2YWVKNXdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dfZnloNmdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNDYwMTM0ODAwMA.webp",
+      "votes": 10
+    },
+    {
+      "name": "Circuito Comunión Nueva Bolivia 93.1 FN",
+      "urls": [
+        "https://stream.zeno.fm/abkmpazmyk8uv"
+      ],
+      "tags": [
+        "bible",
+        "catolica",
+        "gospel",
+        "radio catolica",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://comunionfm.web.ve/wp-content/uploads/2020/07/comunion-catedral.jpg ",
+      "votes": 134
+    },
+    {
+      "name": "Circuito Comunión Santa Elena de Arenales 101.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/ksh16ht4na0uv"
+      ],
+      "tags": [
+        "bible",
+        "catolica",
+        "gospel",
+        "música en español",
+        "radio catolica"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://comunionfm.web.ve/favicon.ico",
+      "votes": 19
+    },
+    {
+      "name": "CIRCUITO DINAMICA 103.3 FM",
+      "urls": [
+        "https://acp2.lorini.net:36075/stream"
+      ],
+      "tags": [
+        "baladas en ingles",
+        "entretenimiento",
+        "music",
+        "música variada",
+        "retro"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.circuitodinamica.com/anzoategui/js/bla.png",
+      "votes": 28
+    },
+    {
+      "name": "Clasicos Del Vallenato",
+      "urls": [
+        "https://stream.zeno.fm/y2nsu1p6ynhvv"
+      ],
+      "tags": [
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDw6L3VjQkMCxIOU3RhdGlvblByb2ZpbGUYgICI1e_o9QoMogEEemVubw/cards/eb9a10e0-b456-4b7d-ba7a-ea91693d4c2b ",
+      "votes": 489
+    },
+    {
+      "name": "Comunion 101.1 Fm Santa Elena",
+      "urls": [
+        "https://stream.zeno.fm/b3ps0ht4na0uv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/xgsuVw2FrkD4Uo0LtgcyVpCUw5pZT7172L8zTejb4_A/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGc1Zl9LMmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFzTV8yOEFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTg5NzI3ODAwMA.webp",
+      "votes": 7
+    },
+    {
+      "name": "Comunion 97.5 Fm",
+      "urls": [
+        "https://stream.zeno.fm/cy3ef0frwmzuv"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "popular",
+        "radio hablada",
+        "religious",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FBiCEJknpx6vSnS9NUti3lzdnvXhUa9TaKvWyb5SwKJk%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnNWZfSzJnb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURndFpXRmlBc01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjE4NzUxODEwMDA.webp&w=1920&q=70",
+      "votes": 21
+    },
+    {
+      "name": "Contacto FM 93.7",
+      "urls": [
+        "https://laradiossl.online:10058/;"
+      ],
+      "tags": [
+        "latino",
+        "local radio",
+        "música variada",
+        "popular",
+        "radio hablada",
+        "religious"
+      ],
+      "city": "Táchira",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg",
+      "votes": 34
+    },
+    {
+      "name": "Cordillera 104.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/fjjqaatp19wtv"
+      ],
+      "tags": [
+        "folclor",
+        "latino",
+        "música popular mexicana",
+        "nacional",
+        "popular",
+        "reggaeton",
+        "salsa",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/_b9qhiW2cyZWXGU0MhCGjCDZYqaDXq172iUQ8cPRWtg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjk5ZWU1YTEtYjVlNi00OWFjLWJlODEtYTUxMjkzMmE1MTJlL2ltYWdlLz91PTE2ODAzMzYyODUwMDA.webp",
+      "votes": 26
+    },
+    {
+      "name": "COSTERA 102.7 FM",
+      "urls": [
+        "https://streamingned.com:7112/stream"
+      ],
+      "tags": [
+        "bachata",
+        "entretenimiento",
+        "latino",
+        "local radio",
+        "musica romantica",
+        "música variada",
+        "salsa",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://costera1027fm.com/wp-content/uploads/2021/07/faviconcostera.png",
+      "votes": 39
+    },
+    {
+      "name": "CUYUNI FM 106.5",
+      "urls": [
+        "https://stream.zeno.fm/xag8wa3c4v8uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "pop",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/iQL_pj_MzPKZ4WHqyGRpJTAHu_2qqrJSpXHuj4jN_tc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d4dHJ0N0FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3cxdi1OcEFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU5NzY3NTAwMA.webp",
+      "votes": 36
+    },
+    {
+      "name": "Dinámica 95.5 FM - Puerto Ordaz",
+      "urls": [
+        "https://acp2.lorini.net:41066/stream"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pop"
+      ],
+      "city": "Bolivar",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.circuitodinamica.com/wp-content/uploads/2023/10/Favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "Dinamik 89.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/wmnqq0m2uk8uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "música en español e inglés",
+        "pop",
+        "radio hablada",
+        "rock"
+      ],
+      "city": "monagaz",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://gruporadiosoriente.com/carrousel/2-dinamik899.png",
+      "votes": 11
+    },
+    {
+      "name": "DJ Nezux (Contract @Nezux) Ig: @Albxrt._",
+      "urls": [
+        "https://stream.zeno.fm/y6zlb93en1guv"
+      ],
+      "tags": [
+        "outro"
+      ],
+      "city": "Zulia",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Dj Shaggy Venezuela",
+      "urls": [
+        "https://radio.mipanel.stream:7000/stream"
+      ],
+      "tags": [],
+      "city": "Barquisimeto, Estado Lara",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://djshaggyradio.com/playerdjshaggyvzla2025/images/icon.png",
+      "votes": 13
+    },
+    {
+      "name": "DJ Shaggy Venezuela Radio",
+      "urls": [
+        "https://laradiossl.online:9226/;"
+      ],
+      "tags": [
+        "music",
+        "música en español e inglés",
+        "música variada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/60575.v24.png",
+      "votes": 1318
+    },
+    {
+      "name": "Ebenezer 94.5 FM",
+      "urls": [
+        "https://stream.zeno.fm/shfz70w4k1nvv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/9mKAVQIExbHZjqVZe2ozXw3YnKDZOwbkWMiiNMT5RZM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvM2Q3Nzc4MTUtMjk0Mi00MDc5LWE5N2UtNGE1OTE1YzNjZDA1L2ltYWdlLz91PTE3MzIxMTAzNzMwMDA.webp",
+      "votes": 108
+    },
+    {
+      "name": "El Portal del amor 96.5 FM",
+      "urls": [
+        "https://stream.zeno.fm/ufgm3qr2pa0uv"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "local radio",
+        "music",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/7GV74t_5iNCbRfrM26RKSMgMzbtkLbimqmWv5JHNSI8/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE4S0tLclFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFE4T2JkbWdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcxNzg1OTcyMjAwMA.webp",
+      "votes": 45
+    },
+    {
+      "name": "EL SHOW DE PIÑA MIX",
+      "urls": [
+        "https://stream-289.surfernetwork.com/mvu8ut5f2k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdnU4dXQ1ZjJrMHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik4tV3c1ZmtSUy1HMVp2Uk9KWk5qa2ciLCJpYXQiOjE3OTAwMDA3MDYsImV4cCI6MTc5MDAwMDc2Nn0.nFzcnJQ9WQ5ez38QIMTiL-Ef7yNpwroHivNP3YEIj6M"
+      ],
+      "tags": [
+        "cumbia",
+        "dj",
+        "latino",
+        "mix",
+        "music",
+        "música variada",
+        "popular",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4ZnwmQsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0cSdigsMogEEemVubw/cards/ab86da83-19ff-4f0a-96c4-11514d323fcb ",
+      "votes": 28
+    },
+    {
+      "name": "Electrik 97.7 FM",
+      "urls": [
+        "https://streamingned.com:7044/stream"
+      ],
+      "tags": [
+        "bachata",
+        "cumbia",
+        "latino",
+        "merengue",
+        "reggaeton",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://circuitoelectrikfm.com.ve/images/logo-electrik-web.png?crc=3868536483",
+      "votes": 32
+    },
+    {
+      "name": "Eli.T. Stereo 104.3 Fm",
+      "urls": [
+        "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4772&type=s1"
+      ],
+      "tags": [
+        "various music"
+      ],
+      "city": "Anzoátegui",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Emisora Costa del Sol 93.1 FM",
+      "urls": [
+        "https://a12.asurahosting.com/listen/sol/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Sucre",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.costadelsolfm.org/wp-content/uploads/2023/07/Logo-Costa-del-Sol-720x378-1.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Espacio Network",
+      "urls": [
+        "https://acp2.lorini.net:28050/stream"
+      ],
+      "tags": [],
+      "city": "Carabobo",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "ESPLENDIDA 91.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/jyrqyy8he4tvv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "local radio",
+        "popular",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/FpGzNvOZSSqQI7uJRLdoOQ0vcxbdUzRF41is1-IRpBA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDNmNThjNzMtNWJkZC00NzNkLWJkODAtY2E2NzAwNDE3YjQxL2ltYWdlLz91PTE3MTY1NzU1MzMwMDA.webp",
+      "votes": 78
+    },
+    {
+      "name": "Estereo 88.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/3e2keb1e7tzuv"
+      ],
+      "tags": [
+        "cumbia",
+        "merengue",
+        "salsa"
+      ],
+      "city": "Caracas",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Evolussiun 92.9 FM",
+      "urls": [
+        "https://laradiossl.online:8150/live"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "merengue",
+        "music",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.exafm.com/favicon.ico",
+      "votes": 370
+    },
+    {
+      "name": "Exitos 99.9 FM",
+      "urls": [
+        "https://acp4.lorini.net:2070/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Fama 98.1 FM",
+      "urls": [
+        "https://server6.globalhostla.com:9356/stream"
+      ],
+      "tags": [
+        "classic hits",
+        "music",
+        "noticias",
+        "oldies",
+        "radio hablada",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://fama.fm/wp-content/uploads/2020/07/Logo-Header-Blanco.png",
+      "votes": 31
+    },
+    {
+      "name": "Favorita 106.1 FM",
+      "urls": [
+        "https://sp.wnetserver.com/8046/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "music",
+        "popular"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://favorita1061fm.com/reproductor/js/logo5.png",
+      "votes": 18
+    },
+    {
+      "name": "Fiesta 106.5 FM",
+      "urls": [
+        "https://acp2.lorini.net:58200/stream"
+      ],
+      "tags": [
+        "caracas",
+        "fiesta 106",
+        "fm center",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Fiesta 89.1 FM",
+      "urls": [
+        "https://acp2.lorini.net:36050/stream"
+      ],
+      "tags": [
+        "latino",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.fiesta891fm.com/files/streamingbylorini.png",
+      "votes": 19
+    },
+    {
+      "name": "Fiesta Latina 106.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/e2kzfpr34d0uv"
+      ],
+      "tags": [
+        "latino",
+        "merengue",
+        "música en español",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://fiesta106.com.ve/img/logo-radio.jpg?19116",
+      "votes": 153
+    },
+    {
+      "name": "Fiesta Latina 106.1 Fm",
+      "urls": [
+        "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.fiesta106.com.ve/img/logo-radio.jpg?91279",
+      "votes": 51
+    },
+    {
+      "name": "FIESTA VALLENATA",
+      "urls": [
+        "https://stream.zeno.fm/qlznh4yhpvytv"
+      ],
+      "tags": [
+        "music",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/f2hFAkFLiIKNpZhSNkaKbwOtlJ_PcNl3wxBtzCMRr_M/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzg1ZjE4NzAtODE3Ni00NzIxLThmMjAtNTMzZTljYWI0YzY2L2ltYWdlLz91PTE3MDI3NTIyNTcwMDA.webp",
+      "votes": 856
+    },
+    {
+      "name": "FM Mundial 104.1",
+      "urls": [
+        "https://onlineradiobox.com/json/ve/lafmmundial/play?platform=web"
+      ],
+      "tags": [],
+      "city": "Carabobo",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 498
+    },
+    {
+      "name": "Frecuencia Feeling 97.1 FM",
+      "urls": [
+        "https://server6.globalhostla.com:9332/stream"
+      ],
+      "tags": [
+        "balada pop",
+        "latina"
+      ],
+      "city": "Estado Miranda",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://frecuenciafeling.com/logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Guanareña 98.3 FM",
+      "urls": [
+        "https://laradiossl.online:10175/;?_=1#.mp3"
+      ],
+      "tags": [
+        "latino",
+        "merengue",
+        "music",
+        "tropical",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://circuitoradialrmt.com/wp-content/uploads/2020/10/GUANARE%C3%91A.jpg",
+      "votes": 28
+    },
+    {
+      "name": "Hot 94.1 FM (Hot Sports)",
+      "urls": [
+        "https://acp2.lorini.net:58300/stream"
+      ],
+      "tags": [
+        "caracas",
+        "fm center",
+        "hot 94",
+        "pop",
+        "sports",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "HR ESTEREO",
+      "urls": [
+        "https://stream.zeno.fm/kbgxbzklrpmtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://hrcaserio.wordpress.com/wp-content/uploads/2024/12/historia_de_instagram_podcast_con_microfono_rosado_fotografico_20241106_202112_0000-2.jpg?w=576",
+      "votes": 6
+    },
+    {
+      "name": "https://insomnio.hr/",
+      "urls": [
+        "https://stream.zeno.fm/7jssenfyrscvv"
+      ],
+      "tags": [
+        "electro",
+        "hip-hop",
+        "trap"
+      ],
+      "city": "Zulia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "JESUCRISTORADIOFM",
+      "urls": [
+        "https://stream.zeno.fm/lwh8nxobg7rtv"
+      ],
+      "tags": [],
+      "city": "Carabobo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/gb1SdqQ9/44b79378-c0e4-402c-ae74-6c26a10ab48e-1-all-7352-259x259-1-1-1.jpg",
+      "votes": 5
+    },
+    {
+      "name": "KYS FM",
+      "urls": [
+        "https://server6.globalhostla.com:9068/stream"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "Caracas",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://kysfm.com/streaming/logo.png",
+      "votes": 6
+    },
+    {
+      "name": "La Cima 96.7 FM",
+      "urls": [
+        "https://server6.globalhostla.com:9128/stream"
+      ],
+      "tags": [
+        "latino",
+        "musica latina"
+      ],
+      "city": "Estado Miranda",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://lacima967fm.com/favicon.ico",
+      "votes": 6
+    },
+    {
+      "name": "LA CIUDAD DE LOS CLÁSICOS RADIO",
+      "urls": [
+        "https://stream.zeno.fm/ppyvnq28368uv"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "club dance",
+        "dance",
+        "dj",
+        "electronic",
+        "entretenimiento",
+        "eurodance",
+        "mix",
+        "music",
+        "música en español",
+        "música en inglés",
+        "música variada",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/4Q2ozyprx2-s42iAzCaY3cIkODdyO08Ps4-V3KtboiE/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdxS0tEbUFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdxT0NsaFFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczMDY3NzY1OTAwMA.webp",
+      "votes": 177
+    },
+    {
+      "name": "La FM 98.5 Buenisima La FM 98.5 Buenisima",
+      "urls": [
+        "https://stream.zeno.fm/5t866rywrzzuv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "information",
+        "local radio",
+        "music",
+        "popular",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/qZG2Md_YSDwPP-r4veBH5X6NNnS3T5RpmDBfBUOKtno/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FwcTdfMndrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F4cl9BX2drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyOTc2ODU2ODE5Mw.webp",
+      "votes": 42
+    },
+    {
+      "name": "La Mega 107.3",
+      "urls": [
+        "https://acp4.lorini.net:2050/stream"
+      ],
+      "tags": [],
+      "city": "Caracas",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.phonostar.de/images/auto_created/La_Mega_1073184x184.png",
+      "votes": 8
+    },
+    {
+      "name": "La Romantica 88.9 FM",
+      "urls": [
+        "https://acp2.lorini.net:58100/stream"
+      ],
+      "tags": [
+        "baladas",
+        "caracas",
+        "fm center",
+        "la romantica",
+        "pop",
+        "romantic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "LA SALSERA",
+      "urls": [
+        "https://stream.zeno.fm/vqnryd9b2wzuv"
+      ],
+      "tags": [
+        "latino",
+        "music",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/Qf_lxgVS8QPem1Q4wruRnl4EFfcIu7gpQ4ovF7gBBzg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FyS2FJbWdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FqSk91aHdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcxOTUxNjYxMTAwMA.webp",
+      "votes": 132
+    },
+    {
+      "name": "La Salsera FM",
+      "urls": [
+        "https://stream.zeno.fm/4qbzbrvdmy8uv"
+      ],
+      "tags": [
+        "latino",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://editor.zenomedia.com/resources/zs_station/585276/CardWebsite/18064877-2b06-427e-b0cb-3329e8e704ee.webp ",
+      "votes": 43
+    },
+    {
+      "name": "Lasser 97.7 FM",
+      "urls": [
+        "https://server6.globalhostla.com:8010/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://s3.amazonaws.com/cdn.radionewproject.com/e5db490e8b5a6884f93e577fbfac6245.jpg",
+      "votes": 55
+    },
+    {
+      "name": "LATINA STEREO 107.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/maxyg1sqkbjtv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/LBqBp__eU9FJux4UbBlQ2-7V_75Xb0J5INVifs_yClM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWQ1NGRiMTUtZDRkMC00YzhmLWFjNjgtMDVlNDE3ODBlY2JlL2ltYWdlLz91PTE3MTQyNDMxNzcwMDA.webp",
+      "votes": 36
+    },
+    {
+      "name": "Latino 102 Fm 102.7",
+      "urls": [
+        "https://stream.zeno.fm/b85p32t2kwzuv"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "música en español",
+        "pop",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/kAAUxqz1OicgjnCa5Lap6bb-vxu1DkTnOsCI_XmozX4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F3SUt3NGdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E2S0dzbFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3NzI5ODM4MDAwMA.webp",
+      "votes": 54
+    },
+    {
+      "name": "LIDER 100.3 FM PUERTO ORDAZ",
+      "urls": [
+        "https://stream.zeno.fm/ee4zas6mva0uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "music",
+        "música en español e inglés",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/rtu8GtXWuf9t_9TnT4EzUiX6APROGzaNE7rkF4huwY4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE0SmJvdWdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFF1TUdiakFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTYzODE2ODAwMA.webp",
+      "votes": 23
+    },
+    {
+      "name": "Lider 104.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/89mx0qh1trhvv"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "amor",
+        "baladas",
+        "baladas en español",
+        "baladas en inglés",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sZ-kvsjIk5FsOPuX611wqAVmWu1kPf3lb1JSbo3--6vW1aInvJ2M98SWLeAwbcVBNWlEdjyTFmltgcmwiue-yinOJ9sHAPJOKcPof73Ez7oUK2gZ6ICK9pwaMz6C1k0O0B=s0-d",
+      "votes": 19
+    },
+    {
+      "name": "Lider 94.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/21c6hmq8e8zuv"
+      ],
+      "tags": [
+        "charts",
+        "hits",
+        "music",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/gexkGKbBYQ5NnKyGaMtzC6-h4rMIJ1siT00M_PBuT7U/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0F4SkdkdkFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvS2lGbUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg1NjA2MTAwMA.webp",
+      "votes": 27
+    },
+    {
+      "name": "Llaneros Por Venezuela",
+      "urls": [
+        "https://stream.zeno.fm/12bg6xa7hv8uv"
+      ],
+      "tags": [
+        "folclor",
+        "music",
+        "nacional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/I6bV3IYmtriT0MKLf6W7h-cdzd8PZ90OVoJknQc-qCk/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d5c3JFandzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3c4dDJZbkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTYzOTEzNTAwMA.webp",
+      "votes": 896
+    },
+    {
+      "name": "Lo mejor de mi llano",
+      "urls": [
+        "https://stream.zeno.fm/0dvlznecjgavv"
+      ],
+      "tags": [
+        "folclor",
+        "music",
+        "popular"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/PyFC89IU_UBeFoUvCNP31mLlgQUKBRxVHHabZ68pZJg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmUzMjAwOWUtNDAyMi00YTgwLWJjZmQtYTNkYzZmYjNlNTk0L2ltYWdlLz91PTE3MjgzMzI4NjAwMDA.webp",
+      "votes": 614
+    },
+    {
+      "name": "Magic Radio 92.5 Maracay",
+      "urls": [
+        "https://cloudstream2030.conectarhosting.com/8324/;"
+      ],
+      "tags": [
+        "pop",
+        "tecno"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "MARACAIBERA FM 98.3",
+      "urls": [
+        "https://stream.zeno.fm/t8g2xp8gr68uv"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "folclor",
+        "music",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/JI5l7D0zp-ngu-Rb4a0aC7nUrYzWNR4p6BWj8y6tWWo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3czNF9Lb0FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dfN19BMGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4OTgyNTY5MjAwMA.webp",
+      "votes": 45
+    },
+    {
+      "name": "Maturín - Fe y Alegría 105.9FM",
+      "urls": [
+        "https://worldradio.online/proxy/?q=http://aler.org:8000/maturin.aac&plugin_id=13399&site_id=15942544"
+      ],
+      "tags": [
+        "católica",
+        "fe y alegría",
+        "maturín",
+        "monagas"
+      ],
+      "city": "Monagas",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radios.feyalegrianoticias.com/wp-content/uploads/2020/09/MaturinFM.png",
+      "votes": 4
+    },
+    {
+      "name": "Melao 104.1 FM",
+      "urls": [
+        "https://cast10.plugstreaming.com:2020/stream/race/"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "Estado Miranda",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Melodia Stereo 93.5 FM",
+      "urls": [
+        "https://server6.globalhostla.com:9266/stream"
+      ],
+      "tags": [
+        "baladas",
+        "caracas",
+        "instrumental",
+        "melodia stereo",
+        "pop",
+        "romantic"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Miranda 100.1 FM Stereo",
+      "urls": [
+        "https://sp.wnetserver.com:7052/stream"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "Estado Miranda",
+      "codec": "OGG",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Navidad Venezuela",
+      "urls": [
+        "https://stream.zeno.fm/vbvpvf6a6uvtv"
+      ],
+      "tags": [
+        "general",
+        "music",
+        "navidad",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/42972fb8-ace5-40ab-a46f-7c5097b34541/cards/2cf036a7-51b5-44e6-84c1-53e5e552b863 ",
+      "votes": 671
+    },
+    {
+      "name": "NoEsFm",
+      "urls": [
+        "https://noesfm.radioca.st//;?type=http"
+      ],
+      "tags": [],
+      "city": "Barquisimeto, Estado Lara",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://noesfm.com/wp-content/uploads/Favicons/favicon-192x192.png",
+      "votes": 2
+    },
+    {
+      "name": "NucleaR radio Venezuela.",
+      "urls": [
+        "https://stream.zeno.fm/ghfrtkgu666vv"
+      ],
+      "tags": [],
+      "city": "Maturín, Monagas.",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 256
+    },
+    {
+      "name": "Oasis 104.3FM",
+      "urls": [
+        "https://stream-178.zeno.fm/f4516imyfdztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmNDUxNmlteWZkenR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZVaEJoMWY1UXNhOVNIdHVDVWE1bmciLCJpYXQiOjE3ODA4MDI4ODMsImV4cCI6MTc4MDgwMjk0M30.MsiKNH29UGXep0BRsgfAkYHfEz_bQHoKfSxkaknxE74"
+      ],
+      "tags": [
+        "anzoátegui",
+        "oasis",
+        "puerto píritu"
+      ],
+      "city": "Anzoátegui",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/60453.v9.png",
+      "votes": 3
+    },
+    {
+      "name": "Onda La Superestacion 107.9 FM",
+      "urls": [
+        "https://acp4.lorini.net:2060/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "caracas",
+        "news",
+        "pop",
+        "talk",
+        "union radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Orbita 103.3 FM",
+      "urls": [
+        "https://guri.tepuyserver.net/8098/stream"
+      ],
+      "tags": [
+        "la nueva candela"
+      ],
+      "city": "Zulia",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Otilca Radio",
+      "urls": [
+        "https://stream.zeno.fm/w6dg8ye51tzuv"
+      ],
+      "tags": [
+        "folclor",
+        "latino",
+        "music",
+        "popular",
+        "venezuela"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radio.otilca.org/wp-content/uploads/2020/08/cropped-logo-otilca-radio-2048x437.png ",
+      "votes": 8
+    },
+    {
+      "name": "Planeta 105.3 Caracas FM",
+      "urls": [
+        "https://cast10.plugstreaming.com:2020/stream/planetafm/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "musica romantica",
+        "pop en español",
+        "radio hablada",
+        "reggaeton",
+        "salsa",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://plugmedia.co/play/wp-content/uploads/2021/01/Logo-Planeta-Original-en-PNG.png",
+      "votes": 131
+    },
+    {
+      "name": "Planeta Radio 101.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/8y6m9g81c48uv"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "latino",
+        "music",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://planetaradio.com.ve/planeta.png",
+      "votes": 16
+    },
+    {
+      "name": "Platinum 98.7 Fm",
+      "urls": [
+        "https://server6.globalhostla.com:9224/stream"
+      ],
+      "tags": [],
+      "city": "Estado Miranda",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://platinum987fm.com.ve/wp-content/uploads/2024/08/PLATINUM-TRANSPARENTE.png",
+      "votes": 4
+    },
+    {
+      "name": "Playera 101.9 FM Pto. Píritu",
+      "urls": [
+        "https://acp2.lorini.net:28008/stream"
+      ],
+      "tags": [],
+      "city": "Anzoátegui",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "PLENITUD 90.9",
+      "urls": [
+        "https://sp.wnetserver.com/8060/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Pregón 95.7 FM",
+      "urls": [
+        "https://stream-178.surfernetwork.com/2dcuqasrykauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZGN1cWFzcnlrYXV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilp3TVZvNkJHUW82ZEpTaWZxeTRQMlEiLCJpYXQiOjE3ODk5NzM1NjQsImV4cCI6MTc4OTk3MzYyNH0.BDK8A2xHcqea99oqO5mFIAOXozqeeUsnjThGKAT1TpA"
+      ],
+      "tags": [
+        "information",
+        "latino",
+        "local radio",
+        "música en español",
+        "radio comunitaria"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/NJO6nqSOD3461y9mUOPwwzLka9cl2b6CtlvBVkjy3nU/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZTNkZmJlYzgtMzlmMS00NmZkLWI4ZGItY2Q4Yzc5ZGExNjc5L2ltYWdlLz91PTE3MzIwMzI5NzEwMDA.webp",
+      "votes": 6
+    },
+    {
+      "name": "Puro Llano Radio",
+      "urls": [
+        "https://stream.zeno.fm/1jvlfyg36swuv"
+      ],
+      "tags": [
+        "folclor",
+        "music",
+        "popular"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/hzBKnVCaMe3sbmvFsQQNCSBYdf5QFGknnKl6Busc0Jo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvODIwYjk1ZGEtZWRkMy00ZmRjLTlhNzQtNmYxZGRiNGEwYTYwL2ltYWdlLz91PTE3MzExMDk4MDIwMDA.webp",
+      "votes": 157
+    },
+    {
+      "name": "Radio – Circuito POP FM 105.9",
+      "urls": [
+        "https://acp2.lorini.net:10120/stream"
+      ],
+      "tags": [
+        "charts",
+        "entretenimiento",
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://circuitopopfm.com/wp-content/uploads/2021/10/cropped-CIRCUITO-POP-TV-LOGO-01-01-32x32.png ",
+      "votes": 9
+    },
+    {
+      "name": "Radio baladas y algo mas",
+      "urls": [
+        "https://stream.zeno.fm/02dze40162quv"
+      ],
+      "tags": [
+        "amor",
+        "baladas",
+        "baladas en español",
+        "música en español"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/wc4B5Mt_fpjEV7K7lRQwfxZU6ullPYBCLHtWf1-INpc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2d1b0hvcHdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2dodTNPOWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4NDYwMjA0NDAwMA.webp",
+      "votes": 508
+    },
+    {
+      "name": "Radio Caroní 93.1 FM",
+      "urls": [
+        "https://stream-179.zeno.fm/qyngrh87vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeW5ncmg4N3Z2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InU4c3RwNEJyU0VlSGFlWGZBcnZEc3ciLCJpYXQiOjE3ODA3OTkzMzUsImV4cCI6MTc4MDc5OTM5NX0.4Unrg19Ijncl74B_L5p4DPROwq1FMdsx3E2QPhpS5SA"
+      ],
+      "tags": [],
+      "city": "Bolivar",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/MNfA6VmpzIODraUCG_a2AnqFgnz_fLmwLejim3dgZnQ/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3ctdFdma2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dwb0xuc0FrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc1OTE3MDQxOTAwMA.webp",
+      "votes": 2
+    },
+    {
+      "name": "Radio Cristiana Venezuela",
+      "urls": [
+        "https://stream.zeno.fm/r7zrx18xcfhvv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/x8lKEbh9hnkUvJKn-nDY2CsHWVjIs7XvxGKYdRkLteI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHcxNDdHM3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l2TE9sNkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTk2NDAxOTAwMA.webp",
+      "votes": 994
+    },
+    {
+      "name": "Radio DinÃ¡mica 1490 AM",
+      "urls": [
+        "https://guri.tepuyserver.net/8040/stream"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "radio hablada",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.radiodinamica.com.ve/images/header_logo_large.png",
+      "votes": 27
+    },
+    {
+      "name": "Radio dinámica 92.9",
+      "urls": [
+        "https://guri.tepuyserver.net/8012/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 369
+    },
+    {
+      "name": "RADIO DYLAN",
+      "urls": [
+        "https://stream.laut.fm/radiodylan"
+      ],
+      "tags": [],
+      "city": "Delta Amacuro",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/SK6Bsgg2/logo-(1).png\"",
+      "votes": 2
+    },
+    {
+      "name": "Radio Fe y Alegría - Cd. Guayana 103.1FM",
+      "urls": [
+        "https://worldradio.online/proxy/?q=http://aler.org:8000/ciudadguayana.aac&plugin_id=13399&site_id=15942544"
+      ],
+      "tags": [
+        "bolívar",
+        "católica",
+        "fe y alegría",
+        "venezuela"
+      ],
+      "city": "Bolivar",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radios.feyalegrianoticias.com/wp-content/uploads/2020/03/cropped-cropped-FAVICON.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Folclorllanero",
+      "urls": [
+        "https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3"
+      ],
+      "tags": [
+        "folclor",
+        "music",
+        "nacional",
+        "popular"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/-6WJbGFCl4h280t45_RHeXFToG9u0PR5itM_MM6ifSM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzVlZDk4ZWEtMzNjNi00YWYxLTgxM2ItNzgxMDQ1M2E5M2MwL2ltYWdlLz91PTE3MjQ0NjA0OTkwMDA.webp",
+      "votes": 106
+    },
+    {
+      "name": "Radio La Romantica",
+      "urls": [
+        "https://stream.zeno.fm/28hgnyp8568uv"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "musica romantica",
+        "música en español"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/DjYp_OR2CCDutCHOdv6zBebZIK9Y8wxbmRPZOQDWzSs/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc2TDNWalFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdtUFhTM1FnTW9nRUVlbVZ1YncvaW1hZ2Uv.webp",
+      "votes": 1283
+    },
+    {
+      "name": "Radio María Venezuela",
+      "urls": [
+        "https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Caracas",
+      "codec": "MP3",
+      "bitrate": 24,
+      "logo": "https://radiomaria.com.ve/wp-content/themes/radiomaria/img/maria-footer.jpg",
+      "votes": 62
+    },
+    {
+      "name": "Radio Miraflores 95.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/prcs4h7d9k8uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "information",
+        "latino",
+        "noticias",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiomiraflores.net.ve/wp-content/uploads/2023/02/Radio-Miraflores-Logo-1.png",
+      "votes": 178
+    },
+    {
+      "name": "Radio Mix Retro",
+      "urls": [
+        "https://streamingned.com:7084/stream"
+      ],
+      "tags": [
+        "2000s",
+        "70s",
+        "80s",
+        "90s",
+        "latino",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/VTioVCjEg3ffCkk1biB-0OpUzw26qUbT1bGOO3qVHzI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3duWjNKbUFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3c3YlRfX3dzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3MDc3NDAwMA.webp",
+      "votes": 58
+    },
+    {
+      "name": "Radio Nacional de Venezuela - Informativa",
+      "urls": [
+        "https://guri.tepuyserver.net/8048/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Radio Nacional de Venezuela - Juvenil",
+      "urls": [
+        "https://guri.tepuyserver.net/8156/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Radio Retro",
+      "urls": [
+        "https://stream.zeno.fm/07brb24epkhvv"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "classic hits",
+        "oldies",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/TF_wMBFbZWl97sSY0s58Lj9N6p8cHisriaUDEGk1pxA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc2TDNWalFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lxZFhGMFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MjI2NjYxMTAwMA.webp",
+      "votes": 432
+    },
+    {
+      "name": "Radio Romántica",
+      "urls": [
+        "https://stream-204.surfernetwork.com/cploshirboutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcGxvc2hpcmJvdXR2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ino0WFpGRVRGUVJxYlZhaWFFRU5pbWciLCJpYXQiOjE3ODk5NjU0MTYsImV4cCI6MTc4OTk2NTQ3Nn0.2XKKzck4bldgqRTXQwP-Kpfl6DNyiFJS2oUmJyFuhec"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "baladas en ingles",
+        "love songs",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/HmGGK-crpk6b7dfMJrUq1l2aFM2q3Y6ib0Y9UmmIvRA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvY2JkZGRjODgtNmQzOC00NzgyLWI4NTAtNDI3NmE2ZGU2NzA5L2ltYWdlLz91PTE3MjUxNTQ0OTkwMDA.webp",
+      "votes": 689
+    },
+    {
+      "name": "RADIO RUMBOS 670 AM",
+      "urls": [
+        "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6"
+      ],
+      "tags": [
+        "ardió rumbos 670"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 735
+    },
+    {
+      "name": "Radio Sol 89.1",
+      "urls": [
+        "https://stream-67.zeno.fm/r2errtf2uk8uv"
+      ],
+      "tags": [
+        "maturin",
+        "radio sol",
+        "sol 89.1"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 384
+    },
+    {
+      "name": "Radio Sol 89.1 Maturin",
+      "urls": [
+        "https://stream-67.zeno.fm/r2errtf2uk8uv?%20zs=7GPKP3MTQtWE9TZYVk5Khg"
+      ],
+      "tags": [
+        "radio sol"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://luisaspizzanj.com/img/icon-mauslot.webp",
+      "votes": 489
+    },
+    {
+      "name": "RADIO WAO 97.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/g7ayu7wbr2zuv"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "merengue",
+        "pop",
+        "reggaeton",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/pucHJ4mooK2zIbbqYtJoa-zdMuYzcuanXryKwSArM4M/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F1YVdhMEFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EtWm1xcndvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU5Nzc4MzAwMA.webp",
+      "votes": 54
+    },
+    {
+      "name": "Radiorama Stereo 103.3 FM",
+      "urls": [
+        "https://acp2.lorini.net:44002/stream"
+      ],
+      "tags": [
+        "caracas",
+        "pop",
+        "radiorama 103.3",
+        "salsa",
+        "tropical",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Remix Music Radio Web",
+      "urls": [
+        "https://stream.zeno.fm/s4vcagrndg8uv?1730221729450"
+      ],
+      "tags": [
+        "dj",
+        "latino",
+        "mix",
+        "music",
+        "música en español",
+        "música variada",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/PptlZ4oJnRhhGouxBjhk9pzy8Dvvvp-kAdALVwjiq5g/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEzYkg5bVFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNlNfb0FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3MzMyNjM1NDAwMA.webp",
+      "votes": 222
+    },
+    {
+      "name": "Rumba 100.1 Barquisimeto FM",
+      "urls": [
+        "https://cast10.plugstreaming.com:2020/stream/r1001/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latin pop",
+        "música variada",
+        "pop en español",
+        "radio hablada",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://plugmedia.co/play/wp-content/uploads/2021/02/Logo_Barquisimeto.png",
+      "votes": 170
+    },
+    {
+      "name": "Rumba 104.9 Anzoategui FM",
+      "urls": [
+        "https://cast10.plugstreaming.com:2020/stream/r1049/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latin pop",
+        "musica romantica",
+        "música variada",
+        "pop en español",
+        "radio hablada",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": "https://plugmedia.co/play/wp-content/uploads/2021/01/Logo_Anzoategui.png",
+      "votes": 132
+    },
+    {
+      "name": "Rumba 98.1 FM",
+      "urls": [
+        "https://cast20.plugstreaming.com:2020/stream/r981/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "music",
+        "pop",
+        "pop en español",
+        "pop latino",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://plugmedia.co/play/wp-content/uploads/2021/01/Logo_Guayana.png",
+      "votes": 479
+    },
+    {
+      "name": "Rumbera  98.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/85y72q4wzdfuv"
+      ],
+      "tags": [
+        "hits",
+        "latino",
+        "merengue",
+        "music",
+        "pop",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/CR7fr_kI5KvyW-vultnt30PUuWGIV8hRthCmj2Kwnn0/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDExMzEzN2QtMmUxYi00NjgzLTliYzUtZDY4ZGYwYTM3NDJhL2ltYWdlLz91PTE2ODQyMDY1MDQwMDA.webp",
+      "votes": 355
+    },
+    {
+      "name": "SABOR 106.7 FM",
+      "urls": [
+        "https://radiostream.interven.ca/listen/saborfm/radio.mp3"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "music",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sabor.fm/wp-content/uploads/2023/12/logo-sabor-1024x421.png",
+      "votes": 18
+    },
+    {
+      "name": "sensacion 95.9 fm",
+      "urls": [
+        "https://stream-177.surfernetwork.com/fz3rkbb3uouvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejNya2JiM3VvdXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkU3b2NKdEhVVGFxVG82TmJEa1JTVmciLCJpYXQiOjE3ODk5NTEzOTksImV4cCI6MTc4OTk1MTQ1OX0.Q62qrTz35oFHm9Q4WarjgSPtzyySVLA1Vpnlpzu0cMQ"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "entretenimiento",
+        "music",
+        "musica romantica",
+        "música en español"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/_K_P5qwBkBKgNcvuQ25W6RkfwninpAOXtVctcaliR7Y/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvODZlYjZhNTEtNmQyYS00Zjc0LWExZDgtN2MxYzc2ODZmNWZmL2ltYWdlLz91PTE3MjUxNTIyMDgwMDA.webp",
+      "votes": 17
+    },
+    {
+      "name": "SIERRA 99.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/9m95mfutymruv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "information",
+        "latino",
+        "music",
+        "pop",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sierra991fm.com/wp-content/uploads/2021/12/LOGO-SIERRA-WEB-2-1.png",
+      "votes": 9
+    },
+    {
+      "name": "Studio 102.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/um833nab8tzuv"
+      ],
+      "tags": [
+        "deportes",
+        "information",
+        "merengue",
+        "music",
+        "música y noticias",
+        "noticias",
+        "radio hablada",
+        "urbano",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://studio102fm.com/wp-content/uploads/2021/01/logowhite1.png ",
+      "votes": 10
+    },
+    {
+      "name": "Tama Stereo",
+      "urls": [
+        "https://guri.tepuyserver.net/8457/stream"
+      ],
+      "tags": [],
+      "city": "Táchira",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "TeleSur",
+      "urls": [
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "noticias"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 4263,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "TODAY 104.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/63x7apc4vc9uv"
+      ],
+      "tags": [
+        "anglo",
+        "pop music"
+      ],
+      "city": "Caracas",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Tropical 98.5FM",
+      "urls": [
+        "https://stream-176.zeno.fm/urclaj57jwbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1cmNsYWo1N2p3YnR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InFwWjl0dXF4VHJTUzV4ZEZiV01MeWciLCJpYXQiOjE3ODA4MDI0NDMsImV4cCI6MTc4MDgwMjUwM30.j_k0YuYdW3-6kgb3KtjRBWctD-YQ_eHoKA_xcNHYAzY"
+      ],
+      "tags": [
+        "anzoátegui",
+        "puerto píritu",
+        "tropical",
+        "venezuela"
+      ],
+      "city": "Anzoátegui",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/73383.v13.png",
+      "votes": 0
+    },
+    {
+      "name": "UNA VOZ CELESTIAL VENEZUELA",
+      "urls": [
+        "https://stream.zeno.fm/rqeyzo6silmuv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/Rwbp_ufnEwt0G1mWAxzrln22fqLJfzKs81omnB7gt6M/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjgxMTZmMDktMWU5Ny00YTU0LWEyMDMtMTM4MjVlOGM4MGNmL2ltYWdlLz91PTE3Mjg5ODAxMTQwMDA.webp",
+      "votes": 112
+    },
+    {
+      "name": "Utopica stereo",
+      "urls": [
+        "https://server6.globalhostla.com:9104/stream"
+      ],
+      "tags": [
+        "salsa colombiana"
+      ],
+      "city": "Miranda",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "W Radio 99.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/19esq1mgzhhvv"
+      ],
+      "tags": [
+        "folclor",
+        "information",
+        "music",
+        "música variada",
+        "noticias",
+        "popular",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/2eADBcSru54FZ8FaWqY6rRGsJlbJreof0B7NoPRzn7M/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0l1b2IyeWdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0ktck9VdGdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyNjI0ODI2NTAwMA.webp",
+      "votes": 17
+    },
+    {
+      "name": "WOAO 88.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/361as28sbc9uv"
+      ],
+      "tags": [
+        "hits",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.woao.net/img/logo.png ",
+      "votes": 9
+    },
+    {
+      "name": "YVKE Mundial",
+      "urls": [
+        "https://radiomundial.com.ve/streaming/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    }
+  ]
+}

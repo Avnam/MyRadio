@@ -1,0 +1,69 @@
+{
+  "code": "SC",
+  "name": "Seychelles",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 51
+    },
+    {
+      "name": "Offshore Radio",
+      "urls": [
+        "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "rock",
+        "seychelles",
+        "soft rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "SBC Paradise FM - Seychelles Best Mix",
+      "urls": [
+        "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8"
+      ],
+      "tags": [
+        "contemporary",
+        "creole"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 106
+    },
+    {
+      "name": "SBC Radyo Sesel",
+      "urls": [
+        "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8"
+      ],
+      "tags": [
+        "creole",
+        "news",
+        "seychelles",
+        "talk"
+      ],
+      "city": "Mahé",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    }
+  ]
+}

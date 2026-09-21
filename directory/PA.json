@@ -1,0 +1,401 @@
+{
+  "code": "PA",
+  "name": "Panama",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "AL TOPE RADIO",
+      "urls": [
+        "https://server.laradio.online/proxy/edwin_chacon?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/33452.v5.png",
+      "votes": 54
+    },
+    {
+      "name": "Antena 8 100.1 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac"
+      ],
+      "tags": [
+        "2000s",
+        "2010s",
+        "90s",
+        "comercială",
+        "hits",
+        "musica",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.antena8.com/wp-content/uploads/2019/04/logo-antena-peque.png",
+      "votes": 186
+    },
+    {
+      "name": "Beat Life Panama",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/ondabra2/stream"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/MypDp5LTEv.png",
+      "votes": 73
+    },
+    {
+      "name": "Brava Radio 507",
+      "urls": [
+        "https://laradiossl.online:10660/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.imgur.com/xAIF7eX.jpeg",
+      "votes": 54
+    },
+    {
+      "name": "CHT FM 107.7",
+      "urls": [
+        "https://radios.host-pa.com:8046/;"
+      ],
+      "tags": [
+        "entretenimiento",
+        "musica",
+        "tropical",
+        "vallenato"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.cht1077.com/images/bg.jpg ",
+      "votes": 102
+    },
+    {
+      "name": "Dinamix fm",
+      "urls": [
+        "https://jcbroadcast.org:8000/dinamixfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Estéreo Azul 100.9 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.estereoazul.com/wp-content/uploads/2019/03/logo-azul-1.png",
+      "votes": 315
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.exafm.com/favicon.ico",
+      "votes": 347
+    },
+    {
+      "name": "Fabulosa Estéreo 100.5 FM",
+      "urls": [
+        "https://www.streaming507.net:8130/stream"
+      ],
+      "tags": [
+        "bachata",
+        "dj",
+        "latino",
+        "mix",
+        "reggae",
+        "reggaeton",
+        "salsa",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 211
+    },
+    {
+      "name": "FM Corazón 102.5",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8006/stream"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "music",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fmcorazonellenguajedelamor.com/wp-content/uploads/2024/04/fmcorazon-150x150.jpeg ",
+      "votes": 127
+    },
+    {
+      "name": "la mega",
+      "urls": [
+        "https://usest-sp1.golivestream.net/8022/stream"
+      ],
+      "tags": [],
+      "city": "Panama",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "LA TIPIK",
+      "urls": [
+        "https://stream.mixesurbanospty.com:8090/tipik.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://pbs.twimg.com/profile_images/1233402500671250437/lEGH0-Yd_400x400.jpg",
+      "votes": 59
+    },
+    {
+      "name": "Magic FM",
+      "urls": [
+        "https://laradio.stream/proxy/magicfm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radioparallevar.com/wp-content/uploads/2020/08/magic_hd-e1695935759999.png",
+      "votes": 62
+    },
+    {
+      "name": "Okey 96.3 FM",
+      "urls": [
+        "https://icy.cloudrad.io/5b3fc6b1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.clrd.net/uploads/logos/autodj/019d92d3-969b-7071-a2df-da5a5b3fc6b1/b1b5469d-3920-4f6b-a07d-2edc8faae2bf.webp",
+      "votes": 11
+    },
+    {
+      "name": "Omega Stereo",
+      "urls": [
+        "https://www.streaming507.net:8048/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://pbs.twimg.com/profile_images/1246331679/Twiter_400x400.jpg",
+      "votes": 137
+    },
+    {
+      "name": "Original Stereo 90.7 FM",
+      "urls": [
+        "https://original.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.originalstereo.net/wp-content/uploads/2023/07/LOGO_ORIGINAL_STEREO.png",
+      "votes": 33
+    },
+    {
+      "name": "Radio Ancon",
+      "urls": [
+        "https://servidor40-3.brlogic.com:7074/live?source=website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": "https://platform-upload.cdn-brlogic.com/253166/logo-horizontal/c58e9bf5473040817b5c350cd0f8561d.png",
+      "votes": 3
+    },
+    {
+      "name": "RADIO MARIA PANAMA",
+      "urls": [
+        "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiomaria.pa/wp-content/themes/radiomaria/img/logo-chiaro.png",
+      "votes": 43
+    },
+    {
+      "name": "RPC Radio",
+      "urls": [
+        "https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www.rpcradio.com/site/assets/files/others/2018/02/28/MEDGEN/1034/dummylogo.768x461.jpg",
+      "votes": 108
+    },
+    {
+      "name": "Rumba FM",
+      "urls": [
+        "https://laradiossl.online:10355/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 156
+    },
+    {
+      "name": "Stereo Vida Panama",
+      "urls": [
+        "https://stream.zeno.fm/fz1rcfd1x1zuv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stereovida.org/mt-content/uploads/2023/05/stereo-vida.jpg",
+      "votes": 90
+    },
+    {
+      "name": "Super Q Panama",
+      "urls": [
+        "https://sqserver.superqpanama.net:8005/superqpanama"
+      ],
+      "tags": [
+        "música variada"
+      ],
+      "city": "Panama",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Telemetro Radio",
+      "urls": [
+        "https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/103/telemetro-radio.d78fb02c.png",
+      "votes": 60
+    },
+    {
+      "name": "TropiQ",
+      "urls": [
+        "https://www.streaming507.net:8140/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 256,
+      "logo": "https://www.tropiq.com/wp-content/uploads/2018/06/Logo-Tropi-Q.png",
+      "votes": 93
+    },
+    {
+      "name": "TVN Radio",
+      "urls": [
+        "https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8?_=1742584558819&dnt=true&player=6652918b0895f378e25e2728&uid=bd4OLrAP9gIxbw92y28cJBSUgVhCxWFY&sid=XbHbf3SdW8OPynroe95JSyz2nfB3iN5C&pid=coEcFUo064cTG0feq0zr1KKM5touhYMQ&an=tvn-pass-app-web&at=web-app&av=v1.0.18&sc=0&ref=tvn-especiales-editorial-comercial.s3.us-east-2.amazonaws.com&res=1536x864"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 213,
+      "logo": "https://cdn-profiles.tunein.com/s186597/images/logod.png",
+      "votes": 84
+    },
+    {
+      "name": "Ultra Stereo 98.9 FM",
+      "urls": [
+        "https://www.streaming507.net:8134/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://www.fmultrastereo.com/assets/images/logo-ultrastereo.png",
+      "votes": 95
+    },
+    {
+      "name": "YXY",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co:8006/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://grupojapradiotv.com/wp-content/themes/yootheme/cache/47/yxy-4721fd1e.webp",
+      "votes": 28
+    }
+  ]
+}

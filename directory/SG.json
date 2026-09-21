@@ -1,0 +1,448 @@
+{
+  "code": "SG",
+  "name": "Singapore",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "88.3JIA Cantopop - Best of All Time Cantonese Song",
+      "urls": [
+        "https://22253.live.streamtheworld.com/HARRYS_S02.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.kakee.sg/images/camokakislibraries/kakee-reskin/img-kakee-logo.png",
+      "votes": 53
+    },
+    {
+      "name": "987",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/987.png",
+      "votes": 68
+    },
+    {
+      "name": "987",
+      "urls": [
+        "https://14033.live.streamtheworld.com/987FM_SC"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+      "votes": 251
+    },
+    {
+      "name": "987FM",
+      "urls": [
+        "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "Singapore",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.melisten.sg/static/apple-icon-120x120.png",
+      "votes": 790
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 29
+    },
+    {
+      "name": "AXR Manila",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "Beam FM",
+      "urls": [
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/817/beam-fm-uk.edf8798f.png",
+      "votes": 19
+    },
+    {
+      "name": "Bible Witness Web Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "CAPITAL 958",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png",
+      "votes": 439
+    },
+    {
+      "name": "CLASS 95",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png",
+      "votes": 215
+    },
+    {
+      "name": "CNA 938",
+      "urls": [
+        "https://22893.live.streamtheworld.com/938NOW_SC"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "http://melisten.sg/static/apple-icon-120x120.png",
+      "votes": 304
+    },
+    {
+      "name": "CNA938",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png",
+      "votes": 77
+    },
+    {
+      "name": "GOLD 905",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/gold-905.png",
+      "votes": 169
+    },
+    {
+      "name": "GOLD 905",
+      "urls": [
+        "https://22403.live.streamtheworld.com/GOLD905_SC"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+      "votes": 330
+    },
+    {
+      "name": "indiego",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png",
+      "votes": 25
+    },
+    {
+      "name": "kiss92",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 193
+    },
+    {
+      "name": "LOVE 972",
+      "urls": [
+        "https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio-sg.com/wp-content/uploads/2024/01/Love-97.2-FM-330x330.webp",
+      "votes": 66
+    },
+    {
+      "name": "LOVE 972",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png",
+      "votes": 476
+    },
+    {
+      "name": "Money FM 89.3",
+      "urls": [
+        "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.moneyfm893.sg/uploads/sites/3/2017/12/ABOUT_US_Station_893-768x432.png",
+      "votes": 76
+    },
+    {
+      "name": "Oli 96.8 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+      "votes": 437
+    },
+    {
+      "name": "OLI 968",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png",
+      "votes": 53
+    },
+    {
+      "name": "One FM 91.3",
+      "urls": [
+        "https://28093.live.streamtheworld.com/ONE_FM_913AAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png",
+      "votes": 182
+    },
+    {
+      "name": "Power 98 Love Songs",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 594
+    },
+    {
+      "name": "Radio Melody with Brother Bjorn",
+      "urls": [
+        "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmelody.net/img/static_logo.jpg",
+      "votes": 88
+    },
+    {
+      "name": "RIA 897",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/ria-897.png",
+      "votes": 50
+    },
+    {
+      "name": "RIA 897",
+      "urls": [
+        "https://22393.live.streamtheworld.com/RIA897FM_SC"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://yt3.ggpht.com/ytc/AMLnZu_SfufvaDW12AZL2cX8C9oG1G1pxRDu6ctcPN75VA=s900-c-k-c0x00ffffff-no-rj",
+      "votes": 207
+    },
+    {
+      "name": "Singapore Chinese POP YES FM 933",
+      "urls": [
+        "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 373
+    },
+    {
+      "name": "Symphony 924",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/symphony-924.png",
+      "votes": 79
+    },
+    {
+      "name": "UFM 1003 (MP3)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.ufm1003.sg/wp-content/assets/5/img/NAV_01_Logo_1003.svg",
+      "votes": 46
+    },
+    {
+      "name": "WARNA 942",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/warna-942.png",
+      "votes": 160
+    },
+    {
+      "name": "YES 933",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac"
+      ],
+      "tags": [
+        "melisten"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png",
+      "votes": 283
+    },
+    {
+      "name": "Yes 933",
+      "urls": [
+        "https://28393.live.streamtheworld.com/YES933_PREM.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio-sg.com/wp-content/uploads/2024/01/Yes-93.3-FM-330x330.webp",
+      "votes": 6
+    },
+    {
+      "name": "Yes 933",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 308
+    }
+  ]
+}

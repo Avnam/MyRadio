@@ -1,0 +1,1641 @@
+{
+  "code": "CZ",
+  "name": "Czechia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "AI REVIVAL Radio",
+      "urls": [
+        "https://stream.airevival.eu/radio.mp3"
+      ],
+      "tags": [
+        "80's",
+        "90's",
+        "ai cover"
+      ],
+      "city": "Česká Republika",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://airevival.eu/radio-icon-512.png",
+      "votes": 1
+    },
+    {
+      "name": "Astra Radio",
+      "urls": [
+        "https://icecast.astraradio.cz/192"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://astraradio.cz/favicon.png",
+      "votes": 5
+    },
+    {
+      "name": "BIKERS RADIO DOUPE",
+      "urls": [
+        "https://icecast7.play.cz/bikersradiodoupe128.mp3"
+      ],
+      "tags": [
+        "80's",
+        "90's"
+      ],
+      "city": "Vysocina",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://bikersradiodoupe.cz/favicon.png",
+      "votes": 13
+    },
+    {
+      "name": "BojlerRoom",
+      "urls": [
+        "https://ice4.abradio.cz/bojler_room_128.aac"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "dj",
+        "house",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "http://bojlerroom.cz/assets/images/bez-nzvu-1-220x218.png",
+      "votes": 18
+    },
+    {
+      "name": "Čas Rock Natvrdo",
+      "urls": [
+        "https://stream.sepia.sk:8000/rnt128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Český Impuls",
+      "urls": [
+        "https://stream.sepia.sk/ceskyimpuls128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://1gr.cz/o/impuls/ceskyimpuls/hlava2.jpg",
+      "votes": 10
+    },
+    {
+      "name": "Český rozhlas Brno",
+      "urls": [
+        "https://rozhlas.stream/brno.mp3"
+      ],
+      "tags": [
+        "local"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 254
+    },
+    {
+      "name": "Český rozhlas České Budějovice",
+      "urls": [
+        "https://rozhlas.stream/ceske_budejovice_high.aac"
+      ],
+      "tags": [
+        "regional"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://budejovice.rozhlas.cz/",
+      "votes": 32
+    },
+    {
+      "name": "Český rozhlas Hradec Králové",
+      "urls": [
+        "https://rozhlas.stream/hradec_kralove.mp3"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radia-online.com/files/styles/180/public/logo/cesky-rozhlas-hradec-kralove.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Cesky Rozhlas Jazz",
+      "urls": [
+        "https://rozhlas.stream/jazz_high.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://jazz.rozhlas.cz/favicon.ico",
+      "votes": 99
+    },
+    {
+      "name": "Chat R�dio",
+      "urls": [
+        "https://radio.chatradio.cz/chatradio"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "chat",
+        "czech",
+        "hits",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "city": "Moravskoslezsk� kraj",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://chatradio.cz/assets/img/chat-radio-circle-512x512.png",
+      "votes": 0
+    },
+    {
+      "name": "Classic Prague",
+      "urls": [
+        "https://icecast8.play.cz/classic128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "COLOR Music Radio",
+      "urls": [
+        "https://icecast8.play.cz/color128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.radiocolor.cz/image/topic/poslechovost.png",
+      "votes": 26
+    },
+    {
+      "name": "Comedy Club R@dio DIANA",
+      "urls": [
+        "https://westradio.cz/radio/8010/radio.mp3"
+      ],
+      "tags": [
+        "comedy",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 646
+    },
+    {
+      "name": "CrazyRadio.cz",
+      "urls": [
+        "https://stream.rcast.net/72851"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://crazyradio.cz/images/logoGIF.gif",
+      "votes": 6
+    },
+    {
+      "name": "ČRo D-dur",
+      "urls": [
+        "https://rozhlas.stream/ddur.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.play.cz/static/radio_logo/t200/croddur.png",
+      "votes": 1
+    },
+    {
+      "name": "ČRo Jazz",
+      "urls": [
+        "https://rozhlas.stream/jazz.mp3"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.play.cz/static/radio_logo/t200/crojazz.png",
+      "votes": 1
+    },
+    {
+      "name": "ČRo Olomouc",
+      "urls": [
+        "https://rozhlas.stream/olomouc_low.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 45
+    },
+    {
+      "name": "ČRo Ostrava",
+      "urls": [
+        "https://rozhlas.stream/ostrava_high.aac"
+      ],
+      "tags": [
+        "general",
+        "regional radio"
+      ],
+      "city": "moravskoslezsko",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://ostrava.rozhlas.cz/favicon.ico",
+      "votes": 122
+    },
+    {
+      "name": "ČRo Plus",
+      "urls": [
+        "https://rozhlas.stream/plus_low.aac"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "ČRo Plus",
+      "urls": [
+        "https://rozhlas.stream/plus_mp3_128.mp3"
+      ],
+      "tags": [
+        "news",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://plus.rozhlas.cz/favicon.ico",
+      "votes": 264
+    },
+    {
+      "name": "CRo Radiozurnal",
+      "urls": [
+        "https://rozhlas.stream/radiozurnal_aac_128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico",
+      "votes": 459
+    },
+    {
+      "name": "ČRO Radiožurnál Sport",
+      "urls": [
+        "https://rozhlas.stream/radiozurnal_sport_high.aac"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "sport",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 341
+    },
+    {
+      "name": "čro Radiožurnál Sport AdHoc stream 1",
+      "urls": [
+        "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "ČRO Radiožurnál sport AdHoc stream 2",
+      "urls": [
+        "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
+      ],
+      "tags": [
+        "news talk",
+        "sports news",
+        "český rozhlas"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "ČRo Sever",
+      "urls": [
+        "https://rozhlas.stream/sever_high.aac"
+      ],
+      "tags": [
+        "severní čechy",
+        "český rozhlas"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://sever.rozhlas.cz/sites/all/themes/custom/e7/images/logo/sever_colored-white.svg",
+      "votes": 10
+    },
+    {
+      "name": "Čro Vltava Flac",
+      "urls": [
+        "https://amp.cesnet.cz:8443/cro3.flac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 88
+    },
+    {
+      "name": "CRo Vysocina",
+      "urls": [
+        "https://rozhlas.stream/vysocina_high.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/apple-touch-icon.png",
+      "votes": 33
+    },
+    {
+      "name": "ČRo Wave",
+      "urls": [
+        "https://rozhlas.stream/wave_mp3_128.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "public radio",
+        "youth"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico",
+      "votes": 36
+    },
+    {
+      "name": "ČRo Wave",
+      "urls": [
+        "https://rozhlas.stream/wave_mp3_256.mp3"
+      ],
+      "tags": [
+        "contemporary",
+        "cultural news",
+        "young adults"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://api.play.cz/static/radio_logo/t200/crowave.png",
+      "votes": 93
+    },
+    {
+      "name": "Dance Club Radio",
+      "urls": [
+        "https://ice4.abradio.cz/dance128.mp3"
+      ],
+      "tags": [
+        "dance",
+        "dj",
+        "house",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radia.cz/favicon.ico",
+      "votes": 683
+    },
+    {
+      "name": "Dance rádio cz",
+      "urls": [
+        "https://ice.actve.net/dance-radio128.mp3"
+      ],
+      "tags": [
+        "fm 89.0"
+      ],
+      "city": "Praha",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
+      "votes": 152
+    },
+    {
+      "name": "Deecibel One Radio",
+      "urls": [
+        "https://stream.deecibel.com/one"
+      ],
+      "tags": [
+        "00s",
+        "90s",
+        "dance",
+        "dancefloor",
+        "electronic",
+        "eurodance",
+        "house",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://stream.deecibel.com/one_logo.png",
+      "votes": 5
+    },
+    {
+      "name": "Deecibel Rock Radio",
+      "urls": [
+        "https://stream.deecibel.com/rock"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "metal",
+        "progressive rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://stream.deecibel.com/rock_logo.png",
+      "votes": 7
+    },
+    {
+      "name": "ENERGIC",
+      "urls": [
+        "https://icecast9.play.cz/energic.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radioenergic.cz/favicon.ico",
+      "votes": 23
+    },
+    {
+      "name": "Evropa 2 - aac",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+      "votes": 72
+    },
+    {
+      "name": "Evropa 2 - Actve",
+      "urls": [
+        "https://ice.actve.net/fm-evropa2-128"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Czech Republic",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+      "votes": 374
+    },
+    {
+      "name": "Evropa 2 - mp3",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+      "votes": 73
+    },
+    {
+      "name": "Evropa2 Youradio Flashbacky",
+      "urls": [
+        "https://ice.actve.net/web-e2-flashback"
+      ],
+      "tags": [
+        "90's",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://m.actve.net/e2/favicon/apple-touch-icon.png",
+      "votes": 294
+    },
+    {
+      "name": "Fed's Trap Radio",
+      "urls": [
+        "https://backend.fedstrapradio.com:8000/radio.mp3"
+      ],
+      "tags": [
+        "trap"
+      ],
+      "city": "Prague",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://fedstrapradio.com/img/apple-touch-icon.png",
+      "votes": 79
+    },
+    {
+      "name": "FREKVENCE 1",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v138",
+      "votes": 244
+    },
+    {
+      "name": "Fresh radio 103.6",
+      "urls": [
+        "https://icecast.beatzone.cz/radio/8000/128.mp3"
+      ],
+      "tags": [
+        "dance",
+        "electronic dance music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.freshradio.cz/favicon.ico",
+      "votes": 150
+    },
+    {
+      "name": "Funkstar Radio",
+      "urls": [
+        "https://funkstar.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.funkstar.eu/wp-content/uploads/2018/12/FS_144-144.png",
+      "votes": 0
+    },
+    {
+      "name": "GenWave Radio",
+      "urls": [
+        "https://genwave-radio.com/listen/genwave/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://genwave-radio.com/static/uploads/browser_icon/192.1766877076.png",
+      "votes": 1
+    },
+    {
+      "name": "Gold Impuls",
+      "urls": [
+        "https://stream.sepia.sk/gold128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "HARDCORERADIO.CZ",
+      "urls": [
+        "https://radio.hardcoreradio.cz/listen/hardcore_radio/radio.mp3"
+      ],
+      "tags": [
+        "frenchcore",
+        "hardcore",
+        "tekkno",
+        "uptempo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://gdppoqdqiuwrfvhindnu.supabase.co/storage/v1/object/public/bck/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "Hitrádio Contact",
+      "urls": [
+        "https://ice3.abradio.cz/hitradiocontact128.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Prague",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://hitradiocontact.cz/design/favicons/apple-icon-120x120.png",
+      "votes": 38
+    },
+    {
+      "name": "Hitrádio Devadesátka",
+      "urls": [
+        "https://ice2.radia.cz/hit90128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radia.cz/media/images/0001/01/1eec5dac28c0282256fb18500f58a51d468f5ec9.svg",
+      "votes": 11
+    },
+    {
+      "name": "Hitrádio Devadesátka",
+      "urls": [
+        "https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radia.cz/media/images/0001/01/1eec5dac28c0282256fb18500f58a51d468f5ec9.svg",
+      "votes": 5
+    },
+    {
+      "name": "Hitrádio Faktor",
+      "urls": [
+        "https://ice.abradio.cz/faktor128.mp3"
+      ],
+      "tags": [],
+      "city": "Jihočeský kraj",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s10545/images/logog.jpg",
+      "votes": 343
+    },
+    {
+      "name": "Hitrádio Osmdesátka",
+      "urls": [
+        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radia.cz/media/images/0001/01/9d6a0554f2f3fb7891748805e83c6030f5177074.svg",
+      "votes": 17
+    },
+    {
+      "name": "Hitradio Zlín",
+      "urls": [
+        "https://ice.radia.cz/radiozlin128.mp3"
+      ],
+      "tags": [
+        "cz sk",
+        "hits",
+        "modern",
+        "pop"
+      ],
+      "city": "Moravia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg",
+      "votes": 17
+    },
+    {
+      "name": "Hvězda",
+      "urls": [
+        "https://hls.hvezda.info/session01/128k/s.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP4",
+      "bitrate": 128000,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Impuls Ráááádio",
+      "urls": [
+        "https://stream.sepia.sk:8000/impuls128.mp3"
+      ],
+      "tags": [
+        "news",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "JČ1 - Televize jižní Čechy",
+      "urls": [
+        "https://stream.jc1.cz/hls/jc1.m3u8"
+      ],
+      "tags": [
+        "local news",
+        "news talk",
+        "regional",
+        "tv"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://jc1.cz/templates/jc12_2022_v2/favicon.ico",
+      "votes": 21
+    },
+    {
+      "name": "Kiss Radio - 128MP3",
+      "urls": [
+        "https://icecast1.play.cz/kissdelta128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.kiss.cz/assets/favicon/apple-touch-icon.png",
+      "votes": 676
+    },
+    {
+      "name": "LA RADIO PLUS ANNECY",
+      "urls": [
+        "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970"
+      ],
+      "tags": [],
+      "city": "annecy",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.laradioplus.com/media/option/thumb/69x54_logo-laradioplus-88602.webp",
+      "votes": 10
+    },
+    {
+      "name": "Luc Radio",
+      "urls": [
+        "https://cast1.torontocast.com:3800/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/573/luc-radio.272c4417.png",
+      "votes": 8
+    },
+    {
+      "name": "Metal Heart Radio",
+      "urls": [
+        "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.metalheartradio.com/assets/images/cd.png",
+      "votes": 64
+    },
+    {
+      "name": "Mňau TV",
+      "urls": [
+        "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+      ],
+      "tags": [
+        "tv"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 3315,
+      "logo": "https://imnau.cz/wp-content/uploads/2018/11/imnau_logo.png",
+      "votes": 18
+    },
+    {
+      "name": "Netro Life radio 100,8 FM",
+      "urls": [
+        "https://icecast9.play.cz/netro-life-radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.netroliferadio.cz/files/resize/152/152/netro-favicon-top-0.png",
+      "votes": 12
+    },
+    {
+      "name": "Óčko Star",
+      "urls": [
+        "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
+      ],
+      "tags": [
+        "goldies",
+        "music",
+        "tv"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 928,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "Phonk Nation Radio",
+      "urls": [
+        "https://radio.mxnticek.eu/listen/phonk/128.mp3"
+      ],
+      "tags": [
+        "phonk"
+      ],
+      "city": "Ústecký kraj",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 169
+    },
+    {
+      "name": "PHONK RADIO",
+      "urls": [
+        "https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA"
+      ],
+      "tags": [
+        "phonk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/static/icons/apple-icon-152x152.png",
+      "votes": 456
+    },
+    {
+      "name": "Plzeň TV",
+      "urls": [
+        "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "regional",
+        "tv"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://tv.plzen.cz/templates/theme3241/images/plzentv-icon.svg",
+      "votes": 17
+    },
+    {
+      "name": "povídka",
+      "urls": [
+        "https://ice3.abradio.cz/povidka128.mp3"
+      ],
+      "tags": [
+        "undefined"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1868
+    },
+    {
+      "name": "Radia.cz - Birds",
+      "urls": [
+        "https://ice2.radia.cz/relax-morning-birds64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "Radia.cz - Fire",
+      "urls": [
+        "https://ice2.radia.cz/relax-fire64.aac"
+      ],
+      "tags": [
+        "ambient"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radia.cz - Sea",
+      "urls": [
+        "https://ice2.radia.cz/relax-sea64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radia.cz - Train",
+      "urls": [
+        "https://ice2.radia.cz/relax-train64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Rádio 1",
+      "urls": [
+        "https://stream.rcs.revma.com/stk8hrvb938uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Rádio Beat (128 AAC)",
+      "urls": [
+        "https://icecast2.play.cz/beat128aac"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.radiobeat.cz/img/logo@2x.png",
+      "votes": 1562
+    },
+    {
+      "name": "Rádio BLANÍK",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radioblanik.cz/design/favicons/apple-icon-180x180.png",
+      "votes": 336
+    },
+    {
+      "name": "Rádio Blaník",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 744
+    },
+    {
+      "name": "Radio Blaník Morava a Slezsko",
+      "urls": [
+        "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ=="
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1390
+    },
+    {
+      "name": "Rádio Blaník Oldies",
+      "urls": [
+        "https://ice.radia.cz/oldiesradio128.mp3"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 142
+    },
+    {
+      "name": "Radio Bonton",
+      "urls": [
+        "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
+      "votes": 16
+    },
+    {
+      "name": "Rádio Čas Rock (192 kbps)",
+      "urls": [
+        "https://icecast9.play.cz/casrock192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 220
+    },
+    {
+      "name": "Rádio Diana – Retro Club",
+      "urls": [
+        "https://westradio.cz/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 106
+    },
+    {
+      "name": "Rádio DNB TV",
+      "urls": [
+        "https://ice3.abradio.cz/shadowbox128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.shadowbox.cz/css/site/btn/radio_shadowbox.png",
+      "votes": 241
+    },
+    {
+      "name": "Radio Fonlord",
+      "urls": [
+        "https://a5.asurahosting.com:6530/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Ústecký kraj",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Rádio humor 2",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac"
+      ],
+      "tags": [
+        "humor"
+      ],
+      "city": "Prague",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 480
+    },
+    {
+      "name": "Rádio Jih",
+      "urls": [
+        "https://icecast6.play.cz/jih32.mp3"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "RADIO KISS",
+      "urls": [
+        "https://stream.rcs.revma.com/asn0cmvb938uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.kiss.cz/assets/favicon/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "Rádio Koleda",
+      "urls": [
+        "https://ice3.radia.cz/koleda_64.aac"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg",
+      "votes": 39
+    },
+    {
+      "name": "Radio MB",
+      "urls": [
+        "https://ice3.abradio.cz/radiomb128.mp3"
+      ],
+      "tags": [
+        "90's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiomb.cz/wp-content/uploads/2026/06/Logo-MB.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Rádio Nostalgie",
+      "urls": [
+        "https://icecast3.play.cz/radio-nostalgie128.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "dance",
+        "disco",
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 86
+    },
+    {
+      "name": "Radio O106",
+      "urls": [
+        "https://listen.radioking.com/radio/442799/stream/497147"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioo106.cz/favicon.ico",
+      "votes": 6
+    },
+    {
+      "name": "Rádio Orlicko",
+      "urls": [
+        "https://mediaservice.radioorlicko.cz/stream192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radioorlicko.cz/",
+      "votes": 1
+    },
+    {
+      "name": "Radio Otava",
+      "urls": [
+        "https://radiootava.trefcon.cz:8889/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.radiootava.cz/player/final_logo-web.png",
+      "votes": 27
+    },
+    {
+      "name": "Rádio Písnička",
+      "urls": [
+        "https://stream.slagr-radio.cz/pisnicka"
+      ],
+      "tags": [
+        "schlager"
+      ],
+      "city": "Jihočeský kraj",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://slagr-radio.cz/logo-pisnicka.webp",
+      "votes": 11
+    },
+    {
+      "name": "Rádio Pohádka",
+      "urls": [
+        "https://ice3.radia.cz/pohadka128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdb.radia.cz/design/img/thumbnails/no-artwork-image(image200).png",
+      "votes": 1
+    },
+    {
+      "name": "Rádio Povádka",
+      "urls": [
+        "https://ice3.radia.cz/povidka128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Radio Prague International",
+      "urls": [
+        "https://rozhlas.stream/radio_prague_int_high.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://english.radio.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
+      "votes": 30
+    },
+    {
+      "name": "Radio Prague International",
+      "urls": [
+        "https://rozhlas.stream/cro7_mp3_128.mp3"
+      ],
+      "tags": [
+        "local news",
+        "news"
+      ],
+      "city": "Central Bohemian",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 186
+    },
+    {
+      "name": "Radio Prostor",
+      "urls": [
+        "https://bcast.spmmedia.cz/prostor-mp3"
+      ],
+      "tags": [
+        "cultural news",
+        "economic news",
+        "news talk",
+        "sports news",
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 92
+    },
+    {
+      "name": "Rádio Samson",
+      "urls": [
+        "https://icecast2.play.cz/samsonfm128aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 21
+    },
+    {
+      "name": "Rádio Sázava",
+      "urls": [
+        "https://icecast8.play.cz/sazava192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosazava.cz/porady/sazava_logo_vlnka.png",
+      "votes": 24
+    },
+    {
+      "name": "Radio Slobodna Evropa",
+      "urls": [
+        "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
+      "votes": 16
+    },
+    {
+      "name": "Radio Svoboda (ru) (official stream)",
+      "urls": [
+        "https://stream.radiojar.com/hcrb063nn3quv"
+      ],
+      "tags": [],
+      "city": "Prague",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 833
+    },
+    {
+      "name": "Rádio Xaver",
+      "urls": [
+        "https://icecast6.play.cz/radio-xaver.aac"
+      ],
+      "tags": [
+        "talk show"
+      ],
+      "city": "Prague",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg",
+      "votes": 76
+    },
+    {
+      "name": "RadioParty.pl",
+      "urls": [
+        "https://s2.radioparty.pl:8015/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 184
+    },
+    {
+      "name": "Rock Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rockovyradio.cz/design/img/logo.svg",
+      "votes": 1445
+    },
+    {
+      "name": "Rock rádio – CZ Rock",
+      "urls": [
+        "https://ice2.radia.cz/rockzabava128.aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg",
+      "votes": 76
+    },
+    {
+      "name": "RockZone",
+      "urls": [
+        "https://icecast5.play.cz/rockzone.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Shinto",
+      "urls": [
+        "https://s49.myradiostream.com/8142/listen.mp3"
+      ],
+      "tags": [],
+      "city": "Česko",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radikombinator.github.io/r-k/",
+      "votes": 1
+    },
+    {
+      "name": "Šlágr Rádio",
+      "urls": [
+        "https://stream.slagr-radio.cz/mp3"
+      ],
+      "tags": [
+        "schlager"
+      ],
+      "city": "Jihočeský kraj",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://slagr-radio.cz/logo.webp",
+      "votes": 4
+    },
+    {
+      "name": "Sunrise Radio (Czechia)",
+      "urls": [
+        "https://stream.laut.fm/radio-dance-eu"
+      ],
+      "tags": [
+        "club dance",
+        "dance",
+        "drum and bass",
+        "electronic dance music",
+        "future house",
+        "house",
+        "liquid dnb"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/0GVxMgd/sunshineradio.png",
+      "votes": 95
+    },
+    {
+      "name": "We House Radio (AAC+ High)",
+      "urls": [
+        "https://stream.zunradio.cz/zun1.aac"
+      ],
+      "tags": [
+        "funky house",
+        "house",
+        "jackin house",
+        "nu-disco",
+        "soulful house",
+        "tech house"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 272
+    },
+    {
+      "name": "WeHouseRadio",
+      "urls": [
+        "https://stream.zunradio.cz/zun2.aac"
+      ],
+      "tags": [
+        "funky house",
+        "house",
+        "jackin house",
+        "nu-disco",
+        "soulful house",
+        "tech house"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "WeHouseRadio",
+      "urls": [
+        "https://stream.zunradio.cz/zun3.mp3"
+      ],
+      "tags": [
+        "funky house",
+        "house",
+        "jackin house",
+        "nu-disco",
+        "soulful house",
+        "tech house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 323
+    },
+    {
+      "name": "WorldRadio",
+      "urls": [
+        "https://worldradio100.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://worldradio.eu/wp-content/uploads/2023/11/worldradio_lopta_112.png",
+      "votes": 19
+    },
+    {
+      "name": "Známka Punku",
+      "urls": [
+        "https://ice.abradio.cz/znamkapunku128.mp3"
+      ],
+      "tags": [
+        "punk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radia.cz/favicon.ico",
+      "votes": 184
+    },
+    {
+      "name": "ZUN rádio",
+      "urls": [
+        "https://icecast9.play.cz/zun48.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "Крым Реалии (rus, ukr) (official stream)",
+      "urls": [
+        "https://stream.radiojar.com/wm9sntcpn3quv"
+      ],
+      "tags": [],
+      "city": "Prague",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 173
+    },
+    {
+      "name": "Крым.Реалии",
+      "urls": [
+        "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "news talk",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 142
+    },
+    {
+      "name": "Радио Свобода",
+      "urls": [
+        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
+      ],
+      "tags": [
+        "новости",
+        "политика",
+        "разговорное"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 13711
+    }
+  ]
+}

@@ -1,0 +1,7696 @@
+{
+  "code": "IN",
+  "name": "India",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "4 lobos bollywood radio",
+      "urls": [
+        "https://puma.streemlion.com:4130/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 207
+    },
+    {
+      "name": "60sforever",
+      "urls": [
+        "https://stream.zeno.fm/btrks671ynhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/60sforever.jpg",
+      "votes": 2041
+    },
+    {
+      "name": "80’s Tamil Hits",
+      "urls": [
+        "https://stream.zeno.fm/48w230kx8vzuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/80-TamilHits.jpg",
+      "votes": 2716
+    },
+    {
+      "name": "89-4-tamil-fm",
+      "urls": [
+        "https://centova.aarenworld.com/proxy/894tamilfm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/894tamilfm.jpg",
+      "votes": 363
+    },
+    {
+      "name": "90’s Tamil Melodies",
+      "urls": [
+        "https://stream.zeno.fm/tqnws2eafwzuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/90-tamil-melody.jpg",
+      "votes": 3035
+    },
+    {
+      "name": "90sonceagainradio",
+      "urls": [
+        "https://stream.zeno.fm/rm4i9pdex3cuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/90sonceagainradio.jpg",
+      "votes": 3360
+    },
+    {
+      "name": "986malayalamradio",
+      "urls": [
+        "https://stream.zeno.fm/512rbf1e3qzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/986malayalamradio.jpg",
+      "votes": 349
+    },
+    {
+      "name": "A9 Radio",
+      "urls": [
+        "https://a9radio1-a9media.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/a9-radio.jpg",
+      "votes": 146
+    },
+    {
+      "name": "a9radionewhits",
+      "urls": [
+        "https://a9newhits-a9media.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/a9radio.jpg",
+      "votes": 97
+    },
+    {
+      "name": "a9radiooldhits",
+      "urls": [
+        "https://a9oldhits-a9media.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/a9radio.jpg",
+      "votes": 115
+    },
+    {
+      "name": "aaha-radio",
+      "urls": [
+        "https://s2.radio.co/s3801784f1/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://liveradios.in/wp-content/uploads/aahafm.jpg",
+      "votes": 102
+    },
+    {
+      "name": "Aaj Tak News Radio Live",
+      "urls": [
+        "https://feeds.intoday.in/aajtak/api/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 255,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/06/aaj-tak-radio.jpg",
+      "votes": 2953
+    },
+    {
+      "name": "aakashvani",
+      "urls": [
+        "https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae?listening-from-radio-garden=1607152226837"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/aakashvani.jpg",
+      "votes": 343
+    },
+    {
+      "name": "Aakashvani Kochi Main",
+      "urls": [
+        "https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8"
+      ],
+      "tags": [],
+      "city": "kerala",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Aanmeega_Sudar",
+      "urls": [
+        "https://stream-289.surfernetwork.com/ymkr7th4f2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bWtyN3RoNGYyenV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJZNmNQQ3AteVJVbXRTSks2dVdlNXVBIiwiaWF0IjoxNzg0NTI4NzY1LCJleHAiOjE3ODQ1Mjg4MjV9.-PYWGdeUiHa1nlERt-tUNoOnxWj-FgqTK3i2Oi5sQ9s"
+      ],
+      "tags": [],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.google.com/imgres?q=aanmeega%20sudar%20fm&imgurl=https%3A%2F%2Fproxy.zeno.fm%2Fcontent%2Fstations%2Fagxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ8c3ahAgMCxIOU3RhdGlvblByb2ZpbGUYgICQ8aiZnwgMogEEemVubw%2Fimage%2F%3Fu%3D1661709382000&imgrefurl=https%3A%2F%2Fzeno.fm%2Fradio%2Faanmeegasudar%2F&docid=bRQzw-00D1i9uM&tbnid=LiGtr8lbU8oYHM&vet=12ahUKEwiZjvH6z-CVAxVPd2wGHfTzGr0QnPAOegQIQhAA..i&w=1000&h=1000&hcb=2&itg=1&ved=2ahUKEwiZjvH6z-CVAxVPd2wGHfTzGr0QnPAOegQIQhAA",
+      "votes": 1
+    },
+    {
+      "name": "aasmanradio",
+      "urls": [
+        "https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/aasmanradio.jpg",
+      "votes": 95
+    },
+    {
+      "name": "abctamil",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 204
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 30
+    },
+    {
+      "name": "Abee Radio",
+      "urls": [
+        "https://abee.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/06/abee-radio-hindi.jpg",
+      "votes": 275
+    },
+    {
+      "name": "abinayamfm",
+      "urls": [
+        "https://usa11.fastcast4u.com/proxy/ajaydk?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/abinayamfm.jpg",
+      "votes": 140
+    },
+    {
+      "name": "aby_tamil_fm",
+      "urls": [
+        "https://stream-179.surfernetwork.com/nam8d1h6gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYW04ZDFoNmd4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJuWWNjVVJsWFNLV0dIdmRrS1ZKQXpBIiwiaWF0IjoxNzg0NTMwOTk3LCJleHAiOjE3ODQ1MzEwNTd9.K7Ee7vExj1audPeIkkO4lbFBr7LXgNwoG4pkwD4d1kE"
+      ],
+      "tags": [
+        "tamil",
+        "tamil cinema music",
+        "tamil fm",
+        "tamil music",
+        "tamil radio"
+      ],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgG0-mkZWSz55cuZQNW2Mth-ZLvW3CpzFJzqExJNOgog&s=10",
+      "votes": 9
+    },
+    {
+      "name": "Agra Radio",
+      "urls": [
+        "https://stream.zeno.fm/m1krtxpk11zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/agra-radio-hindi.jpg",
+      "votes": 546
+    },
+    {
+      "name": "Ahalia FM",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/ahaliafm/stream"
+      ],
+      "tags": [
+        "fm radio kerala",
+        "malayalam fm",
+        "malayalam radio",
+        "palakkad"
+      ],
+      "city": "kerala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ahaliafm.com/assets/images/cs/logo2.png",
+      "votes": 12
+    },
+    {
+      "name": "AIR Akashvani Maitree Kolkata",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+      "votes": 2322
+    },
+    {
+      "name": "AIR Alappuzha",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/air-alappuzha-akashvani.jpg",
+      "votes": 191
+    },
+    {
+      "name": "AIR Bangalore",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/air-bangalore.jpg",
+      "votes": 229
+    },
+    {
+      "name": "AIR Berhampur",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/air-behrampur-fm.jpg",
+      "votes": 83
+    },
+    {
+      "name": "AIR Delhi FM Gold",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"
+      ],
+      "tags": [
+        "drama",
+        "music",
+        "news",
+        "songs",
+        "talk"
+      ],
+      "city": "Delhi",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 1387
+    },
+    {
+      "name": "AIR DELHI FM GOLD",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8"
+      ],
+      "tags": [
+        "drama",
+        "infotainment",
+        "music",
+        "news"
+      ],
+      "city": "Delhi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 530
+    },
+    {
+      "name": "AIR Devikulam",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "kerala",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "AIR FM Gold Chennai",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Chennai",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1u48y8Icyu65A9PXWsBMWVXPWfYTEEDzRudk5akMlt1OgLx2RpaoQyVi",
+      "votes": 30
+    },
+    {
+      "name": "AIR Fm Gold Delhi",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "New Delhi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 13885
+    },
+    {
+      "name": "AIR FM Gold Kolkata",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 583
+    },
+    {
+      "name": "Air FM Rainbow Bangalore",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 95,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/all-india-radio.jpg",
+      "votes": 278
+    },
+    {
+      "name": "AIR FM Rainbow Chennai",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Chennai",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQk2r3iSNyuYR5eDFLpWBvDVvy0Rrm1yj7DLLT5W9gbKCcXSC7k_t4t83",
+      "votes": 13
+    },
+    {
+      "name": "Air FM Rainbow Delhi",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/fm-rainbow-Delhi.jpg",
+      "votes": 1327
+    },
+    {
+      "name": "AIR FM Rainbow Mumbai",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 2711
+    },
+    {
+      "name": "AIR Hyderabad A",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8"
+      ],
+      "tags": [
+        "news talk"
+      ],
+      "city": "hyderabad",
+      "codec": "AAC",
+      "bitrate": 95,
+      "logo": null,
+      "votes": 703
+    },
+    {
+      "name": "AIR Jeypore",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 84,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "Air Karaikal",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 147,
+      "logo": "https://airdco.pc.cdn.bitgravity.com/images/RADIO_850420.jpg",
+      "votes": 60
+    },
+    {
+      "name": "AIR KODAI FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8"
+      ],
+      "tags": [
+        "kodaikanal",
+        "tamil"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 672
+    },
+    {
+      "name": "AIR Kolhapur",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8"
+      ],
+      "tags": [
+        "infotainment",
+        "local news",
+        "radio drama"
+      ],
+      "city": "Maharashtra",
+      "codec": "AAC",
+      "bitrate": 92,
+      "logo": null,
+      "votes": 242
+    },
+    {
+      "name": "AIR Kolkata Geetanjali",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "West Bengal",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png",
+      "votes": 2689
+    },
+    {
+      "name": "AIR Madikeri",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8"
+      ],
+      "tags": [
+        "news talk music"
+      ],
+      "city": "Karnataka",
+      "codec": "MP3",
+      "bitrate": 126,
+      "logo": null,
+      "votes": 70
+    },
+    {
+      "name": "AIR Madurai AM1269",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 146
+    },
+    {
+      "name": "AIR Madurai FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio126/chunklist.m3u8"
+      ],
+      "tags": [
+        "madurai",
+        "south india",
+        "tamil",
+        "tamil fm"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 450
+    },
+    {
+      "name": "AIR Nagercoil",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/chunklist.m3u8"
+      ],
+      "tags": [
+        "nagercoil",
+        "tamil"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.radioindialive.com//uploads/radios/nagercoilkumarifm.png",
+      "votes": 276
+    },
+    {
+      "name": "AIR News 24/7",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8"
+      ],
+      "tags": [
+        "news talk"
+      ],
+      "city": "New Delhi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 1266
+    },
+    {
+      "name": "AIR Puducherry 1215",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "AIR PUDUCHERRY FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/chunklist.m3u8"
+      ],
+      "tags": [
+        "puducherry",
+        "south india",
+        "tamil",
+        "tamil fm"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 316
+    },
+    {
+      "name": "AIR Raagam",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio139_Auto.m3u8"
+      ],
+      "tags": [
+        "carnatic",
+        "hindustani",
+        "indian classical music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 212
+    },
+    {
+      "name": "AIR Raagam",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/1200px-Logo_of_AIR.svg_.png",
+      "votes": 20
+    },
+    {
+      "name": "Air Tamil",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 78,
+      "logo": null,
+      "votes": 1630
+    },
+    {
+      "name": "Air telugu",
+      "urls": [
+        "https://stream-151.zeno.fm/7kbt507d3qzuv"
+      ],
+      "tags": [
+        "telugu"
+      ],
+      "city": "telangana and andhra pradesh ",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://stream-151.zeno.fm/7kbt507d3qzuv",
+      "votes": 87
+    },
+    {
+      "name": "Air Telugu",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio141_Auto.m3u8"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 238
+    },
+    {
+      "name": "AIR Tuticorin",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "tamil music",
+        "tamil songs"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 78,
+      "logo": "https://liveradios.in/wp-content/uploads/1200px-Logo_of_AIR.svg_.png",
+      "votes": 198
+    },
+    {
+      "name": "AIR Urdu",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1141
+    },
+    {
+      "name": "AIR Vijayawada",
+      "urls": [
+        "https://radio.wavespb.com/live/2d38e3dcb8d4e0a4/2d38e3dcb8d4e0a4.m3u8"
+      ],
+      "tags": [],
+      "city": "andhra pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "airpunjabi",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 126,
+      "logo": "https://radiosindia.com/images/airpunjabi.jpg",
+      "votes": 150
+    },
+    {
+      "name": "AIT Tirunelveli FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/chunklist.m3u8"
+      ],
+      "tags": [
+        "south india",
+        "tamil",
+        "tamil fm",
+        "tirunelveli"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 234
+    },
+    {
+      "name": "Ajay Radio",
+      "urls": [
+        "https://ajayradio.com/stream/radioajay.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.radioajay.com/logos/ajayradio-logo-white.png",
+      "votes": 14
+    },
+    {
+      "name": "ajith-fm",
+      "urls": [
+        "https://stream.zeno.fm/ntkhu40k17zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://liveradios.in/wp-content/uploads/ajith-fm.jpg",
+      "votes": 71
+    },
+    {
+      "name": "akaram-radio",
+      "urls": [
+        "https://globalwebmusic.com/akaram.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 110
+    },
+    {
+      "name": "Akash Radio leeds",
+      "urls": [
+        "https://c2.radioboss.fm:8276/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/akash-radio-leeds.jpg",
+      "votes": 112
+    },
+    {
+      "name": "Akashvani Anantapur",
+      "urls": [
+        "https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Akashvani Asmita Vahini FM",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiosindia.com/images/favicon.ico",
+      "votes": 508
+    },
+    {
+      "name": "Akashvani Dharamshala 103.4 FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 127,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/02/air-dharmasala.jpg",
+      "votes": 174
+    },
+    {
+      "name": "Akashvani FM Rainbow Kolkata",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/02/akashvaniFMRainbowKolkata.jpg",
+      "votes": 1345
+    },
+    {
+      "name": "Akashvani Hyderabad",
+      "urls": [
+        "https://radio.wavespb.com/live/1c701f7b70df2568/1c701f7b70df2568.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Akashvani Kadapa",
+      "urls": [
+        "https://radio.wavespb.com/live/26ec521ec4f7c684/26ec521ec4f7c684.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Akashvani Kothagudem",
+      "urls": [
+        "https://radio.wavespb.com/live/8416764ec0889597/8416764ec0889597.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Akashvani Markapur",
+      "urls": [
+        "https://radio.wavespb.com/live/b11784e3b37b7620/b11784e3b37b7620.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Akashvani Nizamabad",
+      "urls": [
+        "https://radio.wavespb.com/live/5d9989b5189a8f4a/5d9989b5189a8f4a.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Akashvani Tirupati",
+      "urls": [
+        "https://radio.wavespb.com/live/1119aa26b4e9f653/1119aa26b4e9f653.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Akashvani Visakhapatnam",
+      "urls": [
+        "https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Akashvani Warangal",
+      "urls": [
+        "https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "akashvaniraagam",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiosindia.com/images/raagam.jpg",
+      "votes": 115
+    },
+    {
+      "name": "All India Radio Air Assamese",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 129,
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/air-assamese1.jpg",
+      "votes": 35
+    },
+    {
+      "name": "All India Radio AIR Punjabi",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8"
+      ],
+      "tags": [
+        "india",
+        "punjabi"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5256
+    },
+    {
+      "name": "All India Radio Neighbourhood Service 1",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 474
+    },
+    {
+      "name": "amenradio",
+      "urls": [
+        "https://ice7.securenetsystems.net/AMENFM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/amenradio.jpg",
+      "votes": 24
+    },
+    {
+      "name": "american-tamil-radio",
+      "urls": [
+        "https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/atr.jpg",
+      "votes": 391
+    },
+    {
+      "name": "Amlisten",
+      "urls": [
+        "https://stream-164.zeno.fm/yf5p1bya1feuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZjVwMWJ5YTFmZXV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InY5ZFhGRklhUTN5U1VFOFYtOEhOSlEiLCJpYXQiOjE"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://stream-164.zeno.fm/favicon.ico",
+      "votes": 68
+    },
+    {
+      "name": "Amlisten",
+      "urls": [
+        "https://stream.zeno.fm/yf5p1bya1feuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 47
+    },
+    {
+      "name": "Amma-Fm",
+      "urls": [
+        "https://stream-176.surfernetwork.com/amp1qadecchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbXAxcWFkZWNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJfUHA1bE93NlNRMk55bTg2bG9uMHV3IiwiaWF0IjoxNzg0NTI2Mjg1LCJleHAiOjE3ODQ1MjYzNDV9.Ofe0vRsrMX41iMh9rZe_LNXFMu99ZReEIt6qaY8Pzjw"
+      ],
+      "tags": [
+        "tamil",
+        "tamilnadu"
+      ],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/LBa3-iD_YzkYdb80YXX2ASA4odD3tfCzurKoYYcNj-o/rs:fill:288:288/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHd6NG05Z0FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc5OFNXdEFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY3MTU2OTAwMA.webp",
+      "votes": 0
+    },
+    {
+      "name": "amorfm",
+      "urls": [
+        "https://amorfm_192.streampartner.nl/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/amorfm.jpg",
+      "votes": 88
+    },
+    {
+      "name": "amrradiokannada",
+      "urls": [
+        "https://stream.zeno.fm/7g8axtgtsg0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/https://radiosindia.com/images/amrradio.jpg",
+      "votes": 294
+    },
+    {
+      "name": "Amruthavarshini FM",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/08/amruthavarshini-FM.jpg",
+      "votes": 106
+    },
+    {
+      "name": "Ananda Marga FM",
+      "urls": [
+        "https://stream-151.zeno.fm/r5dxv34smm0uv?zs=-uOwHmM8Tt-OWY6boDO8kA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "Ananda Marga Pracharaka Samgha",
+      "urls": [
+        "https://stream-152.zeno.fm/216zaqk88a0uv?zs=-fqdY-MsRiGgFdlBNEsYvA"
+      ],
+      "tags": [
+        "kiirtan",
+        "mantra",
+        "spiritual"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 46
+    },
+    {
+      "name": "Ananthapuri FM",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "kerala",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "ananthapurifm",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 95,
+      "logo": "https://radiosindia.com/images/air.jpg",
+      "votes": 204
+    },
+    {
+      "name": "anantradio",
+      "urls": [
+        "https://node-27.zeno.fm/rzuke118e3quv?rj-ttl=5&rj-tok=AAABcTlCgAwAy6eEPdjo1Hgv7g"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/anantradio.jpg",
+      "votes": 149
+    },
+    {
+      "name": "Anbu FM Hindi",
+      "urls": [
+        "https://stream.zeno.fm/u7yaqq493v8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/anbu-fm-hindi.jpg",
+      "votes": 610
+    },
+    {
+      "name": "Anbu FM Malayalam",
+      "urls": [
+        "https://stream.zeno.fm/8ca40byv4x8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/anbu-fm-malayalam.jpg",
+      "votes": 181
+    },
+    {
+      "name": "anbu-fm",
+      "urls": [
+        "https://stream.zeno.fm/c2p4f1np4bruv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/anbufm.jpg",
+      "votes": 112
+    },
+    {
+      "name": "Anime Tracks",
+      "urls": [
+        "https://centova.listenon.in/proxy/animetracks/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.animetracks.com/wp-content/themes/anime/images/Shape.png",
+      "votes": 9
+    },
+    {
+      "name": "Anirudh Radio",
+      "urls": [
+        "https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f"
+      ],
+      "tags": [
+        "tamil cinema music",
+        "tamil music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://southradios.com/assets/images/logo/logo90.webp",
+      "votes": 306
+    },
+    {
+      "name": "Ankora Radio",
+      "urls": [
+        "https://stream-153.zeno.fm/xush70b1cbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXNoNzBiMWNicnV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktzMUIweU9iUm9PdEFWVjVlX1F3ZGciLCJpYXQiOjE3MzgxNDk4MDcsImV4cCI6MTczODE0OTg2N30.3enB3waPQxNQtJtheCrZxm79XrRUySMma-c87DHes2E"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "West Bengal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pbs.twimg.com/profile_images/1358111873523085312/JyzT_Rad_400x400.jpg",
+      "votes": 41
+    },
+    {
+      "name": "Antara Radio",
+      "urls": [
+        "https://stream.zeno.fm/rzuke118e3quv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "Anurata_FM",
+      "urls": [
+        "https://stream-175.surfernetwork.com/ozta21if4wiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvenRhMjFpZjR3aXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJyUkd6M0tLZFNyMlBZZGsyVnhnZjVnIiwiaWF0IjoxNzg0NTMwMTc0LCJleHAiOjE3ODQ1MzAyMzR9.Khjm_0DYMavj313kQ8M2rYQZDPcBu-rj5u9LKtSdsw8"
+      ],
+      "tags": [
+        "anuratafm",
+        "srilanka radio",
+        "tamil",
+        "tamil hits",
+        "tamil radio",
+        "tamil songs",
+        "tamilnadu"
+      ],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFkPApjpWuNSD-Xwpi_S2W5j9wme-MznmNv4T8NacqQ&s=10",
+      "votes": 2
+    },
+    {
+      "name": "ap 9 FM",
+      "urls": [
+        "https://stream.ap9fm.in/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "guntur",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 898
+    },
+    {
+      "name": "arijitsingh",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/arijitsingh.jpg",
+      "votes": 698
+    },
+    {
+      "name": "Arni City FM",
+      "urls": [
+        "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/arni-city-fm.jpg",
+      "votes": 160
+    },
+    {
+      "name": "Arul vakku FM",
+      "urls": [
+        "https://stream.arulvakku.com/radio/8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "arumbu-fm",
+      "urls": [
+        "https://stream.zeno.fm/22db1xmde2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/arumbufm.jpg",
+      "votes": 86
+    },
+    {
+      "name": "asal-fm",
+      "urls": [
+        "https://stream.zeno.fm/pzgws1kc41zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/asalfm.jpg",
+      "votes": 155
+    },
+    {
+      "name": "asianfeverfm",
+      "urls": [
+        "https://radio.canstream.co.uk:8115/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/asianfeverfm.jpg",
+      "votes": 273
+    },
+    {
+      "name": "Aural melodics",
+      "urls": [
+        "https://stream-159.zeno.fm/7fmywrmrga0uv"
+      ],
+      "tags": [
+        "carnatic",
+        "indian classical"
+      ],
+      "city": "kerala",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "aural-oldies",
+      "urls": [
+        "https://stream-158.zeno.fm/tksfwb1mgzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 125
+    },
+    {
+      "name": "auralmelodies",
+      "urls": [
+        "https://stream.zeno.fm/7fmywrmrga0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/auralradio.jpg",
+      "votes": 50
+    },
+    {
+      "name": "awaazfm",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio/awazfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/awaazfm.jpg",
+      "votes": 94
+    },
+    {
+      "name": "azevision Radio",
+      "urls": [
+        "https://a5.asurahosting.com:8340/radio.mp3"
+      ],
+      "tags": [],
+      "city": "KERAKLA",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "bakthi-malai-radio",
+      "urls": [
+        "https://bakthiisai-unicast2u.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/bakthimalai.jpg",
+      "votes": 198
+    },
+    {
+      "name": "bbcasiannetwork",
+      "urls": [
+        "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 101,
+      "logo": "https://radiosindia.com/images/bbcasiannetwork.jpg",
+      "votes": 207
+    },
+    {
+      "name": "Best fm.",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/bestfm.m3u8"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 224
+    },
+    {
+      "name": "BEST OF AR RAHMAN TAMIL SONGS",
+      "urls": [
+        "https://stream-176.zeno.fm/p7b0e3ms97zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2IwZTNtczk3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklNa3dEVmF0VEYtVVo5ekQxUURkRVEiLCJpYXQiOjE3MjM3MjM0NTMsImV4cCI6MTcyMzcyMzUxM30.5coumX6SC7zgvRPEriGg9pnWNV6801uGjs4phyhSy6Q"
+      ],
+      "tags": [
+        "ar rahman tamil hit songs",
+        "tamil melodies"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tools.zeno.fm/accounts/agxzfnplbm8tc3RhdHNyGAsSC0JpbGxpbmdCYXNlGICAkJOgobULDKIBBHplbm8/microsite",
+      "votes": 754
+    },
+    {
+      "name": "Bhagavad Gita Radio",
+      "urls": [
+        "https://stream.zeno.fm/pg7cf4xyw8quv"
+      ],
+      "tags": [
+        "bhagvadgita radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241003_183400998.jpg?alt=media&token=a3960a7e-039e-498c-905e-2b1faa63195e",
+      "votes": 293
+    },
+    {
+      "name": "Bhajans Radio Guyana",
+      "urls": [
+        "https://s5.citrus3.com:8148/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/bhajan-radio-guyana.jpg",
+      "votes": 1046
+    },
+    {
+      "name": "bhakti Sagar durga maa",
+      "urls": [
+        "https://stream.zeno.fm/syu0rdutvxhvv"
+      ],
+      "tags": [
+        "bhakti sagar durga maa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241003_181756353.jpg?alt=media&token=175d1625-9225-4539-99d0-56481348eb18",
+      "votes": 719
+    },
+    {
+      "name": "Bhakti World Media Shri Ram",
+      "urls": [
+        "https://dard.out.airtime.pro/dard_a"
+      ],
+      "tags": [
+        "bhakti sangeet"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "null",
+      "votes": 209
+    },
+    {
+      "name": "Bhaktisudha",
+      "urls": [
+        "https://n0a.radiojar.com/cfqyfcspcv8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/06/bhakthisudha-hindi.jpg",
+      "votes": 878
+    },
+    {
+      "name": "Bhaktiworld Media Bhagavad Gita",
+      "urls": [
+        "https://stream.zeno.fm/ijklcild1wrtv"
+      ],
+      "tags": [],
+      "city": "MAHARASHTRA",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://drive.google.com/file/d/1QleHAhg0k3hGw-EzNS2x0NXz_TUuKt4I/view?usp=drive_link",
+      "votes": 133
+    },
+    {
+      "name": "Bhaktiworld Media Ganesha",
+      "urls": [
+        "https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.16%2062805693-499518273.1568730566"
+      ],
+      "tags": [],
+      "city": "MAHARASHTRA",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://drive.google.com/file/d/1_yVm_fqoUxtVn48PsA9dpjk_zQr9mtAb/view?usp=drive_link",
+      "votes": 83
+    },
+    {
+      "name": "Bhaktiworld Media Hanuman Ji",
+      "urls": [
+        "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a"
+      ],
+      "tags": [],
+      "city": "MAHARASHTRA",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://drive.google.com/file/d/1AfFnX43QymmMKPIjqxHlU8C-aqt6dq6P/view?usp=sharing",
+      "votes": 208
+    },
+    {
+      "name": "Bhaktiworld Media Sai Baba",
+      "urls": [
+        "https://iskon2b.out.airtime.pro:8000/iskon2b_a"
+      ],
+      "tags": [],
+      "city": "MAHARASHTRA",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://drive.google.com/file/d/1tkWqMxRRgF9e9n7FE2rz68FF2OwCEHrR/view?usp=sharing",
+      "votes": 72
+    },
+    {
+      "name": "Bhaktiworld Media Shri Ram",
+      "urls": [
+        "https://dard.out.airtime.pro/dard_a?_ga=2.178816160.548091236.1582029213-%201175002648.1580299245"
+      ],
+      "tags": [],
+      "city": "MAHARASHTRA",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://drive.google.com/file/d/1AvrK1Av0kBCGWQyM3h-ZrshIEH70s91J/view?usp=drive_link",
+      "votes": 103
+    },
+    {
+      "name": "Bharat FM",
+      "urls": [
+        "https://s2.radio.co/s44bb88930/listen#.mp3?ver=997168"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/bharat-fm.jpg",
+      "votes": 476
+    },
+    {
+      "name": "bhojpuri hot song",
+      "urls": [
+        "https://stream.zeno.fm/yz0ncx9gha0uv"
+      ],
+      "tags": [
+        "bhojpuri hot song"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 455
+    },
+    {
+      "name": "BIG 92.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/dbstwo3dvhhtv"
+      ],
+      "tags": [],
+      "city": "Jammu and Kashmir",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://bigfmindia.com/wp-content/themes/big-fm/assets/images/favicon.png",
+      "votes": 1191
+    },
+    {
+      "name": "Big FM Tamil",
+      "urls": [
+        "https://stream.zeno.fm/r2gn1pgm4qruv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/big-fm-tamil.jpg",
+      "votes": 999
+    },
+    {
+      "name": "BMZ RADIO",
+      "urls": [
+        "https://stream-59.zeno.fm/uy91e749fv8uv?zs=iP%20XEX-WRummaOh91E3yrw"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 166
+    },
+    {
+      "name": "BMZ Radio",
+      "urls": [
+        "https://stream.zeno.fm/uy91e749fv8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/09/bmz-radio.jpg",
+      "votes": 462
+    },
+    {
+      "name": "Bol Punjabi Radio",
+      "urls": [
+        "https://bolpunjabi-ekamsoftware.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/bol-punjabi.jpg",
+      "votes": 445
+    },
+    {
+      "name": "Bolly 102.9 FM",
+      "urls": [
+        "https://ice6.securenetsystems.net/INTRADIO?type=.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/bolly-102-9-fm-radio.jpg",
+      "votes": 880
+    },
+    {
+      "name": "Bolly vibes radio",
+      "urls": [
+        "https://bollyvibes.radioca.st/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "null",
+      "votes": 221
+    },
+    {
+      "name": "bolly923fm",
+      "urls": [
+        "https://stream.zeno.fm/k4hwu4qa4qzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/bolly923fm.jpg",
+      "votes": 243
+    },
+    {
+      "name": "BollyHits Radio",
+      "urls": [
+        "https://az13.yesstreaming.net:8450/bollyhitsradio192kbps"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/88371.v5.png",
+      "votes": 66
+    },
+    {
+      "name": "Bollywood  now",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 218
+    },
+    {
+      "name": "Bollywood 2000's",
+      "urls": [
+        "https://2.mystreaming.net/uber/bollywood2000s/icecast.audio"
+      ],
+      "tags": [
+        "bollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 2017
+    },
+    {
+      "name": "Bollywood 2000's Radio",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywood2000s/icecast.audio"
+      ],
+      "tags": [
+        "bollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 301
+    },
+    {
+      "name": "Bollywood 2010's",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywood2010s/icecast.audio"
+      ],
+      "tags": [
+        "bollywood",
+        "hindi"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7155
+    },
+    {
+      "name": "bollywood 90s radio",
+      "urls": [
+        "https://stream-159.zeno.fm/rm4i9pdex3cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybTRpOXBkZXgzY3V2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlMzMHdNYU40UUZtNml2WnR3UFRhSmciLCJpYXQiOjE"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 2087
+    },
+    {
+      "name": "Bollywood Alka yagnik",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 416
+    },
+    {
+      "name": "Bollywood Armaan malik",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 178
+    },
+    {
+      "name": "Bollywood classic songs",
+      "urls": [
+        "https://node-12.zeno.fm/60ef4p33vxquv?rj-ttl=5&rj-tok=AAABc-OCFngAs_AvDsY_StEpMg"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1084
+    },
+    {
+      "name": "Bollywood Dance",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywooddance/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 392
+    },
+    {
+      "name": "Bollywood Diwali party",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 239
+    },
+    {
+      "name": "Bollywood Gaane Purane",
+      "urls": [
+        "https://stream.zeno.fm/6n6ewddtad0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg",
+      "votes": 42216
+    },
+    {
+      "name": "Bollywood Love",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 412
+    },
+    {
+      "name": "Bollywood Mix",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodmix/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 310
+    },
+    {
+      "name": "Bollywood Neha kakkar",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 156
+    },
+    {
+      "name": "BOLLYWOOD SHAHARUKH KHAN",
+      "urls": [
+        "https://2.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 307
+    },
+    {
+      "name": "Bollywood Shahruhkhan",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 107
+    },
+    {
+      "name": "Bollywood Shreya ghosal",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 170
+    },
+    {
+      "name": "bollywood Sonu nigam",
+      "urls": [
+        "https://streaming.exclusive.radio/uber/bollywoodsonunigam/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 317
+    },
+    {
+      "name": "Bollywood Vishal Shekhar",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 128
+    },
+    {
+      "name": "Bollywood Workout",
+      "urls": [
+        "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 438
+    },
+    {
+      "name": "bollywoodandbeyond",
+      "urls": [
+        "https://s6.yesstreaming.net/proxy/john1237?mp=/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/bollywoodandbeyond.jpg",
+      "votes": 2208
+    },
+    {
+      "name": "Bombay Beats Radio",
+      "urls": [
+        "https://strmreg.1.fm/bombaybeats_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/1fm-bombay-beats-radio.jpg",
+      "votes": 1705
+    },
+    {
+      "name": "Brisvaani Radio",
+      "urls": [
+        "https://centova71.instainternet.com/proxy/brisvaaniradio?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/brisvaani-radio.jpg",
+      "votes": 169
+    },
+    {
+      "name": "BritAsia Radio Punjabi",
+      "urls": [
+        "https://s4.radio.co/sfefce156f/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/brit-asia-radio-punjabi.jpg",
+      "votes": 216
+    },
+    {
+      "name": "britishindiantamilradio",
+      "urls": [
+        "https://hello.citrus3.com:2020/stream/britishindiantamilradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/britishindian.jpg",
+      "votes": 841
+    },
+    {
+      "name": "Bubais",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 59
+    },
+    {
+      "name": "Catholic Tamil Radio",
+      "urls": [
+        "https://165.22.217.209:8010/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "cheemaifm",
+      "urls": [
+        "https://stream.zeno.fm/oogj1rc9cdctv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/cheemaifm.jpg",
+      "votes": 142
+    },
+    {
+      "name": "chellam-fm",
+      "urls": [
+        "https://sugu.radioca.st/stream/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/chellamfm.jpg",
+      "votes": 157
+    },
+    {
+      "name": "Chennai FM Rainbow",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 78,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/fm-rainbow-air.jpg",
+      "votes": 189
+    },
+    {
+      "name": "chillaxfm",
+      "urls": [
+        "https://stream.zeno.fm/ohhsihm2byluv?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/chillaxfm.jpg",
+      "votes": 144
+    },
+    {
+      "name": "Chmala",
+      "urls": [
+        "https://stream-159.zeno.fm/dubvcz3rkrhvv?zs=aVDxKzveQw22WcHIuNRafQ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 74
+    },
+    {
+      "name": "cinaradio",
+      "urls": [
+        "https://ice8.securenetsystems.net/CINA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://radiosindia.com/images/cinaradio.jpg",
+      "votes": 233
+    },
+    {
+      "name": "cityfmtamil",
+      "urls": [
+        "https://stream.zeno.fm/r4znzpvskchvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/cityfmtamil.jpg",
+      "votes": 577
+    },
+    {
+      "name": "Classic Radio Bhakti Sangeet",
+      "urls": [
+        "https://stream.zeno.fm/epylmeu4zf7vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1371
+    },
+    {
+      "name": "Club Asia Radio",
+      "urls": [
+        "https://s3.citrus3.com:8320/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 185,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/club-asia-radio-hindi.jpg",
+      "votes": 290
+    },
+    {
+      "name": "clubmirchi",
+      "urls": [
+        "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/clubmirchi.jpg",
+      "votes": 87
+    },
+    {
+      "name": "Community Radio Benziger",
+      "urls": [
+        "https://icecast.octosignals.com/benziger"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiobenziger.com/wp-content/uploads/2024/04/CRB-Logo.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Covai FM",
+      "urls": [
+        "https://stream.zeno.fm/kzd2e3tx24zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/covai-fm.jpg",
+      "votes": 258
+    },
+    {
+      "name": "daBaba Radio",
+      "urls": [
+        "https://dababaradio.com/stream/dababa.m3u8"
+      ],
+      "tags": [],
+      "city": "Bihar",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Dance Asia Radio",
+      "urls": [
+        "https://s1.citrus3.com:8124/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 111
+    },
+    {
+      "name": "Desi Hits 2000s",
+      "urls": [
+        "https://www.desizoneradio.com/relay2"
+      ],
+      "tags": [
+        "2000s",
+        "bollywood",
+        "hindi",
+        "india",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 48
+    },
+    {
+      "name": "Desi World Radio",
+      "urls": [
+        "https://stream.zenolive.com/4mbfcn4mf24tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/desi-world-radio.jpg",
+      "votes": 123
+    },
+    {
+      "name": "desiworld",
+      "urls": [
+        "https://stream.zeno.fm/4mbfcn4mf24tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/desiworld.jpg",
+      "votes": 237
+    },
+    {
+      "name": "DesiZone Radio",
+      "urls": [
+        "https://www.desizoneradio.com/relay1"
+      ],
+      "tags": [
+        "bollywood",
+        "hindi",
+        "india",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "devaprasannam-radio",
+      "urls": [
+        "https://devaprasannam-a9media.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/devaprasannam.jpg",
+      "votes": 30
+    },
+    {
+      "name": "Dharisanam FM",
+      "urls": [
+        "https://stream.zeno.fm/b741tfumhm8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/Dharisanam-FM-radio.jpg",
+      "votes": 61
+    },
+    {
+      "name": "Dil FM UK",
+      "urls": [
+        "https://my4.radiolize.com/radio/8110/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/dil-fm-uk.jpg",
+      "votes": 147
+    },
+    {
+      "name": "Diverse FM",
+      "urls": [
+        "https://carol.epichosts.co.uk:8570/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/diverse-fm-hindi.jpg",
+      "votes": 4951
+    },
+    {
+      "name": "dreamzzpunjabiradio",
+      "urls": [
+        "https://c7.radioboss.fm/stream/52"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 135
+    },
+    {
+      "name": "DVN Radio",
+      "urls": [
+        "https://ice31.securenetsystems.net/DVN"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/dvn-radio.jpg",
+      "votes": 17
+    },
+    {
+      "name": "eagle-fm-hd",
+      "urls": [
+        "https://streaming.radio.co/sf833cd785/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://liveradios.in/wp-content/uploads/eaglefm.jpg",
+      "votes": 169
+    },
+    {
+      "name": "East FM 102.7 Tamil",
+      "urls": [
+        "https://centova.radioservers.biz/proxy/eastfmc1/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/east-fm-tamil.jpg",
+      "votes": 271
+    },
+    {
+      "name": "eastcoastradio",
+      "urls": [
+        "https://ecrfm-prabak78.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/eastcoastradio.jpg",
+      "votes": 72
+    },
+    {
+      "name": "Easy 96 Radio",
+      "urls": [
+        "https://ice8.securenetsystems.net/EASY96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/06/easy-96-radio.jpg",
+      "votes": 425
+    },
+    {
+      "name": "easy96fm",
+      "urls": [
+        "https://ice8.securenetsystems.net/EASY96?type=.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/easy96.jpg",
+      "votes": 147
+    },
+    {
+      "name": "ebcradio",
+      "urls": [
+        "https://ice7.securenetsystems.net/WWTR?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/ebcradio.jpg",
+      "votes": 231
+    },
+    {
+      "name": "Ente Radio",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/enteradio/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "http://enteradio.com/img/favicon.png",
+      "votes": 25
+    },
+    {
+      "name": "etr-fm",
+      "urls": [
+        "https://bud.streampanel.net:6257/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://liveradios.in/wp-content/uploads/ETRFM.jpg",
+      "votes": 74
+    },
+    {
+      "name": "evergreen-tamil-radio",
+      "urls": [
+        "https://stream.zeno.fm/2fhh49f3zf8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/evergreen-tamil-radio.jpg",
+      "votes": 947
+    },
+    {
+      "name": "exclusivebollywood",
+      "urls": [
+        "https://streaming.exclusive.radio/er/bollywood/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/exclusiveradio.jpg",
+      "votes": 415
+    },
+    {
+      "name": "Exclusively bollywood",
+      "urls": [
+        "https://nl4.mystreaming.net/er/bollywood/icecast.audio"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 169
+    },
+    {
+      "name": "eye-tamil-radio",
+      "urls": [
+        "https://streams.radio.co/s937ac5492/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/itamil.jpg",
+      "votes": 218
+    },
+    {
+      "name": "Filmy Mirchi",
+      "urls": [
+        "https://stream-142.zeno.fm/6n6ewddtad0uv?zs=cKmM_ShzRUaR2AGnxhugOg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/filmy-mirchi-hindi.jpg",
+      "votes": 1319
+    },
+    {
+      "name": "FM City 100.1",
+      "urls": [
+        "https://stream-151.zeno.fm/4yfsm0d8n98uv?zs=vPZ4f9KeRxm234lLg5HvXw"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/fmcity100.jpeg",
+      "votes": 350
+    },
+    {
+      "name": "FM Gold Mumbai",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/fmgold-mumbai.jpg",
+      "votes": 1748
+    },
+    {
+      "name": "Fm Kottarakkara",
+      "urls": [
+        "https://stream.zeno.fm/gqdb1rev5s8uv"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://imgur.com/gallery/z9ZxzYP",
+      "votes": 297
+    },
+    {
+      "name": "Fm Rainbow Delhi 32 kbps",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00432kbps.m3u8"
+      ],
+      "tags": [
+        "added by shivam",
+        "govt.",
+        "hindi",
+        "india"
+      ],
+      "city": "New Delhi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1046
+    },
+    {
+      "name": "Fm Rainbow Hyderabad",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/chunklist.m3u8"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "hyderabad",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 604
+    },
+    {
+      "name": "FM Rainbow Hyderabad",
+      "urls": [
+        "https://radio.wavespb.com/live/3a02c5c035815bb9/3a02c5c035815bb9.m3u8"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "FM Rainbow Vijayawada",
+      "urls": [
+        "https://radio.wavespb.com/live/bad174fd7eac38d0/bad174fd7eac38d0.m3u8"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://airdco.pc.cdn.bitgravity.com/images/fmrainvijayawada.jpg",
+      "votes": 9
+    },
+    {
+      "name": "FM Rainbow Visakhapatnam",
+      "urls": [
+        "https://radio.wavespb.com/live/147314c8aedf4389/147314c8aedf4389.m3u8"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "FM Simhapuri Nellore",
+      "urls": [
+        "https://radio.wavespb.com/live/8bc9175bb717c13b/8bc9175bb717c13b.m3u8"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "fm-city-100-1",
+      "urls": [
+        "https://stream-158.zeno.fm/4yfsm0d8n98uv?zs=gkh46OMDR-6sribg1nE_Ow"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://liveradios.in/wp-content/uploads/fmcity100.jpeg",
+      "votes": 50
+    },
+    {
+      "name": "fm-rainbow-tirunelveli",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 126,
+      "logo": "https://liveradios.in/wp-content/uploads/fmrainbowrirunelveli.jpg",
+      "votes": 46
+    },
+    {
+      "name": "fmgoldtamil",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 78,
+      "logo": "https://radiosindia.com/images/fmgold.jpg",
+      "votes": 189
+    },
+    {
+      "name": "fmrainbowkannada",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 366
+    },
+    {
+      "name": "fmrainbowpuducherry",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 119,
+      "logo": "https://radiosindia.com/images/fmrainbowpuducherry.jpg",
+      "votes": 61
+    },
+    {
+      "name": "FnF Hindi",
+      "urls": [
+        "https://usa1.fastcast4u.com/proxy/qrekthei?mp=/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://hi.fnf.fm/favicon.ico",
+      "votes": 257
+    },
+    {
+      "name": "fnffmbollywood",
+      "urls": [
+        "https://usa1.fastcast4u.com/proxy/qrekthei?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/fnffm.jpg",
+      "votes": 207
+    },
+    {
+      "name": "Free FM 80´s India",
+      "urls": [
+        "https://freefm80.radioca.st/"
+      ],
+      "tags": [
+        "#80s",
+        "#freefm"
+      ],
+      "city": "Mumbai",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://lh4.googleusercontent.com/acjVH3-jt6Rup86sTS16ZbClPjcB-xcVHsr-0RxPZplbCCgvPbb9WKSj2XdpcTdOCe_wzLfv9uktiQIJKkKgYc4lajlD5qKO6rSJl18sDC9yIehJREvzmK2zj9jc3V-n=w1280",
+      "votes": 1120
+    },
+    {
+      "name": "Free FM Bombay",
+      "urls": [
+        "https://rocafmadrid.radioca.st/"
+      ],
+      "tags": [
+        "#free",
+        "#freefm",
+        "1980s",
+        "2000s",
+        "70 80 hits",
+        "80",
+        "80's",
+        "80s soft rock",
+        "90's",
+        "pop en español"
+      ],
+      "city": "Maharastra",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2091
+    },
+    {
+      "name": "Free FM Top 100 India",
+      "urls": [
+        "https://stream.zeno.fm/a5h7vfret68uv"
+      ],
+      "tags": [
+        "#freefm",
+        "#top100",
+        "top 40",
+        "top hits",
+        "top40"
+      ],
+      "city": "New Delhi",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cdn.instant.audio/images/logos/emisora-org-es/free-top-100.png",
+      "votes": 897
+    },
+    {
+      "name": "friendstamilchatfm",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/dhayanib?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/friendstamilchatfm.jpg",
+      "votes": 315
+    },
+    {
+      "name": "friendstamilfm",
+      "urls": [
+        "https://usa15.fastcast4u.com/proxy/tammus00?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/friendstamilfm.jpg",
+      "votes": 807
+    },
+    {
+      "name": "funasia",
+      "urls": [
+        "https://funasia.streamguys1.com/live-1?_=1596332823914"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/funasia.jpg",
+      "votes": 155
+    },
+    {
+      "name": "Fusion Life Radio",
+      "urls": [
+        "https://c28.radioboss.fm:18046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/fusion-life-radio.jpg",
+      "votes": 207
+    },
+    {
+      "name": "Fusion Life Radio",
+      "urls": [
+        "https://c28.radioboss.fm:18046/stream?1732693607051"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 57
+    },
+    {
+      "name": "g-tamil-fm",
+      "urls": [
+        "https://gtr-unicast2u.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/gtrtamil-1.jpg",
+      "votes": 354
+    },
+    {
+      "name": "Gazal Radio London",
+      "urls": [
+        "https://streaming.webhostnepal.com/8018/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/gazal-radio-london-uk.png",
+      "votes": 854
+    },
+    {
+      "name": "Golden Voice Radio",
+      "urls": [
+        "https://stream-159.zeno.fm/s3sqemewrg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzM3NxZW1ld3JnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9Rd195TnIyUjVXa3JWVlV5TjNLV3ciLCJpYXQiOjE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 499
+    },
+    {
+      "name": "goldenvoiceradio",
+      "urls": [
+        "https://stream.zeno.fm/s3sqemewrg0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/goldenvoicefm.jpg",
+      "votes": 722
+    },
+    {
+      "name": "Goldy Bhal",
+      "urls": [
+        "https://stream.zeno.fm/rfxzab5h3p8uv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "null",
+      "votes": 185
+    },
+    {
+      "name": "Goldy Blast",
+      "urls": [
+        "https://stream.zeno.fm/d0rwvvwa6p8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/101562.v2.png",
+      "votes": 3479
+    },
+    {
+      "name": "Goldy Cool",
+      "urls": [
+        "https://stream.zeno.fm/3k1fb86tfm8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQz-qz9QkMogEEemVubw/image/%3Fresize=500x500&v=1",
+      "votes": 10001
+    },
+    {
+      "name": "Goldy Evergreen",
+      "urls": [
+        "https://stream.zeno.fm/n2fd0edh9k8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 26621
+    },
+    {
+      "name": "Goldy Garba",
+      "urls": [
+        "https://stream.zeno.fm/n0zkr7wa6p8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 989
+    },
+    {
+      "name": "Goldy Mukesh",
+      "urls": [
+        "https://stream.zeno.fm/t39watus1p8uv"
+      ],
+      "tags": [
+        "bollywood",
+        "hindu",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+      "votes": 9184
+    },
+    {
+      "name": "Goldy Sarvaani",
+      "urls": [
+        "https://stream.zeno.fm/c5bt9h37bm8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 447
+    },
+    {
+      "name": "gpsp",
+      "urls": [
+        "https://internetradio.gupshupradio.com:8080/?type=mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 83
+    },
+    {
+      "name": "GunjanRadio",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/gunjanradio.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 121
+    },
+    {
+      "name": "Gurbani Kirtan",
+      "urls": [
+        "https://gurbanikirtan.radioca.st/start.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 296
+    },
+    {
+      "name": "Gurgaon Ki Awaaz 107.8",
+      "urls": [
+        "https://gurgaonradio.out.airtime.pro/gurgaonradio_a"
+      ],
+      "tags": [
+        "added by shivam"
+      ],
+      "city": "Haryana ",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 179
+    },
+    {
+      "name": "HARAMAN BEATS 2",
+      "urls": [
+        "https://stream.zeno.fm/bxvvjamjkyfuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Hari Rama's Happy Eternal Miv",
+      "urls": [
+        "https://eternalmix.org/listen/hari_ramas_eternal_mix/radio.mp3"
+      ],
+      "tags": [
+        "full-on",
+        "goa trance",
+        "psychedelic",
+        "psytrance"
+      ],
+      "city": "Goa",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://eternalmix.org/public/hari_ramas_eternal_mix",
+      "votes": 4
+    },
+    {
+      "name": "HARMAN BEASTS",
+      "urls": [
+        "https://stream.zeno.fm/jmi0hwxrgmauv"
+      ],
+      "tags": [
+        "hindi bollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "HARMAN DJ",
+      "urls": [
+        "https://stream.zeno.fm/rtgshmfgkmtuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "harris-jeyaraj",
+      "urls": [
+        "https://stream.zeno.fm/0bhsthssutzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/harrisjayaraj.jpg",
+      "votes": 171
+    },
+    {
+      "name": "HawaMahal Radio",
+      "urls": [
+        "https://stream-154.zeno.fm/csw7fv7sz1zuv?zs=ABfIaXh5T-65UHo9uTNoAQ"
+      ],
+      "tags": [
+        "added by shivam",
+        "bollywood",
+        "hindi",
+        "music"
+      ],
+      "city": "Rajasthan",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 308
+    },
+    {
+      "name": "healer-radio",
+      "urls": [
+        "https://c13.radioboss.fm:8552/healerradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://liveradios.in/wp-content/uploads/Healer.jpg",
+      "votes": 41
+    },
+    {
+      "name": "Heaven Radio (India)",
+      "urls": [
+        "https://stream.zeno.fm/eequgfw72hhvv"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_224x224/https://images.zeno.fm/ZvwKV5o8Nw0uPgMCeoHfHglTNDfeQjxLQF93yJHfbJ0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsdGlDbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lscWlLb0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczMzkzNDk3ODAwMA.webp",
+      "votes": 203
+    },
+    {
+      "name": "Himal Radio",
+      "urls": [
+        "https://streaming.webhostnepal.com/8020/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 72,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/himal-radio-hindi-filmy-songs.jpg",
+      "votes": 479
+    },
+    {
+      "name": "Hindi Gold Radio",
+      "urls": [
+        "https://azuracast.vibesounds.in:8010/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/hindi-gold-radio.jpg",
+      "votes": 7701
+    },
+    {
+      "name": "Hindi Retro",
+      "urls": [
+        "https://stream.zeno.fm/v2zfmxef798uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/mirchi-retro-hindi.jpg",
+      "votes": 5265
+    },
+    {
+      "name": "hindiretro",
+      "urls": [
+        "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/hindiretro.jpg",
+      "votes": 206
+    },
+    {
+      "name": "Hindvani FM",
+      "urls": [
+        "https://edge.iono.fm/xice/129_medium.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/hindvani-fm.jpg",
+      "votes": 447
+    },
+    {
+      "name": "Hits of Bollywood",
+      "urls": [
+        "https://stream.zeno.fm/a2gyqzwpwfeuv"
+      ],
+      "tags": [],
+      "city": "Gujarat",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://listen.zeno.fm/favicon.ico",
+      "votes": 119
+    },
+    {
+      "name": "Hitsbollywood",
+      "urls": [
+        "https://stream-164.zeno.fm/rqqps6cbe3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycXFwczZjYmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik92MjllQWlLUjd1ZU9YU1hmYXZhX3ciLCJpYXQiOjE"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 258
+    },
+    {
+      "name": "hitsbollywood",
+      "urls": [
+        "https://node-14.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-tok=AAABccQyYG8AGJ3KW_903AafBw"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/hitsbollywood.jpg",
+      "votes": 366
+    },
+    {
+      "name": "hitsofbollywood",
+      "urls": [
+        "https://node-08.zeno.fm/a2gyqzwpwfeuv.aac?rj-ttl=5&rj-tok=AAABc6yhYroA-BQkZAca7Yj0jA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/hitsofbollywood.jpg",
+      "votes": 1127
+    },
+    {
+      "name": "Hot Now Bangla",
+      "urls": [
+        "https://stream.radiotreetal.com/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/02/hot-now-bangla-fm.jpg",
+      "votes": 899
+    },
+    {
+      "name": "humsafar",
+      "urls": [
+        "https://ice2.securenetsystems.net/HUMSAFAR"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": "https://radiosindia.com/images/humsafar.jpg",
+      "votes": 166
+    },
+    {
+      "name": "ibc-tamil-radio",
+      "urls": [
+        "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/ibctamil.jpg",
+      "votes": 165
+    },
+    {
+      "name": "ilctamil",
+      "urls": [
+        "https://stream.zeno.fm/vewxk5336qzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/ilctamil.jpg",
+      "votes": 121
+    },
+    {
+      "name": "imaifm",
+      "urls": [
+        "https://centova71.instainternet.com/proxy/imaifmradio?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiosindia.com/images/imaifm.jpg",
+      "votes": 152
+    },
+    {
+      "name": "Inbam fm",
+      "urls": [
+        "https://stream.radio.co/sf55ced545/listen"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.inbamfm.com/images/ico/favicon.ico",
+      "votes": 201
+    },
+    {
+      "name": "inbathamil-oli",
+      "urls": [
+        "https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://liveradios.in/wp-content/uploads/inbathamiloli.jpg",
+      "votes": 74
+    },
+    {
+      "name": "indi fun radio",
+      "urls": [
+        "https://onlineradiobox.com/json/in/indifun/play?platform=web"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiobox.com/favicon.ico",
+      "votes": 139
+    },
+    {
+      "name": "indianlinkradio",
+      "urls": [
+        "https://indianlink1.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/indianlinkradio.jpg",
+      "votes": 1072
+    },
+    {
+      "name": "instrumental-music-radio",
+      "urls": [
+        "https://azuracast.vibesounds.in:8030/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/instrumental.jpg",
+      "votes": 499
+    },
+    {
+      "name": "isai-fm",
+      "urls": [
+        "https://stream.zeno.fm/7b78sdv2x1zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/isai-fm.jpg",
+      "votes": 213
+    },
+    {
+      "name": "isaiolifm",
+      "urls": [
+        "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1691245966241"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/isaiolifmnew.jpg",
+      "votes": 152
+    },
+    {
+      "name": "isaiyaruvi-fm",
+      "urls": [
+        "https://cp1.hostcrate.com/8910/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/isai.jpg",
+      "votes": 152
+    },
+    {
+      "name": "Jaipur radio",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/jaipurradio.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 107
+    },
+    {
+      "name": "JANVANI 90.8 FM",
+      "urls": [
+        "https://radiosavre.com:8060/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://janvanifm.com/img/logo.png",
+      "votes": 10
+    },
+    {
+      "name": "jehovahrapha-fm",
+      "urls": [
+        "https://c22.radioboss.fm:8532/jehovahrapha"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://liveradios.in/wp-content/uploads/512-X-512.jpg",
+      "votes": 41
+    },
+    {
+      "name": "jeifm",
+      "urls": [
+        "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiosindia.com/images/jeifm.jpg",
+      "votes": 94
+    },
+    {
+      "name": "Jesus Radio Malayalam",
+      "urls": [
+        "https://gains.reviveradio.net/proxy/jesusreigns?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/JesusRadio.jpg",
+      "votes": 81
+    },
+    {
+      "name": "Kaathoram Live",
+      "urls": [
+        "https://c30.radioboss.fm/stream/560"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kaathoramlive.com/wp-content/uploads/2022/09/KAATHORAM-LOGO-WHITE-e1663329502764.png.webp",
+      "votes": 92
+    },
+    {
+      "name": "Kalabhavan Mani Radio",
+      "urls": [
+        "https://stream.zeno.fm/s6hhy943w0hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/mani-radio.jpg",
+      "votes": 104
+    },
+    {
+      "name": "Kalai Fm-TAMIL",
+      "urls": [
+        "https://stream.zenolive.com/2vghnwshsqzuv.aac"
+      ],
+      "tags": [
+        "entertainment",
+        "fun",
+        "live",
+        "online"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6350
+    },
+    {
+      "name": "Kalighat Radio",
+      "urls": [
+        "https://stream.zeno.fm/60ef4p33vxquv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobarfi.com/wp-content/uploads/2022/05/Kalighat-Radio-online.webp",
+      "votes": 311
+    },
+    {
+      "name": "Kancheeravam Radio",
+      "urls": [
+        "https://radiosavre.com:8020/radio.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "malayalam",
+        "malayalam song",
+        "popular",
+        "vividhbharti"
+      ],
+      "city": "Kerala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/kancheeravamradio.jpg",
+      "votes": 97
+    },
+    {
+      "name": "kannadahits",
+      "urls": [
+        "https://stream.zeno.fm/68snnbug8rhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/https://radiosindia.com/images/kannadahits.jpg",
+      "votes": 944
+    },
+    {
+      "name": "Kathiravan Fm",
+      "urls": [
+        "https://kathiravanfm-prabak78.radioca.st/stream"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kathiravanfm.com/",
+      "votes": 154
+    },
+    {
+      "name": "Kishore Kumar Radio",
+      "urls": [
+        "https://stream-48.zeno.fm/0ghtfp8ztm0uv?zs=Kr_rJK1kSsKPKeUo9zgTxw&rj-ttl=5&rj-tok=AAABefQSIpIAGxcgV3Wv5gK8Kg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1431
+    },
+    {
+      "name": "kishorekumarradio",
+      "urls": [
+        "https://stream.zeno.fm/0ghtfp8ztm0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/kishorekumarradio.jpg",
+      "votes": 3186
+    },
+    {
+      "name": "KJ Yesudas Malayalam radio",
+      "urls": [
+        "https://stream.zeno.fm/9x1sw687nf9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/Yesudas-Radio.jpg",
+      "votes": 1159
+    },
+    {
+      "name": "kodaifm",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 78,
+      "logo": "https://radiosindia.com/images/kodaifm.jpg",
+      "votes": 79
+    },
+    {
+      "name": "Kripalu Bhakti Dhara Radio",
+      "urls": [
+        "https://kbd.out.airtime.pro/kbd_b"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://radio.jkp.org.in/online-radio_files/head-logo.png",
+      "votes": 122
+    },
+    {
+      "name": "KRPI Ferndale 1550 AM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "KS CHITRA",
+      "urls": [
+        "https://stream-46.zeno.fm/aad4e51qz7zuv?zs=KFvl1-YuQkuqY2m7VeO4hQ"
+      ],
+      "tags": [
+        "chitra",
+        "south india",
+        "tamil"
+      ],
+      "city": "Tamil India",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 1972
+    },
+    {
+      "name": "ks-chitra-radio",
+      "urls": [
+        "https://stream.zeno.fm/aad4e51qz7zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/ks-chitra.jpg",
+      "votes": 605
+    },
+    {
+      "name": "kummalamradio",
+      "urls": [
+        "https://kummalam.stream.laut.fm/kummalam"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/kummalamradio.jpg",
+      "votes": 240
+    },
+    {
+      "name": "lankasri-fm",
+      "urls": [
+        "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/lankasrifm.jpg",
+      "votes": 97
+    },
+    {
+      "name": "latamangeshkarradio",
+      "urls": [
+        "https://stream.zeno.fm/87xam8pf7tzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/latamangeshkarradio.jpg",
+      "votes": 4511
+    },
+    {
+      "name": "Layka Radio",
+      "urls": [
+        "https://listen-lycaradio.sharp-stream.com/1035.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 109
+    },
+    {
+      "name": "leaderfm",
+      "urls": [
+        "https://stream.zeno.fm/wg4b845c2wzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/theleaderfm.jpg",
+      "votes": 111
+    },
+    {
+      "name": "life-fm",
+      "urls": [
+        "https://stream.zeno.fm/37tsftts91zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://liveradios.in/wp-content/uploads/life-fm.jpg",
+      "votes": 99
+    },
+    {
+      "name": "lifefmkarur",
+      "urls": [
+        "https://stream.zeno.fm/k0qrmtts91zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiosindia.com/images/lifefmkarur.jpg",
+      "votes": 103
+    },
+    {
+      "name": "Live Gurbani - Sri Darbar Sahib (SGPC)",
+      "urls": [
+        "https://live.sgpc.net:8443/;stream.mp3"
+      ],
+      "tags": [
+        "amritsar",
+        "gurbani",
+        "live",
+        "religious",
+        "sikhism"
+      ],
+      "city": "Punjab",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://sgpc.net/wp-content/uploads/2014/05/logo.png",
+      "votes": 8
+    },
+    {
+      "name": "Live Kirtan Sri Harmander Sahib",
+      "urls": [
+        "https://live.sgpc.net:8442/"
+      ],
+      "tags": [],
+      "city": "Punjab",
+      "codec": "AAC+",
+      "bitrate": 28,
+      "logo": "https://sgpc.net/wp-content/uploads/2021/12/cropped-sgpc-logo-copy-removebg-preview-180x180.png",
+      "votes": 84
+    },
+    {
+      "name": "Live Kirtan Sri Harmandir Sahib",
+      "urls": [
+        "https://live.sgpc.net:8443/;nocache=889869"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 197
+    },
+    {
+      "name": "Live Kirtan Sri Harmandir Sahib",
+      "urls": [
+        "https://live.sgpc.net:8443/;nocache=889896"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "null",
+      "votes": 101
+    },
+    {
+      "name": "lmrradio",
+      "urls": [
+        "https://ais-edge51-live365-dal02.cdnstream.com/a50671"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/lmrradio.jpg",
+      "votes": 43
+    },
+    {
+      "name": "London Malayalam Radio",
+      "urls": [
+        "https://ais-edge105-live365-dal02.cdnstream.com/a50671"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.lmrradio.co.uk/wp-content/uploads/2020/12/cropped-lmrlogo-new2-180x180.png",
+      "votes": 681
+    },
+    {
+      "name": "London Telugu Radio",
+      "urls": [
+        "https://c8.radioboss.fm/stream/33"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1131
+    },
+    {
+      "name": "London Telugu Radio",
+      "urls": [
+        "https://c14.radioboss.fm:8033/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://c14.radioboss.fm/stationlogo/33.jpg?r=49",
+      "votes": 26
+    },
+    {
+      "name": "Love Station Odisha",
+      "urls": [
+        "https://stream-156.zeno.fm/dkpdmc8e0chvv?zs=uhX7-GwNR1-D5EAX_NJ1lQ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/love-station.jpg",
+      "votes": 132
+    },
+    {
+      "name": "luminous-radio",
+      "urls": [
+        "https://patmos.cdnstream.com/proxy/luminous/?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/luminousradiomalayalam.jpg",
+      "votes": 24
+    },
+    {
+      "name": "Lyca Radio 1458 AM",
+      "urls": [
+        "https://ads-direct.sharp-stream.com/1458.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/lyca-radio-1458-am-hindi.jpg",
+      "votes": 372
+    },
+    {
+      "name": "lycaradio",
+      "urls": [
+        "https://tx.sharp-stream.com/http_live.php?i=1458.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/lycaradio.jpg",
+      "votes": 161
+    },
+    {
+      "name": "Madhur radio",
+      "urls": [
+        "https://stream.zeno.fm/yv2k0dp18vzuv"
+      ],
+      "tags": [
+        "madhur radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 177
+    },
+    {
+      "name": "maduraifm",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 119,
+      "logo": "https://radiosindia.com/images/air.jpg",
+      "votes": 88
+    },
+    {
+      "name": "magizhchi-fm",
+      "urls": [
+        "https://usa15.fastcast4u.com/proxy/magizhchifm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/magizhchifm.jpg",
+      "votes": 151
+    },
+    {
+      "name": "mala90",
+      "urls": [
+        "https://stream.zeno.fm/gm3g9amzm0hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 211
+    },
+    {
+      "name": "malayalambhakthiradio",
+      "urls": [
+        "https://stream.zeno.fm/08e1vkshcc9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/iyalisaibakthiradio.jpg",
+      "votes": 357
+    },
+    {
+      "name": "malayalammusic",
+      "urls": [
+        "https://stream.zeno.fm/g8cx7tggb3quv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/malayalammusic.jpg",
+      "votes": 379
+    },
+    {
+      "name": "malever",
+      "urls": [
+        "https://stream-158.zeno.fm/5u6gkp9sp0hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 66
+    },
+    {
+      "name": "malysadan",
+      "urls": [
+        "https://stream-153.zeno.fm/8g9nvr1rkrhvv?zs=96ocfKngQau54X0QIaJgkA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 90
+    },
+    {
+      "name": "marymatharadio",
+      "urls": [
+        "https://stream.zeno.fm/g5ay9q4dgrruv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/marymatha.jpg",
+      "votes": 24
+    },
+    {
+      "name": "mazhai-fm",
+      "urls": [
+        "https://stream.zeno.fm/yu4c9ms3h2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/mazhai-fm.jpg",
+      "votes": 112
+    },
+    {
+      "name": "mega-zone-south",
+      "urls": [
+        "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/megazonesouthnew.jpg",
+      "votes": 60
+    },
+    {
+      "name": "mellisai-fm",
+      "urls": [
+        "https://stream.zeno.fm/e9hsbbbey4zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": "https://liveradios.in/wp-content/uploads/mellisaifm.jpg",
+      "votes": 203
+    },
+    {
+      "name": "Minnal FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/minnal-fm.jpg",
+      "votes": 384
+    },
+    {
+      "name": "Mirchi Love",
+      "urls": [
+        "https://drive.uber.radio/uber/lrbollywood/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/mirchilove-1.jpg",
+      "votes": 1761
+    },
+    {
+      "name": "Mirchi One 89.6 Qatar",
+      "urls": [
+        "https://streams.radio.co/s8d06d0298/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/mirchi-one-qatar.jpg",
+      "votes": 1018
+    },
+    {
+      "name": "mixify",
+      "urls": [
+        "https://server.mixify.in/listen/evergreen/radio.mp3"
+      ],
+      "tags": [
+        "jjk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 289
+    },
+    {
+      "name": "mixify",
+      "urls": [
+        "https://server.mixify.in/listen/listen/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/mixify.jpg",
+      "votes": 426
+    },
+    {
+      "name": "Mixify Bengali Hits",
+      "urls": [
+        "https://server.mixify.in/listen/bangla/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 172
+    },
+    {
+      "name": "Mixify English Hits",
+      "urls": [
+        "https://server.mixify.in/listen/english/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 83
+    },
+    {
+      "name": "MixiFy Evergreen Hits",
+      "urls": [
+        "https://server.mixify.in:8010/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/mixiFy-evergreen-hits.jpg",
+      "votes": 606
+    },
+    {
+      "name": "Mixify Hindi",
+      "urls": [
+        "https://server.mixify.in/listen/new_hits/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 533
+    },
+    {
+      "name": "Mohabbat Radio",
+      "urls": [
+        "https://stream.zeno.fm/t2ekq8zsgtzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 584
+    },
+    {
+      "name": "Mohammed Rafi",
+      "urls": [
+        "https://stream.zeno.fm/6yqvumgfxtzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 2548
+    },
+    {
+      "name": "Mohan Radio",
+      "urls": [
+        "https://psrlive4.listenon.in/mohan?station=mohanradio"
+      ],
+      "tags": [
+        "mohan hits",
+        "tamil"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 303
+    },
+    {
+      "name": "mohanhits",
+      "urls": [
+        "https://stream.zeno.fm/wkqvzsg1238uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/mohan-radio.jpg",
+      "votes": 116
+    },
+    {
+      "name": "Mohanlal hits",
+      "urls": [
+        "https://stream.zeno.fm/5vva7u4ts0quv"
+      ],
+      "tags": [],
+      "city": "kerala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 212
+    },
+    {
+      "name": "mtrfm",
+      "urls": [
+        "https://radio.mediacp.eu/stream/mtr-fm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/mtrfm.jpg",
+      "votes": 67
+    },
+    {
+      "name": "Mukesh Radio",
+      "urls": [
+        "https://stream-014.zeno.fm/mrcz5sus1p8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 1181
+    },
+    {
+      "name": "mukil-fm",
+      "urls": [
+        "https://stream.zeno.fm/9s8119m1rzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/mukilfm.jpg",
+      "votes": 108
+    },
+    {
+      "name": "mukil-fm-radio",
+      "urls": [
+        "https://stream.zeno.fm/phv06yfkwzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/mukil-fm-radio.jpg",
+      "votes": 86
+    },
+    {
+      "name": "muthamil-fm-88-9-hd3",
+      "urls": [
+        "https://ec4.yesstreaming.net:1990/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/muthamilfm.jpg",
+      "votes": 123
+    },
+    {
+      "name": "muthamilradio",
+      "urls": [
+        "https://ec2.yesstreaming.net:2540/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/muthamilradio.jpg",
+      "votes": 87
+    },
+    {
+      "name": "My Radio DJ",
+      "urls": [
+        "https://stream.zeno.fm/84h97t3ewg0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/my-radio-dj.jpg",
+      "votes": 1844
+    },
+    {
+      "name": "N P 24 radio",
+      "urls": [
+        "https://stream.zeno.fm/8wk1s0pt008uv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 205
+    },
+    {
+      "name": "N Radio Live",
+      "urls": [
+        "https://stream.zeno.fm/4yfsm0d8n98uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/NRadioLive.jpg",
+      "votes": 71
+    },
+    {
+      "name": "nakshatraradio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NAKSHATRA_S01AAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/nakshatraradio.jpg",
+      "votes": 97
+    },
+    {
+      "name": "Namm radio Kannada",
+      "urls": [
+        "https://stream.zenolive.com/bbs8prb015quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/naam-radio-kannada.jpg",
+      "votes": 320
+    },
+    {
+      "name": "Nanban FM",
+      "urls": [
+        "https://nanbanfm-unicast2u.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/nanban-fm.jpg",
+      "votes": 114
+    },
+    {
+      "name": "ndtv",
+      "urls": [
+        "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1577
+    },
+    {
+      "name": "ndtvProfit",
+      "urls": [
+        "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
+      ],
+      "tags": [
+        "india",
+        "tv"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 5882,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "nesaganam",
+      "urls": [
+        "https://usa9.fastcast4u.com/proxy/nesaganam?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiosindia.com/images/nesaganam.jpg",
+      "votes": 103
+    },
+    {
+      "name": "New Hits of Bollywood",
+      "urls": [
+        "https://stream-291.surfernetwork.com/rqqps6cbe3quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/Hits-Of-Bollywood.jpg",
+      "votes": 7
+    },
+    {
+      "name": "New Hits Of Bollywood",
+      "urls": [
+        "https://stream-146.zeno.fm/rqqps6cbe3quv?zs=loHp_DNyRPiAxC52AL95hg"
+      ],
+      "tags": [],
+      "city": "Mumbai",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3898
+    },
+    {
+      "name": "njsunriseradio",
+      "urls": [
+        "https://njsunrise.out.airtime.pro/njsunrise_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/njsunriseradio.jpg",
+      "votes": 111
+    },
+    {
+      "name": "Nostalgic Bollywood 90s",
+      "urls": [
+        "https://www.desizoneradio.com/relay3"
+      ],
+      "tags": [
+        "90s",
+        "bollywood",
+        "hindi",
+        "india",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 173
+    },
+    {
+      "name": "Odisha Radio",
+      "urls": [
+        "https://stream.zeno.fm/x23ttc8e0chvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/odisha-radio.jpg",
+      "votes": 167
+    },
+    {
+      "name": "oli-fm",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://liveradios.in/wp-content/uploads/olifmnew.jpg",
+      "votes": 62
+    },
+    {
+      "name": "Om Radio Singapore",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/om-radio.jpg",
+      "votes": 159
+    },
+    {
+      "name": "pattas-radio",
+      "urls": [
+        "https://usa2.fastcast4u.com/proxy/tamilsun?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://liveradios.in/wp-content/uploads/pattas-radio-1.jpg",
+      "votes": 159
+    },
+    {
+      "name": "Peace Radio",
+      "urls": [
+        "https://peaceradio.out.airtime.pro/peaceradio_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/PeaceRadio.jpg",
+      "votes": 52
+    },
+    {
+      "name": "Pew Hits Desi",
+      "urls": [
+        "https://pewhits.duckdns.org/stream/pewhitsdesi"
+      ],
+      "tags": [
+        "bollywood"
+      ],
+      "city": "Maharashtra",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Pew_Hits",
+      "urls": [
+        "https://pewhits.duckdns.org/stream/pewhits"
+      ],
+      "tags": [
+        "hollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "pollachifm",
+      "urls": [
+        "https://stream.zeno.fm/f29eh57d3qzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/pollachifm.jpg",
+      "votes": 225
+    },
+    {
+      "name": "pothikaifm",
+      "urls": [
+        "https://mars.streamerr.co/8274/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/pothikaifm.jpg",
+      "votes": 124
+    },
+    {
+      "name": "pozhil-fm",
+      "urls": [
+        "https://stream.zeno.fm/ssnf4ya44d0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/pozhilfm.jpg",
+      "votes": 43
+    },
+    {
+      "name": "pranayamradio",
+      "urls": [
+        "https://stream.zeno.fm/g2zves9gdwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/pranayamradio.jpg",
+      "votes": 81
+    },
+    {
+      "name": "psalmsradio",
+      "urls": [
+        "https://s2.citrus3.com:8046/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://radiosindia.com/images/psalmsradio.jpg",
+      "votes": 41
+    },
+    {
+      "name": "pudugai-isai-fm",
+      "urls": [
+        "https://pudhugaisaifm-prabak78.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/pudugaiisaifm.jpg",
+      "votes": 135
+    },
+    {
+      "name": "Puerile awaz 107.8FM",
+      "urls": [
+        "https://icecast.bkwsu.eu/radio-awaz-pune.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 174,
+      "logo": "null",
+      "votes": 110
+    },
+    {
+      "name": "Radio 24",
+      "urls": [
+        "https://s7.everestcast.com:1155/stream"
+      ],
+      "tags": [
+        "bollywood",
+        "bollywood music",
+        "hindi bollywood"
+      ],
+      "city": "Maharashtra",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 153
+    },
+    {
+      "name": "Radio 4 Public Health",
+      "urls": [
+        "https://cast4.my-control-panel.com/proxy/demo4usv/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/radio4-public-health.jpg",
+      "votes": 112
+    },
+    {
+      "name": "Radio 88 Jazz",
+      "urls": [
+        "https://stream.zeno.fm/qk5gr16529duv"
+      ],
+      "tags": [],
+      "city": "Karnataka",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/fb7aee_c6e3e8a507be496ab9e897b64b794efc~mv2.png/v1/fill/w_16,h_16,al_c,q_85,enc_auto/favicon-16x16.pnghttps://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAwOeBigsMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDyiAoMogEEemVubw/cards/57685342-e41a-4313-902a-09bf92c36e3b",
+      "votes": 9
+    },
+    {
+      "name": "Radio 90.5 FM",
+      "urls": [
+        "https://ice42.securenetsystems.net/CR90"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/09/radio-90.5-fm.jpg",
+      "votes": 935
+    },
+    {
+      "name": "Radio Active 90.4 FM",
+      "urls": [
+        "https://stream.zeno.fm/xwhhyc5nyk8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-active-90-4-fm.jpg",
+      "votes": 603
+    },
+    {
+      "name": "Radio AmchiKONKANI",
+      "urls": [
+        "https://eu9.fastcast4u.com/proxy/alfagodwin?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://amchikonkani.com/wp-content/uploads/2021/03/RadioAmchiKONKANI_Logo-1.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Radio AMR Kannada",
+      "urls": [
+        "https://stream.zenolive.com/7g8axtgtsg0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/amr.jpg",
+      "votes": 760
+    },
+    {
+      "name": "Radio asikakana",
+      "urls": [
+        "https://mars.streamerr.co/8154/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Uttar Pradesh",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/radios-150px/886/radio-aashiqanaa.581964b8.png",
+      "votes": 21
+    },
+    {
+      "name": "Radio Azad",
+      "urls": [
+        "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/radio-azad.jpg",
+      "votes": 221
+    },
+    {
+      "name": "Radio Badal",
+      "urls": [
+        "https://stream.zeno.fm/nhrtcxg09u8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-badal-fm.jpg",
+      "votes": 2668
+    },
+    {
+      "name": "Radio Bangla Net",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/02/radio-bangla-net.png",
+      "votes": 992
+    },
+    {
+      "name": "Radio Beat Malayalam",
+      "urls": [
+        "https://listen.openstream.co/3372/audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobeat.in/images/web_rbt_logo.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Radio Bhumi",
+      "urls": [
+        "https://stream.zeno.fm/ybf1umk1k18uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/02/radio-bhumi.jpg",
+      "votes": 191
+    },
+    {
+      "name": "Radio Bolly fm",
+      "urls": [
+        "https://stream.zeno.fm/zu59ykebs2zuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 183
+    },
+    {
+      "name": "Radio Bollywood Gaane Purane",
+      "urls": [
+        "https://stream-145.zeno.fm/6n6ewddtad0uv?zs=Hc47dloSRx-vBgJnNOT8DA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg",
+      "votes": 2418
+    },
+    {
+      "name": "Radio Bollywood Gaane Purane",
+      "urls": [
+        "https://stream.zeno.fm/hem5rrfn07zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 357
+    },
+    {
+      "name": "Radio Bula Masti",
+      "urls": [
+        "https://c7.radioboss.fm:18052/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/radio-bula-masti.jpg",
+      "votes": 389
+    },
+    {
+      "name": "Radio BulBul",
+      "urls": [
+        "https://stream.zeno.fm/1t5ceyhcxbruv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-bulbul.jpg",
+      "votes": 144
+    },
+    {
+      "name": "Radio Caravan",
+      "urls": [
+        "https://stream.voxx.pro/radio/8260/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/radio-caravan-hindi.jpg",
+      "votes": 312
+    },
+    {
+      "name": "Radio Central 24",
+      "urls": [
+        "https://casper.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/radio-central-24.jpg",
+      "votes": 204
+    },
+    {
+      "name": "Radio Chinar 90.4FM",
+      "urls": [
+        "https://d3413g2ooyoexr.cloudfront.net/radiochinar.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://radiochinar.com/wp-content/uploads/2025/05/Resized_Radio_Chinar_250x250.jpg",
+      "votes": 22
+    },
+    {
+      "name": "Radio Deewana",
+      "urls": [
+        "https://stream.zeno.fm/x1q3r3qdxy8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/radio-deewana.jpg",
+      "votes": 278
+    },
+    {
+      "name": "Radio Dhwani",
+      "urls": [
+        "https://static.s123-cdn-static-c.com/uploads/2568273/normal_5d8ba39d1261c.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/radio-dhwani.jpg",
+      "votes": 183
+    },
+    {
+      "name": "Radio Digital Malayali",
+      "urls": [
+        "https://radio.digitalmalayali.in/listen/stream/radio.mp3"
+      ],
+      "tags": [
+        "bollywood",
+        "hindi",
+        "indian",
+        "kollywood",
+        "lo-fi",
+        "lofi",
+        "malayalam",
+        "mollywood",
+        "tamil"
+      ],
+      "city": "kerala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.digitalmalayali.in/static/uploads/album_art.1688135987.jpg",
+      "votes": 189
+    },
+    {
+      "name": "Radio Dil",
+      "urls": [
+        "https://us3.streamingpulse.com/ssl/radiodil2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/radio-dil.jpg",
+      "votes": 224
+    },
+    {
+      "name": "Radio DS mumbai",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/radiods.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 80
+    },
+    {
+      "name": "RADIO FUERZA 3",
+      "urls": [
+        "https://vivo.miradio.in:7039/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Gaana",
+      "urls": [
+        "https://sp14.instainternet.com/8044/stream"
+      ],
+      "tags": [
+        "90s",
+        "bollywood",
+        "retro"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 104,
+      "logo": "https://radiohotstar.com/logo2.png",
+      "votes": 19
+    },
+    {
+      "name": "Radio Garhwani",
+      "urls": [
+        "https://crs.uou.ac.in/listen/_radio_garhvani_90.8_fm/radio.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Girmit Kannada",
+      "urls": [
+        "https://stream.radiojar.com/g6dgm6m6p3hvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/radio-girmit-kannada.jpg",
+      "votes": 332
+    },
+    {
+      "name": "Radio Gyansthali 89.6 FM",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/gyansthali.aac"
+      ],
+      "tags": [
+        "added by shivam",
+        "bollywood",
+        "community radio",
+        "music"
+      ],
+      "city": "Uttar Pradesh",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 147
+    },
+    {
+      "name": "Radio Hotstar",
+      "urls": [
+        "https://leo.streamerr.co/8004/stream"
+      ],
+      "tags": [
+        "90s",
+        "love"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiohotstar.com/logo.png",
+      "votes": 56
+    },
+    {
+      "name": "Radio Humsafar 1350 AM",
+      "urls": [
+        "https://ice66.securenetsystems.net/CIRF"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/humsafar-radio.jpg",
+      "votes": 114
+    },
+    {
+      "name": "Radio Hungama Bollywood Dil Se",
+      "urls": [
+        "https://stream.zeno.fm/143d7gty24zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/bollywood-dilse.jpg",
+      "votes": 3792
+    },
+    {
+      "name": "Radio Indigo 91.9 FM in Panaji/Bangalore",
+      "urls": [
+        "https://a5.asurahosting.com:8600/radio.mp3"
+      ],
+      "tags": [
+        "hiphop",
+        "smooth"
+      ],
+      "city": "Karnataka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Radio Ishara",
+      "urls": [
+        "https://a8.asurahosting.com:7030/radio.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 117
+    },
+    {
+      "name": "Radio Jagriti 90.4 FM",
+      "urls": [
+        "https://stream.zeno.fm/kgdue4hmffhvv"
+      ],
+      "tags": [],
+      "city": "Giridih , Jharkhand",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/88622.v7.png",
+      "votes": 1620
+    },
+    {
+      "name": "Radio Kasoot Live",
+      "urls": [
+        "https://azuracast.radiokasoot.com/radio/8000/listen"
+      ],
+      "tags": [
+        "haryanvi"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 63
+    },
+    {
+      "name": "Radio Keral",
+      "urls": [
+        "https://ice31.securenetsystems.net/RADIOKERAL"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 98
+    },
+    {
+      "name": "Radio Kesari 90.0 FM",
+      "urls": [
+        "https://stream.zeno.fm/7yhq985hnxhvv"
+      ],
+      "tags": [
+        "bhojpuri"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1030
+    },
+    {
+      "name": "Radio Khushbu",
+      "urls": [
+        "https://radio.pblab.in/radiokhushbu"
+      ],
+      "tags": [
+        "90's",
+        "bollywood",
+        "indian",
+        "kollywood"
+      ],
+      "city": "Chhattishgarh",
+      "codec": "AAC",
+      "bitrate": 20,
+      "logo": "https://pblab.in/radio-khushbu-logo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Radio Khushi",
+      "urls": [
+        "https://stream.zeno.fm/etf3x2h5rrhvv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 119
+    },
+    {
+      "name": "Radio Kochi",
+      "urls": [
+        "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 84
+    },
+    {
+      "name": "Radio Krishna",
+      "urls": [
+        "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4"
+      ],
+      "tags": [
+        "hindu"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://radio.garden/public/icons/ios/ios-appicon-152-152.png",
+      "votes": 864
+    },
+    {
+      "name": "Radio Macfast",
+      "urls": [
+        "https://icecast.octosignals.com/radiomacfast"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiomacfast.org/img/radiomacfast_logo.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Madhoshi",
+      "urls": [
+        "https://stream.zeno.fm/7rsl8fsccf8uv"
+      ],
+      "tags": [
+        "bollywood",
+        "bollywood hits",
+        "bollywood music",
+        "hindi bollywood",
+        "romantic",
+        "romantic music"
+      ],
+      "city": "New Delhi",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.imgur.com/A63NmLk.png",
+      "votes": 38
+    },
+    {
+      "name": "Radio Maharani",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/radiomaharani.aac"
+      ],
+      "tags": [
+        "added by shivam",
+        "hindi",
+        "music",
+        "talk"
+      ],
+      "city": "Haryana ",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 442
+    },
+    {
+      "name": "Radio Malabar",
+      "urls": [
+        "https://d98pmgd7by0qx.cloudfront.net/radiomalabar.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "Radio Mango",
+      "urls": [
+        "https://downloads.manoramaonline.com/Audios/Radiomango/Main-jingle.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://img.radiomango.fm/content/dam/radiomango/commonimages/radio-mango-logo-white.svg",
+      "votes": 30
+    },
+    {
+      "name": "Radio Manpasand",
+      "urls": [
+        "https://c5.radioboss.fm:18125/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/radio-manpasand-hindi.jpg",
+      "votes": 759
+    },
+    {
+      "name": "Radio Mata Ji (Durga Laxmi)",
+      "urls": [
+        "https://ibadat.out.airtime.pro/ibadat_a?fbclid=IwAR2lnBbSVZVTRowXxo0eAfNP98LktcxgsqUaxNrCBmqjgmkGYWoDj11Zy7o"
+      ],
+      "tags": [
+        "mata laxmi durga"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 179
+    },
+    {
+      "name": "Radio Mirchi Hindi",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-mirchi-hindi-fm.jpg",
+      "votes": 15405
+    },
+    {
+      "name": "Radio Mirchi Lucknow",
+      "urls": [
+        "https://stream-284.surfernetwork.com/wgaznsmt92quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Z2F6bnNtdDkycXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMTkRwYXZ3OVR1eXhLc2NGbllucG9RIiwiaWF0IjoxNzg0MTkxMjUyLCJleHAiOjE3ODQxOTEzMTJ9.DRVDJc3m4PiAGfCN-9SiCsWcbLpZjtfIxcfUyv68_G4"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Radio Namkin",
+      "urls": [
+        "https://node-12.zeno.fm/yg1qhsbaqv5tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 230
+    },
+    {
+      "name": "Radio Namkin",
+      "urls": [
+        "https://stream.zeno.fm/yg1qhsbaqv5tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-namkin.jpg",
+      "votes": 1562
+    },
+    {
+      "name": "Radio Naya Andaz",
+      "urls": [
+        "https://radionayaandaz.out.airtime.pro/radionayaandaz_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/radio-naya-andaz.jpg",
+      "votes": 192
+    },
+    {
+      "name": "Radio Olive",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/olive-fm-hindi.png",
+      "votes": 309
+    },
+    {
+      "name": "Radio Olive Kids",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/Radio-Olive-Kids.png",
+      "votes": 235
+    },
+    {
+      "name": "Radio Olive Retro",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-olive-retro-qatar.png",
+      "votes": 458
+    },
+    {
+      "name": "Radio Panchajanya",
+      "urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/radio-panchajanya.jpg",
+      "votes": 91
+    },
+    {
+      "name": "Radio Paramankurichi",
+      "urls": [
+        "https://vpmurugun.radioca.st/autodj"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/radio-paramankurichi.jpg",
+      "votes": 99
+    },
+    {
+      "name": "Radio Paramankurichi Tamil",
+      "urls": [
+        "https://vpmurugun.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1730
+    },
+    {
+      "name": "Radio Punjabi Virsa",
+      "urls": [
+        "https://node-15.zeno.fm/vpak30btzwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/radio-punjabi-virsa.jpg",
+      "votes": 185
+    },
+    {
+      "name": "Radio Quarantine Kolkata",
+      "urls": [
+        "https://stream-173.zeno.fm/krk4kw830tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcms0a3c4MzB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilp1VWk3TFVWVGotNG5sc3Z5QUJmYnciLCJpYXQiOjE3MzgxNTAxOTQsImV4cCI6MTczODE1MDI1NH0.EHVaKuFJc7voIS73qqzYsmhgIJlRQ5ppsygeKYAibPo"
+      ],
+      "tags": [],
+      "city": "West Bengal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_144x144/https://images.zeno.fm/fLrwT1-d1ipN6cwLwjfdV8jRenVhcSAzIfcSaNifU9Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGd2NUNDdWdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGc3X0hBN1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY0OTAxNDAwMA.webp",
+      "votes": 114
+    },
+    {
+      "name": "Radio Rang",
+      "urls": [
+        "https://stream.zeno.fm/n58tt09cqchvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/radio-rang.jpg",
+      "votes": 573
+    },
+    {
+      "name": "Radio Retro Bollywood 90s",
+      "urls": [
+        "https://stream-143.zeno.fm/fdgs82xkzhhvv"
+      ],
+      "tags": [
+        "bollywood",
+        "hindi bollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5126
+    },
+    {
+      "name": "Radio Rimjhim",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/radiorimjhim.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 255
+    },
+    {
+      "name": "Radio Risham Punjabi",
+      "urls": [
+        "https://stream.zeno.fm/4pd041xv1a0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/rasdio-risham-punjabi.jpg",
+      "votes": 397
+    },
+    {
+      "name": "Radio S D 90.8 FM",
+      "urls": [
+        "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "null",
+      "votes": 83
+    },
+    {
+      "name": "Radio Sangam",
+      "urls": [
+        "https://streaming.radio.co/s58948a3f0/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/radio-sangam.jpg",
+      "votes": 269
+    },
+    {
+      "name": "Radio Sangwari",
+      "urls": [
+        "https://servidor19.brlogic.com:7002/live"
+      ],
+      "tags": [
+        "culturer",
+        "folk"
+      ],
+      "city": "Chhattisgarh",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://public-rf-upload.minhawebradio.net/244079/logo/daa0c7dbfd37707e9d7d2e89e4897ba5.jpg",
+      "votes": 12
+    },
+    {
+      "name": "Radio Sanskrit Bharati",
+      "urls": [
+        "https://stream.zeno.fm/c0adewsyw8quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/f0fw9QbYtozQIsp0r8G3y6qmTkHSqoDDc-nNr12Zj2w/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2ctY1N2a2dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2duZmJ5MmdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg1NzExODAwMA.webp",
+      "votes": 12
+    },
+    {
+      "name": "Radio Saptarang",
+      "urls": [
+        "https://stream-58.zeno.fm/ttcsc4tf8yzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 286
+    },
+    {
+      "name": "Radio SBS",
+      "urls": [
+        "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/radio-sbs-bollywood.jpg",
+      "votes": 270
+    },
+    {
+      "name": "Radio sgmasti",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/radiosgmasti.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 86
+    },
+    {
+      "name": "Radio Shyamlatal",
+      "urls": [
+        "https://stream.hamropatro.com/8389"
+      ],
+      "tags": [
+        "hindi bollywood"
+      ],
+      "city": "Uttarakhand",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio Suno Malayalam 91.7",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/03/radio-suno-malayalam-fm.jpg",
+      "votes": 247
+    },
+    {
+      "name": "Radio Suno Tamil",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/radio-suno-tamil.jpg",
+      "votes": 259
+    },
+    {
+      "name": "Radio Suravi 89.6 FM",
+      "urls": [
+        "https://dhkxi1xp7j48l.cloudfront.net/suravifmodisha.aac"
+      ],
+      "tags": [
+        "balasore",
+        "community radio",
+        "odia",
+        "odisha"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Terna 90.4 FM",
+      "urls": [
+        "https://radio.garden/api/ara/content/listen/MzpZd2nQ/channel.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 172
+    },
+    {
+      "name": "Radio Tirur",
+      "urls": [
+        "https://sonic01.instainternet.com/8002/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/RadioTirur.jpg",
+      "votes": 47
+    },
+    {
+      "name": "Radio Udaan",
+      "urls": [
+        "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3"
+      ],
+      "tags": [
+        "bollywood",
+        "culture",
+        "hindi",
+        "information",
+        "infotainment",
+        "music",
+        "talk"
+      ],
+      "city": "Delhi",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioudaan.com/sites/default/files/Radioudaan%20small%202_0.png",
+      "votes": 344
+    },
+    {
+      "name": "Radio Vanshu",
+      "urls": [
+        "https://indiaradio.in/radio-vanshu/stream"
+      ],
+      "tags": [
+        "rajasthani / indian music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://indiaradio.in/images/radio-vanshu-logo.png",
+      "votes": 10
+    },
+    {
+      "name": "Radio Voxa",
+      "urls": [
+        "https://stream.zeno.fm/zrfx7zy2wwzuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/03/voxa-radio-fm.jpg",
+      "votes": 73
+    },
+    {
+      "name": "Radio Welcome 90.8fm",
+      "urls": [
+        "https://stream.zeno.fm/2tm4yz0pvxhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "null",
+      "votes": 158
+    },
+    {
+      "name": "radio wow",
+      "urls": [
+        "https://stream.zeno.fm/d22wrdbst5quv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 141
+    },
+    {
+      "name": "Radio wow bollywood",
+      "urls": [
+        "https://stream.zeno.fm/d22wrdbst5quv.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 366
+    },
+    {
+      "name": "radio-jn",
+      "urls": [
+        "https://stream.zeno.fm/0wck59rarchvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/radiojn.jpg",
+      "votes": 116
+    },
+    {
+      "name": "radio-vaanam",
+      "urls": [
+        "https://fra-ranger01.dedicateware.com:8008/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://liveradios.in/wp-content/uploads/radiovaanam.jpg",
+      "votes": 178
+    },
+    {
+      "name": "radio90fm",
+      "urls": [
+        "https://ice42.securenetsystems.net/CR90?type=.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiosindia.com/images/radio90fm.jpg",
+      "votes": 235
+    },
+    {
+      "name": "radioazad",
+      "urls": [
+        "https://edge.mixlr.com/channel/uaphi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/radioazad.jpg",
+      "votes": 115
+    },
+    {
+      "name": "radiofaza",
+      "urls": [
+        "https://radiocast.cr8tive-digital.com/radiofaza"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/radiofaza.jpg",
+      "votes": 289
+    },
+    {
+      "name": "radiomadhuban",
+      "urls": [
+        "https://icecast.bkwsu.eu:8443/radiomadhuban.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com//images/radiomadhuban.jpg",
+      "votes": 116
+    },
+    {
+      "name": "radiomattoli",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/radiomattoli/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiosindia.com/images/radiomattoli.jpg",
+      "votes": 77
+    },
+    {
+      "name": "radiomediavillage",
+      "urls": [
+        "https://443-1.autopo.st/183/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 320,
+      "logo": "https://radiosindia.com/images/radiomediavillage.jpg",
+      "votes": 56
+    },
+    {
+      "name": "radiomirchibengaluru",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiosindia.com/images/radiomirchi.jpg",
+      "votes": 525
+    },
+    {
+      "name": "radiomythri",
+      "urls": [
+        "https://stream.zeno.fm/ekthuu9bfwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "https://radiosindia.com/images/radiomythri.jpg",
+      "votes": 59
+    },
+    {
+      "name": "RadioNev (24x Hits Music Station)",
+      "urls": [
+        "https://a7.asurahosting.com:8140/radio.mp3"
+      ],
+      "tags": [
+        "90s",
+        "forever",
+        "hits",
+        "pop music",
+        "rock"
+      ],
+      "city": "Punjab",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.liveradio.uk/files/images/501591/resized/180x172c/radionev.jpg",
+      "votes": 109
+    },
+    {
+      "name": "radioonattukara",
+      "urls": [
+        "https://stream.zeno.fm/fu94u25kqd0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/radioonattukara.jpg",
+      "votes": 58
+    },
+    {
+      "name": "radiopalakkad",
+      "urls": [
+        "https://stream.zeno.fm/qgqrxfte41zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/radiopalakkad.jpg",
+      "votes": 92
+    },
+    {
+      "name": "radiovaanam",
+      "urls": [
+        "https://sathees.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiosindia.com/images/radiovaanam.jpg",
+      "votes": 138
+    },
+    {
+      "name": "radiozindagi",
+      "urls": [
+        "https://us9.maindigitalstream.com/ssl/RadioZindagi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/radiozindagi.jpg",
+      "votes": 210
+    },
+    {
+      "name": "Rafa Radio",
+      "urls": [
+        "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://rafaradio.com/wp-content/uploads/2018/04/website-logo-1.png",
+      "votes": 3
+    },
+    {
+      "name": "Rafi hit songs",
+      "urls": [
+        "https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ"
+      ],
+      "tags": [
+        "classic hits 60s 70a 80s"
+      ],
+      "city": "Mumbai",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8830
+    },
+    {
+      "name": "Rajeev Dixit Radio",
+      "urls": [
+        "https://stream.zeno.fm/heqderzet68uv"
+      ],
+      "tags": [
+        "rajeev dixit"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241003_175531382.jpg?alt=media&token=a0854e5e-7d99-4967-81a8-dbe725c88d79",
+      "votes": 104
+    },
+    {
+      "name": "Rangeela Radio",
+      "urls": [
+        "https://rangeelaradio.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 308
+    },
+    {
+      "name": "Red Fm",
+      "urls": [
+        "https://funasia.streamguys1.com/live9"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "null",
+      "votes": 762
+    },
+    {
+      "name": "RED FM Calgary 106.7 FM",
+      "urls": [
+        "https://ice10.securenetsystems.net/CKYR"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/redfm-punjabi.jpg",
+      "votes": 134
+    },
+    {
+      "name": "RED FM Toronto 88.9 FM",
+      "urls": [
+        "https://ice9.securenetsystems.net/CIRVFM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/redfm-punjabi.jpg",
+      "votes": 236
+    },
+    {
+      "name": "RED FM Vancouver 89.1 FM / 93.1FM",
+      "urls": [
+        "https://ice24.securenetsystems.net/CKYE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/redfm-punjabi.jpg",
+      "votes": 259
+    },
+    {
+      "name": "REPLAY NEWS - हिन्दी 【हर 5 मिनट पर खबरों वाला रेडियो】",
+      "urls": [
+        "https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-HI.png",
+      "votes": 81
+    },
+    {
+      "name": "retro ma",
+      "urls": [
+        "https://stream-154.zeno.fm/b6augfmdanzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 112
+    },
+    {
+      "name": "retrobollywood",
+      "urls": [
+        "https://stream.zeno.fm/g372rxef798uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/retrobollywood.jpg",
+      "votes": 285
+    },
+    {
+      "name": "reviveradiomalayalam",
+      "urls": [
+        "https://gains.reviveradio.net/proxy/revivemalayalam?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/reviveradio.jpg",
+      "votes": 81
+    },
+    {
+      "name": "Rocker Radio Geetmala",
+      "urls": [
+        "https://stream.zeno.fm/du9443htcfhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+      "votes": 244
+    },
+    {
+      "name": "roobam-fm",
+      "urls": [
+        "https://s3.radio.co/sadfae7495/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/roobamfm.jpg",
+      "votes": 47
+    },
+    {
+      "name": "Roq Raw Radio",
+      "urls": [
+        "https://mystation.micast.media/radio/8090/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/roq-raw-radio.jpg",
+      "votes": 146
+    },
+    {
+      "name": "S Janaki",
+      "urls": [
+        "https://psrlive2.listenon.in/janaki?station=janakiradio"
+      ],
+      "tags": [
+        "janaki",
+        "south radio",
+        "tamil"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 423
+    },
+    {
+      "name": "Sabras Radio",
+      "urls": [
+        "https://radio.canstream.co.uk:8025/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/sabras-radio.jpg",
+      "votes": 186
+    },
+    {
+      "name": "Sahara FM Tamil",
+      "urls": [
+        "https://azuracast.vibesounds.in:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/sahara-fm.jpg",
+      "votes": 506
+    },
+    {
+      "name": "Sakkath Radio",
+      "urls": [
+        "https://stream.zeno.fm/3e6k4ryerd0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ5_-smwgMCxIOU3RhdGlvblByb2ZpbGUYgIDQssbvsAkMogEEemVubw/image/%3Fresize=500x500&v=1",
+      "votes": 275
+    },
+    {
+      "name": "Sakkath Radio Kannada",
+      "urls": [
+        "https://node-31.zeno.fm/fcsk9ryerd0uv?rj-ttl=5&rj-tok=AAABdXnVZ3sA-61zQpwDIgRWvw"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/sakkath-radio-kannada.jpg",
+      "votes": 1149
+    },
+    {
+      "name": "Sangeet 106.1 FM",
+      "urls": [
+        "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/sangeet-106_1-FM.jpg",
+      "votes": 257
+    },
+    {
+      "name": "Sangeet Radio USA",
+      "urls": [
+        "https://ice8.securenetsystems.net/SGTRADIO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/sangeet-radio-hindi.jpg",
+      "votes": 244
+    },
+    {
+      "name": "Sangeet Samvaad",
+      "urls": [
+        "https://ample.radiojar.com/7mh06pa8uwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/sangeet-samvaad-radio.jpg",
+      "votes": 157
+    },
+    {
+      "name": "Sangeet Samvaad",
+      "urls": [
+        "https://n08.radiojar.com/7mh06pa8uwzuv.mp3"
+      ],
+      "tags": [],
+      "city": "Maharashtra",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 561
+    },
+    {
+      "name": "sangeetmalaradio",
+      "urls": [
+        "https://rs.suricloud.com/radio/8030/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/sangeetmala.jpg",
+      "votes": 238
+    },
+    {
+      "name": "Sathya Sai Discourse",
+      "urls": [
+        "https://stream.sssmediacentre.org:8443/discourse"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 24,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Shahimsha Online radio",
+      "urls": [
+        "https://radio.shahimsha.com/listen/shahimsha/radio.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Shaiva Lahari",
+      "urls": [
+        "https://radio.shaivam.org/listen/shaiva-lahari/radio.mp3"
+      ],
+      "tags": [
+        "spirituals"
+      ],
+      "city": "Karnataka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://shaivam.org/images/shaivam-logo-2015.png",
+      "votes": 0
+    },
+    {
+      "name": "Shaiva Lahari",
+      "urls": [
+        "https://15113.live.streamtheworld.com/SP_R2925215_SC"
+      ],
+      "tags": [
+        "devotional",
+        "hindu",
+        "religion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "Shiva Tattvam",
+      "urls": [
+        "https://radio.shaivam.org/listen/shiva-tattvam/radio.mp3"
+      ],
+      "tags": [
+        "spirituals"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://shaivam.org/images/shaivam-logo-2015.png",
+      "votes": 3
+    },
+    {
+      "name": "Shripad Radio",
+      "urls": [
+        "https://shripadradio.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 232
+    },
+    {
+      "name": "Shuddh Desi Radio",
+      "urls": [
+        "https://streamer.radio.co/se30891e37/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/shuddh-desi-radio.jpg",
+      "votes": 277
+    },
+    {
+      "name": "sirpi-fm",
+      "urls": [
+        "https://sirpifmhd-unicast2u.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://liveradios.in/wp-content/uploads/sirpifm.jpg",
+      "votes": 133
+    },
+    {
+      "name": "Sitara FM",
+      "urls": [
+        "https://server6.radio-streams.net:18048/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/sitara-fm.jpg",
+      "votes": 162
+    },
+    {
+      "name": "Sivan Radio",
+      "urls": [
+        "https://sivanradio.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sivanradio.com/images/logo.png",
+      "votes": 44
+    },
+    {
+      "name": "slbc-tamil-national-service",
+      "urls": [
+        "https://stream.zeno.fm/xekhrn4zetzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/slbctamil.jpg",
+      "votes": 196
+    },
+    {
+      "name": "Sneh bhojpuri",
+      "urls": [
+        "https://stream.zeno.fm/zqyhigwwo5mvv"
+      ],
+      "tags": [
+        "sneh bhojpuri"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 359
+    },
+    {
+      "name": "Sooriyan FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:8006/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/01/Sooriyan_FM_tamil.jpg",
+      "votes": 2633
+    },
+    {
+      "name": "Spice FM",
+      "urls": [
+        "https://spice988fm.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/spice-fm-uk.png",
+      "votes": 357
+    },
+    {
+      "name": "Sri Harmandir Sahib Live Kirtan",
+      "urls": [
+        "https://radio.sikhnet.com/proxy/channel9/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/kirtan.jpg",
+      "votes": 91
+    },
+    {
+      "name": "Sripad Radio",
+      "urls": [
+        "https://shripadradio.radioca.st/"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "null",
+      "votes": 106
+    },
+    {
+      "name": "sstamilradio",
+      "urls": [
+        "https://stream.rcast.net/68750"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/sstamilradio1.jpg",
+      "votes": 135
+    },
+    {
+      "name": "subikshafm",
+      "urls": [
+        "https://usa8.fastcast4u.com/proxy/subikshafm?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/subikshafm.jpg",
+      "votes": 153
+    },
+    {
+      "name": "sun-tamil-radio",
+      "urls": [
+        "https://stream.zeno.fm/yavek61461zuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/suntamilradio.jpg",
+      "votes": 1001
+    },
+    {
+      "name": "Suno Sharda - 90.8FM",
+      "urls": [
+        "https://streamasiacdn.atc-labs.com/shardaradio.aac"
+      ],
+      "tags": [
+        "added by shivam",
+        "hindi",
+        "noida",
+        "talk"
+      ],
+      "city": "Uttar Pradesh",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 230
+    },
+    {
+      "name": "Sunrise Radio",
+      "urls": [
+        "https://stream1.themediasite.co.uk/8070/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/sunrise-radio.jpg",
+      "votes": 562
+    },
+    {
+      "name": "suvidharadio",
+      "urls": [
+        "https://my.ssl-stream.com/Suvidha_Radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/suvidharadio.jpg",
+      "votes": 188
+    },
+    {
+      "name": "SVBC TTD Radio",
+      "urls": [
+        "https://radio.mslivecdn.com:6278/stream"
+      ],
+      "tags": [
+        "bhakti",
+        "devotional",
+        "hindu",
+        "svbc",
+        "tirumala",
+        "tirupati",
+        "ttd",
+        "venkateswara"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Swaranjali",
+      "urls": [
+        "https://stream.zeno.fm/x7mve2vt01zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 139
+    },
+    {
+      "name": "Sweety FM",
+      "urls": [
+        "https://centova71.instainternet.com/proxy/sweetyfm?mp=/stream2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/sweety-fm.jpg",
+      "votes": 58
+    },
+    {
+      "name": "swiss-tamil-radio",
+      "urls": [
+        "https://usa19.fastcast4u.com/swiss"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/swisstamilradio.png",
+      "votes": 222
+    },
+    {
+      "name": "Taal FM",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/tallfm.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/taalfm-hindi.jpg",
+      "votes": 205
+    },
+    {
+      "name": "tagore radio",
+      "urls": [
+        "https://tagore-radio.pages.dev/radio/live?category=all"
+      ],
+      "tags": [],
+      "city": "West Bengal",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://tagore-radio.pages.dev/icons/icon-512.png",
+      "votes": 3
+    },
+    {
+      "name": "Taj 92.3 FM",
+      "urls": [
+        "https://ice66.securenetsystems.net/TAJ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/taj-radio-92_3.jpeg",
+      "votes": 245
+    },
+    {
+      "name": "Tamil Amuthu Radio",
+      "urls": [
+        "https://stream.zeno.fm/p88vvwd0gm0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2024/01/tamil-amuthu-radio.jpg",
+      "votes": 628
+    },
+    {
+      "name": "Tamil Panpalai Gold",
+      "urls": [
+        "https://tamilpanpalai.radioca.st/ind"
+      ],
+      "tags": [
+        "panpalai",
+        "south india",
+        "tamil"
+      ],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3371
+    },
+    {
+      "name": "Tamil_Murasam FM",
+      "urls": [
+        "https://tamilmurasam.radioca.st/live"
+      ],
+      "tags": [
+        "tamil",
+        "tamilnadu"
+      ],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://liveradios.in/wp-content/uploads/tamilmurasam.jpg",
+      "votes": 5
+    },
+    {
+      "name": "tamil-2021-latest-hits",
+      "urls": [
+        "https://stream.zeno.fm/dkxftg6k7tzuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/hdlogo.jpg",
+      "votes": 273
+    },
+    {
+      "name": "tamil-amuthu-bakthi-radio",
+      "urls": [
+        "https://stream.zeno.fm/bpc3ucypmm0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": "https://liveradios.in/wp-content/uploads/tamilamuthubhakthi.jpg",
+      "votes": 220
+    },
+    {
+      "name": "tamil-amuthu-chennai-radio",
+      "urls": [
+        "https://stream.zeno.fm/k9e5pmbktp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": "https://liveradios.in/wp-content/uploads/Tamil-Amuthu-Chennai-Radio.jpg",
+      "votes": 137
+    },
+    {
+      "name": "tamil-amuthu-covai-radio",
+      "urls": [
+        "https://stream.zeno.fm/dzxv07vktp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/kovai.jpg",
+      "votes": 125
+    },
+    {
+      "name": "tamil-amuthu-kovilpatti-radio",
+      "urls": [
+        "https://stream.zeno.fm/4cmhxc3ktp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/kovilpatti.jpg",
+      "votes": 170
+    },
+    {
+      "name": "tamil-amuthu-madurai-radio",
+      "urls": [
+        "https://stream-156.zeno.fm/utmhndkgtp8uv?zs=J185Dl-ASQW-m1uTNJ2mUg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/tamil-amauthu-madurai.jpg",
+      "votes": 225
+    },
+    {
+      "name": "tamil-amuthu-mellisai-radio",
+      "urls": [
+        "https://stream.zeno.fm/bfh4ywts2f8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/mellisai.jpg",
+      "votes": 286
+    },
+    {
+      "name": "tamil-amuthu-nellai-radio",
+      "urls": [
+        "https://stream.zeno.fm/gdkvpstgtp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/tamilamuthunellai.jpg",
+      "votes": 190
+    },
+    {
+      "name": "tamil-amuthu-sivakasi-radio",
+      "urls": [
+        "https://stream.zeno.fm/nxggffwgtp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/sivakasi.jpg",
+      "votes": 123
+    },
+    {
+      "name": "tamil-amuthu-trichy-radio",
+      "urls": [
+        "https://stream.zeno.fm/feyrkb9htp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/trichy.jpg",
+      "votes": 344
+    },
+    {
+      "name": "tamil-comedy-radio",
+      "urls": [
+        "https://stream.zeno.fm/tmgktm50dzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/tamil-comedy-radio.jpg",
+      "votes": 314
+    },
+    {
+      "name": "tamil-latest-hits-radio",
+      "urls": [
+        "https://stream.zeno.fm/dkxftg6k7tzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/tamillatesthits.jpg",
+      "votes": 611
+    },
+    {
+      "name": "tamilaruvifm",
+      "urls": [
+        "https://servidor18-4.brlogic.com:7740/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/tamilaruvifm.jpg",
+      "votes": 217
+    },
+    {
+      "name": "tamilkaterumbufm",
+      "urls": [
+        "https://tamilkaterumbufm-prabak78.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/tamilkaterumbufm.jpg",
+      "votes": 234
+    },
+    {
+      "name": "tamilragam",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/neville/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/tamilragam.jpg",
+      "votes": 439
+    },
+    {
+      "name": "tamilrockyfm",
+      "urls": [
+        "https://centova71.instainternet.com/proxy/tamilrockyfm?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/tamilrockyfm.jpg",
+      "votes": 232
+    },
+    {
+      "name": "Telangana FM",
+      "urls": [
+        "https://skystream.skonlinedeals.in:8030/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://telanganafm.com/img/poster_2.jpg",
+      "votes": 43
+    },
+    {
+      "name": "Telugu FM",
+      "urls": [
+        "https://stream-289.surfernetwork.com/b9qx8kca2d0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/aaB8x_gRrIDwkw4fs81HZ3Z3mvCKskkiRKlloaYQv6Y/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFFzTmlwa2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFtdmZ3M3drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY5OTkzMDAwMA.webp",
+      "votes": 69
+    },
+    {
+      "name": "thambi-fm",
+      "urls": [
+        "https://stream.zeno.fm/zsmqq429e2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/thambifm.jpg",
+      "votes": 76
+    },
+    {
+      "name": "thambifm",
+      "urls": [
+        "https://stream.zeno.fm/r1m0u429e2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/thambifm.jpg",
+      "votes": 87
+    },
+    {
+      "name": "Thandora FM",
+      "urls": [
+        "https://stream-152.zeno.fm/7us8bucomafvv?zs=yRwr3HQaTluoJBVRZ_grUA"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "the-leader-fm",
+      "urls": [
+        "https://stream.zeno.fm/whwy245c2wzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/the-leader-fm.jpg",
+      "votes": 98
+    },
+    {
+      "name": "thenaruvi-fm",
+      "urls": [
+        "https://thenaruvivaanoli.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/thearuvifm.jpg",
+      "votes": 116
+    },
+    {
+      "name": "thendral-fm-radio",
+      "urls": [
+        "https://stream.zeno.fm/xzt706p3h2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/thendral-fm.jpg",
+      "votes": 114
+    },
+    {
+      "name": "thendralradio",
+      "urls": [
+        "https://thenralw.radioca.st/LiveStream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiosindia.com/images/thendralfm.jpg",
+      "votes": 173
+    },
+    {
+      "name": "thentamilradio",
+      "urls": [
+        "https://usa9.fastcast4u.com/proxy/thentamilfm?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/thentamilfm.jpg",
+      "votes": 126
+    },
+    {
+      "name": "Thiruneriya Thamizhosai",
+      "urls": [
+        "https://radio.shaivam.org/listen/thiruneriya-thamizhosai/radio.mp3"
+      ],
+      "tags": [
+        "spirituals"
+      ],
+      "city": "Tamilnadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://shaivam.org/images/shaivam-logo-2015.png",
+      "votes": 2
+    },
+    {
+      "name": "thuli-vaanoli",
+      "urls": [
+        "https://s4.voscast.com:8735/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/thulifm.jpg",
+      "votes": 109
+    },
+    {
+      "name": "time-fm",
+      "urls": [
+        "https://neramfm.com:8000/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/timefm.jpg",
+      "votes": 75
+    },
+    {
+      "name": "TRT Tamil Oli",
+      "urls": [
+        "https://radio13.pro-fhi.net:19236/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/trt-tami-oli.jpg",
+      "votes": 163
+    },
+    {
+      "name": "ttrfm",
+      "urls": [
+        "https://radio.massstream.net/8010/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiosindia.com/images/ttrfm.jpg",
+      "votes": 138
+    },
+    {
+      "name": "Tune India Radio",
+      "urls": [
+        "https://s2.radio.co/se5e166e2f/listen#.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/09/tune-india-radio.jpg",
+      "votes": 1484
+    },
+    {
+      "name": "tuneindiaradio",
+      "urls": [
+        "https://s2.radio.co/se5e166e2f/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radiosindia.com/images/tuneindiaradio.jpg",
+      "votes": 496
+    },
+    {
+      "name": "Ujala Radio",
+      "urls": [
+        "https://stream.ujala.nl/ujala"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/08/ujala-radio.jpg",
+      "votes": 353
+    },
+    {
+      "name": "ujalaradio",
+      "urls": [
+        "https://server4.ujala.nl/stream/2/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosindia.com/images/ujalaradio.jpg",
+      "votes": 127
+    },
+    {
+      "name": "ullasam-fm",
+      "urls": [
+        "https://eu10.fastcast4u.com:6740/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/ullasam-fm.jpg",
+      "votes": 122
+    },
+    {
+      "name": "unity101",
+      "urls": [
+        "https://ssl.canstream.co.uk:8701/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiosindia.com/images/unity101.jpg",
+      "votes": 162
+    },
+    {
+      "name": "Universal Health Radio (हिन्दी)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-hi.mp3"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "hindi",
+        "news",
+        "public health",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "Universal Health Radio (தமிழ்)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-ta.mp3"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "news",
+        "public health",
+        "tamil",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "Universal Health Radio (తెలుగు)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-te.mp3"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "news",
+        "public health",
+        "telugu",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 3
+    },
+    {
+      "name": "UZI'S HITZ",
+      "urls": [
+        "https://stream.zeno.fm/kbgxbzklrpmtv"
+      ],
+      "tags": [],
+      "city": "Bangalore ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "vadivelucomedyradio",
+      "urls": [
+        "https://stream.zeno.fm/02n962ezyp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/vadivelucomedy.jpg",
+      "votes": 121
+    },
+    {
+      "name": "vagai-tamil-fm",
+      "urls": [
+        "https://vtfm2020-vtfm.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://liveradios.in/wp-content/uploads/vtfm.gif",
+      "votes": 467
+    },
+    {
+      "name": "Vaigai FM",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/geethan3/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/12/vaigai-fm.jpg",
+      "votes": 187
+    },
+    {
+      "name": "vaigai-fm",
+      "urls": [
+        "https://cast1.asurahosting.com/proxy/geethan3/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/vaigaifm.jpg",
+      "votes": 129
+    },
+    {
+      "name": "valipokan-fm",
+      "urls": [
+        "https://stream.zeno.fm/dcts7v7sef9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/valipokan1.jpg",
+      "votes": 53
+    },
+    {
+      "name": "Vanavilfm - ARR Radio",
+      "urls": [
+        "https://s7.yesstreaming.net:8038/stream"
+      ],
+      "tags": [
+        "tamil cinema music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 227
+    },
+    {
+      "name": "Vanavilfm - Radio Maestro",
+      "urls": [
+        "https://s7.yesstreaming.net:8092/stream"
+      ],
+      "tags": [
+        "retro",
+        "tamil cinema music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://vanavilfm.com/wp-content/uploads/2020/10/vanavilfmlogo-Z-300x104.png",
+      "votes": 282
+    },
+    {
+      "name": "vasantha-ragam-fm",
+      "urls": [
+        "https://stream.zeno.fm/xpbsngksa2zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/vasantha-ragam.jpg",
+      "votes": 248
+    },
+    {
+      "name": "Vasantham FM",
+      "urls": [
+        "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/02/vasantham-FM.jpg",
+      "votes": 267
+    },
+    {
+      "name": "VB Telugu Hyderabad",
+      "urls": [
+        "https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8"
+      ],
+      "tags": [
+        "public radio",
+        "vividh bharati"
+      ],
+      "city": "Telangana",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Vijay FM Mayiladuthurai",
+      "urls": [
+        "https://vijayfm-prabak78.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioandpodcast.sfo3.cdn.digitaloceanspaces.com/radio_images/48009.jpeg",
+      "votes": 1
+    },
+    {
+      "name": "Vivid Bharti",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 93,
+      "logo": null,
+      "votes": 17886
+    },
+    {
+      "name": "Vividh Bharati 102.8 FM in Hyderabad",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 95,
+      "logo": null,
+      "votes": 1156
+    },
+    {
+      "name": "Vividh Bharati Bengaluru",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2022/01/vividh-bharati-air.jpg",
+      "votes": 570
+    },
+    {
+      "name": "Vividh Bharati Chennai",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Tamil Nadu",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "votes": 748
+    },
+    {
+      "name": "Vividh Bharati Telugu Vijayawada",
+      "urls": [
+        "https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8"
+      ],
+      "tags": [
+        "public radio",
+        "vividh bharati"
+      ],
+      "city": "Andhra Pradesh",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Vividh Bharti Mumbai",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/07/vividh-bharathi-mumbai.jpg",
+      "votes": 1784
+    },
+    {
+      "name": "vividhbharathitamil",
+      "urls": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 79,
+      "logo": "https://radiosindia.com/images/vividhbharathi.jpg",
+      "votes": 192
+    },
+    {
+      "name": "VRISHTI",
+      "urls": [
+        "https://stream.zeno.fm/bps115unz5uvv"
+      ],
+      "tags": [
+        "vrishti"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 97
+    },
+    {
+      "name": "West Indian Vibes Radio",
+      "urls": [
+        "https://s6.citrus3.com:8396/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://onlineradiohub.com/wp-content/uploads/2023/10/west-Indian-Vibes.jpg",
+      "votes": 559
+    },
+    {
+      "name": "WION LIVE TV",
+      "urls": [
+        "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://img-cdn.thepublive.com/fit-in/48x48/filters:format(webp)/wion/media/agency_attachments/2024/12/13/2024-12-13t071602220z-wionfavicom.webp",
+      "votes": 825
+    },
+    {
+      "name": "worldtoworldradio",
+      "urls": [
+        "https://streaming.radio.co/s4f2cc35de/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/https://shortfilmsite.com/images/worldtoworldradio.jpg",
+      "votes": 36
+    },
+    {
+      "name": "Xpression Fm bollywood",
+      "urls": [
+        "https://casper.radioca.st/"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 106
+    },
+    {
+      "name": "yaazhisai-fm",
+      "urls": [
+        "https://stream.zeno.fm/nxb2dpmmhm8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/yaazhisai.jpg",
+      "votes": 139
+    },
+    {
+      "name": "yugam-radio",
+      "urls": [
+        "https://s6.yesstreaming.net:19012/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveradios.in/wp-content/uploads/yugamradio.jpg",
+      "votes": 57
+    },
+    {
+      "name": "yugamradio",
+      "urls": [
+        "https://s6.yesstreaming.net:19012/stream;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/yugamradio.jpg",
+      "votes": 74
+    },
+    {
+      "name": "印度德里广播电台",
+      "urls": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 175
+    }
+  ]
+}

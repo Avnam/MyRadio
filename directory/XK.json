@@ -1,0 +1,67 @@
+{
+  "code": "XK",
+  "name": "Kosovo",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Club FM Kosovë",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://clubfmkosova.al/wp-content/uploads/2021/01/Player-Cover-ClubFM-Kosove-play-2-768x768.png",
+      "votes": 125
+    },
+    {
+      "name": "Glam Radio",
+      "urls": [
+        "https://stream.glamradio.fm:8443/glamradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png",
+      "votes": 87
+    },
+    {
+      "name": "Radio Plus",
+      "urls": [
+        "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioplus.fm/favicon.ico",
+      "votes": 171
+    },
+    {
+      "name": "Radyo Hisar",
+      "urls": [
+        "https://a8.asurahosting.com:6920/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radyohisar.com/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "Urban FM 103.5",
+      "urls": [
+        "https://radio.itprishtina.com/urbanfm.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiourban.fm/wp-content/uploads/2023/04/URBAN-FM-LOGO.png",
+      "votes": 91
+    }
+  ]
+}

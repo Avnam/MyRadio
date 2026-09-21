@@ -1,0 +1,109 @@
+{
+  "code": "BB",
+  "name": "Barbados",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 33
+    },
+    {
+      "name": "HOTT 95.3FM",
+      "urls": [
+        "https://ice64.securenetsystems.net/HOTT953"
+      ],
+      "tags": [
+        "reggae"
+      ],
+      "city": "River Road, St. Michael",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://starcomnetwork.net/wp-content/uploads/2024/01/HOTT-953-FM-LOGO-full-colour-wide-3-1536x840.png",
+      "votes": 255
+    },
+    {
+      "name": "LIFE 97.5 FM",
+      "urls": [
+        "https://ice64.securenetsystems.net/LIFE975"
+      ],
+      "tags": [
+        "gospel"
+      ],
+      "city": "River road, st Micheal, Bridgetown",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://starcomnetwork.net/wp-content/uploads/2023/06/Life97.5FM.png",
+      "votes": 58
+    },
+    {
+      "name": "Radio Bimshire 106.1 FM",
+      "urls": [
+        "https://listen.radioking.com/radio/635914/stream/700051"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "Bridgetown",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/133527.v13.png",
+      "votes": 95
+    },
+    {
+      "name": "The BEAT 104.1 FM",
+      "urls": [
+        "https://ice66.securenetsystems.net/THEBEAT1041"
+      ],
+      "tags": [
+        "adult contemporary",
+        "dance",
+        "pop"
+      ],
+      "city": "River road, st Micheal, Bridgetown",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://starcomnetwork.net/wp-content/uploads/2023/06/TheBeat104.jpg",
+      "votes": 100
+    },
+    {
+      "name": "VOB 92.9 FM",
+      "urls": [
+        "https://ice66.securenetsystems.net/VOB929"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "River road, st Micheal, Bridgetown",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://starcomnetwork.net/wp-content/uploads/2023/06/VOB-Logo-Trans.png",
+      "votes": 483
+    },
+    {
+      "name": "VOB 92.9 FM",
+      "urls": [
+        "https://ice66.securenetsystems.net:80/VOB929"
+      ],
+      "tags": [
+        "call-in",
+        "calypso",
+        "news",
+        "soca",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://cdn-profiles.tunein.com/s16653/images/logog.png?t=1",
+      "votes": 1835
+    }
+  ]
+}

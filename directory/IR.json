@@ -1,0 +1,269 @@
+{
+  "code": "IR",
+  "name": "Islamic Republic Of Iran",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Radio Navahang",
+      "urls": [
+        "https://navairan.com/;stream.nsv"
+      ],
+      "tags": [
+        "middle eastern music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.navahang.com/apple-touch-icon.png",
+      "votes": 48480
+    },
+    {
+      "name": "..mohammed_ayyub",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7195
+    },
+    {
+      "name": ".al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7680
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 2247
+    },
+    {
+      "name": "go",
+      "urls": [
+        "https://stream.zeno.fm/v5kxmagseg0uv"
+      ],
+      "tags": [
+        "donya"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9873
+    },
+    {
+      "name": "Iran International (HTTPS stream)",
+      "urls": [
+        "https://stream.radiojar.com/iintl_c"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.iranintl.com/favicon.ico",
+      "votes": 29155
+    },
+    {
+      "name": "iraninternational",
+      "urls": [
+        "https://radio.iraninternational.app/iintl_c"
+      ],
+      "tags": [
+        "iran",
+        "news",
+        "persian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://iranintl.com/favicon.ico",
+      "votes": 96550
+    },
+    {
+      "name": "Muhammad Siddiq al-Minshawi",
+      "urls": [
+        "https://qurango.net/radio/mohammed_siddiq_alminshawi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2266
+    },
+    {
+      "name": "Radio Faaz",
+      "urls": [
+        "https://free.rcast.net/230792"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9199
+    },
+    {
+      "name": "Radio Gachsaran",
+      "urls": [
+        "https://radio.gachsaran.org/gach"
+      ],
+      "tags": [],
+      "city": "Gachsaran",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.gachsaran.org",
+      "votes": 2943
+    },
+    {
+      "name": "Radio Mojahed - رادیو مجاهد",
+      "urls": [
+        "https://s2.radio.co/s830691c74/listen"
+      ],
+      "tags": [
+        "iran",
+        "mek",
+        "mko",
+        "mojahed",
+        "pmoi",
+        "radio mojahed",
+        "رادیو مجاهد",
+        "سازمان مجاهدین خلق ایران"
+      ],
+      "city": "Tehran",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.mojahedin.org/assets/images/fav.png",
+      "votes": 4177
+    },
+    {
+      "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+      "urls": [
+        "https://ic2326.c1261.fastserv.com/rm128"
+      ],
+      "tags": [
+        "christian",
+        "music",
+        "talk",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiomojdeh.com/favicon.ico",
+      "votes": 12870
+    },
+    {
+      "name": "Radio Simorgh",
+      "urls": [
+        "https://stream.zeno.fm/jl8n7thgcdftv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3775
+    },
+    {
+      "name": "Radio Yar Plus2",
+      "urls": [
+        "https://stream-163.zeno.fm/yxemzpoaocavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eGVtenBvYW9jYXZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhKNHZlRTRtVFFPQTZ6RWJwMy1MOXciLCJpYXQiOjE3NTc2MzE3MDEsImV4cCI6MTc1NzYzMTc2MX0.KyIREwfc-nOvruWM_wiFaNS-xCgh1CfF2i8PE-xSm9E"
+      ],
+      "tags": [],
+      "city": "California",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/uqBFFhHClAuDfVunuQIJoSXPy3OlnXHUGEyXhzY-vqU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWNjYzgzNTQtOWFkYi00ZjJjLTg4NmUtZmU4YzA5MDhiMWM5L2ltYWdlLz91PTE3NTc2MTE4MzkwMDA.webp",
+      "votes": 2003
+    },
+    {
+      "name": "Radio ZZA (Zan Zendegi Azadi)",
+      "urls": [
+        "https://listen.radioking.com/radio/526993/stream/585379"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://image.radioking.io/radios/526993/logo/0586ce95-5dac-4996-ba76-2a051f3dffe4.jpeg",
+      "votes": 2367
+    },
+    {
+      "name": "RadioSimorgh Authentic Iranian music",
+      "urls": [
+        "https://stream.zeno.fm/9svfnobkrxrvv"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk",
+      "votes": 10378
+    },
+    {
+      "name": "RadioYar",
+      "urls": [
+        "https://shoutcast.glwiz.com/RadioYAR.mp3"
+      ],
+      "tags": [
+        "music",
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3454
+    },
+    {
+      "name": "uploadkon",
+      "urls": [
+        "https://uploadkon.ir/uploads/eb9812_26Highrise-grab-diva.mp3"
+      ],
+      "tags": [],
+      "city": "Tehran",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 152
+    },
+    {
+      "name": "ایران‎  Radio Liberty (Iran) (official stream)",
+      "urls": [
+        "https://stream.radiojar.com/cp13r2cpn3quv"
+      ],
+      "tags": [],
+      "city": "Tehran",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+      "votes": 71919
+    }
+  ]
+}

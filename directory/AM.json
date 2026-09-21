@@ -1,0 +1,152 @@
+{
+  "code": "AM",
+  "name": "Armenia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 50
+    },
+    {
+      "name": "Armenian Bible Study Radio",
+      "urls": [
+        "https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://armenianbiblestudy.com/wp-content/uploads/2021/07/ABS-Logo.png",
+      "votes": 31
+    },
+    {
+      "name": "Armenian Christian Radio - Bashde Radio",
+      "urls": [
+        "https://streams.radio.co/sa0bf8ec29/listen?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://bashde.org/favicon.ico",
+      "votes": 1420
+    },
+    {
+      "name": "Armenian Radio",
+      "urls": [
+        "https://cast.thiff.com/proxy/laarmeni?mp=/stream"
+      ],
+      "tags": [
+        "entertainment",
+        "pop music"
+      ],
+      "city": "Yerevan",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Jazz FM 106.9 Yerevan Radio",
+      "urls": [
+        "https://de.auroramedia.am/jazz.mp3"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.radiojazzfm.am/img/core-img/logo2.png",
+      "votes": 20
+    },
+    {
+      "name": "Kiss FM Armenia",
+      "urls": [
+        "https://am.radioaurora.am/kiss"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 387
+    },
+    {
+      "name": "Lav Radio",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/lavradio/stream"
+      ],
+      "tags": [
+        "armenian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.lavradio.am/wp-content/uploads/2020/08/lav350.png",
+      "votes": 55
+    },
+    {
+      "name": "LOVE RADIO",
+      "urls": [
+        "https://loveradio.streamingmedia.it/play"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1268
+    },
+    {
+      "name": "MFM Music Radio",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/mfmradio/stream"
+      ],
+      "tags": [
+        "modern",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 1021
+    },
+    {
+      "name": "Radio Marshall",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/marshallfm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomarshall.am/images/logo.png",
+      "votes": 341
+    },
+    {
+      "name": "XFM Radio",
+      "urls": [
+        "https://eu.stream4cast.com/proxy/xfmradio/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "http://www.lavradio.am/wp-content/uploads/2019/05/xfmlg.png",
+      "votes": 14
+    }
+  ]
+}

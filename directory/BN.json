@@ -1,0 +1,55 @@
+{
+  "code": "BN",
+  "name": "Brunei Darussalam",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 31
+    },
+    {
+      "name": "Kristal FM",
+      "urls": [
+        "https://play.thestreamtech.com:7038/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/b8b4b017-229d-4ad6-bd33-bb9ed694e6dd/KRISTALfm+Logo+%282023%29+1080x4050+-+Hari+Raya.png?format=1500w",
+      "votes": 438
+    },
+    {
+      "name": "KRISTALfm",
+      "urls": [
+        "https://play.thestreamtech.com:7038/index.html"
+      ],
+      "tags": [],
+      "city": "Dar es Salaam",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/c14d6a3a-a7dd-413a-b54a-25df559c3ae5/KRISTALfm+Logo+%282023%29+144x600.png",
+      "votes": 89
+    },
+    {
+      "name": "Rádio Água Azul",
+      "urls": [
+        "https://stm4.srvif.com:8460/stream"
+      ],
+      "tags": [],
+      "city": "PA",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Mf0pTyn0csGWmRnTNBIiN8hFYhkcefiB5wEZrW5AOxC-YJrlDyWRlHo9bZWF8atKWH5q54Hg3VMJkR1xaFvJRxt19DKlchSnbdYhywCsFpqUe5nHHkAkDbjaymm6jmVU-AJ3fp5MbIqVemnbxahRJcsuQHHC15w12UIS8eST2h2RLwuzSj8I-NYftys/s320/grok-image-b75974a7-7f23-42e6-a1d5-61b6e90790d1.png",
+      "votes": 0
+    }
+  ]
+}

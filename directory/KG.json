@@ -1,0 +1,116 @@
+{
+  "code": "KG",
+  "name": "Kyrgyzstan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 52
+    },
+    {
+      "name": "ColdStar.Online Radio (High quality)",
+      "urls": [
+        "https://ice.coldstar.online/high.ogg"
+      ],
+      "tags": [
+        "deep",
+        "house",
+        "tech",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://coldstar.online/static/assets/android-chrome-512x512.png",
+      "votes": 25
+    },
+    {
+      "name": "ColdStar.Online Radio (Low quality)",
+      "urls": [
+        "https://ice.coldstar.online/low.mp3"
+      ],
+      "tags": [
+        "deep",
+        "house",
+        "psy",
+        "tech",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coldstar.online/static/assets/android-chrome-512x512.png",
+      "votes": 1153
+    },
+    {
+      "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+      "urls": [
+        "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+      ],
+      "tags": [
+        "islamic، classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 149
+    },
+    {
+      "name": "Биринчи Radio",
+      "urls": [
+        "https://liveradio.utrk.kg/1radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.ktrk.kg/favicon.ico",
+      "votes": 166
+    },
+    {
+      "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+      "urls": [
+        "https://cdn.radioplayer.kg:8443/obondoru64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "https://obondoru.kg/wp-content/uploads/2022/08/cropped-logo_png-600-180x180.png",
+      "votes": 698
+    },
+    {
+      "name": "Радио Тумар FM (Radio Tumar FM)",
+      "urls": [
+        "https://radio.tumar.fm:8005/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 348
+    },
+    {
+      "name": "Сүйүнчү FM (Suiunchu FM)",
+      "urls": [
+        "https://cdn.radioplayer.kg:8443/suiunchu64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 150
+    }
+  ]
+}

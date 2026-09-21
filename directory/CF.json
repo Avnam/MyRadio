@@ -1,0 +1,43 @@
+{
+  "code": "CF",
+  "name": "The Central African Republic",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 71
+    },
+    {
+      "name": "Mambokadzi DreamRadio",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.mambokadzidreamradio.com/sitepad-data/uploads/2023/11/Mambokadzi-DreamRadio-Logo.jpg",
+      "votes": 195
+    },
+    {
+      "name": "Radio Ndeke Luka",
+      "urls": [
+        "https://stream.radiondekeluka.org/ndekeluka"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 28,
+      "logo": "https://www.radiondekeluka.org/wp-content/uploads/2022/12/cropped-rnl-ico-300x300.jpg",
+      "votes": 30
+    }
+  ]
+}

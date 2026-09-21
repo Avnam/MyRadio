@@ -1,0 +1,286 @@
+{
+  "code": "GE",
+  "name": "Georgia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 87
+    },
+    {
+      "name": "JUKEBOX 94.3",
+      "urls": [
+        "https://stream.radiojukebox.ge/stream.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.radiojukebox.ge/logo.png",
+      "votes": 0
+    },
+    {
+      "name": "LF Radio",
+      "urls": [
+        "https://rtn.cdnstream1.com/2582_96.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 427
+    },
+    {
+      "name": "Mutant Radio",
+      "urls": [
+        "https://listen.radioking.com/radio/282820/stream/328621"
+      ],
+      "tags": [
+        "eclectic"
+      ],
+      "city": "Tbilisi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRUX0p_TXYrbqA_Twv9PFt_R3lRIAMDLjShtcD_8DbS0YB93vyNKYRjPI&s=10",
+      "votes": 14
+    },
+    {
+      "name": "Radio 2 - Tbilisi FM 100,9",
+      "urls": [
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://top-radio.ru/assets/image/radio/180/radio2ge.jpg",
+      "votes": 16
+    },
+    {
+      "name": "Radio Amra",
+      "urls": [
+        "https://streamer.radio.co/s34b5469e0/listen"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4481
+    },
+    {
+      "name": "Radio dardimandi",
+      "urls": [
+        "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8"
+      ],
+      "tags": [
+        "folk music",
+        "talk"
+      ],
+      "city": "Tbilisi",
+      "codec": "AAC",
+      "bitrate": 210,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "WVFJ 93.3 & 102.1 The JOY FM",
+      "urls": [
+        "https://rtn.cdnstream1.com/2576_96.aac?rand=81562"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 609
+    },
+    {
+      "name": "Арадио Sputnik Аҧсны",
+      "urls": [
+        "https://icecast-rian.cdnvideo.ru/voicesuh"
+      ],
+      "tags": [],
+      "city": "Abkhazia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdnn1.img.sputnik-abkhazia.info/i/logo/logo.svg",
+      "votes": 233
+    },
+    {
+      "name": "ავტორადიო (Avtoradio)",
+      "urls": [
+        "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn.fortuna.ge/app/uploads/2024/02/avtoradio-logo-2024-01-30-14-11-32-376900-2024-02-08_07-48-41_122881.svg",
+      "votes": 1604
+    },
+    {
+      "name": "არ დაიდარდო (Ar Daidardo)",
+      "urls": [
+        "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn.fortuna.ge/app/uploads/2024/02/ardaidardo-logo-2024-01-30-14-10-56-268127-2024-02-08_07-48-26_828205.svg",
+      "votes": 3452
+    },
+    {
+      "name": "რადიო აჭარა (Radio Adjara)",
+      "urls": [
+        "https://edge.mixlr.com/channel/bzorq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://mixlr-assets.s3.amazonaws.com/users/2bb3547edc11c2c070b2c512ea13eaa3/thumb.jpg",
+      "votes": 235
+    },
+    {
+      "name": "რადიო იმედი (Radio Imedi)",
+      "urls": [
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "AAC+",
+      "bitrate": 135,
+      "logo": "https://www.imedi.ge/m/i/favicons/apple-touch-icon.png",
+      "votes": 1047
+    },
+    {
+      "name": "რადიო კომერსანტი (Radio Commersant)",
+      "urls": [
+        "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.commersant.ge/assets/images/logo.svg",
+      "votes": 428
+    },
+    {
+      "name": "რადიო ობიექტივი (Radio Obieqtivi)",
+      "urls": [
+        "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://obieqtivi.info/imgs/logo.png",
+      "votes": 368
+    },
+    {
+      "name": "რადიო პალიტრა (Radio Palitra)",
+      "urls": [
+        "https://radiostream.palitra.ge/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radiopalitra.ge/static/logos/logo_icon.svg",
+      "votes": 336
+    },
+    {
+      "name": "რადიო პოზიტივი (Radio Positive)",
+      "urls": [
+        "https://stream.radiojar.com/sr4vzamzfnruv"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.positive.ge/img/logo.png",
+      "votes": 588
+    },
+    {
+      "name": "რადიო სივრცე (Radio Sivrce)",
+      "urls": [
+        "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://spnews.io/img/logoRadio.png",
+      "votes": 275
+    },
+    {
+      "name": "რადიო ფორტუნა (Radio Fortuna)",
+      "urls": [
+        "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522-e1709715846610.png",
+      "votes": 545
+    },
+    {
+      "name": "რადიო ჩევნებური (Radio Chveneburi)",
+      "urls": [
+        "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "Tbilisi",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://radiochveneburi.ge/images/LOGO%20GE.png",
+      "votes": 664
+    },
+    {
+      "name": "რადიო ჩვენებური",
+      "urls": [
+        "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "Tbilisi",
+      "codec": "AAC",
+      "bitrate": 290,
+      "logo": null,
+      "votes": 2263
+    },
+    {
+      "name": "რიონი FM",
+      "urls": [
+        "https://video.rionitv.com/s;stream"
+      ],
+      "tags": [
+        "folk music",
+        "soft music"
+      ],
+      "city": "Tbilisi",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    }
+  ]
+}

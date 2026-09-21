@@ -1,0 +1,1392 @@
+{
+  "code": "NO",
+  "name": "Norway",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "1FM Jazz",
+      "urls": [
+        "https://lyd.1fm.no/1fmjazz_mq?rp_source=1"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "Møre og Romsdal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.1fmmolde.com/uploads/1/2/2/5/122527073/jazz_orig.png",
+      "votes": 3
+    },
+    {
+      "name": "1FM Molde",
+      "urls": [
+        "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.1fmmolde.com/uploads/1/2/2/5/122527073/editor/1fm-blue-rektangle.png?1539836001",
+      "votes": 16
+    },
+    {
+      "name": "1FM Rock",
+      "urls": [
+        "https://lyd.1fm.no/1fmrock_hq"
+      ],
+      "tags": [],
+      "city": "Møre og Romsdal",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/420/1fm-rock.0a45dd11.png",
+      "votes": 3
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "CLIAMP EDM Pulse",
+      "urls": [
+        "https://radio.cliamp.stream/edm/stream"
+      ],
+      "tags": [
+        "edm",
+        "electronic dance music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 2
+    },
+    {
+      "name": "CLIAMP Lofi Hip Hop Radio",
+      "urls": [
+        "https://radio.cliamp.stream/lofi/stream"
+      ],
+      "tags": [
+        "lofi",
+        "lofi hip hop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 7
+    },
+    {
+      "name": "CLIAMP NCS Chill",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-chill/stream"
+      ],
+      "tags": [
+        "chill",
+        "chillout",
+        "ncs",
+        "ncs radio",
+        "no copyright sounds"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 2
+    },
+    {
+      "name": "CLIAMP NCS Drum & Bass",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-dnb/stream"
+      ],
+      "tags": [
+        "dnb",
+        "drum & bass",
+        "drum and bass",
+        "ncs",
+        "ncs radio",
+        "no copyright sounds"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 5
+    },
+    {
+      "name": "CLIAMP NCS Dubstep",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-dubstep/stream"
+      ],
+      "tags": [
+        "dubstep",
+        "ncs",
+        "ncs radio",
+        "no copyright sounds"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 4
+    },
+    {
+      "name": "CLIAMP NCS House",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-house/stream"
+      ],
+      "tags": [
+        "house",
+        "ncs",
+        "ncs radio",
+        "no copyright sounds"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 3
+    },
+    {
+      "name": "CLIAMP NCS Phonk",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-phonk/stream"
+      ],
+      "tags": [
+        "ncs",
+        "ncs radio",
+        "no copyright sounds",
+        "phonk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 5
+    },
+    {
+      "name": "CLIAMP NCS Pop",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-pop/stream"
+      ],
+      "tags": [
+        "ncs",
+        "ncs radio",
+        "no copyright sounds",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 3
+    },
+    {
+      "name": "CLIAMP NCS Radio",
+      "urls": [
+        "https://radio.cliamp.stream/ncs/stream"
+      ],
+      "tags": [
+        "ncs",
+        "ncs radio",
+        "no copyright sounds"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 2
+    },
+    {
+      "name": "CLIAMP NCS Trap",
+      "urls": [
+        "https://radio.cliamp.stream/ncs-trap/stream"
+      ],
+      "tags": [
+        "ncs",
+        "ncs radio",
+        "no copyright sounds",
+        "trap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 3
+    },
+    {
+      "name": "CLIAMP Synthwave Nights",
+      "urls": [
+        "https://radio.cliamp.stream/synthwave/stream"
+      ],
+      "tags": [
+        "night",
+        "synthwave"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.cliamp.stream/favicon.svg",
+      "votes": 5
+    },
+    {
+      "name": "Guovdageainnu Lagasradio",
+      "urls": [
+        "https://streaming.radio.co/s5b773f8d3/listen"
+      ],
+      "tags": [],
+      "city": "Finnmark",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Hamar Radioen",
+      "urls": [
+        "https://lyd.radioene.no/hamar.mp3"
+      ],
+      "tags": [
+        "news",
+        "pop",
+        "rock"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.radioplayer.org/578/5784092/600/600/kyermgn3.png",
+      "votes": 23
+    },
+    {
+      "name": "Harrys Radio",
+      "urls": [
+        "https://mpc1.mediacp.eu:8208/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radio.aasterud.com/wp-content/plugins/wp-radio/assets/images/placeholder.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Klem FM",
+      "urls": [
+        "https://p7.p4groupaudio.com/P07_MM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/channelimages/dab99854-1427-4d94-a01d-693a75bc9b26.png?h=200",
+      "votes": 70
+    },
+    {
+      "name": "Nærkanalen",
+      "urls": [
+        "https://stream.radiomeloy.no:8003/radiomeloy"
+      ],
+      "tags": [],
+      "city": "Nordland",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "NF Radio",
+      "urls": [
+        "https://player.nfradio.fr/listen/nf_radio/radio.mp3"
+      ],
+      "tags": [
+        "actualités",
+        "expatrié",
+        "francophone",
+        "french",
+        "news",
+        "norvège",
+        "norway",
+        "talk"
+      ],
+      "city": "Oslo",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nfradio.fr/wp-content/uploads/2026/02/cropped-logo-nfradio-simple-180-90-1.png",
+      "votes": 7
+    },
+    {
+      "name": "Norsk Pop",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/norskpop_no_mp3"
+      ],
+      "tags": [
+        "norges beste musikk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/63566.png",
+      "votes": 3
+    },
+    {
+      "name": "NRJ Norge",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/kiss_no_mp3"
+      ],
+      "tags": [
+        "pop",
+        "hits",
+        "top 40"
+      ],
+      "city": "Oslo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1733412560/brand_manager/stations/op6xarklazczsrwxi2ga.png",
+      "votes": 350
+    },
+    {
+      "name": "NRK Folkemusikk",
+      "urls": [
+        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 158,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "NRK Klassisk Radio",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-klassisk--color-light.svg",
+      "votes": 51
+    },
+    {
+      "name": "NRK MP3",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://lyd.nrk.no/img/favicon.ico",
+      "votes": 140
+    },
+    {
+      "name": "NRK Nyheter",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": "https://gfx.nrk.no/LPN2Qc9bIsOAd5gamRth1g0p14XXlANNbxnU9iNh8gZQ",
+      "votes": 149
+    },
+    {
+      "name": "NRK Nyhter (MP3 - HI)",
+      "urls": [
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://lyd.nrk.no/img/favicon.ico",
+      "votes": 63
+    },
+    {
+      "name": "NRK P1 Buskerud (AAC High)",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 158,
+      "logo": "https://lyd.nrk.no/img/favicon.ico",
+      "votes": 23
+    },
+    {
+      "name": "NRK P1 Finnmark",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h"
+      ],
+      "tags": [],
+      "city": "Finnmark",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Nrk p1 Hordaland",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "NRK P1 Innlandet",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h"
+      ],
+      "tags": [
+        "nrk"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://gfx.nrk.no/dCNdTrvP7UKwLMb4n3ZdMwi5Ua7PwTcMJygSWXXZSNbA",
+      "votes": 3
+    },
+    {
+      "name": "NRK P1 Møre og Romsdal",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.nrk.no/publisering/kurator-visning/assets/apple-touch-icon.png",
+      "votes": 17
+    },
+    {
+      "name": "NRK P1 Nordland",
+      "urls": [
+        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4"
+      ],
+      "tags": [
+        "local news",
+        "national"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": "https://info.nrk.no/wp-content/uploads/2023/12/NRK-Nordland-768x256.png",
+      "votes": 51
+    },
+    {
+      "name": "NRK P1 Østfold",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "NRK P1 Rogaland",
+      "urls": [
+        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9"
+      ],
+      "tags": [],
+      "city": "Rogaland",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": "https://static.nrk.no/radio/dist/favicons/apple-touch-icon.png",
+      "votes": 23
+    },
+    {
+      "name": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
+      "urls": [
+        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 158,
+      "logo": "https://static.nrk.no/core-icons/latest/logo/nrk-logo-nrk-radio-title-below-on-light.svg",
+      "votes": 23
+    },
+    {
+      "name": "NRK P1 Sogn og Fjordane (Høy kvalitet MP3)",
+      "urls": [
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.nrk.no/core-icons/latest/logo/nrk-logo-nrk-radio-title-below-on-light.svg",
+      "votes": 31
+    },
+    {
+      "name": "Nrk P1 Stor-Oslo",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h"
+      ],
+      "tags": [],
+      "city": "OSLO",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://lyd.nrk.no/img/favicon.ico",
+      "votes": 158
+    },
+    {
+      "name": "NRK P1 Troms (Høy kvalitet AAC)",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": "https://gfx.nrk.no/T8cwv9jPSf8UATaLYiJIRgR0tDQCfubtGMfgvDfeLCdQ",
+      "votes": 28
+    },
+    {
+      "name": "NRK P1 Vestfold",
+      "urls": [
+        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": "https://radio.nrk.no/",
+      "votes": 0
+    },
+    {
+      "name": "NRK P1+",
+      "urls": [
+        "https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1+--color-light.svg",
+      "votes": 24
+    },
+    {
+      "name": "NRK P1+ (mp3)",
+      "urls": [
+        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1+--color-light.svg",
+      "votes": 11
+    },
+    {
+      "name": "NRK P2 aac_h",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 158,
+      "logo": "https://gfx.nrk.no/ZeCGB3G5RPX_YQsbB1wz7QvgTeaE3DWcEYY9Ge5yAcyw",
+      "votes": 135
+    },
+    {
+      "name": "NRK P3",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://p3.no/wp-content/themes/p3v2/images/favicon/favicon-16x16.png",
+      "votes": 157
+    },
+    {
+      "name": "NRK P3 Musikk",
+      "urls": [
+        "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p3-musikk--stacked-color-light.svg",
+      "votes": 24
+    },
+    {
+      "name": "NRK Radio_Super",
+      "urls": [
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://lyd.nrk.no/img/favicon.ico",
+      "votes": 0
+    },
+    {
+      "name": "NRK Sápmi",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NRK_S%C3%A1pmi_logo_%282022%29.svg",
+      "votes": 6
+    },
+    {
+      "name": "NRK Sport",
+      "urls": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 159,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "NRK Trøndelag",
+      "urls": [
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5"
+      ],
+      "tags": [],
+      "city": "Trøndelag",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Ordentlig Radio",
+      "urls": [
+        "https://stream.oradio.no/oradio_hq"
+      ],
+      "tags": [
+        "norsk musikk på alle språk",
+        "norwegian music only"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://oradio.no/wp-content/uploads/2021/05/a9c653_deb7c428024741e0b9a14356393f1b2e_mv2.png",
+      "votes": 3
+    },
+    {
+      "name": "P10 Country (AAC HQ)",
+      "urls": [
+        "https://p10.p4groupaudio.com/P10_AH"
+      ],
+      "tags": [
+        "p4",
+        "country"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 191,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/547b5770-dc41-4be3-8d30-583e636a9c18.png?w=600&ar=1x1",
+      "votes": 446
+    },
+    {
+      "name": "P11 Dance (AAC HQ)",
+      "urls": [
+        "https://p11.p4groupaudio.com/P11_AH"
+      ],
+      "tags": [
+        "p4",
+        "dance"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+      "votes": 194
+    },
+    {
+      "name": "P11 Dance (MP3 128k)",
+      "urls": [
+        "https://p11.p4groupaudio.com/P11_MM"
+      ],
+      "tags": [
+        "p4",
+        "dance"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+      "votes": 146
+    },
+    {
+      "name": "P11 Dance (MP3 192k)",
+      "urls": [
+        "https://p11.p4groupaudio.com/P11_MH"
+      ],
+      "tags": [
+        "dance",
+        "p4"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+      "votes": 68
+    },
+    {
+      "name": "P12 Hitmix (AAC HQ)",
+      "urls": [
+        "https://nrj.p4groupaudio.com/NRJ_AH"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 191,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/95c6448b-5cb4-4403-baca-686c22ba0c60.jpg?w=600&ar=1x1",
+      "votes": 268
+    },
+    {
+      "name": "P12 Hitmix (MP3 128k)",
+      "urls": [
+        "https://nrj.p4groupaudio.com/NRJ_MM"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/95c6448b-5cb4-4403-baca-686c22ba0c60.jpg?w=600&ar=1x1",
+      "votes": 662
+    },
+    {
+      "name": "P24-7 JuleRadioen",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/station17_no_mp3"
+      ],
+      "tags": [
+        "jul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/4V6wgYEewX.png",
+      "votes": 96
+    },
+    {
+      "name": "P24-7 Kos",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png",
+      "votes": 70
+    },
+    {
+      "name": "P24-7 Mix",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/p247mix_no_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 359
+    },
+    {
+      "name": "P4 – Lyden av Norge",
+      "urls": [
+        "https://p4.p4groupaudio.com/P04_MH"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "P4 Norge (AAC HQ)",
+      "urls": [
+        "https://p4.p4groupaudio.com/P04_AH"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "music",
+        "pop",
+        "news"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 191,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/6e2f9c96-a018-424a-b3bf-7be5252d806c.png?w=600&ar=1x1",
+      "votes": 659
+    },
+    {
+      "name": "P4 Norge (MP3 128k)",
+      "urls": [
+        "https://p4.p4groupaudio.com/P04_MM"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "music",
+        "pop",
+        "news"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/6e2f9c96-a018-424a-b3bf-7be5252d806c.png?w=600&ar=1x1",
+      "votes": 298
+    },
+    {
+      "name": "P5 Hits (MP3 128k)",
+      "urls": [
+        "https://p5.p4groupaudio.com/P05_MM"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "pop"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/996f007d-9d5a-4b56-9d3b-ac0d6724599d.png?w=600&ar=1x1",
+      "votes": 197
+    },
+    {
+      "name": "P5 Nonstop Hits (AAC HQ)",
+      "urls": [
+        "https://p5n.p4groupaudio.com/P05AAH"
+      ],
+      "tags": [
+        "p4",
+        "hits",
+        "pop"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 191,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/488dff43-6567-45ec-bd55-1813ccf861a4.png?w=600&ar=1x1",
+      "votes": 1128
+    },
+    {
+      "name": "P6 Rock (MP3 128k)",
+      "urls": [
+        "https://p6.p4groupaudio.com/P06_MM"
+      ],
+      "tags": [
+        "p4",
+        "rock",
+        "classic rock"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/f906dad9-93e0-4bbe-a666-45cdf17fa031.png?w=600&ar=1x1",
+      "votes": 500
+    },
+    {
+      "name": "P7",
+      "urls": [
+        "https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio.p7.no/static/uploads/browser_icon/192.1642070717.png",
+      "votes": 24
+    },
+    {
+      "name": "P7 Klem (AAC HQ)",
+      "urls": [
+        "https://p7.p4groupaudio.com/P07_AH"
+      ],
+      "tags": [
+        "p4",
+        "80s",
+        "90s",
+        "pop",
+        "christmas"
+      ],
+      "city": "Innlandet",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/637fa6b4-f0ea-415f-8d99-3ca4c2bab5fe.png?w=600&ar=1x1",
+      "votes": 330
+    },
+    {
+      "name": "P7 Kristen Pop",
+      "urls": [
+        "https://radio.p7.no/listen/p7_kristen_pop/kristen_pop"
+      ],
+      "tags": [
+        "contemporary christian music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.wixstatic.com/media/102321_4c0f2be757ce4f8daab62fdf57ca5fcb%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/102321_4c0f2be757ce4f8daab62fdf57ca5fcb%7emv2.png",
+      "votes": 49
+    },
+    {
+      "name": "P8 Pop (MP3 128k)",
+      "urls": [
+        "https://p8.p4groupaudio.com/P08_MM"
+      ],
+      "tags": [
+        "p4",
+        "80s",
+        "90s",
+        "classic hits",
+        "oldies"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/665b308b-626d-469f-859e-1e7430360c50.png?w=600&ar=1x1",
+      "votes": 446
+    },
+    {
+      "name": "P9 Retro (MP3 128k)",
+      "urls": [
+        "https://p9.p4groupaudio.com/P09_MH"
+      ],
+      "tags": [
+        "p4",
+        "60s",
+        "70s",
+        "80s",
+        "retro"
+      ],
+      "city": "Innlandet",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/258ff588-4e23-49af-88e1-b0b2afedaa4a.png?w=600&ar=1x1",
+      "votes": 355
+    },
+    {
+      "name": "Radio 3 Bodø",
+      "urls": [
+        "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394"
+      ],
+      "tags": [
+        "football commentary",
+        "local news",
+        "music"
+      ],
+      "city": "Nordland",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://radio3bodo.no/radioplayer/assets/favicon.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio 3,16 - hele Norges kristne radiokanal",
+      "urls": [
+        "https://streaming.radio.co:80/se326fb378/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Radio AI Norge",
+      "urls": [
+        "https://a13.asurahosting.com/listen/radio_ai/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://r.mobirisesite.com/2031852/assets/images/radio_ai_jukebox.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Ålesund",
+      "urls": [
+        "https://audio.radioaalesund.no/aalesund_mq"
+      ],
+      "tags": [],
+      "city": "Møre og Romsdal",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/radios-150px/G3wWG2hNpZ.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Bardufoss",
+      "urls": [
+        "https://stream.bardufoss.no/radiobardufoss192"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Radio Haugaland 96",
+      "urls": [
+        "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radioh.no/wp-content/themes/radiohnew/webradio.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Kos",
+      "urls": [
+        "https://lyd.radiokos.no/kos_lq"
+      ],
+      "tags": [],
+      "city": "Rogaland",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 15
+    },
+    {
+      "name": "Radio Latin-Amerika",
+      "urls": [
+        "https://stream.radiolatinamerika.no/latam_hq"
+      ],
+      "tags": [
+        "chile",
+        "latin",
+        "latin pop",
+        "latinoamérica",
+        "musica latina",
+        "musica latinoamericana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiolatinamerika.no/templates/yoo_showroom/favicon.ico",
+      "votes": 34
+    },
+    {
+      "name": "Radio Norge",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radionorge.no/favicon.ico",
+      "votes": 16
+    },
+    {
+      "name": "Radio Rock (NO)",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/radiorock_no_mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "pop rock",
+        "rock",
+        "hard rock",
+        "heavy metal"
+      ],
+      "city": "Oslo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/fYQvCLhcxO1HUgQ1KCryYUKqMe8Q0O5c5NKAByP_vFj7wchAV-RJh8oWrIKL4581kCA",
+      "votes": 403
+    },
+    {
+      "name": "Radio Rock Norway AAC",
+      "urls": [
+        "https://live-bauerno.sharp-stream.com/radiorock_no_aac"
+      ],
+      "tags": [
+        "hard rock",
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1765293609/brand_manager/stations/wuscfr7mqtvg4c6efbcf.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Radio Rox",
+      "urls": [
+        "https://live-nors.sharp-stream.com/nors13.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dinlyd.no/wp-content/uploads/2025/06/Radio-Rox_300x300.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Sotra",
+      "urls": [
+        "https://streaming.radiosotra.no:8443/radiosotra"
+      ],
+      "tags": [],
+      "city": "Hordaland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Radio Tønsberg",
+      "urls": [
+        "https://audio.jaerradiogruppen.no/tonsberg_hq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Radio Tromsø Hits",
+      "urls": [
+        "https://stream.rthits.no/rthits192"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "Tromsø",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.rthits.no/bilder/radiotromsohits-logo516x332.png",
+      "votes": 21
+    },
+    {
+      "name": "Radio Tropoli",
+      "urls": [
+        "https://radio.roganett.com/listen/radio_tropoli/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "RADIO Trøndelag",
+      "urls": [
+        "https://nettradio.radiotrondelag.no:8443/radio_trondelag"
+      ],
+      "tags": [
+        "entertainment",
+        "local music",
+        "local news",
+        "local radio",
+        "news",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiotrondelag.no/wp-content/uploads/2022/02/adaptive-icon.png",
+      "votes": 46
+    },
+    {
+      "name": "Radio102",
+      "urls": [
+        "https://stream.radio102.no/radio102_hq"
+      ],
+      "tags": [
+        "local",
+        "local music",
+        "local news",
+        "local radio"
+      ],
+      "city": "Rogaland",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "radiOrakel",
+      "urls": [
+        "https://stream.radiorakel.no/radiorakel_hq"
+      ],
+      "tags": [
+        "feminist",
+        "minority genders",
+        "progressive politics"
+      ],
+      "city": "Oslo",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiorakel.no/wp-content/uploads/2024/10/logo-radiorakel-fm-99.3.png",
+      "votes": 5
+    },
+    {
+      "name": "Radiø Bø",
+      "urls": [
+        "https://nettradio.radiobo.com/radiobo-high"
+      ],
+      "tags": [
+        "lofoten",
+        "lokalradio",
+        "nordland",
+        "vesterålen"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 115
+    },
+    {
+      "name": "Scansat Radio (Scandinavian Satellite Radio)",
+      "urls": [
+        "https://stream.rcast.net/67165"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.scansat.no/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Sørlandsradioen",
+      "urls": [
+        "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://sorlandsradioen.no/wp-content/uploads/2024/09/sorlandsradioen-logo-279h.png",
+      "votes": 16
+    },
+    {
+      "name": "The Beat",
+      "urls": [
+        "https://live-nors.sharp-stream.com/nors17.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Trysilradioen",
+      "urls": [
+        "https://lyd.radioene.no/trysil.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Tune Tribe Radio",
+      "urls": [
+        "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3"
+      ],
+      "tags": [
+        "24/7",
+        "ambient",
+        "deep house",
+        "electronic",
+        "jazz",
+        "live dj",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.tunetriberadio.com/favicon.ico",
+      "votes": 7
+    },
+    {
+      "name": "Tune Tribe Radio",
+      "urls": [
+        "https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8"
+      ],
+      "tags": [
+        "24/7",
+        "ai radio",
+        "ambient",
+        "chill",
+        "chillout",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "internet radio",
+        "jazz",
+        "live dj",
+        "soul"
+      ],
+      "city": "Oslo",
+      "codec": "AAC",
+      "bitrate": 52,
+      "logo": "https://www.tunetriberadio.com/favicon.ico",
+      "votes": 4
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "code": "BY",
+  "name": "Belarus",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "TEPLOE RADIO NETOP FM",
+      "urls": [
+        "https://listen.teploe.net:8001/netopfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000",
+      "votes": 10
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 52
+    },
+    {
+      "name": "Alfa Radio 107.9 FM",
+      "urls": [
+        "https://stream.sb.by/alpha"
+      ],
+      "tags": [],
+      "city": "Minsk",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "Another Music Project",
+      "urls": [
+        "https://radio.anothermusicproject.com:8443/idm"
+      ],
+      "tags": [
+        "electronic",
+        "experimental",
+        "glitch",
+        "idm"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 16,
+      "logo": "https://anothermusicproject.com/gfx/tx.favicon.ico",
+      "votes": 9
+    },
+    {
+      "name": "Aplus.FM Rock",
+      "urls": [
+        "https://shoutcast.aplus.fm/aplus_rock_256"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Center FM",
+      "urls": [
+        "https://stream2.datacenter.by/stream"
+      ],
+      "tags": [
+        "chr"
+      ],
+      "city": "Minsk",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Lider FM",
+      "urls": [
+        "https://icecast.lider-fm.by/liderfm"
+      ],
+      "tags": [
+        "chr"
+      ],
+      "city": "Grodno",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 1330
+    },
+    {
+      "name": "LOVE IS RADIO",
+      "urls": [
+        "https://myradio24.org/3355"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://myradio24.com/users/3355/nocover.jpg",
+      "votes": 8
+    },
+    {
+      "name": "MFM Belarus",
+      "urls": [
+        "https://radio.105fm.by/radio.105.0mfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Radio Alesia",
+      "urls": [
+        "https://hls.alesia.live/alesia/aac_hifi.m3u8"
+      ],
+      "tags": [
+        "folk music",
+        "folk rock"
+      ],
+      "city": "belarus",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio ALESIA",
+      "urls": [
+        "https://air.alesia.live/alesia"
+      ],
+      "tags": [
+        "folk",
+        "folk music",
+        "folk rock",
+        "rock"
+      ],
+      "city": "Belarus",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Monte Carlo Lounge",
+      "urls": [
+        "https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/854/monte-carlo-lounge.e897c07c.png",
+      "votes": 48
+    },
+    {
+      "name": "Radio Unistar",
+      "urls": [
+        "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "rock",
+        "top 40"
+      ],
+      "city": "Minsk",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "Radius FM",
+      "urls": [
+        "https://stream2.datacenter.by/radiusfm_main"
+      ],
+      "tags": [
+        "belteleradiocompany"
+      ],
+      "city": "Minsk",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 560
+    },
+    {
+      "name": "Retro Belarus",
+      "urls": [
+        "https://air.sammit.tv:8443/retro"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 75
+    },
+    {
+      "name": "WGFM-Trance",
+      "urls": [
+        "https://sv.netradio.by/1/128"
+      ],
+      "tags": [],
+      "city": "Minsk",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://top-radio.ru/assets/image/radio/180/wgfm.png",
+      "votes": 48
+    },
+    {
+      "name": "Zefir FM",
+      "urls": [
+        "https://stream2.datacenter.by/zefirfm"
+      ],
+      "tags": [
+        "dance",
+        "disco",
+        "news",
+        "pop"
+      ],
+      "city": "Bobruisk",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://www.phonostar.de/images/auto_created/zefir_fm184x184.png",
+      "votes": 70
+    },
+    {
+      "name": "Авторадио Минск",
+      "urls": [
+        "https://live.humorfm.by:8443/avtoradio"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 385
+    },
+    {
+      "name": "Ватыканскае радыё",
+      "urls": [
+        "https://radio.vaticannews.va/stream-be"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 324
+    },
+    {
+      "name": "Город FM Брест 97,7",
+      "urls": [
+        "https://stream2.datacenter.by/GorodFM"
+      ],
+      "tags": [
+        "decades"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1168
+    },
+    {
+      "name": "Душевное радио",
+      "urls": [
+        "https://stream2.datacenter.by/dushevnoe"
+      ],
+      "tags": [],
+      "city": "Minsk",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiolas.com/uploads/radio/dushevnoe-belarus.webp",
+      "votes": 465
+    },
+    {
+      "name": "Европа Плюс Полоцк",
+      "urls": [
+        "https://ep128.hostingradio.ru:8030/ep128"
+      ],
+      "tags": [
+        "chr",
+        "dance music",
+        "hits",
+        "pop music",
+        "top 40"
+      ],
+      "city": "Polock",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://sammit.tv/wp-content/uploads/2025/10/Plus-scaled.png",
+      "votes": 27
+    },
+    {
+      "name": "Компас FM",
+      "urls": [
+        "https://radio.mil.by/live"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Minsk",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://vayar.mil.by/favicon.ico",
+      "votes": 3135
+    },
+    {
+      "name": "МВ-Радио",
+      "urls": [
+        "https://stream2.datacenter.by/mvradio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Minsk",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 326
+    },
+    {
+      "name": "Мелодии Века 96.2fm",
+      "urls": [
+        "https://radiorecord.hostingradio.ru/sd9096.aacp"
+      ],
+      "tags": [
+        "70-90-х",
+        "ретро"
+      ],
+      "city": "Минск",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://wwv.zvuch.com/img/radio/323617_big.jpg",
+      "votes": 2006
+    },
+    {
+      "name": "Народное Радио",
+      "urls": [
+        "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Minsk",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 616
+    },
+    {
+      "name": "Новое радио",
+      "urls": [
+        "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+      ],
+      "tags": [
+        "newradio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 674
+    },
+    {
+      "name": "Новое радио - Fresh",
+      "urls": [
+        "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+      ],
+      "tags": [
+        "dance",
+        "fresh",
+        "pop",
+        "top"
+      ],
+      "city": "Minsk",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://www.novoeradio.by/favicon.ico",
+      "votes": 1733
+    },
+    {
+      "name": "Новое радио - MegaMix",
+      "urls": [
+        "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "mix",
+        "pop"
+      ],
+      "city": "Minsk",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://www.novoeradio.by/uploads/images/settings/314c6f5a-0e1c-4ace-aa91-aba0ca3e2599_logo.svg",
+      "votes": 1797
+    },
+    {
+      "name": "Открытое Слово",
+      "urls": [
+        "https://rt.radioslovo.net:4395/radio"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioslovo.net/assets/css/img/favicon.ico",
+      "votes": 27
+    },
+    {
+      "name": "Открытое Слово Авто Радио",
+      "urls": [
+        "https://rt.radioslovo.net:4145/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 87
+    },
+    {
+      "name": "Открытое Слово Братские встречи",
+      "urls": [
+        "https://rt.radioslovo.net:4135/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioslovo.net/assets/css/img/favicon.ico",
+      "votes": 34
+    },
+    {
+      "name": "Открытое Слово Инструментальная музыка",
+      "urls": [
+        "https://rt.radioslovo.net:4275/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioslovo.net/assets/css/img/favicon.ico",
+      "votes": 43
+    },
+    {
+      "name": "Радио ROKS",
+      "urls": [
+        "https://stream.roks.com:8443/live256"
+      ],
+      "tags": [
+        "rock",
+        "russian",
+        "shanson"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Радио Брест 104.8 FM",
+      "urls": [
+        "https://stream2.datacenter.by/trkbrest"
+      ],
+      "tags": [
+        "belarus",
+        "brest",
+        "by",
+        "music",
+        "pop",
+        "radio brest"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250121_161518260.jpg?alt=media&token=c61b5830-d0b6-4304-af0a-22cd089e5799",
+      "votes": 197
+    },
+    {
+      "name": "Радио витебск",
+      "urls": [
+        "https://stream2.datacenter.by/vtvby"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 1004
+    },
+    {
+      "name": "радио Минск 92.4",
+      "urls": [
+        "https://radio.mk.by:8443/radiominsk"
+      ],
+      "tags": [
+        "музыка"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://minsknews.by/wp-content/uploads/2022/11/cropped-logo-180x180.webp",
+      "votes": 561
+    },
+    {
+      "name": "Радио Могилёв",
+      "urls": [
+        "https://stream2.datacenter.by/tvrmogilev"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.tvrmogilev.by/_img/logo-radio.svg",
+      "votes": 1140
+    },
+    {
+      "name": "Радые Марыя",
+      "urls": [
+        "https://server.radiorm.by:8443/live"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomaria.by/images/icons/icon-128.png",
+      "votes": 979
+    },
+    {
+      "name": "Радыё Сталiца",
+      "urls": [
+        "https://media2.datacenter.by/stream/stalica/stream"
+      ],
+      "tags": [
+        "hard rock",
+        "rock"
+      ],
+      "city": "Minsk",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://www.prfm.ru/logo/radio-stalitsa-130.jpg",
+      "votes": 58
+    },
+    {
+      "name": "Русское радио Минск 98.9 FM",
+      "urls": [
+        "https://stream.rusradio.by:8443/live128"
+      ],
+      "tags": [
+        "belarus",
+        "minsk",
+        "music",
+        "pop",
+        "russkoe radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155040731.jpg?alt=media&token=1375f7a9-e767-4e88-aed9-0c833ceedba3",
+      "votes": 2014
+    },
+    {
+      "name": "Свое Радио (Пинск)",
+      "urls": [
+        "https://live.svoyoradio.by:8443/svoyoradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 162
+    },
+    {
+      "name": "Соловьев",
+      "urls": [
+        "https://solovievfm.hostingradio.ru/solovievfm128.aacp"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1163
+    }
+  ]
+}

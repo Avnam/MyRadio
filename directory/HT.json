@@ -1,0 +1,290 @@
+{
+  "code": "HT",
+  "name": "Haiti",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 29
+    },
+    {
+      "name": "Ananda Marga Haiti",
+      "urls": [
+        "https://stream-152.zeno.fm/vm8mgn3eewzuv?zs=HWkYw7B5S2C0W0cAcrdGZQ"
+      ],
+      "tags": [
+        "mantra",
+        "spiritual discourses"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 220
+    },
+    {
+      "name": "Big Reggae Mix",
+      "urls": [
+        "https://ais-sa2.cdnstream1.com/2294_128.mp3"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 158
+    },
+    {
+      "name": "Caraibes FM",
+      "urls": [
+        "https://stream.zeno.fm/54k0v7x14neuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiotelecaraibes.com/wp-content/uploads/2024/01/RTVC-Logo_Blanc.png",
+      "votes": 1108
+    },
+    {
+      "name": "Caraibes FM",
+      "urls": [
+        "https://stream-21.zeno.fm/avr8uenbm1duv?zs=HEEdTMZyQ6uSZRff0P3ubg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiotelecaraibes.com/wp-content/uploads/2024/01/RTVC-Logo_Blanc.png",
+      "votes": 561
+    },
+    {
+      "name": "hhh",
+      "urls": [
+        "https://jazzchristmas.stream.laut.fm/jazzchristmas?t302=2023-12-19_08-05-17&uuid=43cac575-4695-4eca-baf1-5d2f18f5897b"
+      ],
+      "tags": [],
+      "city": "Napoli",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "Intermix 93.1 FM",
+      "urls": [
+        "https://studio.sitegenial.com/9310/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radiointermix.com/logo.png",
+      "votes": 406
+    },
+    {
+      "name": "Radio 4VEH",
+      "urls": [
+        "https://stream.zeno.fm/0zef35h1my5tv"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 61
+    },
+    {
+      "name": "Radio Bien Etre FM",
+      "urls": [
+        "https://stream.zeno.fm/zxg8t9gr3f8uv"
+      ],
+      "tags": [
+        "caribbean",
+        "contemporary music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Bonpounou",
+      "urls": [
+        "https://centova.wlservices.org/proxy/wiszuaec/stream/"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 50
+    },
+    {
+      "name": "Radio Boursiquot's FM 101.7",
+      "urls": [
+        "https://stream.zeno.fm/yoz610evcpltv"
+      ],
+      "tags": [
+        "musica",
+        "news",
+        "sport"
+      ],
+      "city": "jacmel ",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 150
+    },
+    {
+      "name": "Radio Humilite",
+      "urls": [
+        "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9NZ09RV0hXU00yclQ2cW8wMjRVMUEiLCJpYXQiOjE3ODk5NzA2MTMsImV4cCI6MTc4OTk3MDY3M30.xh45aU-6ch2qhEMfMmojZGsvV_OSh1jUJrNRjw_OdcY"
+      ],
+      "tags": [
+        "cultural news",
+        "gospel music",
+        "sports news"
+      ],
+      "city": "carrefour",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.e-monsite.com/manager/e-monsite.com/im/favicon.png",
+      "votes": 219
+    },
+    {
+      "name": "Radio Humilite",
+      "urls": [
+        "https://stream-204.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImM1VXd5SWJuU1kyQ1VRVGdpT2N0UFEiLCJpYXQiOjE3ODk5NjQ1NDMsImV4cCI6MTc4OTk2NDYwM30.aDkIwRbZt3ITBNn7AUT7YjkS4UsO1Rb8OBrHXXz97gE"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.e-monsite.com/manager/e-monsite.com/im/favicon.png",
+      "votes": 198
+    },
+    {
+      "name": "Radio Jamesen Show",
+      "urls": [
+        "https://stream.zeno.fm/aparrwtkwyzuv"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.ht/jamesen-show/",
+      "votes": 10
+    },
+    {
+      "name": "Radio Jeanvonvon",
+      "urls": [
+        "https://stream-152.zeno.fm/28zya4hubwzuv?zs=KHC-EIFRRNCzl-jbVyJyjg"
+      ],
+      "tags": [
+        "ht creole"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 207
+    },
+    {
+      "name": "Radio Scoop FM",
+      "urls": [
+        "https://studio.sitegenial.com/8006/stream"
+      ],
+      "tags": [
+        "talk show"
+      ],
+      "city": "Port-au-Prince",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 46
+    },
+    {
+      "name": "Radio Television Supreme (RTVS)",
+      "urls": [
+        "https://stream.zeno.fm/bdkwbv3rt98uv"
+      ],
+      "tags": [],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 530
+    },
+    {
+      "name": "Radyo ACICORP",
+      "urls": [
+        "https://radio.acicorpinc.com/listen/radio/radio.mp3"
+      ],
+      "tags": [
+        "adventist",
+        "christian",
+        "community",
+        "education",
+        "gospel",
+        "haiti",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.acicorpinc.com/radyo/icon-512.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Tipiti",
+      "urls": [
+        "https://a8.asurahosting.com:7530/stream"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tipiti.biz/site/wp-content/uploads/2019/10/favicon.gif",
+      "votes": 142
+    },
+    {
+      "name": "RFI",
+      "urls": [
+        "https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Port-au-Prince",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 235
+    },
+    {
+      "name": "RHAI",
+      "urls": [
+        "https://stream-165.zeno.fm/mbd2kns9m5zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 17
+    }
+  ]
+}

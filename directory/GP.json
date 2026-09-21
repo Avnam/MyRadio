@@ -1,0 +1,183 @@
+{
+  "code": "GP",
+  "name": "Guadeloupe",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 56
+    },
+    {
+      "name": "Antilles Média - Kompa Gold",
+      "urls": [
+        "https://antillesmedia.pro-fhi.net/antillesmediakompa"
+      ],
+      "tags": [
+        "antilles",
+        "carribean",
+        "guadeloupe",
+        "kompa",
+        "stereo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ca.radio.net/175/antillesmediakompa.jpeg?version=d9d3a147b4e152f7ee65935d214fa0b8e0878527",
+      "votes": 14
+    },
+    {
+      "name": "Chérie FM Guadeloupe",
+      "urls": [
+        "https://maxxi.studio/listen/cheriefmgp/radio.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "antilles",
+        "love songs",
+        "pop"
+      ],
+      "city": "Guadeloupe",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cheriefmantilles.fr/icons/icon-512x512.png",
+      "votes": 0
+    },
+    {
+      "name": "Guadeloupe 1ère",
+      "urls": [
+        "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://la1ere.francetvinfo.fr/favicon.ico",
+      "votes": 3212
+    },
+    {
+      "name": "Haute Tension",
+      "urls": [
+        "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Madras",
+      "urls": [
+        "https://2stream.net/mfmradio-128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Massabielle",
+      "urls": [
+        "https://radio.catholique-guadeloupe.org/radio-massabielle.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 100,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "MAXXI Guadeloupe",
+      "urls": [
+        "https://maxxi.studio/listen/maxxigp/radio.mp3"
+      ],
+      "tags": [
+        "antilles",
+        "caraibes",
+        "hits",
+        "news",
+        "rmc",
+        "sport",
+        "talk"
+      ],
+      "city": "Guadeloupe",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://maxxi.fm/icons/icon-512x512.png",
+      "votes": 0
+    },
+    {
+      "name": "NRJ guadeloupe",
+      "urls": [
+        "https://streaming.nrjaudio.fm/ou4w6dhtd2ko"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Transat",
+      "urls": [
+        "https://stream.rcs.revma.com/dy09pqzctwzuv"
+      ],
+      "tags": [
+        "antilles",
+        "caribbean",
+        "guadeloupe",
+        "martinique",
+        "pop",
+        "rock",
+        "soul"
+      ],
+      "city": "Guadeloupe",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiotransat.fm/favicon.ico",
+      "votes": 0
+    },
+    {
+      "name": "RCI guadeloupe",
+      "urls": [
+        "https://n10-eu.rcs.revma.com/v4hf7bwspwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "📻 Radio Shatta Movement",
+      "urls": [
+        "https://stream-178.zeno.fm/pbnss8oxyluuv"
+      ],
+      "tags": [
+        "kompa",
+        "konpa",
+        "shatta",
+        "zouk"
+      ],
+      "city": "France",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYLXJAYHBzdwHfwGQpngYFIYcBg2ffA4isj0w6Fm8-r1dr-8TbU8n_r4VCnSYAhwYbAJblR4GVkyssmcihOj2FxCPeqIYOVXvtRSG9hb8mzMH-tm0mMQHl6qA4mjZXnViUEYpjs73jGquSf4NpjPlzdl0CPVCawDOfRl6jc-uK_dnTWWWj8mfnudZf1w/s1600/Capture%20d%E2%80%99%C3%A9cran_2026-02-06_08-23-41.png",
+      "votes": 16
+    }
+  ]
+}

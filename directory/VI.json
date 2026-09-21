@@ -1,0 +1,86 @@
+{
+  "code": "VI",
+  "name": "US Virgin Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM: Pop music in Spanish and English",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 405
+    },
+    {
+      "name": "107.9 FM Da Vybe",
+      "urls": [
+        "https://ice3.securenetsystems.net/WLDV"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Beach Bar Radio",
+      "urls": [
+        "https://streaming.radio.co/s23d2a636c/listen"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://beachbarstjohn.com/wp-content/uploads/2021/05/the-beach-bar-logo-horizontal-fullcolor.png",
+      "votes": 184
+    },
+    {
+      "name": "From The Heart Radio",
+      "urls": [
+        "https://global2.citrus3.com:2020/stream/fromtheheartradio"
+      ],
+      "tags": [
+        "all genres",
+        "christian music"
+      ],
+      "city": "Georgia",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://websites.godaddy.com/en-US/editor/8376a04a-b7fe-4e0f-8df2-ea7a665eab11/310ea78e-4686-4418-bf19-a96c7b80d90e/settings/favicon",
+      "votes": 12
+    },
+    {
+      "name": "Radio Elim LLDM",
+      "urls": [
+        "https://radio.elimlldm.net/listen/elim_lldm/radio.mp3"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "Nevada",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "WTJX",
+      "urls": [
+        "https://quarrel.streamguys1.com:7405/wtjxfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 42
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "code": "TH",
+  "name": "Thailand",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "106 Family News Radio",
+      "urls": [
+        "https://radio11.plathong.net/7138/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",
+      "votes": 1221
+    },
+    {
+      "name": "106 Yes radio",
+      "urls": [
+        "https://4096.radio2.thzhost.com/;stream"
+      ],
+      "tags": [],
+      "city": "Thai",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "90.5 Delight",
+      "urls": [
+        "https://cdn-th2.livestreaming.in.th/shoutcast/8895"
+      ],
+      "tags": [],
+      "city": "Phuket",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "93.5 Mhz. radio Thailand",
+      "urls": [
+        "https://cdn-th2.login.in.th/shoutcast/8430"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "93.5 Top Radio FM",
+      "urls": [
+        "https://a10.asurahosting.com:8250/radio.mp3"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "95.5 Metro life",
+      "urls": [
+        "https://cdn-th2.login.in.th/shoutcast/8435"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "97qfm",
+      "urls": [
+        "https://cdn-th2.livestreaming.in.th/shoutcast/8610"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 90
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 39
+    },
+    {
+      "name": "banmai radio",
+      "urls": [
+        "https://radio10.plathong.net/7590/;stream.mp3?type=http"
+      ],
+      "tags": [],
+      "city": "songkhla",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "Best Radio FM. 89.0 MHz.",
+      "urls": [
+        "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;"
+      ],
+      "tags": [
+        "คลื่นฮิตอันดับ 1 ของชาวขอนแก่น"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 898
+    },
+    {
+      "name": "BKK.FM",
+      "urls": [
+        "https://rsas.bkk.fm/radio"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "dance",
+        "electronic dance music",
+        "rock"
+      ],
+      "city": "Bangkok",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bkk.fm/images/favicons/favicon-32x32.png",
+      "votes": 1603
+    },
+    {
+      "name": "BKK.FM",
+      "urls": [
+        "https://streams.radiomast.io/a0f4514e-9045-4114-a4cf-17eb3246785a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bkk.fm/assets/logo-DsQ4EpQ2.png",
+      "votes": 21
+    },
+    {
+      "name": "Bluewave 97",
+      "urls": [
+        "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 847
+    },
+    {
+      "name": "Chili Radio Thailand",
+      "urls": [
+        "https://stream.chiliradio.app/chiliclassics"
+      ],
+      "tags": [
+        "1980s",
+        "2000s",
+        "70 80 hits",
+        "70s",
+        "80s",
+        "90s",
+        "adult contemporary"
+      ],
+      "city": "Chiang Mai",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png",
+      "votes": 519
+    },
+    {
+      "name": "Chula Radio Plus",
+      "urls": [
+        "https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 913,
+      "logo": "https://curadio.chula.ac.th/v2022/assets/img/cu_radio_plus.ico",
+      "votes": 10
+    },
+    {
+      "name": "City Radio Pattaya",
+      "urls": [
+        "https://media.onair.one:8200/stream/1/?v=1769497160087"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.cityradiopattaya.com/wp-content/uploads/2022/01/logo.png",
+      "votes": 106
+    },
+    {
+      "name": "Cool fahrenheit",
+      "urls": [
+        "https://coolism-web.cdn.byteark.com/;stream/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.coolism.net/favicon.ico",
+      "votes": 4083
+    },
+    {
+      "name": "Cool fahrenheit",
+      "urls": [
+        "https://coolism-web3rd.cdn.byteark.com/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.coolism.net/favicon.ico",
+      "votes": 1603
+    },
+    {
+      "name": "Fabulous 103",
+      "urls": [
+        "https://fabulous.thailandstreaming.net/fabulous.mp3"
+      ],
+      "tags": [
+        "electronic",
+        "folk",
+        "local news",
+        "local weather"
+      ],
+      "city": "Pattaya",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 152
+    },
+    {
+      "name": "Flex 104.5",
+      "urls": [
+        "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8"
+      ],
+      "tags": [
+        "เชื่อมต่อโลกออนไลน์ เป็นมากกว่าการฟังเพลง"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1135
+    },
+    {
+      "name": "FM 100.5 MHz MCOT news network",
+      "urls": [
+        "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "FM 88 radio Thailand: English language service",
+      "urls": [
+        "https://cdn-th2.login.in.th/shoutcast/8420"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "FM 91",
+      "urls": [
+        "https://www.fm91bkk.com:8900/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 225
+    },
+    {
+      "name": "FM 92.5 radio Thailand",
+      "urls": [
+        "https://cdn-th2.login.in.th/shoutcast/8425"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+      "urls": [
+        "https://radio10.plathong.net/7590/;stream.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://banmairadio.com/images/logo.png",
+      "votes": 243
+    },
+    {
+      "name": "FM 96 MHz. Zaab news radio",
+      "urls": [
+        "https://sapircast.caster.fm:17039/aRsGW"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "fm99",
+      "urls": [
+        "https://northernlive.mcot.net/fm99/voice.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "GMM25: digital TV channel 25",
+      "urls": [
+        "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "AAC",
+      "bitrate": 800,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "GOLD Radio",
+      "urls": [
+        "https://streaming.live365.com/a94344"
+      ],
+      "tags": [],
+      "city": "Phuket",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Keangun Radio เขียนกันเรดิโอ",
+      "urls": [
+        "https://radio9.plathong.net/7054/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.keangun.com/sites/default/files/logo_0_0.png",
+      "votes": 90
+    },
+    {
+      "name": "KRB Radio 1",
+      "urls": [
+        "https://radio1.ohmi-design.com/8086/;"
+      ],
+      "tags": [
+        "blind radio",
+        "country music",
+        "news"
+      ],
+      "city": "กรุงเทพมหานคร",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+      "votes": 25
+    },
+    {
+      "name": "KRB Radio 2",
+      "urls": [
+        "https://nontawat3664.i234.me:8443/stream"
+      ],
+      "tags": [
+        "blind radio",
+        "country music",
+        "news"
+      ],
+      "city": "กรุงเทพมหานคร",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+      "votes": 22
+    },
+    {
+      "name": "KRB Radio 3",
+      "urls": [
+        "https://pakeefm.org/stream/300006/"
+      ],
+      "tags": [
+        "blind radio",
+        "country music",
+        "news"
+      ],
+      "city": "กรุงเทพมหานคร",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+      "votes": 11
+    },
+    {
+      "name": "Looktung Eing",
+      "urls": [
+        "https://inter.lannaradio.com/radio/8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "MCOT 100.5",
+      "urls": [
+        "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 2000,
+      "logo": null,
+      "votes": 143
+    },
+    {
+      "name": "MCOT Chumphon (Amphoe Lang Suan) FM 104.75",
+      "urls": [
+        "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "local radio",
+        "regional radio"
+      ],
+      "city": "Chum Phon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "MCOT Loei FM 100.00",
+      "urls": [
+        "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "local radio",
+        "regional radio"
+      ],
+      "city": "Loei",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "NBT Central: digital TV channel 11",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null"
+      ],
+      "tags": [],
+      "city": "kanchanaburi",
+      "codec": "UNKNOWN",
+      "bitrate": 3128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "NBT North Ease: digital TV channel 11",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null"
+      ],
+      "tags": [],
+      "city": "KhonKaen",
+      "codec": "UNKNOWN",
+      "bitrate": 3128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "NBT North: digital TV channel 11",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
+      ],
+      "tags": [],
+      "city": "Chiang Mai",
+      "codec": "UNKNOWN",
+      "bitrate": 3128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "NBT South: digital tv channel 11",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
+      ],
+      "tags": [],
+      "city": "Surat Thani",
+      "codec": "UNKNOWN",
+      "bitrate": 3128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "NBT2HD",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+      ],
+      "tags": [
+        "government",
+        "news",
+        "thailand"
+      ],
+      "city": "Bangkok",
+      "codec": "UNKNOWN",
+      "bitrate": 3128,
+      "logo": "https://nbt2hd.prd.go.th/th/file/get/file/20250426cd13a0bc7debcb7df74d2f8c3d183858103515.jpg",
+      "votes": 3
+    },
+    {
+      "name": "One31: digital TV channel 31",
+      "urls": [
+        "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "AAC,H.264",
+      "bitrate": 2134,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Phuket LIVE 89.5",
+      "urls": [
+        "https://4118.radio4.thzhost.com/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "Radio Red Phuket",
+      "urls": [
+        "https://stream.chiliradio.app/radiored"
+      ],
+      "tags": [
+        "afro-pop",
+        "dance",
+        "lounge",
+        "pop"
+      ],
+      "city": "Phuket",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioredphuket.com/wp-content/uploads/2025/01/logo-red.png.png",
+      "votes": 44
+    },
+    {
+      "name": "Radio Samui",
+      "urls": [
+        "https://stream.mixadance.fm/radiosamui"
+      ],
+      "tags": [
+        "dj sets",
+        "hits",
+        "world music"
+      ],
+      "city": "Surat Thani",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiosamui.online/assets/favicon.png",
+      "votes": 4
+    },
+    {
+      "name": "RequestRadio Inter (Alt)",
+      "urls": [
+        "https://ozone2.javmemory.com/Inter.mp3"
+      ],
+      "tags": [
+        "international hits",
+        "international music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://requestradio.in.th/inter/wp-content/uploads/2016/07/icon.png",
+      "votes": 0
+    },
+    {
+      "name": "RequestRadio String (Alt)",
+      "urls": [
+        "https://ozone2.javmemory.com/Music.mp3"
+      ],
+      "tags": [
+        "regional music",
+        "strings"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://requestradio.in.th/wp-content/uploads/2016/07/icon.png",
+      "votes": 0
+    },
+    {
+      "name": "RequestRadio ลูกทุ่ง (Alt)",
+      "urls": [
+        "https://ozone2.javmemory.com/Looktung.mp3"
+      ],
+      "tags": [
+        "looktung"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://requestradio.in.th/looktung/wp-content/uploads/2017/10/icon.png",
+      "votes": 0
+    },
+    {
+      "name": "RequestRadio เพื่อชีวิต (Alt)",
+      "urls": [
+        "https://ozone2.javmemory.com/Forlife.mp3"
+      ],
+      "tags": [
+        "country music",
+        "folk music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://requestradio.in.th/forlife/wp-content/uploads/2016/07/icon.png",
+      "votes": 1
+    },
+    {
+      "name": "sunshine radio Pattaya",
+      "urls": [
+        "https://cdn-th2.login.in.th/shoutcast/8030"
+      ],
+      "tags": [],
+      "city": "Pattaya",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Surf Radio",
+      "urls": [
+        "https://stream.surf.radio/surf1025"
+      ],
+      "tags": [
+        "pop",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://surf.radio/favicon.ico",
+      "votes": 10
+    },
+    {
+      "name": "talay 90.25FM",
+      "urls": [
+        "https://stream.talay.asia/talay"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/272/talay-9025.c2ab9312.png",
+      "votes": 471
+    },
+    {
+      "name": "ThaiRadio 96.5 thinking",
+      "urls": [
+        "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 455
+    },
+    {
+      "name": "Top News",
+      "urls": [
+        "https://live.topnews.co.th/hls/topnews.m3u8"
+      ],
+      "tags": [
+        "hls video",
+        "news",
+        "politics & current affairs",
+        "tv"
+      ],
+      "city": "Bangkok",
+      "codec": "UNKNOWN",
+      "bitrate": 300,
+      "logo": "https://images.topnews.co.th/2024/05/cropped-logo-only-o-180x180.png?x-image-process=style/webp",
+      "votes": 1683
+    },
+    {
+      "name": "Top News (Live1 - Low 240p)",
+      "urls": [
+        "https://live.topnews.co.th/hls/topnews_a_240.m3u8"
+      ],
+      "tags": [
+        "hls video",
+        "news",
+        "political",
+        "politics",
+        "politics & current affairs",
+        "tv"
+      ],
+      "city": "Samut Prakan",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://images.topnews.co.th/2024/05/k1LkuFWT-logo.png",
+      "votes": 860
+    },
+    {
+      "name": "TP TV channel: digital TV channel 10",
+      "urls": [
+        "https://tv-live.tpchannel.org/live/tv.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "UNKNOWN",
+      "bitrate": 153,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "VYBE 103.5 ลำปาง",
+      "urls": [
+        "https://radio9.plathong.net/7076"
+      ],
+      "tags": [],
+      "city": "Lampang",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "ช่อง 9 MCOT HD: digital TV channel 30",
+      "urls": [
+        "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "UNKNOWN",
+      "bitrate": 3000,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "บ้านธัมมะ",
+      "urls": [
+        "https://radio10.plathong.net/7238/;stream.mp3"
+      ],
+      "tags": [
+        "มูลนิธิศึกษาและเผยแพร่พระพุทธศาสนา"
+      ],
+      "city": "กรุงเทพมหานคร",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 773
+    },
+    {
+      "name": "ลูกทุ่งแม็กซาโก้https://thainetradio.com:8014",
+      "urls": [
+        "https://thainetradio.com:8014/"
+      ],
+      "tags": [],
+      "city": "Buriram บุรีรัมย์",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "วพท. am 792KHZ กรุงเทพฯ",
+      "urls": [
+        "https://radio9.plathong.net/7162/;"
+      ],
+      "tags": [],
+      "city": "กรุงเทพมหานคร",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "วัดป่าไทรงาม",
+      "urls": [
+        "https://radio10.plathong.net/7110/;stream.mp3"
+      ],
+      "tags": [
+        "วิทยุออนไลน์ วัดป่าไทรงาม (fm 98.25 mhz)"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "วิทยุเสียงอิสลาม",
+      "urls": [
+        "https://radio12.plathong.net/7234/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 192
+    },
+    {
+      "name": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (AM 891 KHz)",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/radio_edge/51dd-90a9-c6ae-c7f7-49d4/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://nbtplus.prd.go.th/assets/image/logo.png",
+      "votes": 3
+    },
+    {
+      "name": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (FM 92.5 MHz)",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Bangkok ",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://nbtplus.prd.go.th/assets/image/logo.png",
+      "votes": 5
+    },
+    {
+      "name": "สถานีวิทยุจังหวัดทหารบกลพบุรี AM 1197 KHz. Stereo",
+      "urls": [
+        "https://mdr13.ddns.net/radio/am1197"
+      ],
+      "tags": [
+        "country",
+        "local radio",
+        "news"
+      ],
+      "city": "Lop buri",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "สังฆทานธรม",
+      "urls": [
+        "https://cdn-th2.livestreaming.in.th/shoutcast/8615"
+      ],
+      "tags": [
+        "คลื่นขาว จาก ชาวพุทธ"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 89
+    }
+  ]
+}

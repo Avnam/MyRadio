@@ -1,0 +1,31 @@
+{
+  "code": "LI",
+  "name": "Liechtenstein",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 42
+    },
+    {
+      "name": "Radio Vaterland",
+      "urls": [
+        "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.vaterland.li/design2020/images/radio_vaterland.png",
+      "votes": 22
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 220
+    },
+    {
+      "name": "Anti Radio",
+      "urls": [
+        "https://stream.antiradio.net/listen/anti_radio/mp3"
+      ],
+      "tags": [],
+      "city": "Baku",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://antiradio.net/wp-content/uploads/2024/04/cropped-favicon-192x192.png",
+      "votes": 187
+    },
+    {
+      "name": "Anti Radio",
+      "urls": [
+        "https://stream.antiradio.net/radio/8000/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://antiradio.net/favicon.ico",
+      "votes": 798
+    },
+    {
+      "name": "Araz fm 103.3",
+      "urls": [
+        "https://s14.myradiostream.com/30454/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 602
+    },
+    {
+      "name": "AutoLife Azerbaijan",
+      "urls": [
+        "https://radio.autoliferadio.com:8005/radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png",
+      "votes": 642
+    },
+    {
+      "name": "Azərbaycan Beynəlxalq Radiosu",
+      "urls": [
+        "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 571
+    },
+    {
+      "name": "Baku Jazz Radio",
+      "urls": [
+        "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Baku",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000",
+      "votes": 1
+    },
+    {
+      "name": "Caspian Business Radio BOSS",
+      "urls": [
+        "https://myradio24.org/bosscomaz"
+      ],
+      "tags": [
+        "alternative rock",
+        "baku",
+        "business",
+        "easy listening",
+        "hip-hop and rap oldies",
+        "motivational",
+        "pop music",
+        "radio",
+        "rap hiphop rnb",
+        "top hits"
+      ],
+      "city": "Baku",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png",
+      "votes": 774
+    },
+    {
+      "name": "DalğaFM 92.5",
+      "urls": [
+        "https://live.dinle.az/dalgafm"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 131
+    },
+    {
+      "name": "İctimai Radio – 90 FM",
+      "urls": [
+        "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 322,
+      "logo": null,
+      "votes": 537
+    },
+    {
+      "name": "Media Fm 105.5",
+      "urls": [
+        "https://icecast.livetv.az/mediafm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2212
+    },
+    {
+      "name": "NAZ RADIO",
+      "urls": [
+        "https://s2.myradiostream.com/5286/listen.mp3"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 140
+    },
+    {
+      "name": "PlanetFM 88.7",
+      "urls": [
+        "https://live.dinle.az/planetfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "Radio Enerji 101.1 FM",
+      "urls": [
+        "https://icecast.livetv.az/antennfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 169
+    },
+    {
+      "name": "Sağlam Radio",
+      "urls": [
+        "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 366
+    },
+    {
+      "name": "Vintage Radio Azerbaijan",
+      "urls": [
+        "https://trucker.autoliferadio.com:1045/stream"
+      ],
+      "tags": [],
+      "city": "Baku",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800",
+      "votes": 0
+    },
+    {
+      "name": "Xezer FM",
+      "urls": [
+        "https://s40.myradiostream.com/:22546/listen.mp3?"
+      ],
+      "tags": [
+        "classic hits",
+        "hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "http://xezerfm.az/favicon.ico",
+      "votes": 4590
+    },
+    {
+      "name": "Yurd FM",
+      "urls": [
+        "https://icecast.livetv.az/yurdfm"
+      ],
+      "tags": [
+        "folk music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 6472
+    }
+  ]
+}

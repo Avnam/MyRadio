@@ -1,0 +1,2079 @@
+{
+  "code": "NZ",
+  "name": "New Zealand",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 4
+    },
+    {
+      "name": "3ABN Christian Radio",
+      "urls": [
+        "https://stream.3abnaustralia.org.au:8443/stream"
+      ],
+      "tags": [
+        "bible teaching",
+        "christian",
+        "music"
+      ],
+      "city": "Christchurch",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://3abn.org/icons/3abn-apple-icon-120x120.png",
+      "votes": 248
+    },
+    {
+      "name": "531pi - AAC",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "votes": 28
+    },
+    {
+      "name": "531pi - MP3",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "votes": 18
+    },
+    {
+      "name": "91.2 Oamaru FM",
+      "urls": [
+        "https://usa1-vn.mixstream.net/8096/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/OamaruFM_2021-03-22-203549.jpg",
+      "votes": 17
+    },
+    {
+      "name": "95bFM - 256Kbps MP3",
+      "urls": [
+        "https://streams.95bfm.com/stream95"
+      ],
+      "tags": [
+        "university radio",
+        "university of auckland",
+        "auckland",
+        "alternative"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+      "votes": 91
+    },
+    {
+      "name": "95bFM - 64kbps AAC+",
+      "urls": [
+        "https://streams.95bfm.com/stream128"
+      ],
+      "tags": [
+        "university radio",
+        "university of auckland",
+        "auckland",
+        "alternative"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+      "votes": 39
+    },
+    {
+      "name": "95bFM - FLAC",
+      "urls": [
+        "https://streams.95bfm.com/stream112"
+      ],
+      "tags": [
+        "university radio",
+        "university of auckland",
+        "auckland",
+        "alternative"
+      ],
+      "city": "Auckland",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+      "votes": 115
+    },
+    {
+      "name": "Access Radio Taranaki 104.4FM",
+      "urls": [
+        "https://live.accessmedia.nz/Taranaki.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "world"
+      ],
+      "city": "Taranaki",
+      "codec": "AAC",
+      "bitrate": 147,
+      "logo": "https://cdn.prod.website-files.com/6600ba7b2bf4dc146691b611/679a92e0f7ea62c1e78e5d3a_favicon-32x32.png",
+      "votes": 38
+    },
+    {
+      "name": "Akaroa World Radio",
+      "urls": [
+        "https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Christchurch",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn-profiles.tunein.com/s86464/images/logod.jpg?t=152329",
+      "votes": 22
+    },
+    {
+      "name": "Anthemz",
+      "urls": [
+        "https://mediaworks.streamguys1.com/anthemz-chc-high_icy"
+      ],
+      "tags": [],
+      "city": "Christchurch",
+      "codec": "AAC",
+      "bitrate": 132,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/70j1jCRUfurYX5pXlaGoc1/fffb74f2f59a1a4b400e50f06d81d30d/anthemz-workdays-1x1.jpg?fm=webp&w=1536&q=75&f=center&h=1536&fit=fill",
+      "votes": 6
+    },
+    {
+      "name": "Arrow FM",
+      "urls": [
+        "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Arrow FM 92.7",
+      "urls": [
+        "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "culture",
+        "music",
+        "talk"
+      ],
+      "city": "Wairarapa",
+      "codec": "AAC",
+      "bitrate": 150,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "Auckland 80's",
+      "urls": [
+        "https://servidor34.brlogic.com:7138/live"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://public-rf-upload.minhawebradio.net/247629/logo/9c88caf1c58bcb1ec3598e400cb23e47.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Bandwagon Radio",
+      "urls": [
+        "https://streaming.radio.co/scfae3b30e/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/602/bandwagon-radio.8250a334.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Beagle 88.1",
+      "urls": [
+        "https://stream.beagleradio.co.nz/stream"
+      ],
+      "tags": [
+        "alternative",
+        "funk",
+        "rock",
+        "unique"
+      ],
+      "city": "Whangarei",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.beagleradio.co.nz/wp-content/themes/beagle/gfx/logo-header.gif",
+      "votes": 2
+    },
+    {
+      "name": "Bollybop",
+      "urls": [
+        "https://s3.radio.co/s2f19d44d0/listen"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 60
+    },
+    {
+      "name": "Brian FM 105.6 Nelson NZ",
+      "urls": [
+        "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?"
+      ],
+      "tags": [],
+      "city": "Nelson",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 132
+    },
+    {
+      "name": "Brian FM 105.6 Nelson NZ",
+      "urls": [
+        "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Nelson",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://s3.amazonaws.com/streaming-player-assets/BrianFMNel/custom/images/brianfmnel-logo-20190225094751.png",
+      "votes": 187
+    },
+    {
+      "name": "Brian FM 91.2 Wanganui NZ",
+      "urls": [
+        "https://ais-sa1.streamon.fm/7100_128k.aac"
+      ],
+      "tags": [],
+      "city": "Wanganui",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Brian FM 91.4 Wanaka",
+      "urls": [
+        "https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com"
+      ],
+      "tags": [],
+      "city": "Central Otago",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "CFM Coromandel",
+      "urls": [
+        "https://stream.cfm.co.nz/low"
+      ],
+      "tags": [
+        "community radio",
+        "contemporary",
+        "decades"
+      ],
+      "city": "Coromandel",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.postimg.cc/6qgdcWxL/CFM.jpg",
+      "votes": 24
+    },
+    {
+      "name": "Channel X",
+      "urls": [
+        "https://mediaworks.streamguys1.com/chx_net_icy"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 129,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/Channel-X-600-x-600.jpg",
+      "votes": 40
+    },
+    {
+      "name": "Chill-Radio",
+      "urls": [
+        "https://media-sov.musicradio.com/Chill"
+      ],
+      "tags": [
+        "chill",
+        "relax",
+        "smooth"
+      ],
+      "city": "Taupo",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+      "votes": 83
+    },
+    {
+      "name": "Coast Access Radio",
+      "urls": [
+        "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 150,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Coast Access Radio MP3",
+      "urls": [
+        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "Kapiti Coast",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png",
+      "votes": 34
+    },
+    {
+      "name": "Coast FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.postimg.cc/8k3S3mQP/coast-fm.png",
+      "votes": 96
+    },
+    {
+      "name": "Drop FM",
+      "urls": [
+        "https://s2.radio.co/s7649837db/listen"
+      ],
+      "tags": [
+        "bass",
+        "listener supported",
+        "underground"
+      ],
+      "city": "Southern Lakes",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.dropfm.com/uploads/1/2/4/0/124005161/new-logo-black.png",
+      "votes": 44
+    },
+    {
+      "name": "East FM",
+      "urls": [
+        "https://listen.eastfm.nz/stream-aac-64"
+      ],
+      "tags": [
+        "classic rock",
+        "eclectic",
+        "hits",
+        "misc",
+        "pop",
+        "rock",
+        "soft rock",
+        "various"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://listen.eastfm.nz/logo.png",
+      "votes": 4
+    },
+    {
+      "name": "East FM",
+      "urls": [
+        "https://listen.eastfm.nz/stream.aac"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://listen.eastfm.nz/logo.png",
+      "votes": 2
+    },
+    {
+      "name": "East FM",
+      "urls": [
+        "https://listen.eastfm.nz/stream.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "eclectic",
+        "hits",
+        "misc",
+        "pop",
+        "rock",
+        "soft rock",
+        "various"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://listen.eastfm.nz/logo.png",
+      "votes": 6
+    },
+    {
+      "name": "Flava",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac"
+      ],
+      "tags": [
+        "hip hop",
+        "old school hip hop",
+        "rnb",
+        "urban"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.flava.co.nz/content/music/images/interface/icons/flava/apple-touch-icon.png",
+      "votes": 4
+    },
+    {
+      "name": "Free FM 89 Hamilton",
+      "urls": [
+        "https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8"
+      ],
+      "tags": [
+        "community",
+        "entertainment",
+        "news"
+      ],
+      "city": "Hamilton",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "FreshFM",
+      "urls": [
+        "https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8"
+      ],
+      "tags": [
+        "blenheim",
+        "community",
+        "nelson",
+        "takaka"
+      ],
+      "city": "Tasman",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.freshfm.net/favicon.ico",
+      "votes": 46
+    },
+    {
+      "name": "Gaia FM (New Zealand)",
+      "urls": [
+        "https://s2.stationplaylist.com:9000/gaiafm.aac"
+      ],
+      "tags": [
+        "celtic",
+        "easy listening",
+        "instrumental",
+        "jazz",
+        "newage",
+        "smooth jazz",
+        "world music"
+      ],
+      "city": "New Zealand",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://gaiafm.stationplaylist.com/logo.gif",
+      "votes": 17
+    },
+    {
+      "name": "George FM",
+      "urls": [
+        "https://mediaworks.streamguys1.com/george_net_icy"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 131,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/22814443_10155347753227013_9008123902810078771_n.jpg",
+      "votes": 45
+    },
+    {
+      "name": "George FM",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/george_net/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": null,
+      "votes": 93
+    },
+    {
+      "name": "George FM - Chillsville",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac"
+      ],
+      "tags": [
+        "chill house"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/6fBl7Yr0fvCSKEDkPOFJT7/346791405202f33f8316c8d0001f9659/chillsville_boby_armor_sqaure.png?fm=png&w=200&q=95&f=center",
+      "votes": 2
+    },
+    {
+      "name": "George FM - Club Classics",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac"
+      ],
+      "tags": [
+        "90s dance",
+        "club hits",
+        "dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/1hs2ejFCmf8irHi0j8KmZn/1c10053daace384f82288a7b85c22095/Club_Classics_1080x1080.png?fm=png&w=200&q=95&f=center",
+      "votes": 7
+    },
+    {
+      "name": "George FM - Cocktail Hour",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac"
+      ],
+      "tags": [
+        "chillout",
+        "house",
+        "vocal lounge"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/308P6uWsXoijQkQbMBTsGV/8a6cca4fc65e97c504a99a8ec44536bb/GRG_RVA_CocktailHour_600x600_1_.png?fm=png&w=200&q=95&f=center",
+      "votes": 4
+    },
+    {
+      "name": "George FM - DnB",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac"
+      ],
+      "tags": [
+        "dnb",
+        "drum & bass",
+        "drum and bass"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/2CBBxwPWsAwKU0bjzHM8y1/76fd3e4bab34449b2dff2d2adc719e1d/GRG_George_FM_DnB_Hundy_600x600px.png?fm=png&w=200&q=95&f=center",
+      "votes": 18
+    },
+    {
+      "name": "George FM - Latest Bangers",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac"
+      ],
+      "tags": [
+        "dnb",
+        "drum and bass",
+        "electronic",
+        "electronic dance music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.ctfassets.net/r65x6q43xsmv/6kYCr49AIFrqBnXRbmHo5M/d8f64b4efeb114d188ce0599d44257c1/lates_bangers_new_new.png?fm=png&w=200&q=95&f=center",
+      "votes": 6
+    },
+    {
+      "name": "Gone Country",
+      "urls": [
+        "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570"
+      ],
+      "tags": [
+        "country",
+        "internet station"
+      ],
+      "city": "Fielding; Manawatu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s206528/images/logod.png?t=638120163900000000",
+      "votes": 28
+    },
+    {
+      "name": "Heads FM Mangawhai 106.4",
+      "urls": [
+        "https://headsfm.radioca.st/stream"
+      ],
+      "tags": [
+        "community",
+        "rock"
+      ],
+      "city": "Northland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.headsfm.co.nz/wp-content/uploads/2017/06/heads_logo_1064.png",
+      "votes": 32
+    },
+    {
+      "name": "https://badradio.nz/ - 24/7 PHONK",
+      "urls": [
+        "https://s2.radio.co/s2b2b68744/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 288
+    },
+    {
+      "name": "Humm Radio",
+      "urls": [
+        "https://mediaworks.streamguys1.com/humm_net_icy"
+      ],
+      "tags": [
+        "bollywood hits",
+        "indian radio"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 131,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/jB7Xr58rYS.jpg",
+      "votes": 118
+    },
+    {
+      "name": "iHeartCountry New Zealand",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8"
+      ],
+      "tags": [
+        "country",
+        "country music"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c",
+      "votes": 33
+    },
+    {
+      "name": "jakemusic",
+      "urls": [
+        "https://camera.jakebriggs.com/jakemusic"
+      ],
+      "tags": [
+        "random"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "JAZZ CAFE",
+      "urls": [
+        "https://radio.wanderingsheep.net:8000/jazzcafe"
+      ],
+      "tags": [
+        "easy listening",
+        "smooth jazz"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://wsradio.net/wp-content/uploads/2016/08/cropped-WanderingsheepRadioLogoSQ-big-192x192.png",
+      "votes": 80
+    },
+    {
+      "name": "Kiwi Folk Radio",
+      "urls": [
+        "https://streamer.radio.co/sde527a41e/listen"
+      ],
+      "tags": [
+        "folk",
+        "local"
+      ],
+      "city": "Dunedin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg",
+      "votes": 57
+    },
+    {
+      "name": "KIX FM",
+      "urls": [
+        "https://stream.kixfm.co.nz:8178/stream"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kixfm.co.nz/images/cover.png",
+      "votes": 5
+    },
+    {
+      "name": "LibertyNZ on The Wireless",
+      "urls": [
+        "https://stream.zeno.fm/lamr6x1fxrruv"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Life FM - AAC",
+      "urls": [
+        "https://rhema-radio.streamguys1.com/rhema-lifefm.aac"
+      ],
+      "tags": [
+        "christian",
+        "christian contemporary"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
+      "votes": 42
+    },
+    {
+      "name": "Life FM - MP3",
+      "urls": [
+        "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3"
+      ],
+      "tags": [
+        "christian",
+        "christian contemporary"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
+      "votes": 45
+    },
+    {
+      "name": "MAD FM Auckland 106.7",
+      "urls": [
+        "https://madfm-gecko.radioca.st/stream"
+      ],
+      "tags": [
+        "commercial free",
+        "eclectic",
+        "hobsonville",
+        "indie",
+        "variety"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.madfm.net/favicon.ico",
+      "votes": 136
+    },
+    {
+      "name": "Magic",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg",
+      "votes": 143
+    },
+    {
+      "name": "Magic FM",
+      "urls": [
+        "https://mediaworks.streamguys1.com/magic_net_icy"
+      ],
+      "tags": [
+        "the songs you love"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 132,
+      "logo": "https://static-media.streema.com/media/cache/c7/c1/c7c1117b7e50c5b753703c52b2dc1a16.jpg",
+      "votes": 142
+    },
+    {
+      "name": "Mai FM",
+      "urls": [
+        "https://ais-sa1.streamon.fm/7102_128k.aac"
+      ],
+      "tags": [
+        "hip hop",
+        "r'n'b"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.rova.nz/home/radio/mai-fm/_jcr_content/par/grid/par1/image.dynimg.1200.q75.jpg/v1592272923496/LOGO_MAI.jpg",
+      "votes": 55
+    },
+    {
+      "name": "Mai FM",
+      "urls": [
+        "https://mediaworks.streamguys1.com/mai_net_icy"
+      ],
+      "tags": [
+        "rnb"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Mai_FM_logo.svg/1200px-Mai_FM_logo.svg.png",
+      "votes": 37
+    },
+    {
+      "name": "Maunganui FM",
+      "urls": [
+        "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Mix FM 87.9, Wellington, New Zealand",
+      "urls": [
+        "https://stream.mixfm.nz/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "More FM - Bay of Plenty",
+      "urls": [
+        "https://mediaworks.streamguys1.com/more-tga-high_icy"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "Tauranga",
+      "codec": "AAC",
+      "bitrate": 129,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+      "votes": 10
+    },
+    {
+      "name": "More FM - Nelson",
+      "urls": [
+        "https://mediaworks.streamguys1.com/more-nsn-high_icy"
+      ],
+      "tags": [],
+      "city": "Nelson",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+      "votes": 35
+    },
+    {
+      "name": "More FM Canterbury",
+      "urls": [
+        "https://mediaworks.streamguys1.com/more-chc-high_icy"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+      "votes": 1
+    },
+    {
+      "name": "More FM Waikato",
+      "urls": [
+        "https://mediaworks.streamguys1.com/more-ham-high_icy"
+      ],
+      "tags": [],
+      "city": "Waikato",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Mouthfull Radio",
+      "urls": [
+        "https://mouthfull-radio.radiocult.fm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i1.sndcdn.com/avatars-VaAJ9hfpsq0ADS8p-3I0Ubg-t200x200.jpg",
+      "votes": 28
+    },
+    {
+      "name": "MPR Manawatu People's Radio",
+      "urls": [
+        "https://live.accessmedia.nz/MPR.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "languages",
+        "local",
+        "music"
+      ],
+      "city": "Manawatu",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Mushroom Escape",
+      "urls": [
+        "https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632"
+      ],
+      "tags": [
+        "old time radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "New Zealand Net Radio",
+      "urls": [
+        "https://radio.nznetradio.net.nz/stream3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/www.nznetradio.net.nz/wp-content/uploads/2025/08/cropped-NZ-Net-Radio-logo-2025-2048-600.jpg?resize=768%2C401&ssl=1",
+      "votes": 5
+    },
+    {
+      "name": "Newstalk ZB",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ"
+      ],
+      "tags": [
+        "legacy media",
+        "talkback hosts"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://imgs.search.brave.com/QjtEBTpORhVUY18YIpMVH0rjS2nn2AgtIe7sK-Hak4U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlo/ZWFydC5jb20vdjMv/cmUvbmV3X2Fzc2V0/cy81ZmRiYTRlN2M1/MDYxN2Q0MDhiNjAx/YTI_b3BzPWZpdCg5/NjAsOTYwKSxyZXNp/emUoMCwzOTAp.jpeg",
+      "votes": 234
+    },
+    {
+      "name": "Newstalk ZB",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac"
+      ],
+      "tags": [],
+      "city": "Auckland ",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 217
+    },
+    {
+      "name": "Niu FM - AAC",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "pacific"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
+      "votes": 104
+    },
+    {
+      "name": "Niu FM - MP3",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "pacific"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
+      "votes": 2
+    },
+    {
+      "name": "OAR 105.4FM Dunedin",
+      "urls": [
+        "https://live.accessmedia.nz/Otago.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "music",
+        "otago",
+        "talk"
+      ],
+      "city": "Otago",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2017/05/Otago-Access-Radio-220x108.jpg",
+      "votes": 23
+    },
+    {
+      "name": "OAR FM - Otago Access Radio",
+      "urls": [
+        "https://live.accessmedia.nz/Otago.stream_aac/chunklist_w1332745084.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://oar.org.nz/wp-content/uploads/2024/09/cropped-favicon-180x180.png",
+      "votes": 2
+    },
+    {
+      "name": "One Christian Radio",
+      "urls": [
+        "https://radio.wanderingsheep.net:33001/onechristianradio"
+      ],
+      "tags": [
+        "christian",
+        "hymn",
+        "praise"
+      ],
+      "city": "Taranaki",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 83
+    },
+    {
+      "name": "Paekakariki 88.2FM",
+      "urls": [
+        "https://icecast.groundtruth.co.nz/paekakfm.aac"
+      ],
+      "tags": [
+        "community",
+        "eclectic",
+        "kapiti coast",
+        "local",
+        "paekakariki"
+      ],
+      "city": "Paekakariki",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radio.net%2Fimages%2Fbroadcasts%2Fe3%2F9b%2F126709%2F1%2Fc300.png&f=1&nofb=1",
+      "votes": 36
+    },
+    {
+      "name": "Plains FM 96.9",
+      "urls": [
+        "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "https://cdn3.firecrestsystems.com/FC_Plains/Images/ApplePodcastChannelCoverImage%20co%20(1).jpg",
+      "votes": 5
+    },
+    {
+      "name": "Planet FM 104.6 - AAC",
+      "urls": [
+        "https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8"
+      ],
+      "tags": [
+        "community radio",
+        "community",
+        "culture",
+        "non-profit",
+        "not-for-profit"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 150,
+      "logo": "https://images.accessmedia.nz/StationFolder/planetfm/Images/PlanetLogoSquare02.jpg",
+      "votes": 18
+    },
+    {
+      "name": "Planet FM 104.6 - MP3",
+      "urls": [
+        "https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "community radio",
+        "culture",
+        "non-profit",
+        "not-for-profit"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "https://images.accessmedia.nz/StationFolder/planetfm/Images/PlanetLogoSquare02.jpg",
+      "votes": 10
+    },
+    {
+      "name": "Positively Morrinsville 87.7FM",
+      "urls": [
+        "https://c16.radioboss.fm:8262/stream?1652324863134"
+      ],
+      "tags": [
+        "community",
+        "contemporary music"
+      ],
+      "city": "Waikato, Morrinsville",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 75
+    },
+    {
+      "name": "Radio - X",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Hamilton",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "Radio A",
+      "urls": [
+        "https://play.radioking.io/radio-a-music"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/784/radio-a-new-zealand.13435436.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Radio A - Nelson NZ",
+      "urls": [
+        "https://listen.radioking.com/radio/106324/stream/145267"
+      ],
+      "tags": [],
+      "city": "Nelson",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Radio BurgerFuel",
+      "urls": [
+        "https://s3.radio.co/s9909bd65f/listen"
+      ],
+      "tags": [
+        "alt rock",
+        "alternative rock",
+        "electronic",
+        "electronic music",
+        "hip hop"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.radio.co/station_logos/s9909bd65f.20200505033228.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Radio Chinese FM90.6",
+      "urls": [
+        "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fm906.co.nz/images/logo-h.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Control 99.4FM",
+      "urls": [
+        "https://michae14-gecko.radioca.st/stream"
+      ],
+      "tags": [
+        "kiwi",
+        "maori culture",
+        "massey university",
+        "random",
+        "student",
+        "variety"
+      ],
+      "city": "Palmerston North",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "Radio Ferrymead 1413 AM",
+      "urls": [
+        "https://s2.stationplaylist.com:9440/listen.aac?1780841789005"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Hauraki",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/apple-touch-icon.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Hauraki",
+      "urls": [
+        "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Radio Hauraki",
+      "urls": [
+        "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/favicon.ico",
+      "votes": 5
+    },
+    {
+      "name": "Radio Hawkes Bay",
+      "urls": [
+        "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community radio",
+        "music",
+        "show"
+      ],
+      "city": "Hawkes Bay",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": "https://cdn3.firecrestsystems.com/FC_Kidnappers/Images/RadioHawkesBay-Logo-NB.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Hydra",
+      "urls": [
+        "https://streaming.radio.co/sed9109681/listen"
+      ],
+      "tags": [
+        "classic hits",
+        "piha"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 81
+    },
+    {
+      "name": "Radio Kidnappers",
+      "urls": [
+        "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Hawkes Bay",
+      "codec": "AAC",
+      "bitrate": 149,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Radio one 91 fm",
+      "urls": [
+        "https://play.r1.co.nz/live"
+      ],
+      "tags": [
+        "eclectic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.r1.co.nz/images/favicons/apple-touch-icon-120x120.png",
+      "votes": 12
+    },
+    {
+      "name": "RADIO PANJABI",
+      "urls": [
+        "https://s20.reliastream.com/stream/8134"
+      ],
+      "tags": [
+        "folk",
+        "hip-hop",
+        "news",
+        "news talk",
+        "podcast",
+        "pop",
+        "punjabi",
+        "world news"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Robotic",
+      "urls": [
+        "https://stream.zeno.fm/x4hneey2vwzuv"
+      ],
+      "tags": [
+        "alternative",
+        "dream pop",
+        "electronic",
+        "indie",
+        "post punk",
+        "shoegaze"
+      ],
+      "city": "Waikato",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://static.wixstatic.com/media/3e4049_c61d1cbe9d9f4edd919ee7b6376b0f9b~mv2.jpg/v1/fill/w_97,h_97,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RR_blueonblack-1.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Radio Robotic",
+      "urls": [
+        "https://stream.zeno.fm/rhscse2a41zuv"
+      ],
+      "tags": [
+        "alternative",
+        "indie"
+      ],
+      "city": "Hamilton",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://static.wixstatic.com/media/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png",
+      "votes": 142
+    },
+    {
+      "name": "Radio Sangeet Masti",
+      "urls": [
+        "https://servidor19-4.brlogic.com:7304/live?source=website"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "null",
+      "votes": 90
+    },
+    {
+      "name": "Radio Universo FM",
+      "urls": [
+        "https://stationplaylist.com:7140/listen.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://static.wixstatic.com/media/997731_6db60f6e7a53483b81213fa9eac4da43~mv2.jpg/v1/fill/w_250,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Radioactive.FM 88.6",
+      "urls": [
+        "https://radio123-gecko.radioca.st/radioactivefm"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "local radio",
+        "student radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "Radiowave NZ",
+      "urls": [
+        "https://stream.radiowavenz.com/stream"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.radiowavenz.com/logo.jpeg",
+      "votes": 2
+    },
+    {
+      "name": "Radiowave NZ",
+      "urls": [
+        "https://stream.radiowavenz.com/stream-aac"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://stream.radiowavenz.com/logo.jpeg",
+      "votes": 3
+    },
+    {
+      "name": "Radiowave NZ",
+      "urls": [
+        "https://stream.radiowavenz.com/stream-aac-low"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://stream.radiowavenz.com/logo.jpeg",
+      "votes": 5
+    },
+    {
+      "name": "RAG-FM 107.7FM",
+      "urls": [
+        "https://cast6.asurahosting.com/proxy/ragfmcom/stream"
+      ],
+      "tags": [
+        "kiwi",
+        "oldies"
+      ],
+      "city": "Raglan Hamilton",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.postimg.cc/br29f0dX/RAG-FM.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Raglan Community Radio",
+      "urls": [
+        "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/cropped-Raglan-Community-Radio.png",
+      "votes": 10
+    },
+    {
+      "name": "Raglan Communtiy Radio",
+      "urls": [
+        "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956"
+      ],
+      "tags": [],
+      "city": "Raglan Hamilton",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png",
+      "votes": 7
+    },
+    {
+      "name": "RDU",
+      "urls": [
+        "https://rdu985fm-gecko.radioca.st/stream"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "Christchurch",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Retro Hit Radio",
+      "urls": [
+        "https://riphel02.radioca.st/;"
+      ],
+      "tags": [
+        "1980s",
+        "1990s",
+        "adult hits",
+        "classic hits",
+        "pop rock",
+        "retro"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 80,
+      "logo": "http://retrohitradio.co.nz/favicon.ico",
+      "votes": 90
+    },
+    {
+      "name": "Retro Hit Radio",
+      "urls": [
+        "https://riphel02.radioca.st/stream"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "retro"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 197
+    },
+    {
+      "name": "Rhema - MP3",
+      "urls": [
+        "https://rhema-radio.streamguys1.com/rhema.mp3"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://origin-player.streamguys.com/rhema/sgplayer/include/assets/img/logo-rhema.jpg",
+      "votes": 111
+    },
+    {
+      "name": "ROVA CHILL HOP",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Sanctuary - AAC",
+      "urls": [
+        "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac"
+      ],
+      "tags": [
+        "christian",
+        "worship"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://yoursanctuary.nz/_ipx/_/images/cover.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Sanctuary - MP3",
+      "urls": [
+        "https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3"
+      ],
+      "tags": [
+        "christian",
+        "worship"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://yoursanctuary.nz/_ipx/_/images/cover.jpg",
+      "votes": 80
+    },
+    {
+      "name": "SayHiFM",
+      "urls": [
+        "https://play.radioking.io/sayhifm"
+      ],
+      "tags": [
+        "filipino radio in new zealand",
+        "filipino station",
+        "radio new zealand"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sayhifm.com/images/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Ski FM",
+      "urls": [
+        "https://s2.radio.co/s6436891bc/listen"
+      ],
+      "tags": [
+        "contemporary hits",
+        "ski mountain"
+      ],
+      "city": "Central Plateau, Desert Road",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 431
+    },
+    {
+      "name": "Sleep Radio",
+      "urls": [
+        "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png",
+      "votes": 55
+    },
+    {
+      "name": "Smooth 105.6FM",
+      "urls": [
+        "https://servidor26.brlogic.com:7110/live"
+      ],
+      "tags": [
+        "easy listening",
+        "smooth"
+      ],
+      "city": "Waipu, Northland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/C1wKgw1w/Smooth.jpg",
+      "votes": 28
+    },
+    {
+      "name": "Sport Nation - AAC",
+      "urls": [
+        "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8"
+      ],
+      "tags": [
+        "sports",
+        "cricket"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://sportnation.nz/radio.png",
+      "votes": 370
+    },
+    {
+      "name": "Sub FM",
+      "urls": [
+        "https://fmsub.radioca.st/stream?type=http&nocache=140"
+      ],
+      "tags": [
+        "deep house",
+        "drum 'n' bass",
+        "dub",
+        "dubstep",
+        "garage",
+        "grime",
+        "student",
+        "techno"
+      ],
+      "city": "Tauranga",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.sub.fm/wp-content/uploads/2017/07/cropped-black-sub-180x180.png",
+      "votes": 99
+    },
+    {
+      "name": "Tahu FM",
+      "urls": [
+        "https://icast1.streamcom.net/TahuFM"
+      ],
+      "tags": [
+        "hip hop",
+        "hits",
+        "kāi tahu",
+        "māori",
+        "ngāi tahu",
+        "nz",
+        "rnb"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://tahufm.online/_resources/themes/tahufm/images/logo.svg?m=1742941472",
+      "votes": 2
+    },
+    {
+      "name": "Tautoko FM",
+      "urls": [
+        "https://icast1.streamcom.net/J_Tautoko.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://tautokofm.com/wp-content/uploads/2021/08/cropped-Logo2021T-300x134.png",
+      "votes": 2
+    },
+    {
+      "name": "The Breeze 93.4",
+      "urls": [
+        "https://mediaworks.streamguys1.com/breeze-akl-high_icy"
+      ],
+      "tags": [],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://cdn-profiles.tunein.com/s17930/images/logod.png?t=638017388010000000",
+      "votes": 281
+    },
+    {
+      "name": "The Cheese",
+      "urls": [
+        "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 52,
+      "logo": "https://station.thecheese.co.nz/static/uploads/the_cheese/album_art.1716808937.png",
+      "votes": 36
+    },
+    {
+      "name": "The Cheese",
+      "urls": [
+        "https://station.thecheese.co.nz/listen/the_cheese/128.mp3"
+      ],
+      "tags": [
+        "gen-x",
+        "music"
+      ],
+      "city": "Hutt Valley, Wellington",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nz.radio.net/300/884thecheese.png?version=d3bd97b7c4aadd62cf9c17dfe894f8f9",
+      "votes": 41
+    },
+    {
+      "name": "The Cheese FLAC",
+      "urls": [
+        "https://station.thecheese.co.nz/listen/the_cheese/flac"
+      ],
+      "tags": [
+        "gen x",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "The Edge",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": null,
+      "votes": 162
+    },
+    {
+      "name": "The Generator",
+      "urls": [
+        "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "heavy metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "The Generator FM",
+      "urls": [
+        "https://s1.myradiostream.com/14268/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "The Hits",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ"
+      ],
+      "tags": [
+        "contemporary hits"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.postimg.cc/gkQ2VPks/the-hits-c99846c6.png",
+      "votes": 158
+    },
+    {
+      "name": "The Platform Kiwi",
+      "urls": [
+        "https://streaming.shoutcast.com/the-platformlive"
+      ],
+      "tags": [
+        "talk radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "The Platform Kiwi",
+      "urls": [
+        "https://hls.exiledkiwi.nz/theplatform.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "The Rock",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": null,
+      "votes": 348
+    },
+    {
+      "name": "The Rock - NZ's #1 rock radio station",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/rock_net_icy"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "hard rock",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ],
+      "city": "Auckland",
+      "codec": "AAC",
+      "bitrate": 129,
+      "logo": null,
+      "votes": 193
+    },
+    {
+      "name": "The Sound",
+      "urls": [
+        "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://www.thesound.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-thesound/resources/favicons/apple-touch-icon-180x180.png",
+      "votes": 375
+    },
+    {
+      "name": "Tiri 2",
+      "urls": [
+        "https://servidor34-4.brlogic.com:7138/live?source=website"
+      ],
+      "tags": [
+        "classic pop",
+        "classic rock",
+        "pirate"
+      ],
+      "city": "Waiuku, Auckland",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i.postimg.cc/RVdL50ZZ/Tiri-2.jpg",
+      "votes": 22
+    },
+    {
+      "name": "UP FM 107.5",
+      "urls": [
+        "https://stream.upfm.live/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg",
+      "votes": 52
+    },
+    {
+      "name": "Vinyl Radio NZ",
+      "urls": [
+        "https://s40.myradiostream.com:17794/listen.aac?"
+      ],
+      "tags": [
+        "classic rock",
+        "hits",
+        "old hits"
+      ],
+      "city": "Auckland",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+      "votes": 82
+    },
+    {
+      "name": "Wellington Access Radio",
+      "urls": [
+        "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "community",
+        "culture",
+        "languages",
+        "local",
+        "music"
+      ],
+      "city": "wellington",
+      "codec": "MP3",
+      "bitrate": 134,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "ZM Wellington (new)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696f3",
+      "votes": 70
+    },
+    {
+      "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+      "urls": [
+        "https://s26.myradiostream.com:20274/listen.mp3"
+      ],
+      "tags": [
+        "chinese",
+        "culture",
+        "information",
+        "lifestyle",
+        "music",
+        "new zealand"
+      ],
+      "city": "Auckland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fm906.co.nz/images/nzc-logo.jpg",
+      "votes": 485
+    }
+  ]
+}

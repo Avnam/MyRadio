@@ -1,0 +1,305 @@
+{
+  "code": "CU",
+  "name": "Cuba",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 135
+    },
+    {
+      "name": "Canal Radio Cruces Cienfuegos",
+      "urls": [
+        "https://stream.laut.fm/canalradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 216
+    },
+    {
+      "name": "Cubania Radio",
+      "urls": [
+        "https://streamingv2.shoutcast.com/cubania?type=.mp3"
+      ],
+      "tags": [
+        "cuban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://webradiodirectory.com/wp-content/uploads/2021/01/cd00bda24d4353292012e2846aedd1b1.jpg",
+      "votes": 656
+    },
+    {
+      "name": "CVCradio-online",
+      "urls": [
+        "https://stream.zeno.fm/2ajykhn6m8hvv"
+      ],
+      "tags": [
+        "alternative",
+        "radio online"
+      ],
+      "city": "Cienfuegos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/4wnPL0yB/image-20-copy-2200x2200.jpg",
+      "votes": 19
+    },
+    {
+      "name": "Emisora de Radio \"ATodaMecha\"",
+      "urls": [
+        "https://stream.zeno.fm/gjexooyemj3uv"
+      ],
+      "tags": [
+        "hits",
+        "world music"
+      ],
+      "city": "Santa Cruz del Norte. Mayabeque. Cuba",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 429
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.exafm.com/favicon.ico",
+      "votes": 1967
+    },
+    {
+      "name": "Hostal Azul Radio",
+      "urls": [
+        "https://stream.zeno.fm/b4m2tic2ibbtv"
+      ],
+      "tags": [
+        "jazz",
+        "pop",
+        "suave",
+        "tradicional"
+      ],
+      "city": "Matanzas",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 284
+    },
+    {
+      "name": "La salsa cubana",
+      "urls": [
+        "https://stream.zeno.fm/uf2r0d5ny39uv"
+      ],
+      "tags": [
+        "reggeton"
+      ],
+      "city": "Florida",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.zeno.fm/uf2r0d5ny39uv",
+      "votes": 274
+    },
+    {
+      "name": "Prensa Latina",
+      "urls": [
+        "https://cdn4.onstream.audio:9267/stream"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 937
+    },
+    {
+      "name": "Prensa Latina - Agencia Informativa Latinoamericana",
+      "urls": [
+        "https://cdn4.onstream.audio:9267/stream?download=false"
+      ],
+      "tags": [
+        "agencia informativa latinoamericana",
+        "che guevara",
+        "cuba",
+        "eduardo galeano",
+        "gabriel garcia marquez",
+        "julio cortazar",
+        "latinoamerica",
+        "prensa latina",
+        "rodolfo walsh"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 625
+    },
+    {
+      "name": "Radio Campesina Cubana",
+      "urls": [
+        "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?uuid=5d1039b4-93a3-8129-9bc6-1973c3e9988b&t302=2026-09-20_20-29-46"
+      ],
+      "tags": [
+        "salsa",
+        "son"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioscuba.com/images/favicon-cu.png",
+      "votes": 150
+    },
+    {
+      "name": "Rádio Costa (Archipiélago Uno)",
+      "urls": [
+        "https://radio.archipielago.uno/radiocosta"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://archipielago.uno/fotos/mangle.ico",
+      "votes": 182
+    },
+    {
+      "name": "Radio Habana Cuba 102.5 FM",
+      "urls": [
+        "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs"
+      ],
+      "tags": [
+        "102.5 fm",
+        "11760 khz",
+        "11880 khz",
+        "13780 khz",
+        "15140 khz",
+        "15230 khz",
+        "6000 khz",
+        "9710 khz",
+        "cuba",
+        "cuba online",
+        "en contacto",
+        "noticias",
+        "onda corta",
+        "radio cubana",
+        "radio habana cuba",
+        "radio internacional",
+        "rhc",
+        "shortwave radio",
+        "una voz de amistad que recorre el mundo"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://cdn-profiles.tunein.com/p3240836/images/logod.png",
+      "votes": 39
+    },
+    {
+      "name": "Radio María de la Caridad",
+      "urls": [
+        "https://usa6.fastcast4u.com/proxy/aserranog/stream"
+      ],
+      "tags": [],
+      "city": "Santiago de Cuba",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Radio Progreso 90.3 FM",
+      "urls": [
+        "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN"
+      ],
+      "tags": [
+        "90.3 fm",
+        "icrt",
+        "la onda de la alegria",
+        "musica cubana",
+        "radio cubana",
+        "radio progreso"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://static-media.streema.com/media/cache/49/ac/49ac79efdd21590658341bf4475a5721.png",
+      "votes": 34
+    },
+    {
+      "name": "Radio Rebelde 1180 AM",
+      "urls": [
+        "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd"
+      ],
+      "tags": [
+        "1180 am",
+        "5025 khz",
+        "emisora de la revolucion",
+        "radio rebelde",
+        "radio rebelde 1180 am",
+        "shortwave radio"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/917/radio-rebelde-am.c2316379.png",
+      "votes": 75
+    },
+    {
+      "name": "Radio Reloj Cuba 950 AM",
+      "urls": [
+        "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/b3jbfThq"
+      ],
+      "tags": [
+        "101.5 fm",
+        "950 am",
+        "icrt",
+        "noticias",
+        "radio reloj",
+        "tiempo"
+      ],
+      "city": "La Habana",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/B7dTgwMGWB.png",
+      "votes": 72
+    }
+  ]
+}

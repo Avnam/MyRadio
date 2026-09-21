@@ -1,0 +1,1083 @@
+{
+  "code": "JP",
+  "name": "Japan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Kamakura FM",
+      "urls": [
+        "https://stream.laut.fm/kamakura"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "#Radio Quran",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 145
+    },
+    {
+      "name": "83.4MHz FMSETAGAYA",
+      "urls": [
+        "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fmsetagaya.com/wp/wp-content/uploads/2020/02/1400-300x300.jpg",
+      "votes": 13
+    },
+    {
+      "name": "A Radio for ACG & others",
+      "urls": [
+        "https://hkradio.myaddr.io/listen/new_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg",
+      "votes": 13
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 31
+    },
+    {
+      "name": "Anime Para Ti",
+      "urls": [
+        "https://stream.zeno.fm/qpn8mkt8c4duv"
+      ],
+      "tags": [
+        "anime",
+        "anime openings",
+        "jpop",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp",
+      "votes": 4866
+    },
+    {
+      "name": "Animenfo",
+      "urls": [
+        "https://stream.zenolive.com/xwa8ckz7mzzuv.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2014/11/Animenfo-Radio.jpg",
+      "votes": 17
+    },
+    {
+      "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+      "urls": [
+        "https://s3.radio.co/sc8d895604/listen"
+      ],
+      "tags": [
+        "bossa nova",
+        "jazz",
+        "piano jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_1070,h_1080,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
+      "votes": 306
+    },
+    {
+      "name": "asia DREAM radio - Japan Hits",
+      "urls": [
+        "https://quincy.torontocast.com:2020/stream.mp3"
+      ],
+      "tags": [
+        "j-pop",
+        "japanese",
+        "jpop",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Big B Radio - Jpop",
+      "urls": [
+        "https://antares.dribbcast.com/proxy/jpop?mp=/s"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 749
+    },
+    {
+      "name": "BOX : Japan City Pop - 日本のシティポップ",
+      "urls": [
+        "https://play.streamafrica.net/japancitypop"
+      ],
+      "tags": [
+        "city pop",
+        "japanese"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://assets.radioapi.me/radios/01J65CR99GVHS3A7CT7D53C415.jpg",
+      "votes": 1207
+    },
+    {
+      "name": "Chiafuru",
+      "urls": [
+        "https://chiafuru.fun/stream/nanahira-releases@128"
+      ],
+      "tags": [
+        "anime radio",
+        "denpa",
+        "japanese music",
+        "jpop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png",
+      "votes": 3
+    },
+    {
+      "name": "Chifuru!",
+      "urls": [
+        "https://157.254.194.202/stream/nanahira@256"
+      ],
+      "tags": [
+        "anime radio",
+        "japanese music",
+        "jpop"
+      ],
+      "city": "#qa",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png",
+      "votes": 0
+    },
+    {
+      "name": "Fred Film Radio(日本語)",
+      "urls": [
+        "https://s10.webradio-hosting.com/proxy/fredradiojp/stream"
+      ],
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ],
+      "city": "Tokyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 714
+    },
+    {
+      "name": "Free FM 80 Tokyo",
+      "urls": [
+        "https://freefm80.radioca.st/"
+      ],
+      "tags": [
+        "#80s",
+        "#freefm",
+        "#freefm80s"
+      ],
+      "city": "tokyo",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://lh4.googleusercontent.com/acjVH3-jt6Rup86sTS16ZbClPjcB-xcVHsr-0RxPZplbCCgvPbb9WKSj2XdpcTdOCe_wzLfv9uktiQIJKkKgYc4lajlD5qKO6rSJl18sDC9yIehJREvzmK2zj9jc3V-n=w1280",
+      "votes": 1503
+    },
+    {
+      "name": "Free FM Tokyo",
+      "urls": [
+        "https://rocafmadrid.radioca.st/stream"
+      ],
+      "tags": [
+        "1980s",
+        "2000s",
+        "80's",
+        "80s rock",
+        "90's",
+        "rock"
+      ],
+      "city": "tokyo",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 880
+    },
+    {
+      "name": "Free FM Tokyo",
+      "urls": [
+        "https://rocafmadrid.radioca.st/"
+      ],
+      "tags": [
+        "free fm",
+        "free japan music",
+        "musica",
+        "tokyo"
+      ],
+      "city": "Tokyo",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1613
+    },
+    {
+      "name": "Gensokyo Radio",
+      "urls": [
+        "https://stream.gensokyoradio.net/3"
+      ],
+      "tags": [
+        "anime",
+        "touhou"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://gensokyoradio.net/favicon.ico",
+      "votes": 2388
+    },
+    {
+      "name": "Gensokyo Radio (OGG)",
+      "urls": [
+        "https://stream.gensokyoradio.net/2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://stream.gensokyoradio.net/images/logo.png",
+      "votes": 64
+    },
+    {
+      "name": "Gensokyo Radio (Original)",
+      "urls": [
+        "https://stream.gensokyoradio.net/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.gensokyoradio.net/images/logo.png",
+      "votes": 188
+    },
+    {
+      "name": "Gotanno FM 89.2",
+      "urls": [
+        "https://radio.gotanno.love/;"
+      ],
+      "tags": [
+        "indie pop",
+        "jpop"
+      ],
+      "city": "Tokyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 134
+    },
+    {
+      "name": "J-Club Club Bandstand",
+      "urls": [
+        "https://cast1.torontocast.com:2060/;.mp3"
+      ],
+      "tags": [
+        "1930s",
+        "1940s",
+        "big band",
+        "jazz",
+        "swing"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 205
+    },
+    {
+      "name": "J-Club Powerplay HipHop",
+      "urls": [
+        "https://kathy.torontocast.com:3350/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+      "urls": [
+        "https://kathy.torontocast.com:3350/;?shoutcast"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 199
+    },
+    {
+      "name": "J-Pop Christmas",
+      "urls": [
+        "https://cast3.torontocast.com:1170/;"
+      ],
+      "tags": [
+        "christmas",
+        "j-pop",
+        "japanese"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://moremalc.com/jc512.jpeg",
+      "votes": 7
+    },
+    {
+      "name": "J-Pop Powerplay",
+      "urls": [
+        "https://kathy.torontocast.com:3560/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "J-POP Powerplay",
+      "urls": [
+        "https://kathy.torontocast.com:3560/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s260995g.png",
+      "votes": 537
+    },
+    {
+      "name": "J-Pop Powerplay Kawaii",
+      "urls": [
+        "https://kathy.torontocast.com:3060/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 283
+    },
+    {
+      "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+      "urls": [
+        "https://kathy.torontocast.com:3060/;?shoutcast"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 408
+    },
+    {
+      "name": "J-Pop Sakura (asia DREAM radio)",
+      "urls": [
+        "https://quincy.torontocast.com:2070/stream.mp3"
+      ],
+      "tags": [
+        "j-pop",
+        "japanese",
+        "jpop",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://moremalc.com/natsukashii.jpeg",
+      "votes": 111
+    },
+    {
+      "name": "J-Rock PowerPlay",
+      "urls": [
+        "https://kathy.torontocast.com:3340/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 129
+    },
+    {
+      "name": "J-Rock Powerplay(Asia DREAM Radio)",
+      "urls": [
+        "https://kathy.torontocast.com:3340/;?shoutcast"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 472
+    },
+    {
+      "name": "J1 HITS",
+      "urls": [
+        "https://jenny.torontocast.com:2000/stream/J1HITS?_=538100"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/387/5e763a347e800.png",
+      "votes": 92
+    },
+    {
+      "name": "J1 HITS",
+      "urls": [
+        "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325"
+      ],
+      "tags": [],
+      "city": "tokyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/387/5e763985f1dab.png",
+      "votes": 452
+    },
+    {
+      "name": "Jazz Sakura",
+      "urls": [
+        "https://kathy.torontocast.com:3330/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 311
+    },
+    {
+      "name": "Justplay",
+      "urls": [
+        "https://justplay.stream.laut.fm/justplay"
+      ],
+      "tags": [
+        "j-pop",
+        "pop",
+        "pop-rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661",
+      "votes": 15
+    },
+    {
+      "name": "Listen.moe J-Pop (MP3)",
+      "urls": [
+        "https://listen.moe/fallback"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://listen.moe/favicon.ico",
+      "votes": 532
+    },
+    {
+      "name": "Listen.Moe JPop Vorbis",
+      "urls": [
+        "https://listen.moe/stream"
+      ],
+      "tags": [
+        "jpop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 192,
+      "logo": "https://listen.moe/favicon.ico",
+      "votes": 14
+    },
+    {
+      "name": "Miku Radio",
+      "urls": [
+        "https://miku.fm/listen/miku/aac-320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://miku.fm/static/uploads/browser_icon/60.1740888865.png",
+      "votes": 138
+    },
+    {
+      "name": "MILCpod",
+      "urls": [
+        "https://radio.milradio.info:9000/milcpod.m3u8"
+      ],
+      "tags": [
+        "music",
+        "video games"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 211,
+      "logo": "https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg",
+      "votes": 12
+    },
+    {
+      "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
+      "urls": [
+        "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/b4e9b8_d568257bd6474ac0ad5ea280d38461e4~mv2.png/v1/fill/w_403,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MOON%20MISSION%202_0%20%E3%83%AD%E3%82%B4%E3%80%80%E9%BB%92%E3%80%801000x1000.png",
+      "votes": 93
+    },
+    {
+      "name": "NFRS Radio",
+      "urls": [
+        "https://securestreams.autopo.st:2592/stream?t=1769818665235"
+      ],
+      "tags": [
+        "country",
+        "dj sets",
+        "pop"
+      ],
+      "city": "Osaka",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg",
+      "votes": 26
+    },
+    {
+      "name": "NHK WORLD RADIO",
+      "urls": [
+        "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8"
+      ],
+      "tags": [
+        "international",
+        "news"
+      ],
+      "city": "tokyo",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 2
+    },
+    {
+      "name": "NHK World Radio (Korean)",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/rs1/live.m3u8"
+      ],
+      "tags": [
+        "education",
+        "general",
+        "international news",
+        "world news"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10",
+      "votes": 3
+    },
+    {
+      "name": "NHK WORLD RADIO 11",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 68
+    },
+    {
+      "name": "NHK WORLD RADIO 12",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+      "votes": 52
+    },
+    {
+      "name": "NHK WORLD RADIO 13",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+      "votes": 20
+    },
+    {
+      "name": "NHK WORLD RADIO 7",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 29
+    },
+    {
+      "name": "NHK WORLD RADIO 8",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+      "votes": 77
+    },
+    {
+      "name": "NHK WORLD RADIO 9",
+      "urls": [
+        "https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+      "votes": 27
+    },
+    {
+      "name": "NHK WORLD RADIO-2",
+      "urls": [
+        "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 1
+    },
+    {
+      "name": "NHK WORLD RADIO-3",
+      "urls": [
+        "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 1
+    },
+    {
+      "name": "NHK WORLD RADIO-4",
+      "urls": [
+        "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 1
+    },
+    {
+      "name": "NHK WORLD RADIO-5",
+      "urls": [
+        "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "votes": 1
+    },
+    {
+      "name": "NHKワールド・ラジオ日本",
+      "urls": [
+        "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "tokyo",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www3.nhk.or.jp/nhkworld/assets/images/statics/ja_nw_premium_img_2019.png",
+      "votes": 264
+    },
+    {
+      "name": "Nonstop Casiopea",
+      "urls": [
+        "https://nonstopcasiopea.radioca.st/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 74
+    },
+    {
+      "name": "OnlyHits Japan",
+      "urls": [
+        "https://j.onlyhit.us/play"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 487
+    },
+    {
+      "name": "Oreo Chii",
+      "urls": [
+        "https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&raw=1"
+      ],
+      "tags": [
+        "chiikawa",
+        "oreo",
+        "oreo chiikawa"
+      ],
+      "city": "Tokyo",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0",
+      "votes": 2
+    },
+    {
+      "name": "Otaku Music Radio",
+      "urls": [
+        "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "R/a/dio",
+      "urls": [
+        "https://relay0.r-a-d.io/main.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://r-a-d.io/favicon.ico",
+      "votes": 41
+    },
+    {
+      "name": "RadiCro",
+      "urls": [
+        "https://radicrojapan.out.airtime.pro/radicrojapan_b"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radicro.com/images/company/main.jpg",
+      "votes": 10
+    },
+    {
+      "name": "RadiCro (レディクロ)",
+      "urls": [
+        "https://radicrojapan.out.airtime.pro/radicrojapan_a"
+      ],
+      "tags": [],
+      "city": "Kobe",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Radio Hayama",
+      "urls": [
+        "https://server10.reliastream.com/proxy/radiohayama"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/3gzybhgwj45v.png",
+      "votes": 9
+    },
+    {
+      "name": "Rainwave All",
+      "urls": [
+        "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d"
+      ],
+      "tags": [],
+      "city": "tokyo",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 136
+    },
+    {
+      "name": "Real Love Music - Radio Future Funk",
+      "urls": [
+        "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 149
+    },
+    {
+      "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+      "urls": [
+        "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3"
+      ],
+      "tags": [
+        "information",
+        "news"
+      ],
+      "city": "Osaka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO REPLAY NEWS-JA.png",
+      "votes": 111
+    },
+    {
+      "name": "SHMUPRADIO",
+      "urls": [
+        "https://stream.shmupradio.com/320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "SOUND UP STATION NFRS",
+      "urls": [
+        "https://stream2.rcast.net/70945"
+      ],
+      "tags": [
+        "indie",
+        "jpop"
+      ],
+      "city": "Osaka",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico",
+      "votes": 95
+    },
+    {
+      "name": "stereo anime",
+      "urls": [
+        "https://radio.stereoanime.com/listen/stereoanime/128"
+      ],
+      "tags": [
+        "anime",
+        "anime endings",
+        "anime openings",
+        "anime radio",
+        "j-pop",
+        "j-rock",
+        "japanese anime soundtracks game jpop vgm ost",
+        "japonese anime soundtracks",
+        "video game music",
+        "video games",
+        "videogame music"
+      ],
+      "city": "tokyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.stereoanime.com/favicon.ico",
+      "votes": 67
+    },
+    {
+      "name": "Súper Tokio Radio",
+      "urls": [
+        "https://streamer.radio.co/s83eb8ff39/listen"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://supertokio.com/favicon.ico",
+      "votes": 728
+    },
+    {
+      "name": "tilderadio",
+      "urls": [
+        "https://tilderadio.org/listen"
+      ],
+      "tags": [
+        "internacional",
+        "music",
+        "tilde",
+        "tildeverse"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 247
+    },
+    {
+      "name": "VRC放送局",
+      "urls": [
+        "https://vrc.gate.vrtv.jp/live?p=g&u=d"
+      ],
+      "tags": [
+        "video games"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 1306,
+      "logo": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vrctv.jp/&size=128",
+      "votes": 8
+    },
+    {
+      "name": "WVVV V96.9",
+      "urls": [
+        "https://ice5.securenetsystems.net/WVVVFM"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://img1.wsimg.com/isteam/ip/fc3d1b44-9881-4eb0-98a3-9594c00a2ffa/v96%20500x500%20logo%20for%20app.png/:/rs=w:114,h:114,m",
+      "votes": 271
+    },
+    {
+      "name": "大富ラジオ",
+      "urls": [
+        "https://stream.zeno.fm/oaxp6mswcqltv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 222
+    },
+    {
+      "name": "羊飼いラジオ Hitsujikai Radio",
+      "urls": [
+        "https://streaming.radio.co/se4a8e6a93/listen"
+      ],
+      "tags": [
+        "christian",
+        "classical",
+        "soft"
+      ],
+      "city": "Hokaido",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256",
+      "votes": 62
+    },
+    {
+      "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+      "urls": [
+        "https://streaming.radio.co/se4a8e6a93/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
+      "votes": 80
+    }
+  ]
+}

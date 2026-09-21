@@ -1,0 +1,252 @@
+{
+  "code": "BD",
+  "name": "Bangladesh",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "A2Z RADIO",
+      "urls": [
+        "https://listen.radioking.com/radio/1743/stream/125"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://liveonlineradio.net/img/favicon_96.png",
+      "votes": 9957
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 776
+    },
+    {
+      "name": "Dhaka FM",
+      "urls": [
+        "https://play.dhakafm904.com/;"
+      ],
+      "tags": [
+        "hit",
+        "pop"
+      ],
+      "city": "Dhaka",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://i.postimg.cc/Z5MBwBZ5/bd-dhaka-fm.webp",
+      "votes": 17
+    },
+    {
+      "name": "Mellow Bangla",
+      "urls": [
+        "https://radio.mellowbangla.com/stream"
+      ],
+      "tags": [
+        "bangla",
+        "bangla fm",
+        "bangla music",
+        "bangla radio",
+        "bangladesh",
+        "bengali",
+        "bengali music",
+        "folk",
+        "romantic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.mellowbangla.com/icon.png",
+      "votes": 418
+    },
+    {
+      "name": "Muhammad Siddiq al-Minshawi",
+      "urls": [
+        "https://qurango.net/radio/mohammed_siddiq_alminshawi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 836
+    },
+    {
+      "name": "Peoples Radio 91.6 FM",
+      "urls": [
+        "https://s3.myradiostream.com:14498/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 4441
+    },
+    {
+      "name": "Radio Bhumi",
+      "urls": [
+        "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk"
+      ],
+      "tags": [
+        "bangla",
+        "bangla fm",
+        "bangla music",
+        "bangla radio",
+        "bangladesh"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s260643q.png",
+      "votes": 2521
+    },
+    {
+      "name": "Radio Foorti",
+      "urls": [
+        "https://radiofoorti.fm/api/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dhaka",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.postimg.cc/0NWMBYGh/bd-radio-foorti.webp",
+      "votes": 73
+    },
+    {
+      "name": "Radio GoonGoon",
+      "urls": [
+        "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3820
+    },
+    {
+      "name": "Radio JKKNIU",
+      "urls": [
+        "https://stream.zeno.fm/risgdzpf1cxtv"
+      ],
+      "tags": [
+        "bollywood",
+        "campus radio",
+        "college",
+        "college radio",
+        "pop",
+        "pop music",
+        "pop rock",
+        "rock"
+      ],
+      "city": "Dhaka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiojkkniu.vercel.app/radiojkkniu_logo.png",
+      "votes": 64
+    },
+    {
+      "name": "Radio Shadhin",
+      "urls": [
+        "https://stream-157.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh6NzR2TE5jUmJLV1pzMExqQWpYcmciLCJpYXQiOjE3Mjc1NDQwMjYsImV4cCI6MTcyNzU0NDA4Nn0.nm5A8Sbpg2aM811icSh5Au4Wigql4rOzRb0eKDW8Hz4"
+      ],
+      "tags": [
+        "bangla",
+        "bangladesh"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1811
+    },
+    {
+      "name": "Radio Vivid Voice",
+      "urls": [
+        "https://stream.zeno.fm/xuin6ocdc2juv"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "city": "Mymensingh",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3299
+    },
+    {
+      "name": "Rajshahi FM",
+      "urls": [
+        "https://stream.zeno.fm/nxfshdayjrdvv"
+      ],
+      "tags": [
+        "bangla",
+        "bangla fm",
+        "bangla radio",
+        "hard rock heavy metal",
+        "rajshahi",
+        "rock"
+      ],
+      "city": "Rajshahi",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2459
+    },
+    {
+      "name": "S-Radio",
+      "urls": [
+        "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://images.sftcdn.net/images/t_app-icon-m/p/728dfe80-610d-4633-87de-055669555a35/3806933012/radio-shibir-logo",
+      "votes": 1816
+    },
+    {
+      "name": "Spice FM",
+      "urls": [
+        "https://stream.spicefmbd.com/stream.m3u8"
+      ],
+      "tags": [],
+      "city": "Dhaka",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://i.postimg.cc/DZmTxs5c/bd-spice-fm.webp",
+      "votes": 27
+    },
+    {
+      "name": "Universal Health Radio (বাংলা)",
+      "urls": [
+        "https://radio.universalhealthradio.org/uhr-bn.mp3"
+      ],
+      "tags": [
+        "bengali",
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "news",
+        "public health",
+        "who"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://universalhealthradio.org/favicon.png",
+      "votes": 31
+    }
+  ]
+}

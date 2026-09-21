@@ -1,0 +1,2717 @@
+{
+  "code": "PT",
+  "name": "Portugal",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "M80 Rádio – 60s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8060.aac"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/fe90a6d0b5158acae63737fe4b9b204f.jpg",
+      "votes": 613
+    },
+    {
+      "name": "M80 Rádio – 80s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8080.aac"
+      ],
+      "tags": [
+        "80s",
+        "pop",
+        "romantic"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/cc9443f16e2af31ba205ac82214760c9.jpg",
+      "votes": 2041
+    },
+    {
+      "name": "M80 Rádio – Ballads",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80ballads.aac"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "romantic"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1068
+    },
+    {
+      "name": "M80 Rádio – Dance",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80dance.aac"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "dance"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 260
+    },
+    {
+      "name": "M80 Rádio – Pop",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80pop.aac"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "pop"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 276
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 7
+    },
+    {
+      "name": "00's RFM",
+      "urls": [
+        "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
+      ],
+      "tags": [
+        "2000s"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/images/webrads/rfm-00s-radio-online_100x100.jpg",
+      "votes": 31
+    },
+    {
+      "name": "105.4 Cascais - O Rock da Linha",
+      "urls": [
+        "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Estremadura",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.1054cascais.com/img/cover.jpg",
+      "votes": 200
+    },
+    {
+      "name": "2000 Comercial Online Lisboa Portugal",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "4DJ 4Drive Jazz",
+      "urls": [
+        "https://radio.streemlion.com:4870/stream"
+      ],
+      "tags": [],
+      "city": "Estoril",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.wixstatic.com/media/aafaca_063ee918224540c5b309bdb5d41898b5~mv2.png",
+      "votes": 67
+    },
+    {
+      "name": "97fm Rádio Clube de Pombal",
+      "urls": [
+        "https://centova.radios.com.pt/proxy/410?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Pombal",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Antena 1 - Main",
+      "urls": [
+        "https://radiocast.rtp.pt/antena180a.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?q=10&v=3&w=275",
+      "votes": 51
+    },
+    {
+      "name": "Antena 1 (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 184,
+      "logo": "https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png",
+      "votes": 148
+    },
+    {
+      "name": "Antena 1 (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR"
+      ],
+      "tags": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 193,
+      "logo": "https://www.celsoazevedo.com/files/2022/antena-1.png",
+      "votes": 50
+    },
+    {
+      "name": "Antena 1 Açores (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+      ],
+      "tags": [
+        "acores",
+        "antena 1",
+        "antena 1 açores",
+        "azores",
+        "açores",
+        "local news",
+        "noticias",
+        "portugal",
+        "rdp",
+        "rdp açores"
+      ],
+      "city": "Azores",
+      "codec": "AAC",
+      "bitrate": 186,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/antena-1-acores.png",
+      "votes": 292
+    },
+    {
+      "name": "Antena 1 Madeira (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8"
+      ],
+      "tags": [
+        "antena 1 madeira",
+        "madeira",
+        "news talk",
+        "notícias",
+        "rdp",
+        "rdp madeira",
+        "rtp"
+      ],
+      "city": "Madeira",
+      "codec": "AAC",
+      "bitrate": 181,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/antena-1-madeira.png",
+      "votes": 172
+    },
+    {
+      "name": "Antena 2 - Main",
+      "urls": [
+        "https://radiocast.rtp.pt/antena280a.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?q=10&v=3&w=275",
+      "votes": 60
+    },
+    {
+      "name": "Antena 2 (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 262,
+      "logo": "https://www.celsoazevedo.com/files/2024/antena-2.png",
+      "votes": 271
+    },
+    {
+      "name": "Antena 2 Jazzin (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 167,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/antena-2-jazzin.png",
+      "votes": 376
+    },
+    {
+      "name": "Antena 2 Ópera",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8"
+      ],
+      "tags": [
+        "antena 2",
+        "classic",
+        "opera",
+        "rdp",
+        "rtp",
+        "ópera"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 177,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/antena-2-opera.png",
+      "votes": 158
+    },
+    {
+      "name": "Antena 3",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 179,
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275",
+      "votes": 32
+    },
+    {
+      "name": "Antena 3 - Main",
+      "urls": [
+        "https://radiocast.rtp.pt/antena380a.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275",
+      "votes": 278
+    },
+    {
+      "name": "Antena 3 (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR"
+      ],
+      "tags": [
+        "alternative",
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 167,
+      "logo": "https://i.ibb.co/1rcQ9sr/1-143718101410.webp",
+      "votes": 244
+    },
+    {
+      "name": "Antena 3 Madeira (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+      ],
+      "tags": [
+        "antena 1",
+        "madeira",
+        "music",
+        "rdp",
+        "rtp"
+      ],
+      "city": "Madeira",
+      "codec": "AAC",
+      "bitrate": 180,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/antena-3-madeira.png",
+      "votes": 125
+    },
+    {
+      "name": "Antena Livre de Gouveia",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/456?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Batida FM",
+      "urls": [
+        "https://stream-icy.rayo.pt/batidafm.mp3?direct=true"
+      ],
+      "tags": [
+        "afro-house",
+        "batida",
+        "kuduro",
+        "lisbon",
+        "portuguese urban"
+      ],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://batida.fm/images/fbcover.jpg",
+      "votes": 5
+    },
+    {
+      "name": "BBN Portuguese",
+      "urls": [
+        "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 120
+    },
+    {
+      "name": "Cantinho dos Emigrantes",
+      "urls": [
+        "https://cast.redewt.net:9825/stream"
+      ],
+      "tags": [],
+      "city": "Viana do Castelo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cantinhodosemigrantes.pt/wp-content/uploads/2023/03/logo_radio.png",
+      "votes": 152
+    },
+    {
+      "name": "Caria - Rádio Natal",
+      "urls": [
+        "https://stream-177.surfernetwork.com/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im01cm0yZUNIVGRtcmVLV2EyUDlZM0EiLCJpYXQiOjE3ODk5NzQyNDMsImV4cCI6MTc4OTk3NDMwM30.BC1j9hUkk_d5ZFqAO3WctdzfM99Cywa9JSMwYQHJ1tM"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Cascais FM 105.4",
+      "urls": [
+        "https://play.radioregional.pt:8220/stream/2/;/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.1054cascais.com/img/logo_white.png",
+      "votes": 36
+    },
+    {
+      "name": "Cidade FM",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/cidade.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cidade.fm/favicon.ico",
+      "votes": 170
+    },
+    {
+      "name": "cidade hiphop",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8"
+      ],
+      "tags": [
+        "hip hop"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 181
+    },
+    {
+      "name": "Cidade_fm",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+      ],
+      "tags": [
+        "cdd_fm",
+        "cidade",
+        "jovem",
+        "new age",
+        "só se quiseres!"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 435
+    },
+    {
+      "name": "CM Rádio",
+      "urls": [
+        "https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8"
+      ],
+      "tags": [
+        "news",
+        "sports news"
+      ],
+      "city": "Lisbon",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 330
+    },
+    {
+      "name": "Cool FM Albufeira",
+      "urls": [
+        "https://a1.asurahosting.com:9360/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.live/assets/images/faveicon/favicon-96x96.png",
+      "votes": 9
+    },
+    {
+      "name": "Cool FM Albufeira",
+      "urls": [
+        "https://cool-fm.link/listen/stream/live.mp3"
+      ],
+      "tags": [],
+      "city": "Albufeira",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Deep Mix Radio",
+      "urls": [
+        "https://stream-new.deepmix.net/deep-mix-radio-320.mp3"
+      ],
+      "tags": [
+        "deep house",
+        "electronic",
+        "minimal",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "ESR - East Side Radio",
+      "urls": [
+        "https://ice.ether.esr.li/esr-ch1.aac"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://esr.li/favicon-32x32.png",
+      "votes": 2
+    },
+    {
+      "name": "Estação Diária Rádio, Viseu – 96.8 FM",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/430?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Viseu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.968.fm/images/logo_mobile.png",
+      "votes": 10
+    },
+    {
+      "name": "FUTURA - Rádio de Autor",
+      "urls": [
+        "https://s4.radio.co/s7e7b6c165/listen"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiofutura.pt/favicon.ico",
+      "votes": 1
+    },
+    {
+      "name": "Geice FM",
+      "urls": [
+        "https://ec2.yesstreaming.net:3275/stream"
+      ],
+      "tags": [
+        "classic hits",
+        "hits",
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiogeice.com/favicon.ico",
+      "votes": 23
+    },
+    {
+      "name": "GoloFM",
+      "urls": [
+        "https://sp0.redeaudio.com/8154/stream"
+      ],
+      "tags": [
+        "desporto"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://golo.fm/favicon.ico",
+      "votes": 1108
+    },
+    {
+      "name": "Gongas Radio",
+      "urls": [
+        "https://a6.asurahosting.com:7930/radio.mp3"
+      ],
+      "tags": [
+        "1980s",
+        "1990s"
+      ],
+      "city": "cascais",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://links.mail.timberapps.io/file/upload/session/c747d5b028d94800/d0069737570b07666d11d601c3582a94f8cfc495.jpeg",
+      "votes": 11
+    },
+    {
+      "name": "jovembsk",
+      "urls": [
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 631
+    },
+    {
+      "name": "jovembsk",
+      "urls": [
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv?zs=16hfH25BROGMPgJQytuZKg"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "jovembsk dance",
+      "urls": [
+        "https://stream.zeno.fm/1wux17cbfkcuv"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "La French Radio  Portugal",
+      "urls": [
+        "https://www.radioking.com/play/lfr-portugal"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.lafrenchradio.pt/upload/design/5ffda59fed57e1.23982984.jpg",
+      "votes": 83
+    },
+    {
+      "name": "Lusophonica",
+      "urls": [
+        "https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 81
+    },
+    {
+      "name": "M 80 Rádio",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80.mp3"
+      ],
+      "tags": [
+        "classic hits",
+        "hits",
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 109
+    },
+    {
+      "name": "M80 Rádio – 70s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8070.aac"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "pop"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 141
+    },
+    {
+      "name": "M80 Rádio – 90s",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m8090.aac"
+      ],
+      "tags": [],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/cfcb79082683b5572d795042815462f7.jpg",
+      "votes": 184
+    },
+    {
+      "name": "M80 Rádio – Indie",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80indie.aac"
+      ],
+      "tags": [
+        "indie",
+        "indie rock"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/bb1443327bbcc1a1ef97d0668929c581.jpg",
+      "votes": 163
+    },
+    {
+      "name": "M80 Rádio – Portugal",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80nacional.aac"
+      ],
+      "tags": [
+        "portuguese music",
+        "portuguese pop",
+        "português"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/f506762ed247f010c6c41c494c279e57.jpg",
+      "votes": 662
+    },
+    {
+      "name": "M80 Rádio – Rock",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80rock.aac"
+      ],
+      "tags": [
+        "80s",
+        "pop rock",
+        "rock"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 216
+    },
+    {
+      "name": "M80 Rádio – Soul",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80soul.aac"
+      ],
+      "tags": [
+        "70s",
+        "classic soul",
+        "soul"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "M80 Rádio (AAC)",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/m80.aac"
+      ],
+      "tags": [
+        "2000's",
+        "70's",
+        "80's",
+        "90's",
+        "portugal"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 346
+    },
+    {
+      "name": "MetalON - The Heavy",
+      "urls": [
+        "https://radiometalon.com/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "heavy metal",
+        "metal"
+      ],
+      "city": "Marco de Canaveses",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://metalon.org/wordpress/wp-content/uploads/2017/01/cropped-cropped-metalon-3-9.png",
+      "votes": 40
+    },
+    {
+      "name": "MFM",
+      "urls": [
+        "https://radios.justweb.pt/8074/stream"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Porto",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Monsanto",
+      "urls": [
+        "https://s9.yesstreaming.net:9029/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "MRR Manitu Rock Radio",
+      "urls": [
+        "https://radio.streemlion.com:4515/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "metal",
+        "pop",
+        "progressive rock"
+      ],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 124
+    },
+    {
+      "name": "MSFS Radio",
+      "urls": [
+        "https://radio.msfsradio.com/listen/msfs/radio.mp3"
+      ],
+      "tags": [
+        "ambient lounge",
+        "chillout",
+        "downtempo",
+        "eletronic",
+        "indie",
+        "world music"
+      ],
+      "city": "Porto",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://msfsradio.com/favicon-32.png",
+      "votes": 2
+    },
+    {
+      "name": "NiTfm",
+      "urls": [
+        "https://sp0.redeaudio.com/8028/stream/"
+      ],
+      "tags": [
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/favicon/favicon-128.png",
+      "votes": 77
+    },
+    {
+      "name": "NOITE FM",
+      "urls": [
+        "https://servidor.noite.pt:9002/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.noite.fm/wp-content/uploads/2024/06/Logo_noiteFM_Vector_Forground-3-09.png",
+      "votes": 42
+    },
+    {
+      "name": "Nove3cinco",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",
+      "votes": 65
+    },
+    {
+      "name": "NTR - Network Radio",
+      "urls": [
+        "https://is.ntradio.pt/ntr"
+      ],
+      "tags": [
+        "70 80 hits",
+        "90's",
+        "live radio",
+        "pop",
+        "portugal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ntr.fm/wp-content/uploads/2017/06/NTR-Logo-600x600-Dark_Bg-v1-1.png",
+      "votes": 69
+    },
+    {
+      "name": "oceano Pacifico",
+      "urls": [
+        "https://stm7.xradios.com.br:6944/live"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Onda Livre",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/572?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ondalivrefm.net/favicon.ico",
+      "votes": 10
+    },
+    {
+      "name": "Orbital",
+      "urls": [
+        "https://ec2.yesstreaming.net:3025/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.orbital.pt/orbitalrds.gif",
+      "votes": 47
+    },
+    {
+      "name": "Porão da nau radio",
+      "urls": [
+        "https://stream.zeno.fm/rwmao7mxxt8vv"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "Lisboa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/110/porao-da-nau-radio.5abfe912.jpg",
+      "votes": 19
+    },
+    {
+      "name": "Posto Emissor do Funchal",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/426?mp=/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/cdAZeDr.png",
+      "votes": 3
+    },
+    {
+      "name": "Posto Emissor do Funchal (PEF) - Canal 1 OM",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/422?mp=/stream;"
+      ],
+      "tags": [],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.celsoazevedo.com/files/2026/pef-am.png",
+      "votes": 3
+    },
+    {
+      "name": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/426?mp=/stream;"
+      ],
+      "tags": [],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.celsoazevedo.com/files/2026/pef-fm.png",
+      "votes": 2
+    },
+    {
+      "name": "Rádio Algoritmo",
+      "urls": [
+        "https://jagsilva.com/stream"
+      ],
+      "tags": [
+        "internet radio",
+        "personal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://jagsilva.com/favicon.svg",
+      "votes": 0
+    },
+    {
+      "name": "Rádio Alto Minho",
+      "urls": [
+        "https://ec2.yesstreaming.net:3705/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radioaltominho.pt/Ava//current_animator.jpg?1740106077826",
+      "votes": 14
+    },
+    {
+      "name": "Radio Amigos do Mundo",
+      "urls": [
+        "https://sonic.servsonic.com:7004/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioamigosdomundo.com/public/01100-2026-05-16.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Rádio Amor Portugal",
+      "urls": [
+        "https://stream.radioamorportugal.com:8443/rap.mp3"
+      ],
+      "tags": [
+        "musica popular"
+      ],
+      "city": "Viana do Castelo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 632
+    },
+    {
+      "name": "Rádio Antena 1",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8"
+      ],
+      "tags": [
+        "fado",
+        "news",
+        "noticias",
+        "pop",
+        "publica"
+      ],
+      "city": "Lisboa",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_vert_RGB.png",
+      "votes": 32
+    },
+    {
+      "name": "Rádio Atalaia",
+      "urls": [
+        "https://mpc.my-control-panel.eu/stream/radioatalaia"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.radioatalaia.pt/images/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "Rádio Baía",
+      "urls": [
+        "https://streamingv2.shoutcast.com/observador_64.aac"
+      ],
+      "tags": [
+        "classic hits",
+        "hits",
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",
+      "votes": 17
+    },
+    {
+      "name": "Radio Biblia",
+      "urls": [
+        "https://servidor30-4.brlogic.com:7398/live?source=website"
+      ],
+      "tags": [
+        "bible",
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://public-rf-upload.minhawebradio.net/198355/favicon/e546f187222f5837de85785dde53de8f.png",
+      "votes": 162
+    },
+    {
+      "name": "Rádio Botareu",
+      "urls": [
+        "https://nl.digitalrm.pt:8238/stream"
+      ],
+      "tags": [],
+      "city": "Águeda",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://favicone.com/www.radiobotareu.pt",
+      "votes": 30
+    },
+    {
+      "name": "Rádio Calheta",
+      "urls": [
+        "https://player.radiocalheta.pt/listen/radiocalheta/live"
+      ],
+      "tags": [],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://player.radiocalheta.pt/static/uploads/radiocalheta/album_art.1762951317.png",
+      "votes": 6
+    },
+    {
+      "name": "RADIO CAMPO MAIOR",
+      "urls": [
+        "https://radios2.justweb.pt:8064/stream?type=http&nocache=32"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocampomaior.com/wp-content/uploads/sites/3/2024/01/Client_RCM-768x565.png",
+      "votes": 9
+    },
+    {
+      "name": "Rádio clube de Colares",
+      "urls": [
+        "https://rs3.ptservidor.net/8012/live"
+      ],
+      "tags": [],
+      "city": "Colares",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.guiadecolares.pt/radio/Favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Rádio Clube de Lamego",
+      "urls": [
+        "https://stream.zeno.fm/9prct7k8h0hvv"
+      ],
+      "tags": [],
+      "city": "Lamego/Viseu",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.rclamego.com/upload/players/6a91fe97284085.82370309.png",
+      "votes": 0
+    },
+    {
+      "name": "Rádio Clube de Mafra",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/551?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Rádio Clube Madeira (106.8 FM)",
+      "urls": [
+        "https://audio.serv.pt/8020/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.celsoazevedo.com/files/random/2024/radio-clube.png",
+      "votes": 27
+    },
+    {
+      "name": "Rádio Comercial",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
+      ],
+      "tags": [
+        "contemporary",
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png",
+      "votes": 3238
+    },
+    {
+      "name": "Rádio Comercial Dance",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/rcdance.aac"
+      ],
+      "tags": [
+        "dance",
+        "pop dance"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 211
+    },
+    {
+      "name": "Rádio Comercial Kids",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/rckids.aac"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "Rádio Comercial Natal",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/rcxmas.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio Comercial Portugal",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/rctuga.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1763806752/brand_manager/stations/yc8sxrm0mataidq23uhi.pngsxrm0mataidq23uhi.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Comercial Portugal",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/comercial.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2086
+    },
+    {
+      "name": "Radio Comercial Rock",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/rcrock.aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://cdn.onlineradiobox.com/img/l/6/79496.v16.png",
+      "votes": 107
+    },
+    {
+      "name": "Rádio Elvas",
+      "urls": [
+        "https://radios2.justweb.pt:8066/stream?type=http&nocache=297"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioelvas.com/wp-content/uploads/2024/02/Logo-RE-768x341.png",
+      "votes": 22
+    },
+    {
+      "name": "RÁDIO EU SOU GOIÁS",
+      "urls": [
+        "https://live9.livemus.com.br:27374/stream"
+      ],
+      "tags": [
+        "2000",
+        "90",
+        "anos 80",
+        "esportes",
+        "jornalismo",
+        "música"
+      ],
+      "city": "Goiás",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEiFjuZpvO8NObJg4xbuvohiOA9-9xz5Ts80exF8_r0kycPUt_vx8D36UCecT4c1hMpBmgz_g9FoUzhVocxpJmsgXxKjKXqe-s5P5c7o7lgIbHEpejbVPMlEYioBRwOKpokdJaeRQghKznhXO6T663om4hMiXPPPFRLMfFvKh7LGCin_Sc25Iq6iDdCfrQy7=s144",
+      "votes": 1
+    },
+    {
+      "name": "Radio Fado de Coimbra",
+      "urls": [
+        "https://nl.digitalrm.pt:8048/stream"
+      ],
+      "tags": [
+        "fado"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1378
+    },
+    {
+      "name": "Rádio Festival Madeira (98.4 FM)",
+      "urls": [
+        "https://audio.serv.pt/8012/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Slough, Windsor, Maidenhead, Heathrow",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.celsoazevedo.com/files/random/2024/radio-festival.png",
+      "votes": 44
+    },
+    {
+      "name": "Rádio Foz do Mondego",
+      "urls": [
+        "https://nl.digitalrm.pt:8216/stream"
+      ],
+      "tags": [
+        "generalista",
+        "local news",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rfmondego.pt/wp-content/uploads/2021/09/cropped-LOGO-PEQ-1.png",
+      "votes": 30
+    },
+    {
+      "name": "Rádio Freguesia de Belém",
+      "urls": [
+        "https://s2.radio.co/s0ddea4a53/listen"
+      ],
+      "tags": [
+        "local",
+        "local government",
+        "local information",
+        "local programming",
+        "local radio",
+        "local talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "Rádio Fronteira",
+      "urls": [
+        "https://radios2.justweb.pt/8074/stream"
+      ],
+      "tags": [
+        "106.9 fm",
+        "almeida",
+        "vilar formoso"
+      ],
+      "city": "Guarda",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/EB5KAvF.png",
+      "votes": 11
+    },
+    {
+      "name": "Rádio Hertz",
+      "urls": [
+        "https://radios2.justweb.pt/8042/stream"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiohertz.pt/wp-content/uploads/2017/01/cropped-Teste1-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Rádio Lafões FM",
+      "urls": [
+        "https://sp0.redeaudio.com/9304/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiolafoes.pt/favicon.ico",
+      "votes": 17
+    },
+    {
+      "name": "Rádio Lusitânia",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8"
+      ],
+      "tags": [
+        "antena 1",
+        "local music",
+        "portugal",
+        "rdp",
+        "rtp"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 175,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/radio-lusitania.png",
+      "votes": 134
+    },
+    {
+      "name": "Rádio Maiorca",
+      "urls": [
+        "https://nl.digitalrm.pt:8182/stream"
+      ],
+      "tags": [
+        "christian",
+        "local news",
+        "local radio",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://maiorcafm.pt/maiorcafm_logo.png",
+      "votes": 23
+    },
+    {
+      "name": "Rádio Marginal",
+      "urls": [
+        "https://centova.radios.pt/proxy/499?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Maria Portugal",
+      "urls": [
+        "https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream"
+      ],
+      "tags": [
+        "catholic",
+        "radio maria",
+        "religious"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 147
+    },
+    {
+      "name": "Rádio Marinahais",
+      "urls": [
+        "https://radios2.justweb.pt/8052/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomarinhais.pt/wp-content/uploads/2023/06/cropped-favicon_rm-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Meio Do Mato",
+      "urls": [
+        "https://radio.meiodomato.com/stream"
+      ],
+      "tags": [
+        "fallout"
+      ],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://meiodomato.com/static/img/logo.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Metal On: 80s HNH",
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Metal On: The Brutal",
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Metal On: The Heavy",
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Radio Metal On: The Thrasher",
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3"
+      ],
+      "tags": [
+        "metal",
+        "thrash metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "Radio Metal On: Toxic",
+      "urls": [
+        "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3"
+      ],
+      "tags": [
+        "metal",
+        "metalcore",
+        "nu metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Rádio Miróbriga",
+      "urls": [
+        "https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiom24.com/assets/dist/img/logo-md.png",
+      "votes": 1
+    },
+    {
+      "name": "Rádio Movimento",
+      "urls": [
+        "https://stream.rcast.net/61025"
+      ],
+      "tags": [],
+      "city": "Lisboa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://radiomovimento.pt/images/rm-logo_2023.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Musgo",
+      "urls": [
+        "https://stream.radiomusgo.com/main"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://radiomusgo.com/img/musgologo_verde_site_small.png",
+      "votes": 0
+    },
+    {
+      "name": "Rádio NoAr",
+      "urls": [
+        "https://radios.justweb.pt/8034/stream"
+      ],
+      "tags": [
+        "popular music"
+      ],
+      "city": "Porto",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "RADIO NOVA ANTENA",
+      "urls": [
+        "https://radios2.justweb.pt:8068/stream?type=http&nocache=82"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radionovaantena.com/wp-content/uploads/sites/2/2024/01/Logo-RNA.png",
+      "votes": 9
+    },
+    {
+      "name": "Rádio Nova Era",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/478?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Porto",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "Rádio Observador",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico",
+      "votes": 117
+    },
+    {
+      "name": "Radio OnBouge",
+      "urls": [
+        "https://onbouge.eu/flux/onbouge.mp3"
+      ],
+      "tags": [
+        "community",
+        "french",
+        "local",
+        "music",
+        "portuguese",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onbouge.eu/images/pictos/png/256/radio.png",
+      "votes": 0
+    },
+    {
+      "name": "Rádio OnBouge Português",
+      "urls": [
+        "https://onbouge.eu/flux/onbouge-pt.mp3"
+      ],
+      "tags": [
+        "community",
+        "diaspora",
+        "local",
+        "music",
+        "portuguese",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://onbouge.eu/images/pictos/png/256/radio.png",
+      "votes": 0
+    },
+    {
+      "name": "radio orbital",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/401?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.orbital.pt/icon.png",
+      "votes": 271
+    },
+    {
+      "name": "Rádio Palmeira Madeira (96.1 FM)",
+      "urls": [
+        "https://audio.serv.pt/8018/stream.mp3"
+      ],
+      "tags": [
+        "musica popular",
+        "musica portuguesa",
+        "pop"
+      ],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.celsoazevedo.com/files/random/2024/radio-palmeira.png",
+      "votes": 25
+    },
+    {
+      "name": "Rádio Pax",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/484?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Beja",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioonline.com.pt/regiao/alentejo/#pax",
+      "votes": 10
+    },
+    {
+      "name": "Rádio Perlépia",
+      "urls": [
+        "https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3"
+      ],
+      "tags": [
+        "children",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Rádio Popular de Source",
+      "urls": [
+        "https://nl.digitalrm.pt:8072/stream?1671016403075="
+      ],
+      "tags": [
+        "local news",
+        "local radio",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Radio Portugal Mais",
+      "urls": [
+        "https://sv15.hdradios.net:7432/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 105
+    },
+    {
+      "name": "Radio Portuguesa do Var",
+      "urls": [
+        "https://sonic.servsonic.com:7003/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "RADIO RCP-VAR",
+      "urls": [
+        "https://sonic.servsonic.com/8028/stream"
+      ],
+      "tags": [
+        "musica tradicional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Rádio RDS",
+      "urls": [
+        "https://s9.yesstreaming.net:7070/stream"
+      ],
+      "tags": [],
+      "city": "Seixal",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://scontent.flis5-4.fna.fbcdn.net/v/t39.30808-6/500655283_1250058963794271_2889443567232358165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=w4U8bIGVv8QQ7kNvwFQYb3f&_nc_oc=Adl1a0tjkODtR6LsxYNF4xmjU3R7pnfIY4H62LN4IULEhOBmH867pgTZecknGItgI7w&_nc_zt=23&_nc_ht=scontent.flis5-4.fna&_nc_gid=VljbMq8gQlSef4mDIf-KBg&_nc_ss=8&oh=00_AfxZw2tULhaZnOXBJD5gH-GRFgzQ7so9glsW0xIr7XUahg&oe=69BAF319BoPBYDAYDIafnv8BMyMWrREjVeQAAAAASUVORK5CYII=",
+      "votes": 4
+    },
+    {
+      "name": "Radio Record Porto",
+      "urls": [
+        "https://nl.digitalrm.pt:8028/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 25
+    },
+    {
+      "name": "Rádio Regional - Bragança",
+      "urls": [
+        "https://play.radioregional.pt/stream/5/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png",
+      "votes": 4
+    },
+    {
+      "name": "Rádio Regional - Chaves",
+      "urls": [
+        "https://play.radioregional.pt/stream/4/"
+      ],
+      "tags": [
+        "80's",
+        "classic hits",
+        "euro hits",
+        "hits",
+        "local news",
+        "music",
+        "news",
+        "oldies",
+        "pop music",
+        "sports",
+        "top 40",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png",
+      "votes": 2
+    },
+    {
+      "name": "Rádio Regional - Portugal",
+      "urls": [
+        "https://play.radioregional.pt/stream/1/"
+      ],
+      "tags": [
+        "80's",
+        "local news",
+        "news",
+        "sports"
+      ],
+      "city": "Portugal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png",
+      "votes": 8
+    },
+    {
+      "name": "Rádio Regional - Vila Real",
+      "urls": [
+        "https://play.radioregional.pt/stream/3/"
+      ],
+      "tags": [
+        "hits",
+        "local news",
+        "music",
+        "news",
+        "pop music",
+        "sports",
+        "top 100",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top hits",
+        "top40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png",
+      "votes": 3
+    },
+    {
+      "name": "Rádio Regional do Centro",
+      "urls": [
+        "https://nl.digitalrm.pt:8030/stream?1671017145140="
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 110
+    },
+    {
+      "name": "Radio Renascença",
+      "urls": [
+        "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac"
+      ],
+      "tags": [
+        "generalist",
+        "national news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png",
+      "votes": 105
+    },
+    {
+      "name": "Radio Rock Pirata",
+      "urls": [
+        "https://radio.softshell-octatonic.ts.net/stream"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.softshell-octatonic.ts.net/logo.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Rádio Sol Madeira (103.7 FM)",
+      "urls": [
+        "https://audio.serv.pt/8010/stream.mp3"
+      ],
+      "tags": [
+        "musica popular",
+        "musica portuguesa",
+        "pop",
+        "popular"
+      ],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.celsoazevedo.com/files/random/2024/radio-sol.png",
+      "votes": 28
+    },
+    {
+      "name": "Rádio Sudoeste",
+      "urls": [
+        "https://centova.radios.pt/proxy/495?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosudoeste.pt/favicon.ico",
+      "votes": 9
+    },
+    {
+      "name": "Rádio Tágide",
+      "urls": [
+        "https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3"
+      ],
+      "tags": [
+        "old time radio",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://radiotagide.pt/wp-content/uploads/2022/04/cropped-SIMBOLO_TAGIDE-32x32.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio TugaNet",
+      "urls": [
+        "https://ssl.stmxp.net:8006/;"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "brazilian music",
+        "classic hits",
+        "classic rock",
+        "pop",
+        "portuguese",
+        "rock"
+      ],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 166
+    },
+    {
+      "name": "Radio Valdevez",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/508?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Radio Vibe",
+      "urls": [
+        "https://radio-vibe-101-stream-render-4tnt.onrender.com/live"
+      ],
+      "tags": [],
+      "city": "Amadora",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-vibe-101-stream-render-4tnt.onrender.com/static/radio-vibe.png",
+      "votes": 3
+    },
+    {
+      "name": "Rádio Vida Terra Rica",
+      "urls": [
+        "https://stm1.voxhd.com.br:7706/"
+      ],
+      "tags": [
+        "christian-gospel"
+      ],
+      "city": "Parana",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/radiovidaterraricapr",
+      "votes": 2
+    },
+    {
+      "name": "Radio Viseu",
+      "urls": [
+        "https://s2.radio.co/sf5c3ab01d/listen"
+      ],
+      "tags": [],
+      "city": "Viseu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://s2.radio.co/sf5c3ab01d/listen",
+      "votes": 2
+    },
+    {
+      "name": "Rádio Vizela",
+      "urls": [
+        "https://proxy-audio.ptisp.com:8100/stream"
+      ],
+      "tags": [
+        "hits",
+        "local news"
+      ],
+      "city": "Braga",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 209
+    },
+    {
+      "name": "Rádio XL",
+      "urls": [
+        "https://radios.justweb.pt/8002/stream"
+      ],
+      "tags": [
+        "oldies",
+        "pop"
+      ],
+      "city": "Porto",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 165
+    },
+    {
+      "name": "Rádio Zarco Madeira (89.6 FM)",
+      "urls": [
+        "https://audio.serv.pt/8014/stream.mp3"
+      ],
+      "tags": [
+        "madeira",
+        "musica regional",
+        "pimba",
+        "popular"
+      ],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.celsoazevedo.com/files/random/2024/radio-zarco.png",
+      "votes": 30
+    },
+    {
+      "name": "Rádio Zig Zag",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8"
+      ],
+      "tags": [
+        "crianças",
+        "kids",
+        "portugal",
+        "portuguese",
+        "português",
+        "rdp",
+        "rtp"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 171,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/radio-zig-zag.png",
+      "votes": 53
+    },
+    {
+      "name": "radiofutura.pt",
+      "urls": [
+        "https://s4.radio.co/s7e7b6c165/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radiofutura.pt/uploads/1/3/3/3/133330486/ftr-logotipo-slogan-preto-em-branco.png",
+      "votes": 1
+    },
+    {
+      "name": "RDP Africa (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8"
+      ],
+      "tags": [
+        "africa",
+        "antena 1",
+        "portugal",
+        "portuguese",
+        "português",
+        "rdp",
+        "rdp africa",
+        "rtp"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 171,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/rdp-africa.jpg",
+      "votes": 7587
+    },
+    {
+      "name": "RDP Internacional - Main",
+      "urls": [
+        "https://radiocast.rtp.pt/rdpint80a.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275",
+      "votes": 56
+    },
+    {
+      "name": "RDP Internacional (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR"
+      ],
+      "tags": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 172,
+      "logo": "https://i.ibb.co/dKfSgKZ/95-594018101410.png",
+      "votes": 53
+    },
+    {
+      "name": "RDP Internacional (Portugal)",
+      "urls": [
+        "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
+      ],
+      "tags": [
+        "antena 1",
+        "live sports",
+        "noticias",
+        "portugal",
+        "talk & speech"
+      ],
+      "city": "Lisboa",
+      "codec": "AAC",
+      "bitrate": 176,
+      "logo": "https://www.celsoazevedo.com/files/2022/11/rdp-internacional.png",
+      "votes": 1246
+    },
+    {
+      "name": "RDS Romantica",
+      "urls": [
+        "https://s9.yesstreaming.net:9066/stream"
+      ],
+      "tags": [],
+      "city": "Seixal",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://player.yesstreaming.com/uploads/logos/1727175777_c4e6b4b27f8127d74391.jpg",
+      "votes": 8
+    },
+    {
+      "name": "Record 101,4 FM",
+      "urls": [
+        "https://nl.digitalrm.pt:8010/stream"
+      ],
+      "tags": [
+        "musica portuguesa"
+      ],
+      "city": "Leiria",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radios.com.br/aovivo/radio-record-1077-fm/8928",
+      "votes": 2
+    },
+    {
+      "name": "Record FM 105,5 santuário",
+      "urls": [
+        "https://nl.digitalrm.pt:8018/stream"
+      ],
+      "tags": [
+        "musica portuguesa"
+      ],
+      "city": "Portugal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.recordfm.pt/player_m_santarem.htm",
+      "votes": 3
+    },
+    {
+      "name": "Record FM 91,8 Algarve",
+      "urls": [
+        "https://nl.digitalrm.pt:8020/stream"
+      ],
+      "tags": [
+        "musica portuguesa"
+      ],
+      "city": "Portugal",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.recordfm.pt/player_m_algarve.htm",
+      "votes": 1
+    },
+    {
+      "name": "REPLAY NEWS - Português",
+      "urls": [
+        "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-PT.png",
+      "votes": 5
+    },
+    {
+      "name": "res fm",
+      "urls": [
+        "https://stream2.soundflux.eu:8440/stream"
+      ],
+      "tags": [],
+      "city": "Santarém",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://resfmradio.com/wp-content/uploads/2021/10/cropped-Logo_RES-FM_Verde_2.png",
+      "votes": 19
+    },
+    {
+      "name": "REWIND 2000's",
+      "urls": [
+        "https://2000.streeemer.com/listen/2000s/radio.aac"
+      ],
+      "tags": [],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/KpJGgFhkNZ.png",
+      "votes": 166
+    },
+    {
+      "name": "RFM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/touch-icon-iphone-retina.png",
+      "votes": 1283
+    },
+    {
+      "name": "RFM",
+      "urls": [
+        "https://22593.live.streamtheworld.com/RFMAAC.aac"
+      ],
+      "tags": [
+        "dance",
+        "generalist",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 23
+    },
+    {
+      "name": "RFM",
+      "urls": [
+        "https://23603.live.streamtheworld.com/RFMAAC.aac"
+      ],
+      "tags": [
+        "64kbps"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite-images.azureedge.net/icons/touch-icon-iphone-retina.png",
+      "votes": 11575
+    },
+    {
+      "name": "RFM DANCE IT",
+      "urls": [
+        "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 70
+    },
+    {
+      "name": "RFM JAZZY",
+      "urls": [
+        "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 38
+    },
+    {
+      "name": "RFM LATINAS",
+      "urls": [
+        "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac"
+      ],
+      "tags": [
+        "latin music",
+        "latin pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 38
+    },
+    {
+      "name": "RFM NOVAS",
+      "urls": [
+        "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 14
+    },
+    {
+      "name": "RFM Oceano Pacifico",
+      "urls": [
+        "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
+      ],
+      "tags": [
+        "pop",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 410
+    },
+    {
+      "name": "RFM Rocks",
+      "urls": [
+        "https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac"
+      ],
+      "tags": [
+        "portuguese",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 5
+    },
+    {
+      "name": "RFM TOCA PORTUGAL",
+      "urls": [
+        "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac"
+      ],
+      "tags": [
+        "portuguese music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://rfmsite2023-images.azureedge.net/icons/favicon.ico",
+      "votes": 119
+    },
+    {
+      "name": "RIO - Rádio Internacional Odemira",
+      "urls": [
+        "https://hts02.brascast.com:10476/live"
+      ],
+      "tags": [],
+      "city": "Alentejo",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "RTP - Radio ZigZag",
+      "urls": [
+        "https://radiocast.rtp.pt/zigzag80a.mp3"
+      ],
+      "tags": [],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png",
+      "votes": 48
+    },
+    {
+      "name": "RTP Antena 3 Madeira",
+      "urls": [
+        "https://radiocast.rtp.pt/antena3madeira80a.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "alternative pop",
+        "contemporary",
+        "madeira",
+        "newcomer",
+        "pop",
+        "portugal",
+        "youth programming"
+      ],
+      "city": "Madeira",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "RUA FM",
+      "urls": [
+        "https://centova.radio.com.pt/proxy/037?mp=/stream"
+      ],
+      "tags": [
+        "electric",
+        "groove",
+        "pop",
+        "rock"
+      ],
+      "city": "Faro",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://rua.pt/wp-content/uploads/2021/10/cropped-favicon-270x270.png",
+      "votes": 30
+    },
+    {
+      "name": "Smooth FM (AAC)",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/smooth.aac"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "Lisbon",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 476
+    },
+    {
+      "name": "Smooth Jazz Portugal",
+      "urls": [
+        "https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://bauermedia.pt/favicon.ico",
+      "votes": 806
+    },
+    {
+      "name": "SmoothFM Soul",
+      "urls": [
+        "https://stream-icy.bauermedia.pt/smoothsoul.aac"
+      ],
+      "tags": [
+        "smooth soul"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://smoothfm.pt/favicon.ico",
+      "votes": 253
+    },
+    {
+      "name": "SuperFM",
+      "urls": [
+        "https://play.radioregional.pt:8210/stream/2/;/stream.mp3"
+      ],
+      "tags": [
+        "metal",
+        "portugal",
+        "portuguese",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",
+      "votes": 61
+    },
+    {
+      "name": "Total FM",
+      "urls": [
+        "https://eu57-sonic.instainternet.com:8068/stream"
+      ],
+      "tags": [
+        "algarve",
+        "local radio",
+        "pop",
+        "portugal",
+        "top 40 hits"
+      ],
+      "city": "Almancil",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://totalfm.pt/wp-content/uploads/fbrfg/favicon.ico",
+      "votes": 1
+    },
+    {
+      "name": "TSF Rádio Notícias",
+      "urls": [
+        "https://directo.tsf.pt/tsfdirecto.mp3"
+      ],
+      "tags": [
+        "desporto",
+        "futebol",
+        "notícias",
+        "portugal",
+        "talk"
+      ],
+      "city": "Lisboa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.celsoazevedo.com/files/2024/tsf.png",
+      "votes": 1148
+    },
+    {
+      "name": "Voz do Neiva",
+      "urls": [
+        "https://sp0.redeaudio.com/8092/stream"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiovozdoneiva.net/voz-neiva.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Wave Vibes",
+      "urls": [
+        "https://a6.asurahosting.com/listen/wave_vibes/radio.mp3"
+      ],
+      "tags": [
+        "downtempo",
+        "electronica"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Wonder 80's",
+      "urls": [
+        "https://80.streeemer.com/listen/80s/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Lisbon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/2C5DZ9pVXS.jpg",
+      "votes": 439
+    }
+  ]
+}

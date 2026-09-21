@@ -1,0 +1,52 @@
+{
+  "code": "MH",
+  "name": "The Marshall Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 49
+    },
+    {
+      "name": "Offshore Radio",
+      "urls": [
+        "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "hard rock",
+        "rock",
+        "soft rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://live.offshoreradio.net/static/uploads/offshore_radio/album_art.1773012574.png",
+      "votes": 38
+    },
+    {
+      "name": "Offworld Radio",
+      "urls": [
+        "https://a4.asurahosting.com:7310/radio.mp3"
+      ],
+      "tags": [
+        "house",
+        "techno"
+      ],
+      "city": "Cork",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://a4.asurahosting.com/static/uploads/clubfoot/album_art.1770961147.jpg",
+      "votes": 5
+    }
+  ]
+}

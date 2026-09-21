@@ -1,0 +1,614 @@
+{
+  "code": "LT",
+  "name": "Lithuania",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "-=PoWeR=-",
+      "urls": [
+        "https://cast1.my-control-panel.com/proxy/eventas/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 70
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 17
+    },
+    {
+      "name": "Easy FM",
+      "urls": [
+        "https://netradio.ziniur.lt/easyfm.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "jazz",
+        "lounge",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 3398
+    },
+    {
+      "name": "estakada99",
+      "urls": [
+        "https://live.e99.live/main"
+      ],
+      "tags": [
+        "24/7",
+        "alternative",
+        "community radio",
+        "experimental",
+        "non-profit",
+        "weird"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "European Hit Radio",
+      "urls": [
+        "https://stream.ehr.lt:8443/ehr"
+      ],
+      "tags": [],
+      "city": "Vilniaus m.",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 58
+    },
+    {
+      "name": "Fred Film Radio-24 lietuvių kalba",
+      "urls": [
+        "https://s10.webradio-hosting.com/proxy/fredradiolt/stream"
+      ],
+      "tags": [
+        "film"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Fréquence Protestante",
+      "urls": [
+        "https://freqpro.streamakaci.com/frequenceprotestante.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://frequenceprotestante.com/wp-content/uploads/2022/01/icon_player.png",
+      "votes": 18
+    },
+    {
+      "name": "Geras2 FM",
+      "urls": [
+        "https://stream.goldfm.lt/gerasfm.mp3"
+      ],
+      "tags": [],
+      "city": "Vilnius ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Gold FM",
+      "urls": [
+        "https://stream.goldfm.lt/goldfm.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Leproradio",
+      "urls": [
+        "https://live.leproradio.com/bender.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": "https://leproradio.com/static/img/icon90.png",
+      "votes": 16
+    },
+    {
+      "name": "LRT Klasika",
+      "urls": [
+        "https://stream-live.lrt.lt/klasika/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 3667,
+      "logo": "https://www.lrt.lt/favicon.ico",
+      "votes": 43
+    },
+    {
+      "name": "LRT Opus",
+      "urls": [
+        "https://stream-live.lrt.lt/opus/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 3667,
+      "logo": "https://www.lrt.lt/favicon.ico",
+      "votes": 67
+    },
+    {
+      "name": "LRT Radijas",
+      "urls": [
+        "https://stream-live.lrt.lt/radijas/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 3667,
+      "logo": "https://www.lrt.lt/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "lsg radijas",
+      "urls": [
+        "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9"
+      ],
+      "tags": [
+        "random"
+      ],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+      "votes": 23
+    },
+    {
+      "name": "M-1 Dance",
+      "urls": [
+        "https://radio.m-1.fm/m-1dance/aac"
+      ],
+      "tags": [],
+      "city": "Vilniaus m.",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2118
+    },
+    {
+      "name": "M-1 Plius",
+      "urls": [
+        "https://radio.m-1.fm/m1plius/aacp64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 154
+    },
+    {
+      "name": "Mantinho Dance Pulse FM",
+      "urls": [
+        "https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://mantinhodancepulsefm.com/wp-content/uploads/2020/06/download.png",
+      "votes": 10
+    },
+    {
+      "name": "Marso Radijas",
+      "urls": [
+        "https://radijas.marsas.me/live"
+      ],
+      "tags": [
+        "variuos topics"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Palanga Street Radio",
+      "urls": [
+        "https://stream.palanga.live:8443/palanga128.mp3"
+      ],
+      "tags": [
+        "eclectic"
+      ],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://palanga.live/assets/favicons/apple-icon-120x120.png",
+      "votes": 574
+    },
+    {
+      "name": "Play Radio",
+      "urls": [
+        "https://n08.radiojar.com/d9cm273ystzuv"
+      ],
+      "tags": [],
+      "city": "Vilniaus m.",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 343
+    },
+    {
+      "name": "Power Gold",
+      "urls": [
+        "https://stream.powerhitradio.lt/PHR_GOLD_AAC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/8/117328.v2.png",
+      "votes": 24
+    },
+    {
+      "name": "Power Hit Radio LT",
+      "urls": [
+        "https://ice.leviracloud.eu/phr192-mp3"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 211
+    },
+    {
+      "name": "Power Hit Radio LT",
+      "urls": [
+        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
+      ],
+      "tags": [],
+      "city": "Vilnius ",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 149
+    },
+    {
+      "name": "PowerHitRadio Lithuania",
+      "urls": [
+        "https://stream.rcs.revma.com/f31w7e0fveuvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Pulsas",
+      "urls": [
+        "https://pulsas.lt/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png",
+      "votes": 255
+    },
+    {
+      "name": "Radijo Musikii",
+      "urls": [
+        "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radijo-musikii.net/favicon.png",
+      "votes": 24
+    },
+    {
+      "name": "Radijo stotis Lietus",
+      "urls": [
+        "https://radio.m-1.fm/LIETUS"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",
+      "votes": 699
+    },
+    {
+      "name": "Radio 3",
+      "urls": [
+        "https://n23-eu.rcs.revma.com/8cwskd80zxcwv?rj-ttl=5&rj-tok=AAABoLM9aPsAjNpxlJ9phX3bxg"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "classic rock",
+        "dance",
+        "pop"
+      ],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Fiesta",
+      "urls": [
+        "https://stream2.radiofiesta.lt/rfs128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "Radio R",
+      "urls": [
+        "https://stream1.relaxfm.lt/rrb128.mp3"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio stotis Laluna",
+      "urls": [
+        "https://radio.m-1.fm/laluna/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://www.laluna.lt/favicon.ico",
+      "votes": 253
+    },
+    {
+      "name": "radio.audiomastering.lt",
+      "urls": [
+        "https://transliacija.audiomastering.lt/pure"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": "https://radio.audiomastering.lt/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "Radiocentras",
+      "urls": [
+        "https://stream2.rockfm.lt/crf128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rczipbucket.s3.eu-north-1.amazonaws.com/rc/1665234650.jpg",
+      "votes": 243
+    },
+    {
+      "name": "Radiocentras",
+      "urls": [
+        "https://stream2.rc.lt/rc128.mp3"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2057
+    },
+    {
+      "name": "Relax FM 100 Hitu",
+      "urls": [
+        "https://klausyk.radijas.lt/listen/100hitu/live"
+      ],
+      "tags": [],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "RELAX FM Lietuva",
+      "urls": [
+        "https://stream1.relaxfm.lt/relaxfm128.mp3"
+      ],
+      "tags": [
+        "lithuania",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png",
+      "votes": 4337
+    },
+    {
+      "name": "Relax FM Senti",
+      "urls": [
+        "https://klausyk.radijas.lt/listen/sentimentai/live"
+      ],
+      "tags": [],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Tavo Balsas LT",
+      "urls": [
+        "https://c18.radioboss.fm:8529/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "TOP FM",
+      "urls": [
+        "https://radio.topfm.lt/listen/topfm/topfm-320"
+      ],
+      "tags": [],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Utenos Radijas",
+      "urls": [
+        "https://gyvai.ursrv.eu/stream"
+      ],
+      "tags": [],
+      "city": "Utena ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "Vilnius fm",
+      "urls": [
+        "https://stream.vilniusfm.lt/stream"
+      ],
+      "tags": [],
+      "city": "Vilnius",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://vilniusfm.lt/favicon.ico",
+      "votes": 312
+    },
+    {
+      "name": "ZIP FM",
+      "urls": [
+        "https://stream1.zipfm.lt/zipfm128.mp3"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
+      "votes": 672
+    },
+    {
+      "name": "Zip FM is Kasetes",
+      "urls": [
+        "https://klausyk.radijas.lt/listen/is-kasetes/live"
+      ],
+      "tags": [],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "ZipFM",
+      "urls": [
+        "https://stream2.zipfm.lt/zipfm128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
+      "votes": 2903
+    },
+    {
+      "name": "Радио RDTK",
+      "urls": [
+        "https://rdtk.out.airtime.pro/rdtk_a"
+      ],
+      "tags": [
+        "society",
+        "talk"
+      ],
+      "city": "Vilnius",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Радио Свободынх Народов",
+      "urls": [
+        "https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Радио Сигнал",
+      "urls": [
+        "https://media-edge2.hostin.live/radio-singnal.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 20
+    }
+  ]
+}

@@ -1,0 +1,1378 @@
+{
+  "code": "DK",
+  "name": "Denmark",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "2town Radio",
+      "urls": [
+        "https://streaming.radio.co/sd9d980ff0/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "80's Hits",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://radiostationer.dk",
+      "votes": 91
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Alfa Gold",
+      "urls": [
+        "https://radioserver.dk/alfaevent"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://alfa.side-walk.dk/logos/kbuDQjAaWNzpjRIfEl9MXPUWj7CHYH9BJcZAIEo9.png",
+      "votes": 56
+    },
+    {
+      "name": "Always ELVIS Radio",
+      "urls": [
+        "https://radioserver.dk/alwayselvisradio"
+      ],
+      "tags": [
+        "1950s",
+        "elvis presley",
+        "oldies",
+        "oldies 50's/60's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 156
+    },
+    {
+      "name": "Boybands Forever",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 95,
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/130269.v1.png",
+      "votes": 8
+    },
+    {
+      "name": "Charlie Classical",
+      "urls": [
+        "https://ec6.yesstreaming.net:4365/stream"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://charlie.nu/",
+      "votes": 1
+    },
+    {
+      "name": "Charlie Tourist (Sydvest)",
+      "urls": [
+        "https://ec6.yesstreaming.net:4385/stream"
+      ],
+      "tags": [
+        "sprechen",
+        "tale",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://charlie.nu/",
+      "votes": 1
+    },
+    {
+      "name": "Classic FM (Fyn)",
+      "urls": [
+        "https://netradio.classicfm.dk/cla12a"
+      ],
+      "tags": [],
+      "city": "Fyn",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+      "votes": 34
+    },
+    {
+      "name": "Classic Rock Danmark",
+      "urls": [
+        "https://netradio.classicfm.dk/classicrock"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "progressive rock",
+        "punk rock",
+        "retro",
+        "rock fra dit liv!"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 276
+    },
+    {
+      "name": "Danmarks Radio p2",
+      "urls": [
+        "https://live-icy.dr.dk/A/A04L.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
+      "votes": 9
+    },
+    {
+      "name": "Danmarks Radio P2",
+      "urls": [
+        "https://live-icy.dr.dk/A/A27L.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 23
+    },
+    {
+      "name": "Danmarks Radio P6",
+      "urls": [
+        "https://live-icy.dr.dk/A/A29H.mp3"
+      ],
+      "tags": [
+        "danish",
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 141
+    },
+    {
+      "name": "Dansktop Kanalen",
+      "urls": [
+        "https://netradio.classicfm.dk/dansktop"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "DLF aktuelle Presseschau",
+      "urls": [
+        "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3"
+      ],
+      "tags": [
+        "internationale presseschau",
+        "lokale presseschau",
+        "nachrichten"
+      ],
+      "city": "Deutschland und NRW",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.deutschlandfunk.de/presseschauen-100.html",
+      "votes": 36
+    },
+    {
+      "name": "DR P1 (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p1.29c35f9c.svg",
+      "votes": 140
+    },
+    {
+      "name": "DR P2 (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
+      "votes": 101
+    },
+    {
+      "name": "DR P3 (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p3.28743ad0.svg",
+      "votes": 351
+    },
+    {
+      "name": "DR P4  Midt & Vest",
+      "urls": [
+        "https://live-icy.dr.dk/A/A09L.mp3"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "DR P4 Bornholm",
+      "urls": [
+        "https://live-icy.dr.dk/A/A30H.mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 7
+    },
+    {
+      "name": "DR P4 Bornholm (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 11
+    },
+    {
+      "name": "DR P4 Esbjerg (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 10
+    },
+    {
+      "name": "DR P4 Fyn (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 36
+    },
+    {
+      "name": "DR P4 København (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 201
+    },
+    {
+      "name": "DR P4 Midt-Vest (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 36
+    },
+    {
+      "name": "DR P4 Nordjylland",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 19
+    },
+    {
+      "name": "DR P4 Østjylland (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 214
+    },
+    {
+      "name": "DR P4 Sjælland (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 87
+    },
+    {
+      "name": "DR P4 Syd (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 43
+    },
+    {
+      "name": "DR P4 Trekanten (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
+      "votes": 42
+    },
+    {
+      "name": "DR P5 Bornholm (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 7
+    },
+    {
+      "name": "DR P5 Esbjerg",
+      "urls": [
+        "https://live-icy.dr.dk/A/A26H.mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+      "votes": 17
+    },
+    {
+      "name": "DR P5 Esbjerg (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 11
+    },
+    {
+      "name": "DR P5 Fyn",
+      "urls": [
+        "https://live-icy.dr.dk/A/A02H.mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 10
+    },
+    {
+      "name": "DR P5 Fyn (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 24
+    },
+    {
+      "name": "DR P5 København (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 165
+    },
+    {
+      "name": "DR P5 Midt-Vest (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 19
+    },
+    {
+      "name": "DR P5 Midt/Vest",
+      "urls": [
+        "https://live-icy.dr.dk/A/A17H.mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 16
+    },
+    {
+      "name": "DR P5 Nordjylland (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 24
+    },
+    {
+      "name": "DR P5 Østjylland",
+      "urls": [
+        "https://live-icy.dr.dk/A/A24H.mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+      "votes": 17
+    },
+    {
+      "name": "DR P5 Østjylland (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 19
+    },
+    {
+      "name": "DR P5 Sjælland (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 38
+    },
+    {
+      "name": "DR P5 Syd",
+      "urls": [
+        "https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "DR P5 Syd (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 11
+    },
+    {
+      "name": "DR P5 Trekanten (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8"
+      ],
+      "tags": [
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg",
+      "votes": 16
+    },
+    {
+      "name": "DR P6 BEAT (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8"
+      ],
+      "tags": [
+        "beat"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p6beat.4efb4634.svg",
+      "votes": 116
+    },
+    {
+      "name": "DR P8 JAZZ (AAC)",
+      "urls": [
+        "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 324,
+      "logo": "https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg",
+      "votes": 406
+    },
+    {
+      "name": "Esbjerg Classic FM",
+      "urls": [
+        "https://webradio.classicfm.dk/classicvejle"
+      ],
+      "tags": [],
+      "city": "Esbjerg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png",
+      "votes": 19
+    },
+    {
+      "name": "Globus Guld Country",
+      "urls": [
+        "https://stream.probroadcast.dk/guldcountrymp3"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://globusguld.dk/favicon.ico",
+      "votes": 10
+    },
+    {
+      "name": "Globus Guld Jul",
+      "urls": [
+        "https://stream.probroadcast.dk/guldjul"
+      ],
+      "tags": [
+        "christmas",
+        "holiday"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "GLR - Gentofte Lokal Radio",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
+      ],
+      "tags": [],
+      "city": "Gentofte",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fmscan.org/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "go!FM",
+      "urls": [
+        "https://radioserver.dk/gofm"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.gofm.dk/wp-content/uploads/2017/08/cropped-gofm-logo-512-32x32.png",
+      "votes": 70
+    },
+    {
+      "name": "Historyradio.org low bandwidth",
+      "urls": [
+        "https://cast1.asurahosting.com/proxy/historyr/stream.mp3"
+      ],
+      "tags": [
+        "culture",
+        "educational",
+        "history",
+        "literature",
+        "old time radio",
+        "talk",
+        "talk & speech"
+      ],
+      "city": "North Jutland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s361016/images/logod.jpg?t=639246983870000000",
+      "votes": 2
+    },
+    {
+      "name": "Kalaallit Nunaata Radioa",
+      "urls": [
+        "https://knr.gl/radiolivestream"
+      ],
+      "tags": [
+        "greenlandic broadcasting corporation",
+        "information",
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWvtFr-XA9EV4Ca7g0LgobSq355ZOHKyWVo8i0WkQ8Q&s",
+      "votes": 1
+    },
+    {
+      "name": "København Jazz Radio",
+      "urls": [
+        "https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 48
+    },
+    {
+      "name": "Limfjord Mix",
+      "urls": [
+        "https://media.limfjordnetradio.dk/limfjord128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Limfjord Slager",
+      "urls": [
+        "https://media.limfjordnetradio.dk/plusslageraac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "http://limfjordslager.dk/____impro/1/onewebmedia/Limfjord-Slager_horisontal%20ny.png?etag=W%2F%221a02b-5a3eace3%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=300%2B77&extract=0%2B0%2B300%2B77",
+      "votes": 25
+    },
+    {
+      "name": "M-Jazz Radio",
+      "urls": [
+        "https://fra-pioneer01.dedicateware.com:1465/stream"
+      ],
+      "tags": [],
+      "city": "Aarhus, Jutland",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.mjazzradio.com/wp-content/uploads/2026/04/MJazzRadio-Cropped.png",
+      "votes": 6
+    },
+    {
+      "name": "Mix FM Gribskov, Retro Nord",
+      "urls": [
+        "https://netradio.mixfm.dk/stream"
+      ],
+      "tags": [],
+      "city": "Helsinge",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "myROCK",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png",
+      "votes": 259
+    },
+    {
+      "name": "NOVA - Horsens 103.6 FM",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/nova_dk_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222",
+      "votes": 13
+    },
+    {
+      "name": "Nova 100 Dansk",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010",
+      "votes": 37
+    },
+    {
+      "name": "Partyradio.pro",
+      "urls": [
+        "https://stream.partyradio.pro/listen/partyradio/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/039/partyradiopro.5b79037f.png",
+      "votes": 1
+    },
+    {
+      "name": "Plantland Radio",
+      "urls": [
+        "https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "bio-sonification",
+        "experimental",
+        "plantmusic",
+        "ralaxing"
+      ],
+      "city": "Copenhagen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.plantlandradio.com/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "POP FM 80er",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com//popfm80.mp3"
+      ],
+      "tags": [
+        "1980s",
+        "80's",
+        "80er",
+        "80s"
+      ],
+      "city": "Copenhagen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/hmpru8q4znst.jpg",
+      "votes": 53
+    },
+    {
+      "name": "r8Dio",
+      "urls": [
+        "https://s3.radio.co/s7cd1ffe2f/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://r8dio.dk/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "Radio 100",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/178.svg",
+      "votes": 80
+    },
+    {
+      "name": "Radio 7 Ravensburg",
+      "urls": [
+        "https://streams.radio7.de/rv/mp3-192/web/"
+      ],
+      "tags": [
+        "alles"
+      ],
+      "city": "Baden-Wuerttemberg",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio ABC",
+      "urls": [
+        "https://radioserver.dk/abc"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radio.side-walk.dk/logos/KXRtPsQK5qjFmR5jvUpGRjSlQVsz7m2icSZsSfUs.png",
+      "votes": 230
+    },
+    {
+      "name": "Radio Alfa",
+      "urls": [
+        "https://radioserver.dk/alfa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Alfa Aarhus",
+      "urls": [
+        "https://radioserver.dk/alfaaarhus"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+      "votes": 28
+    },
+    {
+      "name": "Radio Alfa Midtjylland",
+      "urls": [
+        "https://radioserver.dk/alfamidt"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://alfa.side-walk.dk/logos/xEEssAXlAQ8G3lsJEBO21sOH2bkrz0SoiG1ZroEs.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Alfa Silkeborg",
+      "urls": [
+        "https://radioserver.dk/alfasilk"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Alfa Skive",
+      "urls": [
+        "https://radioserver.dk/alfaskive"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio Alfa Viborg",
+      "urls": [
+        "https://radioserver.dk/alfaviborg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Radio Diablo (AAC)",
+      "urls": [
+        "https://radio1.jfmtech.dk/diablo.aac"
+      ],
+      "tags": [
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiodiablo.dk/wp-content/uploads/2024/05/Diablo-Logo-BLACK-768x241.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Fasanen Frederiksberg",
+      "urls": [
+        "https://c14.radioboss.fm:18228/stream"
+      ],
+      "tags": [],
+      "city": "Frederiksberg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiokultur.dk/favicon.ico",
+      "votes": 20
+    },
+    {
+      "name": "Radio FLR",
+      "urls": [
+        "https://faxe.jtw.dk/stream"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "Faxe",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://radioflr.dk/wp-content/uploads/2025/12/RadioFLR_Logo.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Globus",
+      "urls": [
+        "https://stream.probroadcast.dk/radioglobus"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Radio Helsingør FM",
+      "urls": [
+        "https://stream.radiohelsingor.dk/rh"
+      ],
+      "tags": [],
+      "city": "Helsingør",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://fmscan.org/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "Radio HSR",
+      "urls": [
+        "https://a6.asurahosting.com:7680/radio.mp3"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Humleborg",
+      "urls": [
+        "https://stream2.rcast.net/64145"
+      ],
+      "tags": [
+        "big band",
+        "crooners",
+        "jazz",
+        "pop",
+        "rock",
+        "swing",
+        "talk",
+        "vocal jazz"
+      ],
+      "city": "Fredensborg",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://humleborg.dk/templates/yootheme/vendor/yootheme/theme-joomla/assets/images/favicon.png",
+      "votes": 28
+    },
+    {
+      "name": "Radio IIII",
+      "urls": [
+        "https://netradio.radio4.dk/radio4"
+      ],
+      "tags": [
+        "news",
+        "political talk",
+        "talk & speech",
+        "talk radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Radio M",
+      "urls": [
+        "https://radioserver.dk/radiom"
+      ],
+      "tags": [],
+      "city": "Herning",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "Radio Øst FM",
+      "urls": [
+        "https://stream.probroadcast.dk/oestfmmp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://oestfm.dk/wp-content/themes/oestfm/images/logo.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Panini",
+      "urls": [
+        "https://radi-panini.radiocult.fm/stream"
+      ],
+      "tags": [
+        "club",
+        "community radio",
+        "music",
+        "variety"
+      ],
+      "city": "Copenhagen",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiopanini.com/favicon.ico",
+      "votes": 15
+    },
+    {
+      "name": "Radio Playback",
+      "urls": [
+        "https://stream02.radioplayback.dk/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioplayback.dk/wp-content/uploads/2020/02/RPB-logo-e1581174186741.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
+      "urls": [
+        "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Radio Solo",
+      "urls": [
+        "https://radioserver.dk/solo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radiosolo.dk/wp-content/uploads/2021/06/radiosolo.svg",
+      "votes": 54
+    },
+    {
+      "name": "Radio Sydhavsoerne Lolland",
+      "urls": [
+        "https://radio1.jfmtech.dk/sydhavlolland"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://netradio.dk/img/rs.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Viborg",
+      "urls": [
+        "https://webradio.radioviborg.dk/viborg"
+      ],
+      "tags": [
+        "local news",
+        "pop music"
+      ],
+      "city": "Viborg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radioviborg.dk/wp-content/uploads/2017/09/cropped-favicon-180x180.png",
+      "votes": 83
+    },
+    {
+      "name": "Radio Viva",
+      "urls": [
+        "https://stream.probroadcast.dk/radioviva"
+      ],
+      "tags": [
+        "90's",
+        "pop music"
+      ],
+      "city": "Trekanten",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Radio VLR",
+      "urls": [
+        "https://netradio.vlr.dk/vlr8d"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png",
+      "votes": 46
+    },
+    {
+      "name": "Radio VLR - Classic Christmas",
+      "urls": [
+        "https://netradio.vlr.dk/popup2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png",
+      "votes": 26
+    },
+    {
+      "name": "Retro Millennium",
+      "urls": [
+        "https://tx-2.retro-radio.dk/TX-2"
+      ],
+      "tags": [],
+      "city": "Nivå",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "SkagaFM",
+      "urls": [
+        "https://stream.probroadcast.dk/skagafm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://skagafm.dk/skagafm/wp-content/uploads/2024/08/cropped-Skaermbillede-2024-08-29-kl.-14.20.49-180x180.png",
+      "votes": 11
+    },
+    {
+      "name": "Skala FM",
+      "urls": [
+        "https://netradio.skala.fm/ska8d"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://skala.fm/wp-content/uploads/sites/2/2024/08/cropped-favicon_skala-180x180.png",
+      "votes": 37
+    },
+    {
+      "name": "Tango Copenhagen",
+      "urls": [
+        "https://tangocopenhagen.stream.laut.fm/tangocopenhagen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tangocopenhagen.radio/wp-content/uploads/2019/03/logo-square-large-2-comp.png",
+      "votes": 40
+    },
+    {
+      "name": "Tango Copenhagen Radio",
+      "urls": [
+        "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 824
+    },
+    {
+      "name": "UMLANDO Radio",
+      "urls": [
+        "https://a2.asurahosting.com:6520/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "WMR - World Music Radio",
+      "urls": [
+        "https://stream.probroadcast.dk/wmr"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 177
+    },
+    {
+      "name": "X FM K",
+      "urls": [
+        "https://uniradio.out.airtime.pro/uniradio_a"
+      ],
+      "tags": [],
+      "city": "København",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    }
+  ]
+}

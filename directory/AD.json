@@ -1,0 +1,156 @@
+{
+  "code": "AD",
+  "name": "Andorra",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "LOVE FM: Clàssics pop en espanyol dels 80s a avui",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 98
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 1124
+    },
+    {
+      "name": "Flaix FM Andorra",
+      "urls": [
+        "https://streaming.giraweb.com/8020/stream"
+      ],
+      "tags": [
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flaixfm_logo.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "votes": 3
+    },
+    {
+      "name": "Flaixbac Andorra",
+      "urls": [
+        "https://streaming.giraweb.com/8010/stream"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://flaixandorra.com/continguts/multimedia/imatges/8p0oa06li8kckkwosw.png",
+      "votes": 2
+    },
+    {
+      "name": "Rádio Ondas de Portugal",
+      "urls": [
+        "https://ssl.ndvendas.eu:9538/stream.mp3/;"
+      ],
+      "tags": [
+        "fado",
+        "folclore",
+        "pimba",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKoZnDF2FXEnZEimEZpmzDFSFwk7Jsera-ZF5RFkQErA&s=10",
+      "votes": 1
+    },
+    {
+      "name": "Radio Polignano Web",
+      "urls": [
+        "https://sp3.server89.com:7018/"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240118_121338383.jpg?alt=media&token=a4b228ef-15c9-4e25-bc90-aca1bf9bb30c",
+      "votes": 86
+    },
+    {
+      "name": "RadioSoleLuna",
+      "urls": [
+        "https://cast3.server89.com/radio/8040/radio.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 132
+    },
+    {
+      "name": "toker fm",
+      "urls": [
+        "https://live.toker.fm:6060/;"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 10
+    }
+  ]
+}

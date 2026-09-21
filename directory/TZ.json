@@ -1,0 +1,138 @@
+{
+  "code": "TZ",
+  "name": "United Republic Of Tanzania",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 108
+    },
+    {
+      "name": "Capital Radio",
+      "urls": [
+        "https://capitalradio.radioca.st/stream"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1218
+    },
+    {
+      "name": "Crown FM",
+      "urls": [
+        "https://radio.crownmedia.co.tz:8443/crown"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://crownmedia.co.tz/wp-content/uploads/2024/04/CROWN-FM.jpg",
+      "votes": 75
+    },
+    {
+      "name": "East Africa Radio FM",
+      "urls": [
+        "https://eatv.radioca.st/stream"
+      ],
+      "tags": [
+        "african music",
+        "pop",
+        "soccer",
+        "sport",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 4795
+    },
+    {
+      "name": "ImbaNasi",
+      "urls": [
+        "https://stream.zeno.fm/dsfhivkawjiuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 201
+    },
+    {
+      "name": "Ishizwe FM",
+      "urls": [
+        "https://stream.zeno.fm/zhhawbqoikatv"
+      ],
+      "tags": [],
+      "city": "Ngara",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.zeno.fm/zhhawbqoikatv.m3u",
+      "votes": 123
+    },
+    {
+      "name": "Mungu Kwanza",
+      "urls": [
+        "https://mungukwanza.radioca.st/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 143
+    },
+    {
+      "name": "Nuru FM",
+      "urls": [
+        "https://radiotadio.co.tz/nuru-fm-stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 433
+    },
+    {
+      "name": "Radio Kwizera",
+      "urls": [
+        "https://uk4-vn.mixstream.net/:8052/;listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiokwizera.co.tz/wp-content/uploads/2026/02/cropped-RadioKwizeraLogo.png",
+      "votes": 31
+    },
+    {
+      "name": "Radio Uhai",
+      "urls": [
+        "https://s2.citrus3.com:8050/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.radiouhai.co.tz/favicon/apple-touch-icon.png",
+      "votes": 924
+    }
+  ]
+}

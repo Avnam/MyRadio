@@ -1,0 +1,5445 @@
+{
+  "code": "PL",
+  "name": "Poland",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Radio ZET Chilli",
+      "urls": [
+        "https://ch.cdn.eurozet.pl/chi-net.mp3"
+      ],
+      "tags": [],
+      "city": "Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1264
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 9
+    },
+    {
+      "name": "24Dubstep.pl || CalmFlow",
+      "urls": [
+        "https://stream.24dubstep.pl/listen/chillstep/mp3_normal"
+      ],
+      "tags": [
+        "ambient",
+        "chillout",
+        "chillstep",
+        "lo-fi",
+        "various"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://24dubstep.pl/wp-content/uploads/2020/10/xcropped-logo_po_kompresji.png.pagespeed.ic.YxsjiF_JYL.webp",
+      "votes": 41
+    },
+    {
+      "name": "24Dubstep.pl || DropZone Radio",
+      "urls": [
+        "https://stream.24dubstep.pl/listen/dubstep/mp3_low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "24Dubstep.pl || DropZone Radio",
+      "urls": [
+        "https://stream.24dubstep.pl/radio/8000/mp3_normal"
+      ],
+      "tags": [
+        "dnb",
+        "drill",
+        "dubstep",
+        "edm",
+        "hardstyle",
+        "riddim",
+        "trap",
+        "various"
+      ],
+      "city": "Pomorskie",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://24dubstep.pl/wp-content/uploads/2020/10/xcropped-logo_po_kompresji.png.pagespeed.ic.YxsjiF_JYL.webp",
+      "votes": 72
+    },
+    {
+      "name": "357",
+      "urls": [
+        "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1961
+    },
+    {
+      "name": "4 Fun TV",
+      "urls": [
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+      ],
+      "tags": [],
+      "city": "Masovia",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://4fun.tv/apple-touch-icon-120x120.png",
+      "votes": 264
+    },
+    {
+      "name": "4fun tv",
+      "urls": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ],
+      "tags": [
+        "tv"
+      ],
+      "city": "Warszawa",
+      "codec": "UNKNOWN",
+      "bitrate": 256,
+      "logo": "https://www.4fun.tv/apple-touch-icon-120x120.png",
+      "votes": 91
+    },
+    {
+      "name": "4Music",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7102/stream"
+      ],
+      "tags": [
+        "game",
+        "local information",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://4music4l.panelradiowy.pl/images/logos/67022-48.png",
+      "votes": 92
+    },
+    {
+      "name": "AH.FM: #1 for Electronic Dance Music",
+      "urls": [
+        "https://fr2.ah.fm/live"
+      ],
+      "tags": [],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Akademickie Radio LUZ",
+      "urls": [
+        "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioluz.pl/wp-content/themes/radio-luz/assets/icons/AppIcon_1024x1024.png?v=1",
+      "votes": 54
+    },
+    {
+      "name": "ALT!NEU",
+      "urls": [
+        "https://s1.slotex.pl:7430/"
+      ],
+      "tags": [],
+      "city": "Schlesien",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mittendrin.pl/themes/mittendrinrwd2/img/mitt-logo-top.svg",
+      "votes": 3
+    },
+    {
+      "name": "Anty Radio",
+      "urls": [
+        "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/programy/antyradio-ekstra/936460-5-pol-PL/Antyradio-Ekstra_size-70x70.png",
+      "votes": 1793
+    },
+    {
+      "name": "Antyradio",
+      "urls": [
+        "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5"
+      ],
+      "tags": [
+        "classic rock",
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
+      "votes": 158
+    },
+    {
+      "name": "Antyradio",
+      "urls": [
+        "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
+      ],
+      "tags": [],
+      "city": "mazowieckie",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
+      "votes": 6278
+    },
+    {
+      "name": "Antyradio Classic Rock",
+      "urls": [
+        "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 74
+    },
+    {
+      "name": "Antyradio Greatest",
+      "urls": [
+        "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 92
+    },
+    {
+      "name": "Antyradio Hard",
+      "urls": [
+        "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
+      ],
+      "tags": [
+        "hard rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-hard/710016-10-pol-PL/Antyradio-Hard_size-228x228.jpg",
+      "votes": 128
+    },
+    {
+      "name": "Antyradio Hard",
+      "urls": [
+        "https://an01.cdn.eurozet.pl/ANTHAR.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/kanaly-muzyczne/antyradio-hard/710016-10-pol-PL/Antyradio-Hard_size-228x228.jpg",
+      "votes": 54
+    },
+    {
+      "name": "Antyradio Made In Poland",
+      "urls": [
+        "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04"
+      ],
+      "tags": [
+        "polish rock",
+        "rock"
+      ],
+      "city": "Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
+      "votes": 419
+    },
+    {
+      "name": "Antyradio Unplugged",
+      "urls": [
+        "https://an05.cdn.eurozet.pl/ANTUNP.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.antyradio.pl/design/player_antyradio/images/favicon/apple-touch-icon.png",
+      "votes": 128
+    },
+    {
+      "name": "Antyradio Warszawa",
+      "urls": [
+        "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 216
+    },
+    {
+      "name": "AWANGARDA.FM",
+      "urls": [
+        "https://stream.zeno.fm/mf9ewmbuaq8uv"
+      ],
+      "tags": [
+        "kzmrz"
+      ],
+      "city": "Kazimierz Dolny",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 30
+    },
+    {
+      "name": "AwiroFM",
+      "urls": [
+        "https://s4.awiro.xyz/stream"
+      ],
+      "tags": [
+        "for game",
+        "radio",
+        "starachowice",
+        "truckersmp",
+        "wszystko"
+      ],
+      "city": "Świętokrzyskie",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://cdn.awiro.xyz/AwiroBrowser.png",
+      "votes": 3
+    },
+    {
+      "name": "Bayer FM",
+      "urls": [
+        "https://streaming.radio5.com.pl:8888/bayerfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bayerfm.eu/webplayer/logo3.png",
+      "votes": 15
+    },
+    {
+      "name": "BEZPIECZNA PODRÓŻ",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9162/stream"
+      ],
+      "tags": [
+        "info music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "bounce",
+      "urls": [
+        "https://streaming.bounce.radio/streamhd"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://d3npyywa6qnolf.cloudfront.net/prod/user/1044844/eyJ1cmwiOiJodHRwczpcL1wvcGF0cm9uaXRlLnBsXC91cGxvYWRcL3VzZXJcLzEwNDQ4NDRcL2ZpbGUtYnJvd3NlclwvaW1hZ2VzXC8xNzUwMjAzMTQzXzY4NTFmYjA3ZDZjZDQucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJwbmcifX0%3D/d%2BuxO4ADmC3iAXP1u1JSH85q8q66v0gVRTLbFRgJbio%3D",
+      "votes": 1
+    },
+    {
+      "name": "Chilli ZET",
+      "urls": [
+        "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
+      "votes": 252
+    },
+    {
+      "name": "Chilli ZET Biega",
+      "urls": [
+        "https://ch03.cdn.eurozet.pl/CHIRUN.mp3"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Chilli ZET Christmas",
+      "urls": [
+        "https://ch03.cdn.eurozet.pl/CHISWI.mp3"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Chilli ZET Ladies",
+      "urls": [
+        "https://ch03.cdn.eurozet.pl/CHILAD.mp3"
+      ],
+      "tags": [
+        "chillout+lounge"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Chilli ZET Salon polski",
+      "urls": [
+        "https://ch03.cdn.eurozet.pl/CHIPOL.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.chillizet.pl/design/player_chillizet/images/logo--white.svg",
+      "votes": 39
+    },
+    {
+      "name": "Chillizet Ladies -om",
+      "urls": [
+        "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01"
+      ],
+      "tags": [
+        "chill",
+        "hits",
+        "relax",
+        "singer-songwriter",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.chillizet.pl/var/player/storage/images/player-chillizet/kanaly-muzyczne/chillizet-ladies/710371-2-pol-PL/Chillizet-Ladies_social_share.jpg",
+      "votes": 135
+    },
+    {
+      "name": "CoSTa's Ambient Radio",
+      "urls": [
+        "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "electronic",
+        "psybient"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://pc.costa-server.info.pl:11020/static/uploads/costas_ambient_radio/album_art.1745752871.jpg",
+      "votes": 106
+    },
+    {
+      "name": "CYBERStacja",
+      "urls": [
+        "https://sc.cyberstacja.pl:8000/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic",
+        "house",
+        "techno",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cyberstacja.pl/images/historia/logo_sluchawki.png",
+      "votes": 10
+    },
+    {
+      "name": "DanisMania DJ Radio",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7512/stream"
+      ],
+      "tags": [
+        "edm"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 42
+    },
+    {
+      "name": "Disco Party - Lata 90.",
+      "urls": [
+        "https://s3.slotex.pl:7170/stream"
+      ],
+      "tags": [
+        "disco",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 201
+    },
+    {
+      "name": "DiscoParty.pl - Club",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7354/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/01/club-370x370.png",
+      "votes": 85
+    },
+    {
+      "name": "DiscoParty.pl - Disco Impreza",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7046/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/01/impreza-370x370.png",
+      "votes": 460
+    },
+    {
+      "name": "DiscoParty.pl - Disco Polo",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7432/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://discoparty.pl/wp-content/uploads/2020/06/logo.png",
+      "votes": 139
+    },
+    {
+      "name": "DISCOPARTY.PL - Kanał Club",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7354/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
+      "votes": 752
+    },
+    {
+      "name": "DISCOPARTY.PL - Kanał disco",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7432/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png",
+      "votes": 629
+    },
+    {
+      "name": "DiscoParty.pl - Lata 90s",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7170/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/08/lata90-370x370.png",
+      "votes": 93
+    },
+    {
+      "name": "Dubstep24h",
+      "urls": [
+        "https://stream.24dubstep.pl/listen/dubstep24h/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://dubstep24h.com/wp-content/uploads/2024/06/DUBSTEP24H.gif",
+      "votes": 31
+    },
+    {
+      "name": "DzikieRadio",
+      "urls": [
+        "https://ssl-1.radiohost.pl:11250/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Żywiecki",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dzikieradio.pl/favicon.png",
+      "votes": 9
+    },
+    {
+      "name": "Eska - Białystok",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2020-1.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "pop dance",
+        "pop music",
+        "pop rock"
+      ],
+      "city": "Bialystok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.eska.pl/favicon.ico",
+      "votes": 73
+    },
+    {
+      "name": "ESKA - Do Pracy",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6140-1.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "pop music",
+        "rock"
+      ],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1745
+    },
+    {
+      "name": "ESKA - Gorąca 20",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6130-1.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "pop music",
+        "rock"
+      ],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.eska.pl/favicon.ico",
+      "votes": 1396
+    },
+    {
+      "name": "ESKA - Impreska",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6030-1.mp3"
+      ],
+      "tags": [
+        "pop",
+        "pop dance",
+        "pop music",
+        "pop rock"
+      ],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ecsmedia.pl/c/impreska-volume-4-w-iext120267303.jpg",
+      "votes": 307
+    },
+    {
+      "name": "ESKA - Summer City",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6120-1.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "pop dance",
+        "pop music"
+      ],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1320
+    },
+    {
+      "name": "ESKA 2 Kielce",
+      "urls": [
+        "https://liveradio.timesa.pl/1050-1.aac/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Świętokrzyskie",
+      "codec": "AAC+",
+      "bitrate": 85,
+      "logo": "https://player2.eska.pl/media/desktop/site_header/images/logos/logo-eska2.svg",
+      "votes": 10
+    },
+    {
+      "name": "Eska 2 Stalowa Wola",
+      "urls": [
+        "https://waw.ic.smcdn.pl/1370-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Eska Lublin 128",
+      "urls": [
+        "https://ic2.smcdn.pl/2130-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://eska.pl/favicon.ico",
+      "votes": 160
+    },
+    {
+      "name": "ESKA Ostrzeszów",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2500-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.music.smcloud.net/t/logo/35340f80-5f3c-47bb-b1eb-280880bbbba6_ESKA_500x500.png",
+      "votes": 12
+    },
+    {
+      "name": "ESKA POZNAŃ",
+      "urls": [
+        "https://ic2.smcdn.pl/2140-1.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_150439740.jpg?alt=media&token=879bb2b7-8416-4957-b2dd-4bcdc67e6898",
+      "votes": 1203
+    },
+    {
+      "name": "ESKA ROCK",
+      "urls": [
+        "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
+      "votes": 8804
+    },
+    {
+      "name": "Eska Suwalki",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2540-1.aac"
+      ],
+      "tags": [],
+      "city": "Podlaskie",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Eska zamość 128",
+      "urls": [
+        "https://ic2.smcdn.pl/2230-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://eska.pl/favicon.ico",
+      "votes": 270
+    },
+    {
+      "name": "ExiTorrent",
+      "urls": [
+        "https://exitorrent.org:8005/mountpoint"
+      ],
+      "tags": [],
+      "city": "Mazowsze",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Fitness Music",
+      "urls": [
+        "https://s3.slotex.pl:7414/stream"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Folk Radio",
+      "urls": [
+        "https://streaming.g-news.pl:8030/fr1"
+      ],
+      "tags": [
+        "folk music",
+        "world music"
+      ],
+      "city": "Świętokrzyskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://folkradio.pl/images/logo.png",
+      "votes": 119
+    },
+    {
+      "name": "Głos Nadziei",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9548/index"
+      ],
+      "tags": [
+        "christian praise&worship",
+        "praise and worship",
+        "religia",
+        "religion",
+        "religious",
+        "worship"
+      ],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Happy Station",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7496/stream"
+      ],
+      "tags": [
+        "club",
+        "eurodance",
+        "oldies",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "House of Funk",
+      "urls": [
+        "https://houseoffunk.eu:8443/live"
+      ],
+      "tags": [
+        "deep house",
+        "electronic",
+        "funky house",
+        "house",
+        "minimal",
+        "tech house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 232
+    },
+    {
+      "name": "I Love Music",
+      "urls": [
+        "https://s3.slotex.pl:7150/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 147
+    },
+    {
+      "name": "Internetowe Radio Skoczow",
+      "urls": [
+        "https://azuracast.radio.skoczow.pl/listen/radior1/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Italo4you",
+      "urls": [
+        "https://ssl-1.radiohost.pl:8018/stream"
+      ],
+      "tags": [
+        "80s",
+        "italo dance",
+        "italo disco"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Ivan Honcharov",
+      "urls": [
+        "https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3"
+      ],
+      "tags": [
+        "instrumental",
+        "rock",
+        "surf rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://reverbriff.com/web-app-manifest-192x192.png",
+      "votes": 2
+    },
+    {
+      "name": "JEDYNKA.PL",
+      "urls": [
+        "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_183405096.jpg?alt=media&token=dadc43aa-8597-43e8-9003-2c6bd93842b1",
+      "votes": 305
+    },
+    {
+      "name": "Kapitał",
+      "urls": [
+        "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a"
+      ],
+      "tags": [
+        "ambient",
+        "comunity",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiokapital.pl/static/favicons/ms-icon-150x150.png",
+      "votes": 174
+    },
+    {
+      "name": "Katolickie Radio Zamość 101,2 FM",
+      "urls": [
+        "https://stream.rcs.revma.com/0n8y7mxcay8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "KChT",
+      "urls": [
+        "https://listen.radioking.com/radio/274180/stream/320404"
+      ],
+      "tags": [
+        "audycje pułkownika piotra wrońskiego",
+        "kcht czyli kuchenna charakterystyka terenu.",
+        "piotr wroński",
+        "radio dla ludzi rozsądnych",
+        "radio kcht",
+        "wieczorna audycja z komentarzem"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.kcht.eu/favicon.ico",
+      "votes": 101
+    },
+    {
+      "name": "Kiss FM Poland",
+      "urls": [
+        "https://streaming.g-news.pl:8090/kissfm"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 662
+    },
+    {
+      "name": "Lagoon FM",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7828/stream"
+      ],
+      "tags": [
+        "edm"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Latino polska",
+      "urls": [
+        "https://getradio.reconv.pl/openfm?s=summerpolo"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Leliwa",
+      "urls": [
+        "https://streaming.g-news.pl/radio/8050/leliwa"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 104
+    },
+    {
+      "name": "Lem FM",
+      "urls": [
+        "https://n0c.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABh7kj8tYAECMngkiX78DmuA"
+      ],
+      "tags": [
+        "lemko",
+        "polish",
+        "polski",
+        "rusiński",
+        "rusyn",
+        "łemko"
+      ],
+      "city": "Podkarpacie",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.lem.fm/wp-content/uploads/2018/05/cropped-logo-stina-1-180x180.png",
+      "votes": 23
+    },
+    {
+      "name": "Lem.fm",
+      "urls": [
+        "https://stream.radiojar.com/2fa0gbhr9bhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.lem.fm/wp-content/uploads/2018/05/cropped-logo-stina-1-180x180.png",
+      "votes": 31
+    },
+    {
+      "name": "Life 4 Club",
+      "urls": [
+        "https://life4club.online/listen/live/l4c.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://life4club.online/static/uploads/live/album_art.1734215277.jpg",
+      "votes": 19
+    },
+    {
+      "name": "MasteRMXMusic",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7008/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "pomorskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/Rh6KMWHq/Logo-radia-mastermxmusic.png",
+      "votes": 1
+    },
+    {
+      "name": "MasteRMXMusic",
+      "urls": [
+        "https://s3.slotex.pl:7008/stream/1/"
+      ],
+      "tags": [],
+      "city": "Pomorskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/Rh6KMWHq/Logo-radia-mastermxmusic.png",
+      "votes": 4
+    },
+    {
+      "name": "MaxPlay FM",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/8880/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://panelradiowy.pl/images/playfacebook.png",
+      "votes": 34
+    },
+    {
+      "name": "Mazurske Radijo",
+      "urls": [
+        "https://stream-172.zeno.fm/h6af85mhunhvv"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "warmińsko-mazurskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FosH77pgcbFOLv3p9n5qf4IX8PM5K2D7_ee2-uLCO5P4%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJeFpMSjl3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJLWZyNnZ3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MDI2MzU0NDYwMDA.webp&w=1920&q=100",
+      "votes": 22
+    },
+    {
+      "name": "Mega Radio",
+      "urls": [
+        "https://stream.rcs.revma.com/q18ty3qhwzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Melo Radio Śląsk (Katowice)",
+      "urls": [
+        "https://ml01.cdn.eurozet.pl/mel-ktw.mp3"
+      ],
+      "tags": [
+        "edm",
+        "pop"
+      ],
+      "city": "Slaskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 270
+    },
+    {
+      "name": "Meloradio FM",
+      "urls": [
+        "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "pop dance"
+      ],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1160
+    },
+    {
+      "name": "Meloradio Kielce",
+      "urls": [
+        "https://ml03.cdn.eurozet.pl/mel-klc.mp3"
+      ],
+      "tags": [
+        "contemporary hit radio",
+        "dance"
+      ],
+      "city": "Świętokrzyskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx.meloradio.pl/design/meloradio/images/favicons/apple-touch-icon.png",
+      "votes": 135
+    },
+    {
+      "name": "Meloradio Tarnobrzeg",
+      "urls": [
+        "https://ml.cdn.eurozet.pl/mel-trb.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Meloradio Wrocław",
+      "urls": [
+        "https://ml.cdn.eurozet.pl/mel-wro.mp3"
+      ],
+      "tags": [],
+      "city": "Lower Silesia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "mittendrin.pl",
+      "urls": [
+        "https://s1.slotex.pl:7592/;type=mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "MS RADIO 90's POLSKA",
+      "urls": [
+        "https://audio.msradio.pl/listen/msradio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Music Family",
+      "urls": [
+        "https://s3.slotex.pl:7216/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Muzyczna Oaza",
+      "urls": [
+        "https://s3.slotex.pl:7100/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "nadzieja.FM",
+      "urls": [
+        "https://s5.radio.co/s34fca8455/listen"
+      ],
+      "tags": [
+        "christian music",
+        "christian talk",
+        "instrumental",
+        "vocal"
+      ],
+      "city": "mazowieckie",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://nadzieja.fm/wp-content/uploads/2023/07/cropped-NADZIEJA-TV-icon-SKY-01-192x192.png",
+      "votes": 23
+    },
+    {
+      "name": "Nasz Hajmat",
+      "urls": [
+        "https://s3.slotex.pl:7126/stream"
+      ],
+      "tags": [
+        "folk",
+        "silesia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://naszhajmat.eu/images/favicon.ico",
+      "votes": 44
+    },
+    {
+      "name": "Nasze Nowe Radio",
+      "urls": [
+        "https://s3.slotex.pl:7388/stream"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://nnradio.pl/wp-content/uploads/2024/03/cropped-cropped-logo-radio-cc-192x192.png",
+      "votes": 16
+    },
+    {
+      "name": "Nasze RAdio",
+      "urls": [
+        "https://s1.slotex.pl:7146/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Nocne Radio",
+      "urls": [
+        "https://stream.nocneradio.pl/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nocneradio.pl/wp-content/uploads/2016/12/nocneradio_logo5.png",
+      "votes": 25
+    },
+    {
+      "name": "Open FM - Impreza",
+      "urls": [
+        "https://getradio.reconv.pl/openfm?s=impreza"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "openfm vixa",
+      "urls": [
+        "https://getradio.reconv.pl/openfm?s=vixa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Paranormalium [OPUS_8kbps]",
+      "urls": [
+        "https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 30
+    },
+    {
+      "name": "Park FM",
+      "urls": [
+        "https://sluchaj2.radiopark.biz.pl:8443/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "Pawarota",
+      "urls": [
+        "https://pawarota-radio-c82a7d2e.radiocult.fm/stream"
+      ],
+      "tags": [
+        "alternative",
+        "dub",
+        "industrial",
+        "punkrock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Plus Radio  Legnica.FM",
+      "urls": [
+        "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3"
+      ],
+      "tags": [],
+      "city": "Dolnyśląsk",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.legnica.fm/templates/kinduprwdlegnicafm/favicon.ico",
+      "votes": 295
+    },
+    {
+      "name": "Polish Radio Second - Classical",
+      "urls": [
+        "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 322,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Polmax Kolędy",
+      "urls": [
+        "https://stream.zeno.fm/vorzdeodup8uv"
+      ],
+      "tags": [
+        "christmas"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://polmaxfm.github.io/images/logo-zima.png",
+      "votes": 165
+    },
+    {
+      "name": "PolNexus Radio",
+      "urls": [
+        "https://polnexus.pl/listen.mp3"
+      ],
+      "tags": [
+        "news",
+        "polish",
+        "polonia",
+        "polskie radio",
+        "pop",
+        "radio online",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.polnexus.pl/branding/polnexus-logo-full.png",
+      "votes": 0
+    },
+    {
+      "name": "Polski FM",
+      "urls": [
+        "https://usa8.fastcast4u.com/proxy/live?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://polski.fm/wp-content/uploads/2018/06/polski-fm-logo.png",
+      "votes": 61
+    },
+    {
+      "name": "Polskie Radio 24 (NEW STREAM)",
+      "urls": [
+        "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "polskie radio",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo",
+      "votes": 809
+    },
+    {
+      "name": "Polskie Radio Czwórka",
+      "urls": [
+        "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "polish",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Czwórka_Polskie_Radio.jpg",
+      "votes": 91
+    },
+    {
+      "name": "Polskie Radio dla Ukrainy/Польське Радіо для України",
+      "urls": [
+        "https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "news talk",
+        "ukrainian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 258,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Polskie Radio Dzieciom",
+      "urls": [
+        "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7cjFZEQL8Ap_j7lrlhjKvVWrUxrEAXdPlQ&s",
+      "votes": 84
+    },
+    {
+      "name": "Polskie Radio OLSZTYN",
+      "urls": [
+        "https://rostr1.radioolsztyn.pl:8443/RO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Polskie Radio Trójka",
+      "urls": [
+        "https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist_w476233979.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/260/polskie-radio-program-iii-pr3-trojka.00c2edf5.png",
+      "votes": 20
+    },
+    {
+      "name": "PR KIEROWCÓW",
+      "urls": [
+        "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "info music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "null",
+      "votes": 33
+    },
+    {
+      "name": "PR PRZEBOJE PRL",
+      "urls": [
+        "https://mpantusa-danidi01.radioca.st/id1"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 26
+    },
+    {
+      "name": "PR TRÓJKA",
+      "urls": [
+        "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "public"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250314_080616667.jpg?alt=media&token=4738543a-4391-4727-9d9d-89741871db70",
+      "votes": 927
+    },
+    {
+      "name": "Przystań",
+      "urls": [
+        "https://s3.slotex.pl:7372/stream/1/"
+      ],
+      "tags": [],
+      "city": "Mazowsze",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Punk Radio Underground",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7604/stream?sid=1;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiounderground.org/Grafika/title.png",
+      "votes": 83
+    },
+    {
+      "name": "Quantum Wave Radio",
+      "urls": [
+        "https://ec4.yesstreaming.net:2845/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lh3.googleusercontent.com/sitesv/AA5AbUB2RbNqlWkq8v6ouBmBHRsJcsSKtMz8_taPx7tn2g22YqjsytG76C6M0scQyprhBXXrpvYzzusExGcgM4fCwBvBXS7vFCVXy6vK7JdmfXym1AyBPP8rmreJ98v1bmuq0tswwRLU_h0BbBDLKAIpKbWhW1vh0W26G2-wpNG17-fBq2Zrj51YQJEJo-Rq2jT90jWvlGHfQQKDmM_2_99xBgU-UtGRVi2cYXga=w1280",
+      "votes": 1
+    },
+    {
+      "name": "R357",
+      "urls": [
+        "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 411
+    },
+    {
+      "name": "radio",
+      "urls": [
+        "https://c16.radioboss.fm:18014/stream"
+      ],
+      "tags": [
+        "musical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://teoriachaosu.info/wp-content/plugins/under-construction-page/themes/images/favicon.png",
+      "votes": 324
+    },
+    {
+      "name": "Radio 1.7",
+      "urls": [
+        "https://emisja.radio17.pl/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "RADIO 100",
+      "urls": [
+        "https://s3.slotex.pl:7278/stream/"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "electronic",
+        "hits",
+        "oldies"
+      ],
+      "city": "Wielkopolskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/122745.v6.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio 30 lat RMF FM",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/20LAT"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+      "votes": 41
+    },
+    {
+      "name": "Radio 357",
+      "urls": [
+        "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radio357.pl/wp-content/uploads/2022/04/c5399c0d-1b8e-43d5-b23b-e5cef1857856.png",
+      "votes": 10702
+    },
+    {
+      "name": "Radio 357",
+      "urls": [
+        "https://stream.radio357.pl/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Radio 40plus Forty Plus",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7178/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio40plus.pl/wp-content/uploads/2023/04/Logo-RFZielone230x230small.png",
+      "votes": 68
+    },
+    {
+      "name": "Radio 5",
+      "urls": [
+        "https://streaming.radio5.com.pl:8888/radio5suwalki"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radio5.com.pl/favicon.ico",
+      "votes": 490
+    },
+    {
+      "name": "Radio 7",
+      "urls": [
+        "https://stream.radio7.pl/;"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "Mława",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/R9MBM9qr9s.png",
+      "votes": 118
+    },
+    {
+      "name": "Radio Afera",
+      "urls": [
+        "https://radio.afera.com.pl/afera128.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 208
+    },
+    {
+      "name": "Radio Afera 98,6 MHz",
+      "urls": [
+        "https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.afera.com.pl/templates/lenor/images/logo.png",
+      "votes": 47
+    },
+    {
+      "name": "Radio Aktywne",
+      "urls": [
+        "https://listen.radioaktywne.pl/ramp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioaktywne.pl/static/images/ra_banner-b3198ed95c743c1739835454f4d52637.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Alex",
+      "urls": [
+        "https://frradioq.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Andrychow",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7424/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioandrychow.pl/logo.jpg",
+      "votes": 31
+    },
+    {
+      "name": "Radio Arkadia",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7238/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Radio Armageddon",
+      "urls": [
+        "https://ssl-1.radiohost.pl:11608/"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "city": "Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioarmageddon.pl/wp-content/uploads/2024/03/cropped-cropped-Radio-Armagedon-180x180.png",
+      "votes": 70
+    },
+    {
+      "name": "Radio Asymetria",
+      "urls": [
+        "https://evcast.mediacp.eu:1290/"
+      ],
+      "tags": [
+        "alternative",
+        "alternative / indie",
+        "alternative indie rock",
+        "alternative pop",
+        "alternative rock",
+        "classic rock; alternative rock indie"
+      ],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radioasymetria.net/wp-content/uploads/2024/11/cropped-asy_icon-192x192.webp",
+      "votes": 8
+    },
+    {
+      "name": "Radio Bahary",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7838/stream"
+      ],
+      "tags": [
+        "folk",
+        "poetry"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "RADIO BEZPIECZNA PODRÓŻ",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9344/live"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://uradio-staticfiles.s3.amazonaws.com/radioapp/images/apple-icon.png",
+      "votes": 45
+    },
+    {
+      "name": "Radio Bielsko",
+      "urls": [
+        "https://stream.rcs.revma.com/062uq3z3kwzuv"
+      ],
+      "tags": [
+        "dance",
+        "local news",
+        "local radio",
+        "polish",
+        "polish rock",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radiobielsko.pl/wp-content/uploads/2024/01/cropped-favicon-1-192x192.png",
+      "votes": 81
+    },
+    {
+      "name": "Radio Brylant",
+      "urls": [
+        "https://s1.slotex.pl:7212/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Bunt",
+      "urls": [
+        "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl"
+      ],
+      "tags": [
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn05C7AHZIJxbF-4QmVxxsKiqAH32hayUcZyo3yHLd5wTvWkvFou52vRvDW8BjMjvv0Z8aXxKKW5KmkhtlM7HyGIsWXupCfHoPaQKiad2_pSbQMAm5vmEP5czFa0FSRm_rlUbzyjbaHktr/s878-r/RadioBunt+-+logo+poziome+28dayslater_czerwony.PNG",
+      "votes": 8
+    },
+    {
+      "name": "Radio Centrum Lublin",
+      "urls": [
+        "https://stream12.hosterion.pl/stream/akademickieradiocentrum"
+      ],
+      "tags": [
+        "poland",
+        "polish",
+        "rock"
+      ],
+      "city": "Lublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i1.wp.com/centrum.fm/wp-content/uploads/2012/12/radio_centrum_logo_czarne_01.jpg?fit=1121%2C771&ssl=1",
+      "votes": 699
+    },
+    {
+      "name": "Radio Chrześcijanin",
+      "urls": [
+        "https://stream20.hosterion.pl:8588/mountpoint"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiochrzescijanin.pl/obrazki/2024/06/radio_logo_2024.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Cyganeczka",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7474/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "Radio DHT (kanał główny)",
+      "urls": [
+        "https://radiodht.com/stream_main/"
+      ],
+      "tags": [
+        "aaa",
+        "alternative",
+        "eclectic",
+        "oldies",
+        "pop",
+        "rock",
+        "various"
+      ],
+      "city": "Małopolskie",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 439
+    },
+    {
+      "name": "Radio DHT (Pepis)",
+      "urls": [
+        "https://radiodht.com/stream_pepis/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 28,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Disco Party - Disco Impreza",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7046/stream"
+      ],
+      "tags": [
+        "90s",
+        "dance",
+        "disco"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
+      "votes": 276
+    },
+    {
+      "name": "Radio Disco-Dance",
+      "urls": [
+        "https://radiodd.cloud/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "70",
+        "70s",
+        "80",
+        "80s",
+        "90",
+        "90s",
+        "disco",
+        "disco polo"
+      ],
+      "city": "Gdansk",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 528
+    },
+    {
+      "name": "Radio Duch",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7174/stream"
+      ],
+      "tags": [
+        "oldies",
+        "poetry",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "Radio Dźwięk",
+      "urls": [
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek"
+      ],
+      "tags": [],
+      "city": "Slaskie",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Dzwiek",
+      "urls": [
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3"
+      ],
+      "tags": [
+        "adult alternative",
+        "alternative / indie",
+        "alternative indie rock",
+        "alternative pop",
+        "alternative rock",
+        "indie rock",
+        "misc",
+        "miscellaneous",
+        "other",
+        "pop rock",
+        "progressive rock",
+        "rock",
+        "soft rock",
+        "various",
+        "various music"
+      ],
+      "city": "Slaskie",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Dzwiek",
+      "urls": [
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek128"
+      ],
+      "tags": [
+        "other",
+        "pop rock",
+        "progressive rock",
+        "rock",
+        "soft rock",
+        "various",
+        "various music"
+      ],
+      "city": "Slaskie",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Dzwiek",
+      "urls": [
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek64"
+      ],
+      "tags": [
+        "adult alternative",
+        "alternative / indie",
+        "alternative indie rock",
+        "alternative pop",
+        "alternative rock",
+        "indie rock",
+        "misc",
+        "miscellaneous",
+        "other",
+        "pop rock",
+        "progressive rock",
+        "rock",
+        "soft rock",
+        "various",
+        "various music"
+      ],
+      "city": "Slaskie",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Dzwiek",
+      "urls": [
+        "https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8"
+      ],
+      "tags": [
+        "adult alternative",
+        "alternative / indie",
+        "alternative indie rock",
+        "alternative pop",
+        "alternative rock",
+        "indie rock",
+        "misc",
+        "miscellaneous",
+        "other",
+        "pop rock",
+        "progressive rock",
+        "rock",
+        "soft rock",
+        "various",
+        "various music"
+      ],
+      "city": "Slaskie",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Elbląg",
+      "urls": [
+        "https://rostr1.radioolsztyn.pl:8543/ELBLAG"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://polskieradioelblag.pl/posluchaj/img/nowy/re.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Eska 2 Kultowe Polskie",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6040-1.aac"
+      ],
+      "tags": [
+        "disco polo",
+        "polish"
+      ],
+      "city": "Wrocław",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 276
+    },
+    {
+      "name": "Radio Eska Kraśnik",
+      "urls": [
+        "https://ic1.smcdn.pl/2360-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Eska Opole",
+      "urls": [
+        "https://ic2.smcdn.pl/2120-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Eska Opole",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2120-1.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.eska.pl/favicon.ico",
+      "votes": 116
+    },
+    {
+      "name": "Radio Eska Przemyśl",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2320-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Eska Rzeszów",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2240-1.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "Radio Eska Starachowice",
+      "urls": [
+        "https://ic1.smcdn.pl/2400-1.mp3"
+      ],
+      "tags": [
+        "contemporary hits radio",
+        "pop"
+      ],
+      "city": "Świętokrzyskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://eska.pl/favicon.ico",
+      "votes": 63
+    },
+    {
+      "name": "Radio Eska Tarnów",
+      "urls": [
+        "https://ic1.smcdn.pl/2210-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Eska Warszawa",
+      "urls": [
+        "https://waw.ic.smcdn.pl/2380-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Eska_1049_2.png",
+      "votes": 1103
+    },
+    {
+      "name": "Radio Express",
+      "urls": [
+        "https://stream.rcs.revma.com/yx6cub73kwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radioexpress.pl/wp-content/uploads/2024/10/Radio-Express-logo-scaled.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Fest 100.2 FM",
+      "urls": [
+        "https://play.radiofest.pl:8443/fest"
+      ],
+      "tags": [],
+      "city": "dolnośląskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 407
+    },
+    {
+      "name": "Radio Fiorda",
+      "urls": [
+        "https://radiofiorda.pl/stream/"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "italo disco",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Freee",
+      "urls": [
+        "https://streaming.radio.lublin.pl:8843/radiofreee?ver=122186"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofreee.pl/wp-content/uploads/2023/10/Radio-Freee_logo-170x170.png",
+      "votes": 25
+    },
+    {
+      "name": "Radio Freee",
+      "urls": [
+        "https://streaming.radio.lublin.pl:8843/radiofreee"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofreee.pl/wp-content/uploads/2023/10/Radio-Freee_logo-white.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio Freee 89.9",
+      "urls": [
+        "https://streaming.radio.lublin.pl:8843/radiofreeeacp"
+      ],
+      "tags": [
+        "adult contemporary",
+        "cultural news",
+        "popular culture",
+        "public radio",
+        "regional radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "Radio FTM",
+      "urls": [
+        "https://s1.slotex.pl:7792/stream"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "city": "Lesser Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.radioftm.pl/images/logo.png",
+      "votes": 16
+    },
+    {
+      "name": "Radio Gdańsk",
+      "urls": [
+        "https://stream.task.gda.pl:8443/rg1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiogdansk.pl/wp-content/uploads/2025/11/Radio-Gdansk-sluchaj-online-baner-2-768x384.jpg",
+      "votes": 20
+    },
+    {
+      "name": "Radio Gdańsk REGIONY DAB2",
+      "urls": [
+        "https://stream.task.gda.pl:8443/rg4"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "pomorskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiogdansk.pl/wp-content/uploads/2020/12/radio-gdansk-logo.svg",
+      "votes": 119
+    },
+    {
+      "name": "Radio GRA Torun",
+      "urls": [
+        "https://rs103-krk.rmfstream.pl/radio_gra"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gra.fm/media2019/pic/xlogo-t1.png.pagespeed.ic.TViNgadKfU.webp",
+      "votes": 35
+    },
+    {
+      "name": "Radio Gryfice AI",
+      "urls": [
+        "https://panel.radio.gryfice.net/listen/radio-gryfice/radio.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "community",
+        "local news",
+        "polish music",
+        "pop"
+      ],
+      "city": "Zac",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://gryfice.net/favicon.ico",
+      "votes": 0
+    },
+    {
+      "name": "Radio Guardian",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7508/stream"
+      ],
+      "tags": [
+        "poetry",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioguardian.panelradiowy.pl/images/logos/70355-91.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio I",
+      "urls": [
+        "https://ice2.radioi.pl:8443/stream"
+      ],
+      "tags": [],
+      "city": "Białystok",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radioi.pl/img/ico/apple-icon-120x120.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Imperium",
+      "urls": [
+        "https://stream.radioimperium.pl:8443/stream"
+      ],
+      "tags": [
+        "gliwice"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "Radio Index",
+      "urls": [
+        "https://stream.wzielonej.pl/radio/8000/2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://wzielonej.pl/wp-content/uploads/2016/03/cropped-2016-03-03-favicon-wz-180x180.png",
+      "votes": 40
+    },
+    {
+      "name": "Radio Ingrid",
+      "urls": [
+        "https://radio-ingrid.radiocult.fm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Kącik Rodzinny",
+      "urls": [
+        "https://s3.slotex.pl:7374/stream"
+      ],
+      "tags": [
+        "disco polo",
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Radio Kampus",
+      "urls": [
+        "https://stream.radiokampus.fm/kampus"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "Radio Kielce",
+      "urls": [
+        "https://streaming.g-news.pl:8030/rk2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiokielce.pl/wp-content/uploads/2022/04/cropped-rk-192x192.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Kolor",
+      "urls": [
+        "https://stream.rcs.revma.com/zbq79057xd3vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radiokolor.pl/wp-content/uploads/2023/11/Logo_poziom-kolor-e1700132634498-1024x438.png",
+      "votes": 37
+    },
+    {
+      "name": "Radio Leliwa",
+      "urls": [
+        "https://streaming.g-news.pl:8050/leliwa?1605899747"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://leliwa.pl/wp-content/uploads/2024/07/Leliwa_logo-1-e1712909417435.png",
+      "votes": 61
+    },
+    {
+      "name": "Radio Lublin",
+      "urls": [
+        "https://streaming.radio.lublin.pl:8843/128k"
+      ],
+      "tags": [
+        "classic hits",
+        "hits",
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 187
+    },
+    {
+      "name": "RADIO ŁÓDŹ",
+      "urls": [
+        "https://stream.radiolodz.pl/RadioLodz-1-HQ.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://radiolodz.pl/wp-content/uploads/2022/05/RadioLodz-White-150.png",
+      "votes": 54
+    },
+    {
+      "name": "RADIO ŁÓDŹ EXTRA",
+      "urls": [
+        "https://stream.radiolodz.pl/RadioLodz-2-HQ.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://radiolodz.pl/wp-content/uploads/2022/05/RadioLodz-White-150.png",
+      "votes": 62
+    },
+    {
+      "name": "Radio Łódź nad Wartą",
+      "urls": [
+        "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://radiolodz.pl/wp-content/uploads/2022/05/RadioLodz-White-150.png",
+      "votes": 20
+    },
+    {
+      "name": "RADIO ŁÓDŹ SPORT",
+      "urls": [
+        "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://radiolodz.pl/wp-content/uploads/2022/05/RadioLodz-White-150.png",
+      "votes": 62
+    },
+    {
+      "name": "Radio Macabrismix",
+      "urls": [
+        "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3"
+      ],
+      "tags": [
+        "dancehall",
+        "dub reggae",
+        "hip hop",
+        "rap",
+        "reggae"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://panel.macabrismix.com.pl/api/station/macabris_mix_radio_station_1-2c6_ghz/art/74262cad9ba8635dd225cde7",
+      "votes": 22
+    },
+    {
+      "name": "Radio MagMa",
+      "urls": [
+        "https://s3.slotex.pl:7180/stream"
+      ],
+      "tags": [
+        "poetry"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio Mbox",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7462/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 70
+    },
+    {
+      "name": "Radio Mbox - Club",
+      "urls": [
+        "https://s3.slotex.pl:7204/stream"
+      ],
+      "tags": [
+        "club",
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiombox.pl/MboxKwadr120x120.png",
+      "votes": 46
+    },
+    {
+      "name": "Radio Mbox - Polska Muzyka",
+      "urls": [
+        "https://s3.slotex.pl:7072/stream"
+      ],
+      "tags": [
+        "polish",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiombox.pl/MboxKwadr120x120.png",
+      "votes": 117
+    },
+    {
+      "name": "radio mc",
+      "urls": [
+        "https://rs202-krk.rmfstream.pl/RMFFM48"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Melody Express",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7588/stream"
+      ],
+      "tags": [
+        "disco polo",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomelodyexpress.com/favicon.ico",
+      "votes": 69
+    },
+    {
+      "name": "Radio Miłosierdzie",
+      "urls": [
+        "https://eu1.fastcast4u.com/proxy/milosierdzie?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Mirage - Italo Dance",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9569/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1282
+    },
+    {
+      "name": "Radio Mirage - Prywatka",
+      "urls": [
+        "https://ssl-1.radiohost.pl:7214/stream?ver=661798"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 246
+    },
+    {
+      "name": "Radio Mirage - Space",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9563/stream?ver=987766"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 310
+    },
+    {
+      "name": "Radio Moni Raj",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7646/stream"
+      ],
+      "tags": [
+        "folk",
+        "silesia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://panelradiowy.pl/images/playfacebook.png",
+      "votes": 27
+    },
+    {
+      "name": "Radio Mrągowo",
+      "urls": [
+        "https://stream.radiomragowo.pl/listen/radio_mragowo/radio.mp3?t=1773333890924"
+      ],
+      "tags": [
+        "country",
+        "local programming"
+      ],
+      "city": "warmińsko-mazurskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiomragowo.pl/wp-content/uploads/2026/01/logo.webp",
+      "votes": 6
+    },
+    {
+      "name": "Radio Na Stoku",
+      "urls": [
+        "https://sluchaj.link:5443/nastoku"
+      ],
+      "tags": [
+        "dance",
+        "disco polo",
+        "eurodance",
+        "pop music"
+      ],
+      "city": "Białystok",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 47
+    },
+    {
+      "name": "Radio Na Tak",
+      "urls": [
+        "https://c30.radioboss.fm:8615/stream"
+      ],
+      "tags": [],
+      "city": "Zachodniopomorskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Radio Nestolatki",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7306/stream"
+      ],
+      "tags": [
+        "folk",
+        "goldies",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Radio Nowej Generacji",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7488/stream"
+      ],
+      "tags": [
+        "mixed"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.skladanki.net.pl/favicon.ico",
+      "votes": 64
+    },
+    {
+      "name": "Radio Nowy Świat",
+      "urls": [
+        "https://go-audio.toya.net.pl/63214"
+      ],
+      "tags": [
+        "journalism",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://pl.wikipedia.org/wiki/Radio_Nowy_%C5%9Awiat#/media/Plik:Radio_Nowy_%C5%9Awiat_logotyp.png",
+      "votes": 425
+    },
+    {
+      "name": "Radio Nowy Świat 64k",
+      "urls": [
+        "https://stream.nowyswiat.online/aac"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "mazowieckie",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://nowyswiat.online/assets/favicons/android-icon-192x192.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Odzew",
+      "urls": [
+        "https://stream12.hosterion.pl/stream/odzew"
+      ],
+      "tags": [
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://odzew.fm/wp-content/uploads/2022/06/cropped-Radio-ODZEW-logo-onred-1.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Opole 1 96 kbps",
+      "urls": [
+        "https://audio.radio.opole.pl/ro1aac"
+      ],
+      "tags": [
+        "information"
+      ],
+      "city": "Opole",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://i.postimg.cc/XqMBQWMd/zalvf5mnczj9.png",
+      "votes": 20
+    },
+    {
+      "name": "Radio Orbit",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7390/stream"
+      ],
+      "tags": [
+        "alternative",
+        "indie rock",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 55
+    },
+    {
+      "name": "Radio Orthodoxia",
+      "urls": [
+        "https://stream.orthodoxia.pl/stream192.mp3"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "Białystok",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://orthodoxia.pl/wp-content/uploads/2017/03/logo-orthodoxia-90px-wysokosci-2.png",
+      "votes": 67
+    },
+    {
+      "name": "Radio Osjaków",
+      "urls": [
+        "https://stream20.hosterion.pl:7095/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Polska",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Palotti FM",
+      "urls": [
+        "https://s1.slotex.pl:7074/stream"
+      ],
+      "tags": [
+        "christian",
+        "educational",
+        "prayers",
+        "talk"
+      ],
+      "city": "Masovia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pallotti.fm/wp-content/uploads/2019/05/cropped-21317872_1524090340970838_3030353127568884450_n-192x192.jpg",
+      "votes": 11
+    },
+    {
+      "name": "Radio Paranormalium",
+      "urls": [
+        "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ilustracje.paranormalium.pl/favicon-apple-touch-icon.png",
+      "votes": 77
+    },
+    {
+      "name": "Radio Party - Kanał Główny",
+      "urls": [
+        "https://s2.radioparty.pl:8015/stream?nocache=4171"
+      ],
+      "tags": [
+        "electronic",
+        "party",
+        "rap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioparty.pl/assets/img/logo.png",
+      "votes": 1903
+    },
+    {
+      "name": "Radio Paweł",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7024/stream"
+      ],
+      "tags": [
+        "modular synthesis",
+        "remixes",
+        "retro electronica",
+        "synthwave"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 45
+    },
+    {
+      "name": "Radio pejpal",
+      "urls": [
+        "https://radio.pejpal.cloud/stream"
+      ],
+      "tags": [
+        "chill",
+        "disco",
+        "dj",
+        "dj mixes",
+        "dj remix",
+        "party hits",
+        "smooth"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png",
+      "votes": 86
+    },
+    {
+      "name": "Radio Piekary  88.7FM",
+      "urls": [
+        "https://n21a-eu.rcs.revma.com/0rg0mztk33bwv?rj-ttl=5&rj-tok=AAABnDF1SJoAi5xp4z8vj4ZXKA"
+      ],
+      "tags": [],
+      "city": "Slaskie",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 487
+    },
+    {
+      "name": "Radio Plus 106.1 Kraków",
+      "urls": [
+        "https://waw.ic.smcdn.pl/4070-1.mp3"
+      ],
+      "tags": [],
+      "city": "Małopolska",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmyradioonline.pl%2Fpublic%2Fuploads%2Fradio_img%2Fradio-plus%2Ffb_cover.jpg&imgrefurl=https%3A%2F%2Fmyradioonline.pl%2Fradio-plus&tbnid=t01lPa3fSdA3fM&vet=12ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ..i&docid=ewI89N863ZxEUM&w=720&h=374&q=radio%20plus%20krak%C3%B3w&client=opera&ved=2ahUKEwjmuPu018zxAhUS_CoKHfw8Dj4QMygBegUIARCdAQ",
+      "votes": 798
+    },
+    {
+      "name": "Radio Plus Bydgoszcz",
+      "urls": [
+        "https://pl03.cdn.eurozet.pl/plu-bdg.mp3?redirected=03"
+      ],
+      "tags": [],
+      "city": "Kujawsko-Pomorskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioplus.pl/favicon.ico",
+      "votes": 97
+    },
+    {
+      "name": "Radio Plus Gdansk",
+      "urls": [
+        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "pomorskie",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 550
+    },
+    {
+      "name": "Radio Plus Krakow",
+      "urls": [
+        "https://ic2.smcdn.pl/4070-1.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 447
+    },
+    {
+      "name": "Radio Plus Lublin",
+      "urls": [
+        "https://waw.ic.smcdn.pl/4130-1.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Radio Plus Warszawa",
+      "urls": [
+        "https://pl.cdn.eurozet.pl/plu-waw.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioplus.pl/favicon.ico",
+      "votes": 87
+    },
+    {
+      "name": "Radio Podlasie 2",
+      "urls": [
+        "https://s3.slotex.pl:7438/stream/1/"
+      ],
+      "tags": [
+        "disco",
+        "local radio"
+      ],
+      "city": "Podlasie",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radiopodlasie2019.panelradiowy.pl/images/logos/71481-58.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Pogoda",
+      "urls": [
+        "https://radiostream.pl/tuba140-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png",
+      "votes": 772
+    },
+    {
+      "name": "Radio Poland",
+      "urls": [
+        "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "poland",
+        "talk",
+        "world news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 130,
+      "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Poland_Logo.png",
+      "votes": 460
+    },
+    {
+      "name": "Radio Polfan",
+      "urls": [
+        "https://s3.slotex.pl:7194/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Prestige",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7076/stream?sid=1"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "opolskie ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://storage/emulated/0/DCIM/Snapseed/1000042519-01.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio RAM",
+      "urls": [
+        "https://stream2.prw.pl:8001/radioram"
+      ],
+      "tags": [
+        "indie pop",
+        "latino",
+        "lounge",
+        "r'n'b funk",
+        "smooth jazz",
+        "soul"
+      ],
+      "city": "dolnośląskie",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioram.pl/img/layout/logo.png",
+      "votes": 23
+    },
+    {
+      "name": "Radio RDN Małopolska",
+      "urls": [
+        "https://stream1.dabcom.pl/rdn_mpl"
+      ],
+      "tags": [
+        "christian",
+        "religion"
+      ],
+      "city": "Tarnów",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 573
+    },
+    {
+      "name": "Radio Republika",
+      "urls": [
+        "https://ssl-1.radiotvrepublika.pl:12698/stream"
+      ],
+      "tags": [
+        "news",
+        "news talk",
+        "politics",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotvrepublika.pl/favicon-96x96.png",
+      "votes": 1458
+    },
+    {
+      "name": "Radio RMF",
+      "urls": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 383
+    },
+    {
+      "name": "Radio RMF Classic",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/rmf_classic"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfclassic.pl/dist-v2021/images/logo-ua.png?a",
+      "votes": 159
+    },
+    {
+      "name": "Radio RMF FM",
+      "urls": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/rmf_fm"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+      "votes": 1823
+    },
+    {
+      "name": "Radio RMF MAXXX",
+      "urls": [
+        "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/1294.v9.png",
+      "votes": 13784
+    },
+    {
+      "name": "Radio RMF MAXXX OLESNICA",
+      "urls": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXOLE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio RMF24.PL",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/RMF24"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1851
+    },
+    {
+      "name": "Radio RMF24.pl",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true"
+      ],
+      "tags": [
+        "classic rock",
+        "information",
+        "news",
+        "pop",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 4938
+    },
+    {
+      "name": "Radio RSC",
+      "urls": [
+        "https://stream.rcs.revma.com/94fud6a6z72vv"
+      ],
+      "tags": [
+        "local news",
+        "music",
+        "pop",
+        "skierniewice"
+      ],
+      "city": "Łódzkie",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiorsc.pl/wp-content/uploads/2023/10/icon-radio-rsc-skierniewice.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Rzeszów",
+      "urls": [
+        "https://streaming.g-news.pl:8040/rzeszow"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Safira",
+      "urls": [
+        "https://ec1.yesstreaming.net:2340/stream"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "worship"
+      ],
+      "city": "Mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosafira.eu/assets/logo-safira.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio SAR - Studencka Agencja Radiowa",
+      "urls": [
+        "https://stream.radiosar.pl/hdmain.mp3"
+      ],
+      "tags": [
+        "blues",
+        "gdansk",
+        "jazz",
+        "metal",
+        "poland",
+        "polish",
+        "politechnika gdanska",
+        "pop",
+        "rock",
+        "student",
+        "student radio",
+        "world music"
+      ],
+      "city": "Pomorskie",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://stream.radiosar.pl/logo.png",
+      "votes": 656
+    },
+    {
+      "name": "Radio Savana",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7434/stream"
+      ],
+      "tags": [
+        "indie rock",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://i.imgur.com/jZD19Ir.jpg",
+      "votes": 42
+    },
+    {
+      "name": "Radio Sekret",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7556/stream"
+      ],
+      "tags": [
+        "disco polo",
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "Radio Sierpc",
+      "urls": [
+        "https://ssl-1.radiohost.pl:10700/stream"
+      ],
+      "tags": [],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.sierpc.pl/wp-content/uploads/2024/02/cropped-logo-1-180x180.png",
+      "votes": 37
+    },
+    {
+      "name": "Radio Silesia 96.2 FM",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7926/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 104
+    },
+    {
+      "name": "Radio Slask",
+      "urls": [
+        "https://s1.slotex.pl:7022/stream"
+      ],
+      "tags": [],
+      "city": "Upper Silesia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://radioslask.pl/templates/img/rs-icona.jpg",
+      "votes": 122
+    },
+    {
+      "name": "Radio SOK Sulecin",
+      "urls": [
+        "https://s3.slotex.pl:7230/stream/1/?sid=1"
+      ],
+      "tags": [
+        "music",
+        "muzyka",
+        "radio sok",
+        "sulęcin",
+        "sulęciński ośrodek kultury"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.radiosok.pl/favicon.ico",
+      "votes": 48
+    },
+    {
+      "name": "Radio Stacja Impreza",
+      "urls": [
+        "https://stacjaimpreza.katowice.pl:8002/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://stacjaimpreza.pl/wp-content/uploads/2024/04/logo_stacja_impreza-768x331.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Start",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7644/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-start.panelradiowy.pl/images/logos/33085-66.png",
+      "votes": 13
+    },
+    {
+      "name": "Radio Strefa Muzy",
+      "urls": [
+        "https://radiosm.pl:8000/radio.mp3"
+      ],
+      "tags": [
+        "culture",
+        "pop",
+        "science",
+        "talk"
+      ],
+      "city": "Małopolskie",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "Radio Styl FM",
+      "urls": [
+        "https://s3.slotex.pl:7196/stream"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Super FM 97,5 FM - Szczecin",
+      "urls": [
+        "https://stream.super.fm:8443/superfm.mp3?1703660705890"
+      ],
+      "tags": [
+        "adult contemporary",
+        "variety"
+      ],
+      "city": "Zachodniopomorskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 39
+    },
+    {
+      "name": "Radio Synteza",
+      "urls": [
+        "https://stream.radio-synteza.pl/synteza"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio-synteza.pl/og-image.jpg",
+      "votes": 9
+    },
+    {
+      "name": "Radio Tango Uno",
+      "urls": [
+        "https://radiotangouno-online.pl/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "tango",
+        "tangos"
+      ],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotangouno.pl/wp-content/uploads/2021/12/Radio-Tango-Uno.png",
+      "votes": 30
+    },
+    {
+      "name": "Radio TOP80",
+      "urls": [
+        "https://top80.pl:8000/listen.mp3"
+      ],
+      "tags": [
+        "decades"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/1893.v4.png",
+      "votes": 904
+    },
+    {
+      "name": "Radio TPI",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7632/stream"
+      ],
+      "tags": [
+        "classical",
+        "jazz",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotpi.pl/wp-content/uploads/2020/04/logo_radio_tpi_rgb_small.jpg",
+      "votes": 19
+    },
+    {
+      "name": "Radio UAP",
+      "urls": [
+        "https://radiouap.radiocult.fm/stream"
+      ],
+      "tags": [
+        "experimental"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Uniwersytet",
+      "urls": [
+        "https://www.radiouniwersytet.pl/ru192.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiouniwersytet.pl/wp-content/themes/radio-uniwersytet/images/logo_RU.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Warmii i Mazur",
+      "urls": [
+        "https://rostr1.radioolsztyn.pl:8843/RWiM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 82
+    },
+    {
+      "name": "Radio Warszawa 106.2 FM",
+      "urls": [
+        "https://stream2.technologicznie.net/radio_warszawa.mp3"
+      ],
+      "tags": [
+        "catholic radio"
+      ],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://www.radiowarszawa.com.pl/favicon.ico",
+      "votes": 63
+    },
+    {
+      "name": "Radio Wiatraczek",
+      "urls": [
+        "https://s3.slotex.pl:7082/stream"
+      ],
+      "tags": [
+        "disco polo",
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio WNET",
+      "urls": [
+        "https://media.wnet.fm/wnet.fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://sluchaj.wnet.fm/wnet.jpg?25519",
+      "votes": 1331
+    },
+    {
+      "name": "Radio Yanosik",
+      "urls": [
+        "https://n02-eu.rcs.revma.com/7vhveccrnquvv/2_1gqj78pin65i002/playlist.m3u8"
+      ],
+      "tags": [
+        "local information",
+        "pop",
+        "yanosik"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://neptis-public.s3.eu-west-1.amazonaws.com/radioyanosikcms/RY_ico_sq_c35e694c3d.png",
+      "votes": 4
+    },
+    {
+      "name": "RADIO ZAWIERCIE",
+      "urls": [
+        "https://ssl-1.radiohost.pl:9078/live"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 136
+    },
+    {
+      "name": "Radio ZET",
+      "urls": [
+        "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10198
+    },
+    {
+      "name": "Radio ZET",
+      "urls": [
+        "https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png",
+      "votes": 450
+    },
+    {
+      "name": "Radio ZET",
+      "urls": [
+        "https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 229
+    },
+    {
+      "name": "Radio ZET - 2000",
+      "urls": [
+        "https://zt04.cdn.eurozet.pl/ZET200.mp3"
+      ],
+      "tags": [
+        "decades"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 351
+    },
+    {
+      "name": "Radio ZET 128",
+      "urls": [
+        "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/BQmzGmPR/radio-zet-8fe59cd4.jpg",
+      "votes": 78
+    },
+    {
+      "name": "Radio ZET 128 Kbps",
+      "urls": [
+        "https://zt02.cdn.eurozet.pl/zet-old.mp3"
+      ],
+      "tags": [
+        "95.6",
+        "hits"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/G35rjL2K/radio-zet-8fe59cd4.jpg",
+      "votes": 75
+    },
+    {
+      "name": "Radio Zet Love -om",
+      "urls": [
+        "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06"
+      ],
+      "tags": [
+        "lovesongs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-love/684881-14-pol-PL/Radio-ZET-Love_social_share.png",
+      "votes": 131
+    },
+    {
+      "name": "Radio Zet na Rower -om",
+      "urls": [
+        "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "pop",
+        "top40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/var/player/storage/images/player-radio-zet/kanaly-muzyczne/radio-zet-na-rower/2014099-20-pol-PL/Radio-ZET-na-Rower_social_share.png",
+      "votes": 447
+    },
+    {
+      "name": "Radio Zlote Przeboje Wroclaw",
+      "urls": [
+        "https://radiostream.pl/tuba8940-1.mp3"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 673
+    },
+    {
+      "name": "Radio Złote Przeboje",
+      "urls": [
+        "https://radiostream.pl/tuba8904-1.mp3"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx.zloteprzeboje.pl/extension/radiozet-header-2/design/zloteprzeboje/images/logo.svg",
+      "votes": 43
+    },
+    {
+      "name": "Radio Złote Przeboje - Bieszczady",
+      "urls": [
+        "https://radiostream.pl/tuba8946-1.mp3"
+      ],
+      "tags": [
+        "bieszczady",
+        "pop",
+        "sanok",
+        "solina",
+        "ustrzyki",
+        "wetlina"
+      ],
+      "city": "bieszczady",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx.zloteprzeboje.pl/extension/radiozet-header-2/design/zloteprzeboje/images/logo.svg",
+      "votes": 6
+    },
+    {
+      "name": "Radio Złote Przeboje Białystok",
+      "urls": [
+        "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/be/dd/13784/1/c300.png",
+      "votes": 1549
+    },
+    {
+      "name": "Radio Złote Przeboje Wrocław",
+      "urls": [
+        "https://radiostream.pl/tuba9-1.mp3"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1312
+    },
+    {
+      "name": "Radio Zmysłowe",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7166/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zmyslowe.com.pl/img/giphy3.gif",
+      "votes": 16
+    },
+    {
+      "name": "Radio Zodiak",
+      "urls": [
+        "https://fire.doscast.com:8084/stream"
+      ],
+      "tags": [
+        "love",
+        "love songs",
+        "romantic"
+      ],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiozodiak.pl/wp-content/uploads/2020/06/LOGO-ZODIAK2.png",
+      "votes": 13
+    },
+    {
+      "name": "Radio Zodiak",
+      "urls": [
+        "https://fire.doscast.com/8084/stream"
+      ],
+      "tags": [],
+      "city": "Siedlce",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiozodiak.pl/wp-content/uploads/2020/06/IkonaRadioZodiak512x512.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Żuławy",
+      "urls": [
+        "https://stream.radiojar.com/q87xmtvrrg8uv"
+      ],
+      "tags": [
+        "elbląg",
+        "żuławy"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Radio-Stacja",
+      "urls": [
+        "https://s3.slotex.pl/shoutcast/7684/stream?sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio-stacja.pl/img/Logo_Radio-Stacja.png",
+      "votes": 2
+    },
+    {
+      "name": "RadioBEST.pl",
+      "urls": [
+        "https://stream.rcs.revma.com/k7z0hu129s3vv"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "Gorny Slask",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radiobest.pl/images/max_400_400/langs/pl/logo/logo_www-1.png",
+      "votes": 5
+    },
+    {
+      "name": "RadioCmp3.eu - Kanał EDM - Electronic Dance Music",
+      "urls": [
+        "https://s1.cmp3.eu/edm"
+      ],
+      "tags": [],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocmp3.eu/img/av-app.png",
+      "votes": 11
+    },
+    {
+      "name": "RadioCmp3.eu - Kanał Główny",
+      "urls": [
+        "https://s1.cmp3.eu/stream128"
+      ],
+      "tags": [],
+      "city": "Warsaw",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "radiOFF",
+      "urls": [
+        "https://stream.radioff.com/stream.mp3"
+      ],
+      "tags": [
+        "borderland",
+        "culture",
+        "documentary",
+        "german",
+        "germany",
+        "history",
+        "local",
+        "lounge chillout relax smoothjazz ambient",
+        "poland",
+        "polish",
+        "regional",
+        "storytelling",
+        "viadrina"
+      ],
+      "city": "Lubuskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioff.com/assets/img/icon/favicon-512.png",
+      "votes": 0
+    },
+    {
+      "name": "RadioRadio.FM",
+      "urls": [
+        "https://c16.radioboss.fm/stream/14"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 25
+    },
+    {
+      "name": "RadioSDM",
+      "urls": [
+        "https://s1.free-shoutcast.com/stream/18226arabellavie?1782654391428"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/be7866_e88b243a3541419199b6d29d9de682ee~mv2.jpg/v1/fill/w_1200,h_360,al_c,lg_1,q_85,enc_avif,quality_auto/nowe%20logo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Red7",
+      "urls": [
+        "https://red7.pl/play.m3u"
+      ],
+      "tags": [
+        "electro",
+        "house"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://red7.pl/",
+      "votes": 12
+    },
+    {
+      "name": "Red7 - Kanał EDM",
+      "urls": [
+        "https://s.red7.pl/edm256"
+      ],
+      "tags": [
+        "deep house",
+        "dj",
+        "house",
+        "muzyka klubowa",
+        "polskie radio",
+        "techno",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://red7.pl/img/edmdj-app.png",
+      "votes": 16
+    },
+    {
+      "name": "Red7.pl",
+      "urls": [
+        "https://s.red7.pl/stream256"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://red7.pl/img/R7.webp",
+      "votes": 4
+    },
+    {
+      "name": "REGION",
+      "urls": [
+        "https://s1.slotex.pl:7592/"
+      ],
+      "tags": [],
+      "city": "Schlesien",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mittendrin.pl/themes/mittendrinrwd2/img/mitt-logo-top.svg",
+      "votes": 1
+    },
+    {
+      "name": "REPLAY NEWS - Polski",
+      "urls": [
+        "https://replaynewspl.ice.infomaniak.ch/replaynewspl-128.mp3"
+      ],
+      "tags": [
+        "information",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-PL.png",
+      "votes": 4
+    },
+    {
+      "name": "RMF 4 Dance & RNB",
+      "urls": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/rmf_4"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 73
+    },
+    {
+      "name": "RMF 4 DANCE & RNB",
+      "urls": [
+        "https://rs6-krk2.rmfstream.pl/rmf_4"
+      ],
+      "tags": [
+        "dance",
+        "r&b"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 185
+    },
+    {
+      "name": "RMF 5 Lagodne Przeboje",
+      "urls": [
+        "https://rs203-krk.rmfstream.pl/rmf_5"
+      ],
+      "tags": [
+        "rmf lagodne przeboje",
+        "rmf łagodne przeboje"
+      ],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "RMF 50s",
+      "urls": [
+        "https://rs101-krk.rmfstream.pl/50S"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+      "votes": 154
+    },
+    {
+      "name": "RMF 70s disco",
+      "urls": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/rmf_70s_disco"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 517
+    },
+    {
+      "name": "RMF 80s disco",
+      "urls": [
+        "https://rs103-krk.rmfstream.pl/rmf_80s_disco"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 175
+    },
+    {
+      "name": "RMF 90s dance",
+      "urls": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/rmf_90s_dance"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 81
+    },
+    {
+      "name": "Rmf Ballady",
+      "urls": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/rmf_nostalgia"
+      ],
+      "tags": [
+        "ballady"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 115
+    },
+    {
+      "name": "RMF Chillout",
+      "urls": [
+        "https://rs203-krk.rmfstream.pl/rmf_chillout"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "RMF Classic",
+      "urls": [
+        "https://rs9-krk2.rmfstream.pl/rmf_classic"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "RMF Classic Rock",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/rmf_classic_rock"
+      ],
+      "tags": [
+        "classic rock",
+        "hard rock",
+        "heavy metal",
+        "rock"
+      ],
+      "city": "Małopolskie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 463
+    },
+    {
+      "name": "RMF Club",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/rmf_club"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 75
+    },
+    {
+      "name": "RMF Dance",
+      "urls": [
+        "https://rs103-krk.rmfstream.pl/rmf_dance"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 756
+    },
+    {
+      "name": "RMF Disco polo",
+      "urls": [
+        "https://rs103-krk.rmfstream.pl/rmf_disco_polo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 682
+    },
+    {
+      "name": "RMF FM 128 Kbps",
+      "urls": [
+        "https://rs101-krk.rmfstream.pl/rmf_fm"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "Kraków",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.postimg.cc/9FVktSTL/rmf-fm-cc5c0df7.png",
+      "votes": 435
+    },
+    {
+      "name": "RMF FM 48 Kbps",
+      "urls": [
+        "https://rs101-krk.rmfstream.pl/RMFFM48"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "Kraków \\",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.postimg.cc/9FVktSTL/rmf-fm-cc5c0df7.png",
+      "votes": 53
+    },
+    {
+      "name": "RMF FM 48 Kbps",
+      "urls": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "Kraków",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.postimg.cc/9FVktSTL/rmf-fm-cc5c0df7.png",
+      "votes": 37
+    },
+    {
+      "name": "Rmf Fm Polska",
+      "urls": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48"
+      ],
+      "tags": [],
+      "city": "Warszawa",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.gruparmf.pl/_files/Upload/Files/Presspack/GRUPA_RMF.png",
+      "votes": 485
+    },
+    {
+      "name": "RMF Francais",
+      "urls": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/rmf_francais"
+      ],
+      "tags": [
+        "rmf francaics"
+      ],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 65
+    },
+    {
+      "name": "RMF Funk",
+      "urls": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk"
+      ],
+      "tags": [
+        "funk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "RMF Gold",
+      "urls": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/rmf_gold"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 320
+    },
+    {
+      "name": "RMF K-Pop",
+      "urls": [
+        "https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.rmf.pl/portal/stations/covers/rmf-gamemusic/20251008132246_rmf-gamemusic_600.jpg",
+      "votes": 23
+    },
+    {
+      "name": "RMF Maxx Kielce",
+      "urls": [
+        "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.rmf.pl/portal/stations/covers/rmf_maxxx_kie/20241108100608_rmf_maxxx_kie_600.jpg",
+      "votes": 13
+    },
+    {
+      "name": "RMF MAXX Podlasie",
+      "urls": [
+        "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "Bialystok",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ytimg.com/vi/Jr7C7LQYssM/maxresdefault.jpg",
+      "votes": 74
+    },
+    {
+      "name": "RMF MAXX POZNAŃ",
+      "urls": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXPOZ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_152251024.jpg?alt=media&token=3087442d-f402-477c-adc5-febbc1b05499",
+      "votes": 53
+    },
+    {
+      "name": "RMF MAXX ŚLĄSK",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPwKwZzPwKwZzFKACAPLDNCsAP_AAEPAAB5YJitX_H__bW9r8f7_aft0eY1P9_j77uQxBhfJk-4F3LvW-JwX52E5NF36tqoKmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRM2dYCF5rmxtjeQKY5_p_d3fx2D-t_dv839z3z81Xn3dZf--0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_9_rk2_eT13_79_7_D9-f_87_WCYoBJhqXEAXYEDITaBhFCiBGFYQEUCgAAAEgaICAFwYFOiMAn1gMgBQigCOCAEMAKMiAQAAAQBIRABIEWCAACAQCAAEACAQCAAgYABQAWAgEAAIDoGKYUACgWECRAREKYEJUCQQEtlQglBdIaYQBVlgBQCI2CgARAACKwABAWLgGCJASoSCBLqDaAAAgAQCiVCsQSemgAUEjZagAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=false"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "RMF Maxx Włocławek",
+      "urls": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/rmf_maxxx_wlc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfmaxx.pl/assets-22/images/logo-pink.png",
+      "votes": 65
+    },
+    {
+      "name": "RMF MAXXX 99.7 Pomorze",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 824
+    },
+    {
+      "name": "RMF MAXXX KRAKÓW",
+      "urls": [
+        "https://rs102-krk.rmfstream.pl/MAXXXKRA"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 98
+    },
+    {
+      "name": "RMF MAXXX Mazowsze",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/rmf_maxxx_cie"
+      ],
+      "tags": [],
+      "city": "mazowieckie",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.rmfon.pl/favicon.ico",
+      "votes": 83
+    },
+    {
+      "name": "RMF Muzyka Klasyczna",
+      "urls": [
+        "https://rs202-krk.rmfstream.pl/rmf_muzyka_klasyczna"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 233
+    },
+    {
+      "name": "RMF Muzyka_Filmowa",
+      "urls": [
+        "https://rs102-krk.rmfstream.pl/rmf_muzyka_filmowa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 639
+    },
+    {
+      "name": "RMF Najwieksze Polskie Przeboje",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/npp_rmf_on"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 329
+    },
+    {
+      "name": "RMF Party",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/rmf_party"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 46
+    },
+    {
+      "name": "RMF Piosenka Filmowa",
+      "urls": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/rmf_piosenka_filmowa"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 33
+    },
+    {
+      "name": "RMF Piosenka literacka",
+      "urls": [
+        "https://rs203-krk.rmfstream.pl/rmf_piosenka_literacka"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "RMF Pobudka",
+      "urls": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/rmf_pobudka"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 60
+    },
+    {
+      "name": "RMF Polska prywatka",
+      "urls": [
+        "https://rs203-krk.rmfstream.pl/rmf_polska_prywatka"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 136
+    },
+    {
+      "name": "RMF Relaks",
+      "urls": [
+        "https://rs202-krk.rmfstream.pl/rmf_relaks"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "RMF Styl",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/rmf_styl"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 64
+    },
+    {
+      "name": "Rmf Szanty",
+      "urls": [
+        "https://rs201-krk.rmfstream.pl/rmf_szanty"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "RMF Top 30 dance",
+      "urls": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/rmf_top_5_dance"
+      ],
+      "tags": [],
+      "city": "Krakow",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "RMF TOP2",
+      "urls": [
+        "https://rs103-krk.rmfstream.pl/TOP2"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "RMF TOP3",
+      "urls": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/TOP3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "RMF TOP4",
+      "urls": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/rmf_top4"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 27
+    },
+    {
+      "name": "RMF TOP5",
+      "urls": [
+        "https://rs202-krk.rmfstream.pl/TOP5"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "RMF Ziom",
+      "urls": [
+        "https://rs6-krk2.rmfstream.pl/rmf_ziom"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "RMFmaxx",
+      "urls": [
+        "https://rs102-krk.rmfstream.pl/rmf_maxxx"
+      ],
+      "tags": [],
+      "city": "Poland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 327
+    },
+    {
+      "name": "RMI Euro Disco",
+      "urls": [
+        "https://ams-pioneer02.dedicateware.com:2655/stream"
+      ],
+      "tags": [
+        "classic italian pop",
+        "euro disco",
+        "eurobeat",
+        "eurodance",
+        "europop",
+        "italian",
+        "italian pop",
+        "italo disco"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiomaxitalo.com/wp-content/uploads/2022/11/RMI-Disco.png",
+      "votes": 49
+    },
+    {
+      "name": "Rock Radio",
+      "urls": [
+        "https://radiostream.pl/tuba8-1.mp3?cache=1650763965"
+      ],
+      "tags": [
+        "polish",
+        "polish rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4148
+    },
+    {
+      "name": "Rock Radio",
+      "urls": [
+        "https://radiostream.pl/tuba8-1.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Rock Radio Klasyka Rocka",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.im-g.pl/im/7/24937/m24937627.jpg",
+      "votes": 301
+    },
+    {
+      "name": "Sizeer",
+      "urls": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "votes": 35
+    },
+    {
+      "name": "Śląskie Radio",
+      "urls": [
+        "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3"
+      ],
+      "tags": [
+        "silesia",
+        "śląsk"
+      ],
+      "city": "Upper Silesia",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 326
+    },
+    {
+      "name": "Slonskie Radio Hitmix",
+      "urls": [
+        "https://s1.slotex.pl:7294/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 25
+    },
+    {
+      "name": "SmoothJazz.com.pl",
+      "urls": [
+        "https://bcast.vigormultimedia.com:48888/sjcompl320mp3"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "city": "Pomorskie",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "http://bcast.vigormultimedia.com:7000/sj_logo.png",
+      "votes": 32
+    },
+    {
+      "name": "SmoothJazz.com.pl 192k aac+",
+      "urls": [
+        "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "city": "Pomorskie",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
+      "votes": 667
+    },
+    {
+      "name": "SmoothJazz.com.pl 64k aac+",
+      "urls": [
+        "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "city": "Pomorskie",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
+      "votes": 225
+    },
+    {
+      "name": "Super FM 97.5",
+      "urls": [
+        "https://stream.super.fm:8443/superfm.mp3?1697692156303"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.super.fm/storage/app/uploads/public/5f8/6f3/983/5f86f3983122e636480233.png",
+      "votes": 45
+    },
+    {
+      "name": "supernova",
+      "urls": [
+        "https://ic1.smcdn.pl/1070-2.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 227
+    },
+    {
+      "name": "Supernova Party",
+      "urls": [
+        "https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party"
+      ],
+      "tags": [
+        "disco"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "SuperNova Rock",
+      "urls": [
+        "https://waw.ic.smcdn.pl/6090-1.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 153
+    },
+    {
+      "name": "Supernova Super 13",
+      "urls": [
+        "https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "SuperOrbita",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7086/stream"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 25
+    },
+    {
+      "name": "TobiFM",
+      "urls": [
+        "https://s1.slotex.pl/shoutcast/7822/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://panelradiowy.pl/images/playfacebook.png",
+      "votes": 32
+    },
+    {
+      "name": "TOK FM",
+      "urls": [
+        "https://radiostream.pl/tuba10-1.mp3#TOK_FM"
+      ],
+      "tags": [
+        "information"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.im-g.pl/im/6/7455/m7455556.gif",
+      "votes": 10038
+    },
+    {
+      "name": "TOK FM",
+      "urls": [
+        "https://radiostream.pl/tuba10-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 247
+    },
+    {
+      "name": "Tok FM",
+      "urls": [
+        "https://radiostream.pl/tuba10-2.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://static.tokfm.pl/prodstatic360/img/logo_tokfm_fb.png",
+      "votes": 16
+    },
+    {
+      "name": "trap",
+      "urls": [
+        "https://getradio.reconv.pl/openfm?s=trap-pl"
+      ],
+      "tags": [
+        "rap"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 107
+    },
+    {
+      "name": "trap pl",
+      "urls": [
+        "https://getradio.reconv.pl/openfm?s=trap"
+      ],
+      "tags": [
+        "rap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Trendy Radio Mobile",
+      "urls": [
+        "https://stream.trendyradio.pl/m"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 96,
+      "logo": "https://trendyradio.pl/assets/images/logo.gif",
+      "votes": 41
+    },
+    {
+      "name": "trip radio",
+      "urls": [
+        "https://a13.asurahosting.com/listen/trip-radio/radio.mp3"
+      ],
+      "tags": [
+        "downtempo",
+        "dub",
+        "electronica",
+        "illbient",
+        "trip-hop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.tripradio.net/gfx/favicon/favicon-512x512.png",
+      "votes": 7
+    },
+    {
+      "name": "Twoja Polska Stacja",
+      "urls": [
+        "https://sluchaj2.radiopark.biz.pl:8443/tpsapp"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://twojapolskastacja.pl/tps-logo.png",
+      "votes": 9
+    },
+    {
+      "name": "TyfloRadio",
+      "urls": [
+        "https://radio.tyflopodcast.net/"
+      ],
+      "tags": [],
+      "city": "Malopolskie",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "UJOT FM",
+      "urls": [
+        "https://stream.ujot.fm/"
+      ],
+      "tags": [
+        "news",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "VibeFM",
+      "urls": [
+        "https://ic2.smcdn.pl/6490-1.aac"
+      ],
+      "tags": [
+        "hip-hop",
+        "pop",
+        "rap"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "VOX FM 128",
+      "urls": [
+        "https://ic2.smcdn.pl/3990-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://voxfm.pl/apple-touch-icon.png",
+      "votes": 2998
+    },
+    {
+      "name": "VOX FM 128kbps",
+      "urls": [
+        "https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.voxfm.pl/apple-touch-icon.png",
+      "votes": 642
+    },
+    {
+      "name": "VOX FM BEST LISTA",
+      "urls": [
+        "https://ic1.smcdn.pl/6100-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.music.smcloud.net/t/cover/ab3cb926-3607-48f0-8cab-8a0cf2ec3461_BL_500x500_500x500.jpg",
+      "votes": 82
+    },
+    {
+      "name": "Wasze Radio FM",
+      "urls": [
+        "https://sluchaj.link:5443/wasze"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.waszeradiofm.pl/apple-touch-icon.png",
+      "votes": 380
+    },
+    {
+      "name": "Xvibe",
+      "urls": [
+        "https://xvibe.pl/stream.php"
+      ],
+      "tags": [
+        "polish",
+        "pop",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://xvibe.pl/wp-content/uploads/2024/01/logo-kwadrat-biale-czarne-tlo-scaled.webp",
+      "votes": 17
+    },
+    {
+      "name": "Zet 90s",
+      "urls": [
+        "https://zt02.cdn.eurozet.pl/ZET090.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png",
+      "votes": 255
+    },
+    {
+      "name": "ZET Impreza",
+      "urls": [
+        "https://zt.cdn.eurozet.pl/ZETPAR.mp3"
+      ],
+      "tags": [
+        "zet impreza"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 408
+    },
+    {
+      "name": "ZET Latino",
+      "urls": [
+        "https://ch.cdn.eurozet.pl/ZETLTN.mp3"
+      ],
+      "tags": [
+        "zet latino"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 133
+    },
+    {
+      "name": "ZET Na Swieta",
+      "urls": [
+        "https://zt.cdn.eurozet.pl/ZETSWI.mp3"
+      ],
+      "tags": [
+        "zet na swieta"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 86
+    },
+    {
+      "name": "ZET Po Polsku",
+      "urls": [
+        "https://zt.cdn.eurozet.pl/ZETPL1.mp3"
+      ],
+      "tags": [
+        "zet po polsku"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 255
+    },
+    {
+      "name": "ZET Pop Rock",
+      "urls": [
+        "https://zt.cdn.eurozet.pl/ZETPRK.mp3"
+      ],
+      "tags": [
+        "zet pop rock"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 408
+    },
+    {
+      "name": "ZET Same Hity",
+      "urls": [
+        "https://zt.cdn.eurozet.pl/ZETHIT.mp3"
+      ],
+      "tags": [
+        "zet hit"
+      ],
+      "city": "Warszawa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 552
+    },
+    {
+      "name": "Złote Przeboje Bydgoszcz",
+      "urls": [
+        "https://radiostream.pl/tuba8902-1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Żyrardio",
+      "urls": [
+        "https://radio.hszyr.space/"
+      ],
+      "tags": [
+        "eurobeat"
+      ],
+      "city": "mazowieckie",
+      "codec": "FLAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7
+    }
+  ]
+}

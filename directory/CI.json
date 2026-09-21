@@ -1,0 +1,174 @@
+{
+  "code": "CI",
+  "name": "Coted Ivoire",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 63
+    },
+    {
+      "name": "Africa Radio Abidjan",
+      "urls": [
+        "https://africaradio.ice.infomaniak.ch/abidjan128.mp3"
+      ],
+      "tags": [
+        "african",
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 301
+    },
+    {
+      "name": "Afrobeat international",
+      "urls": [
+        "https://listen.radioking.com/radio/397789/stream/449770"
+      ],
+      "tags": [
+        "afrobeat"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 215
+    },
+    {
+      "name": "EB FM",
+      "urls": [
+        "https://stream.zeno.fm/oy1uo8lwuy9uv"
+      ],
+      "tags": [
+        "actualités",
+        "gospel",
+        "émission"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Life radio Côte d’Ivoire",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/life/stream"
+      ],
+      "tags": [
+        "african pop",
+        "afropop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 427
+    },
+    {
+      "name": "Radio Jam",
+      "urls": [
+        "https://listen.radioking.com/radio/61201/stream/98566"
+      ],
+      "tags": [
+        "african music",
+        "folk music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 205
+    },
+    {
+      "name": "Radio Maria Ivory Coast",
+      "urls": [
+        "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.radiomaria.ci/wp-content/uploads/2016/09/per-itunes.jpg",
+      "votes": 588
+    },
+    {
+      "name": "Radio Pulsar Katiola",
+      "urls": [
+        "https://stream10.vestaradio.com/RADIO-PULSAR-KATIOLA"
+      ],
+      "tags": [
+        "generalist",
+        "ivory coast",
+        "katiola"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiopulsarkatiola.vestaradio.eu/uploads/temp/logos/logo_2776_1030_1786630814_11fe93.jpg",
+      "votes": 5
+    },
+    {
+      "name": "RadioAgonshu",
+      "urls": [
+        "https://stream10.vestaradio.com/RadioAgonshu"
+      ],
+      "tags": [
+        "meditation",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://studio10.vestaradio.com/uploads/user-music/1748/covers/cover_1748_1782679287_a66968.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Skyrock Abidjan",
+      "urls": [
+        "https://icecast.skyrock.net/s/abidjan_aac_64k"
+      ],
+      "tags": [
+        "african pop",
+        "afrobeat",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 209
+    },
+    {
+      "name": "WaveMaster Radio",
+      "urls": [
+        "https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3"
+      ],
+      "tags": [
+        "afrobeat",
+        "hip hop",
+        "jazz",
+        "r&b",
+        "urban contemporary",
+        "zouglou",
+        "zouk"
+      ],
+      "city": "Lagune",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://wavemaster.diskstation.me/static/uploads/browser_icon/original.1787247046.png",
+      "votes": 5
+    }
+  ]
+}

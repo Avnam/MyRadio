@@ -1,0 +1,211 @@
+{
+  "code": "BH",
+  "name": "Bahrain",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ".. مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 734
+    },
+    {
+      "name": ".beautiful recitation",
+      "urls": [
+        "https://qurango.net/radio/salma"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 551
+    },
+    {
+      "name": ".Quran",
+      "urls": [
+        "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 578
+    },
+    {
+      "name": ".إذاعة ماهر المعيقلي",
+      "urls": [
+        "https://backup.qurango.net/radio/maher"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 502
+    },
+    {
+      "name": ".القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 530
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 463
+    },
+    {
+      "name": "AFN GO BAHRAIN",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://afngo.net/static/media/Bahrain.24eaa086d110f57b7e38.png",
+      "votes": 325
+    },
+    {
+      "name": "Bahrain 106.1 FM",
+      "urls": [
+        "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8"
+      ],
+      "tags": [
+        "bahrain",
+        "islam",
+        "quran"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 1066,
+      "logo": "https://www.mia.gov.bh/wp-content/uploads/2023/02/cropped-Royal-Emblem-192x192.png",
+      "votes": 41
+    },
+    {
+      "name": "Bahrain FM 93.3",
+      "urls": [
+        "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8"
+      ],
+      "tags": [
+        "bahrain",
+        "bahrain fm 93.3"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 1066,
+      "logo": null,
+      "votes": 717
+    },
+    {
+      "name": "ccc",
+      "urls": [
+        "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 97,
+      "logo": "null",
+      "votes": 200
+    },
+    {
+      "name": "Monte Carlo Doualiya",
+      "urls": [
+        "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1186
+    },
+    {
+      "name": "Panorama FM",
+      "urls": [
+        "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 348,
+      "logo": "https://www.mbc.net/apple-touch-icon.png",
+      "votes": 309
+    },
+    {
+      "name": "Traditional Radio 95.0",
+      "urls": [
+        "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8"
+      ],
+      "tags": [
+        "bahrain",
+        "traditional radio 95.0"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 556
+    },
+    {
+      "name": "إذاعة القرآن الكريم",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+      "votes": 1540
+    },
+    {
+      "name": "تفسير بن عثيمين رحمه الله",
+      "urls": [
+        "https://qurango.net/radio/tafseer"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 890
+    }
+  ]
+}

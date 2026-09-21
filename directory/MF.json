@@ -1,0 +1,19 @@
+{
+  "code": "MF",
+  "name": "French Part Saint Martin",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Tropik FM Live From St Barth",
+      "urls": [
+        "https://stream10.vestaradio.com/TROPIKFM"
+      ],
+      "tags": [],
+      "city": "France",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    }
+  ]
+}

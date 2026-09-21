@@ -1,0 +1,296 @@
+{
+  "code": "ET",
+  "name": "Ethiopia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Bisrat FM 101.1 Addis Ababa · 101.1 FM",
+      "urls": [
+        "https://bisratfm-atunwadigital.streamguys1.com/bisratfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 233
+    },
+    {
+      "name": "Addis Music",
+      "urls": [
+        "https://stream.zeno.fm/umguj2baxdctv"
+      ],
+      "tags": [
+        "ethiopia",
+        "music"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://proxy.zeno.fm/content/stations/391ffb41-ab1e-4423-b936-720f68d27937/image/",
+      "votes": 1075
+    },
+    {
+      "name": "Ahadu Radio",
+      "urls": [
+        "https://stream-155.zeno.fm/txxpndf1wwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eHhwbmRmMXd3enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilp6VmgwOG5XUUFtWXQySm5OYk5XbXciLCJpYXQiOjE3MzAyMjY1NTksImV4cCI6MTczMDIyNjYxOX0.AnMCHL-Etgnu9fOBcU_h1hawhJJv_PcXGHBS2BOlzV0"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.brandfetch.io/domain/ahaduradio.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed",
+      "votes": 314
+    },
+    {
+      "name": "Amharic Live Sport የኳስ  ኮሜኔታተር",
+      "urls": [
+        "https://stream.zeno.fm/bqtruhn4q98uv"
+      ],
+      "tags": [
+        "amharic",
+        "football",
+        "soccer",
+        "sports"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1608
+    },
+    {
+      "name": "Christian Mezmur Ethiopia",
+      "urls": [
+        "https://stream.zeno.fm/0bws6ct0ey8uv"
+      ],
+      "tags": [
+        "christian",
+        "ethiopia",
+        "religious"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw_pudvwsMCxIOU3RhdGlvblByb2ZpbGUYgICw7resuAgMogEEemVubw/images/logo",
+      "votes": 1053
+    },
+    {
+      "name": "DW Amharic",
+      "urls": [
+        "https://dw.audiostream.io/dw/1027/mp3/64/dw08"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 980
+    },
+    {
+      "name": "EBC Radio 104.7 Addis Abeba",
+      "urls": [
+        "https://stream-25.zeno.fm/2xguamap7yzuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2079
+    },
+    {
+      "name": "Ethio FM 107.8",
+      "urls": [
+        "https://stream.zeno.fm/72y045deqeruv"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgpIe5mgsMCxIOU3RhdGlvblByb2ZpbGUYgIDglIiptQsMogEEemVubw/image/",
+      "votes": 4390
+    },
+    {
+      "name": "EthiOldies",
+      "urls": [
+        "https://www.ethioldies.com/listen/ethioldies/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.ethioldies.com/static/uploads/ethioldies/album_art.1732346933.png",
+      "votes": 472
+    },
+    {
+      "name": "Ethiopian Orthodox Church Mezmur",
+      "urls": [
+        "https://stream.zeno.fm/pfaho9uockwuv"
+      ],
+      "tags": [
+        "orthodox",
+        "religious"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/fea86ed7-365e-4a74-8a62-653577898d5c/images/logo",
+      "votes": 1829
+    },
+    {
+      "name": "FM ADDIS 97-1",
+      "urls": [
+        "https://stream.zeno.fm/rb6wbrap7yzuv"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICA4LLwzggMCxIOU3RhdGlvblByb2ZpbGUYgICQ_KLDtQoMogEEemVubw/image/",
+      "votes": 2426
+    },
+    {
+      "name": "Halaal Media",
+      "urls": [
+        "https://stream.zeno.fm/rqx24qj7offvv"
+      ],
+      "tags": [],
+      "city": "ethiopia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream.zeno.fm/rqx24qj7offvv",
+      "votes": 364
+    },
+    {
+      "name": "Jano FM",
+      "urls": [
+        "https://stream-54.zeno.fm/1cyn1as4v68uv?zs=6ALEcBPQR5Wq6_T-zr8TDw"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://forwardmystream.com/stations/500/janofm-5607.png",
+      "votes": 2276
+    },
+    {
+      "name": "Sheger FM",
+      "urls": [
+        "https://stream.zeno.fm/y91n1vtbaw5tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/b24dd6_2ef687e27c8a41ac84e14a7ff8849f83~mv2.png/v1/fill/w_175,h_175,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/W_o%20Background.png",
+      "votes": 1004
+    },
+    {
+      "name": "Sheger FM 102.1",
+      "urls": [
+        "https://stream.zenolive.com/y91n1vtbaw5tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/b24dd6_6a29942fac4e4dbe808a5b20bd3732cc%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/b24dd6_6a29942fac4e4dbe808a5b20bd3732cc%7emv2.png",
+      "votes": 5217
+    },
+    {
+      "name": "Taem Radio ጣዕም ሬድዮ",
+      "urls": [
+        "https://stream.zeno.fm/ffg8htkh1k0uv"
+      ],
+      "tags": [],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4cH5_woMCxIOU3RhdGlvblByb2ZpbGUYgIDQkcyS2QgMogEEemVubw/image/",
+      "votes": 1308
+    },
+    {
+      "name": "TIRITA 97.6 FM",
+      "urls": [
+        "https://stream.zeno.fm/x751reg18zhvv"
+      ],
+      "tags": [],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1716
+    },
+    {
+      "name": "Tizta ትዝታ FM",
+      "urls": [
+        "https://stream.zeno.fm/55nlq5yzqlftv"
+      ],
+      "tags": [
+        "ambient",
+        "ethiopia",
+        "slow",
+        "tizta"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/7766189d-acbb-421a-ae31-20564c52dc76/images/logo",
+      "votes": 1467
+    },
+    {
+      "name": "Voice of Ethiopia",
+      "urls": [
+        "https://node-34.zeno.fm/hubm64kkr2zuv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 3522
+    },
+    {
+      "name": "YeneVibe Radio",
+      "urls": [
+        "https://stream.zeno.fm/5mz3qqftsnhvv"
+      ],
+      "tags": [
+        "amharic",
+        "ethiopia",
+        "music",
+        "public radio"
+      ],
+      "city": "Addis Ababa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICI-dft8AgMCxIOU3RhdGlvblByb2ZpbGUYgICIhYa_nQgMogEEemVubw/image/",
+      "votes": 898
+    }
+  ]
+}

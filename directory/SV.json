@@ -1,0 +1,474 @@
+{
+  "code": "SV",
+  "name": "El Salvador",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "100.7 Stereo",
+      "urls": [
+        "https://stream20.usastreams.com/8138/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s221823/images/logog.png?t=1",
+      "votes": 262
+    },
+    {
+      "name": "105 Salsa",
+      "urls": [
+        "https://stream.zeno.fm/mdn371ycuwzuv"
+      ],
+      "tags": [
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 683
+    },
+    {
+      "name": "ABC 100.1",
+      "urls": [
+        "https://streaming.rcs.com.sv/proxy/abc/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-sv/abc.png",
+      "votes": 70
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 20
+    },
+    {
+      "name": "AURA FM 99.3",
+      "urls": [
+        "https://stream.miradio.in/proxy/aura/stream"
+      ],
+      "tags": [
+        "99.3 fm",
+        "aura fm 99.3",
+        "aura.fm",
+        "electronica",
+        "radio mesias 99.3"
+      ],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/460/mesias-radio-993-fm.8fb08a60.jpg",
+      "votes": 6
+    },
+    {
+      "name": "C3 Radio",
+      "urls": [
+        "https://azuracast.myautodj.com/radio/8170/radio.mp3"
+      ],
+      "tags": [],
+      "city": "La libertad",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "DOREMIX 92.5 FM",
+      "urls": [
+        "https://media.dominiocreativo.com:8056/doremix"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://www.doremix.net/img/logodoremix.png",
+      "votes": 7
+    },
+    {
+      "name": "Femenina",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8028/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s13206/images/logog.png?t=161313",
+      "votes": 795
+    },
+    {
+      "name": "La Tribu FM",
+      "urls": [
+        "https://streamer.radio.co/s3a3c12873/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://latribu.fm/logo2.png",
+      "votes": 1485
+    },
+    {
+      "name": "La Urbana 94.9",
+      "urls": [
+        "https://streaming.rcs.com.sv/proxy/urbana/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocorporacionelsalvador.com/wp-content/uploads/2024/10/La-Urbana.png",
+      "votes": 58
+    },
+    {
+      "name": "Plenitud Radio",
+      "urls": [
+        "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radio.elim.org.sv/plenitud/tmp/images/default.png",
+      "votes": 109
+    },
+    {
+      "name": "Plus 101.3",
+      "urls": [
+        "https://media.dominiocreativo.com:9006/;?type=http&nocache=1693284624"
+      ],
+      "tags": [],
+      "city": "San Sala",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://plus1013.com/img/logoplus.png",
+      "votes": 36
+    },
+    {
+      "name": "Radio Astral 102.9 FM",
+      "urls": [
+        "https://streaming.rcs.com.sv/proxy/astral/stream"
+      ],
+      "tags": [
+        "astral",
+        "heavy metal",
+        "radio astral 102.9 fm",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241106_171436681.jpg?alt=media&token=79b5a454-56cf-4717-9002-5e8428978448",
+      "votes": 388
+    },
+    {
+      "name": "Radio Bautista",
+      "urls": [
+        "https://s2.radio.co/s3a7dc3d82/listen"
+      ],
+      "tags": [
+        "christian praise&worship"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://tabernaculo.net/favicon.ico",
+      "votes": 1269
+    },
+    {
+      "name": "Radio Campirana",
+      "urls": [
+        "https://sonicpanel.cloudstreaming.eu/7206/stream"
+      ],
+      "tags": [
+        "latino",
+        "ranchera"
+      ],
+      "city": "Metapan",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Radio El Camino",
+      "urls": [
+        "https://www.streamingcp.com:2000/stream/elcaminofm/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://iglesiadelcamino.org/wp-content/uploads/2020/06/logo.png",
+      "votes": 53
+    },
+    {
+      "name": "Radio Fiesta",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8026/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 138
+    },
+    {
+      "name": "Radio la Chvere 100.9",
+      "urls": [
+        "https://streaming.rcs.com.sv/proxy/chevere/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-sv/radio-la-chevere.png",
+      "votes": 113
+    },
+    {
+      "name": "Radio La Paz FM",
+      "urls": [
+        "https://stream.consultoradas.com/8042/stream"
+      ],
+      "tags": [
+        "música en español",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.lapaz.fm/img/logonuevoico.ico",
+      "votes": 193
+    },
+    {
+      "name": "Radio Láser Español",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8030/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png",
+      "votes": 641
+    },
+    {
+      "name": "Radio Láser Inglés",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8032/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png",
+      "votes": 2573
+    },
+    {
+      "name": "Radio Legislativa de El Salvador",
+      "urls": [
+        "https://streaming.asamblea.gob.sv/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.asamblea.gob.sv/themes/asamblea/favicon.ico",
+      "votes": 5
+    },
+    {
+      "name": "Radio Mercado Metapan",
+      "urls": [
+        "https://centova.playerfullhd.com/proxy/brfrtxcf/stream"
+      ],
+      "tags": [
+        "noticias y deportes"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiomercadometapan.com/wp-content/uploads/2023/07/cropped-logo-316x143.jpg",
+      "votes": 130
+    },
+    {
+      "name": "Radio Nacional de El Salvador  - 96.9",
+      "urls": [
+        "https://streamingcwsradio30.com/8156/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RNES_logo.svg/320px-RNES_logo.svg.png",
+      "votes": 816
+    },
+    {
+      "name": "Radio Que Buena 88.9",
+      "urls": [
+        "https://cast3.my-control-panel.com/proxy/gabriel4/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 106
+    },
+    {
+      "name": "Radio Ranchera",
+      "urls": [
+        "https://sp4.colombiatelecom.com.co/8024/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://ranchera.com.sv/wp-content/uploads/2020/07/logo-1.png",
+      "votes": 147
+    },
+    {
+      "name": "Radio Restauracion",
+      "urls": [
+        "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radio.elim.org.sv/restauracion/tmp/images/default.jpg",
+      "votes": 265
+    },
+    {
+      "name": "Radio Rumba Latina",
+      "urls": [
+        "https://c11.radioboss.fm:8303/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://radiorumbalatina.com/wp-content/uploads/2023/10/LOGO2021.png",
+      "votes": 269
+    },
+    {
+      "name": "Radio Rumba Latina",
+      "urls": [
+        "https://c11.radioboss.fm:18303/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 207
+    },
+    {
+      "name": "Radio Supra 90.5 FM",
+      "urls": [
+        "https://stream-52.zeno.fm/cpoqmejvb7ftv?zs=r9mYF1zHSD-C0In5SO_XUg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 138
+    },
+    {
+      "name": "Radio Verdad 95.7 FM",
+      "urls": [
+        "https://cloudstream2036.conectarhosting.com/8168/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radioverdad.com/wp-content/uploads/2021/01/logoRVerdad_mini.png",
+      "votes": 152
+    },
+    {
+      "name": "Radio YSKL 104.1 FM",
+      "urls": [
+        "https://media.dominiocreativo.com:8000/stream/1/"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 817
+    },
+    {
+      "name": "Radio YSUCA, 91.7 FM",
+      "urls": [
+        "https://fast.citrus3.com:8314/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 159
+    },
+    {
+      "name": "Restauracion / 100.5 FM - Mision Cristiana Elim",
+      "urls": [
+        "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": "https://www.elim.org.sv/wp-content/uploads/2023/04/cropped-imagotipo-elim-blanco-1-180x180.png",
+      "votes": 2012
+    },
+    {
+      "name": "Taylor Swift Radio",
+      "urls": [
+        "https://stream.zeno.fm/xiothj9jrxfvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://e1.pngegg.com/pngimages/630/656/png-clipart-taylor-swift-taylor-swift-1-thumbnail.png",
+      "votes": 303
+    },
+    {
+      "name": "Vox FM",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/gabriel/stream"
+      ],
+      "tags": [],
+      "city": "San Salvador",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.voxfm.com/wp-content/uploads/2019/10/cropped-logo-0f7bbd36a1db77073538e98e69346455.png",
+      "votes": 41
+    },
+    {
+      "name": "Xtremevibes",
+      "urls": [
+        "https://c17.radioboss.fm:8162/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://xtremevibes.com/img/covers/cover.png",
+      "votes": 91
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "code": "UZ",
+  "name": "Uzbekistan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 773
+    },
+    {
+      "name": "Islom.uz",
+      "urls": [
+        "https://radio.islom.uz/islomuz"
+      ],
+      "tags": [
+        "islamic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1520
+    },
+    {
+      "name": "Radio O'zbegim Taronasi",
+      "urls": [
+        "https://fm101.uz:9943/fm101_low.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3405
+    },
+    {
+      "name": "rytmabad",
+      "urls": [
+        "https://radio.filmtastic.uz/listen/rytmabad/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rytmabad.radio/favicon.png",
+      "votes": 4
+    },
+    {
+      "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+      "urls": [
+        "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+      ],
+      "tags": [
+        "islamic، classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1933
+    },
+    {
+      "name": "Truck FM",
+      "urls": [
+        "https://fm.truckfm.uz:8000/64"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 7
+    }
+  ]
+}

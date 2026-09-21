@@ -1,0 +1,2724 @@
+{
+  "code": "AT",
+  "name": "Austria",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Life Radio Tirol - MUSIC ONLY",
+      "urls": [
+        "https://stream.liferadio.tirol/MUONLY/mp3-192/link"
+      ],
+      "tags": [],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "111",
+      "urls": [
+        "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 431,
+      "logo": "null",
+      "votes": 88
+    },
+    {
+      "name": "28Radio - Rock",
+      "urls": [
+        "https://streaming.28radio.cc:8000/rock.mp3"
+      ],
+      "tags": [
+        "rac",
+        "rock",
+        "rock 'n roll",
+        "various"
+      ],
+      "city": "Burgenland",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://example.com/besticon.png",
+      "votes": 10
+    },
+    {
+      "name": "60er70er MEGAMIX",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/mm-60er70ermegamix"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "80er90er Megamix",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/mm-80er90ermegamix"
+      ],
+      "tags": [
+        "extraviel",
+        "pop.",
+        "rock und"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "AIR-Radio",
+      "urls": [
+        "https://streamsrv-airradio.kechit.eu/128"
+      ],
+      "tags": [],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Antenna Österreich",
+      "urls": [
+        "https://edge84.streamonkey.net/antoesterreich-live"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+      "votes": 181
+    },
+    {
+      "name": "Antenne Austro Hits",
+      "urls": [
+        "https://live.antenne.at/auh"
+      ],
+      "tags": [
+        "austrian music",
+        "austrohits",
+        "austropop"
+      ],
+      "city": "Kärnten",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 199
+    },
+    {
+      "name": "Antenne Kärnten 80er Pop",
+      "urls": [
+        "https://live.antenne.at/80s"
+      ],
+      "tags": [
+        "80's",
+        "80er",
+        "80s",
+        "80s radio"
+      ],
+      "city": "Kärnten",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.radioplayer.org/040/04051/600/600/lopvbsjz.png",
+      "votes": 11
+    },
+    {
+      "name": "Antenne Österreich",
+      "urls": [
+        "https://edge80.streamonkey.net/antoesterreich-live"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+      "votes": 57
+    },
+    {
+      "name": "Antenne Salzburg",
+      "urls": [
+        "https://edge69.streamonkey.net/antsalzburg-live"
+      ],
+      "tags": [],
+      "city": "Salzburg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "Antenne Steiermark (werbefrei)",
+      "urls": [
+        "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Styria",
+      "codec": "AAC",
+      "bitrate": 1828,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+      "votes": 37
+    },
+    {
+      "name": "Antenne Vorarlberg",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 325
+    },
+    {
+      "name": "Antenne Vorarlberg 2000er Hits",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-2000er"
+      ],
+      "tags": [
+        "2000er",
+        "2000s",
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 135
+    },
+    {
+      "name": "Antenne Vorarlberg 2010er Hits",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-2010er"
+      ],
+      "tags": [
+        "2010er",
+        "2010s",
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 116
+    },
+    {
+      "name": "Antenne Vorarlberg 70er Hits",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-70er"
+      ],
+      "tags": [
+        "70's",
+        "70er",
+        "70s",
+        "classic",
+        "classic hits",
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png",
+      "votes": 241
+    },
+    {
+      "name": "Antenne Vorarlberg 90s Hits",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-90er"
+      ],
+      "tags": [
+        "90s"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 201
+    },
+    {
+      "name": "Antenne Vorarlberg Chillout",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Antenne Vorarlberg Chillout Lounge",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-chillout"
+      ],
+      "tags": [
+        "chillout",
+        "dance",
+        "edm",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/favicon.ico",
+      "votes": 176
+    },
+    {
+      "name": "Antenne Vorarlberg Christkindl Radio",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-christkindl"
+      ],
+      "tags": [
+        "christmas"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 62
+    },
+    {
+      "name": "Antenne Vorarlberg Classic Rock",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3"
+      ],
+      "tags": [
+        "classic",
+        "rock"
+      ],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 330
+    },
+    {
+      "name": "Antenne Vorarlberg Coffee Hits",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-coffee"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 121
+    },
+    {
+      "name": "Antenne Vorarlberg Dance Radio",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-dance"
+      ],
+      "tags": [
+        "dance",
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 263
+    },
+    {
+      "name": "Antenne Vorarlberg Lovesongs",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "Antenne Vorarlberg Musica Italiana",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-italiana"
+      ],
+      "tags": [
+        "italian"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 158
+    },
+    {
+      "name": "Antenne vorarlberg Non Stop",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-nonstop"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 62
+    },
+    {
+      "name": "Antenne Vorarlberg Oldies but Goldies",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-oldies"
+      ],
+      "tags": [
+        "classic",
+        "classic hits",
+        "oldies"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png",
+      "votes": 441
+    },
+    {
+      "name": "Antenne Vorarlberg Partymix",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-partymix"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "edm",
+        "electronic",
+        "partymix"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 424
+    },
+    {
+      "name": "Antenne Vorarlberg Rock Radio",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 45
+    },
+    {
+      "name": "Antenne Vorarlberg Schlagerkult",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+      ],
+      "tags": [
+        "schlager"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 155
+    },
+    {
+      "name": "Antenne Vorarlberg TOP40",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-top40"
+      ],
+      "tags": [
+        "charts",
+        "hits"
+      ],
+      "city": "Vorarlberg",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+      "votes": 90
+    },
+    {
+      "name": "Arabella",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile"
+      ],
+      "tags": [],
+      "city": "Wien",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
+      "votes": 14
+    },
+    {
+      "name": "Arabella 70 r",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "70er"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 93
+    },
+    {
+      "name": "Arabella 80 r",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "80er"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 115
+    },
+    {
+      "name": "Arabella 90 er",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "90er"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 198
+    },
+    {
+      "name": "Arabella Austropop",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "austrian music",
+        "austropop"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 562
+    },
+    {
+      "name": "Arabella gold",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "gold"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Arabella Golden oldies",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "golden oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 436
+    },
+    {
+      "name": "Arabella holiday",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 62
+    },
+    {
+      "name": "Arabella hot",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 151
+    },
+    {
+      "name": "Arabella Lovesongs",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "lovesongs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 119
+    },
+    {
+      "name": "Arabella Relax",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "relaxation"
+      ],
+      "city": "Wien",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU",
+      "votes": 982
+    },
+    {
+      "name": "Arabella Rock",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "Arabella schlager",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [
+        "schlager"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 328
+    },
+    {
+      "name": "Arabella Tiamo",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+      "votes": 202
+    },
+    {
+      "name": "Atnnene sSterewich",
+      "urls": [
+        "https://edge15.streamonkey.net/antoesterreich-live"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+      "votes": 11
+    },
+    {
+      "name": "AUSTRIA FIRST – Österreichs Patriotenradio",
+      "urls": [
+        "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q"
+      ],
+      "tags": [
+        "conservative talk",
+        "news",
+        "patriot",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://austriafirst.at/wp-content/uploads/2026/01/favicon-256x256-1.png",
+      "votes": 94
+    },
+    {
+      "name": "Blechradio 1",
+      "urls": [
+        "https://streamt.at/radio/8000/blechradio1.mp3"
+      ],
+      "tags": [
+        "brass"
+      ],
+      "city": "Steiermark",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png",
+      "votes": 217
+    },
+    {
+      "name": "Blechradio 2",
+      "urls": [
+        "https://streamt.at:8010/website_popandrock.mp3?ver=141186"
+      ],
+      "tags": [],
+      "city": "Steiermark",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://player.blechradio.at/images/blechradio_2_logo.jpg",
+      "votes": 23
+    },
+    {
+      "name": "Blechradio 3",
+      "urls": [
+        "https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211"
+      ],
+      "tags": [],
+      "city": "Steiermark",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://player.blechradio.at/images/blechradio_3_logo.jpg",
+      "votes": 17
+    },
+    {
+      "name": "Callshop Radio Wien",
+      "urls": [
+        "https://icecast.callshopradio.com/callshopradio-wien"
+      ],
+      "tags": [
+        "ambient",
+        "electro",
+        "electronic",
+        "hip hop",
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.sanity.io/images/0smxd0yv/production/e21c49aec89f19279ac0b5d37a283e0a5be838c1-500x500.svg?w=300&h=300&fm=png&fit=max&auto=format",
+      "votes": 6
+    },
+    {
+      "name": "City Jazz",
+      "urls": [
+        "https://stream.radiotechnikum.at/CITYJAZZ"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cityjazz.at/wp-content/uploads/2024/04/city_jazz_x40.jpg",
+      "votes": 111
+    },
+    {
+      "name": "CR 94.4",
+      "urls": [
+        "https://cr944.at:50443/cr944"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "dbFM Radio",
+      "urls": [
+        "https://stream.dbfmradio.org:8030/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.dbfmradio.org/DBFM_Logo3.jpg",
+      "votes": 1
+    },
+    {
+      "name": "emap.fm",
+      "urls": [
+        "https://s2.stationplaylist.com:9470/listen.aac"
+      ],
+      "tags": [
+        "world wide ethno music & reports"
+      ],
+      "city": "Vienna",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://emap.fm/images/logo_emap.gif",
+      "votes": 19
+    },
+    {
+      "name": "ENERGY ÖSTERREICH",
+      "urls": [
+        "https://streaming.nrjaudio.fm/ouvfydoarp52"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "pop",
+        "r'n'b",
+        "top 40"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.brandfetch.io/idBu4-_WiS/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769076313016",
+      "votes": 14
+    },
+    {
+      "name": "ERF Süd",
+      "urls": [
+        "https://erfradio.com/ERF_Sued"
+      ],
+      "tags": [
+        "inspiration radio",
+        "life stories",
+        "mindfulness",
+        "motivational talk",
+        "personal growth",
+        "positive news",
+        "uplifting music",
+        "wellbeing tips"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://erfsued.com/site/templates/img/favicon-256x256.png",
+      "votes": 23
+    },
+    {
+      "name": "Eurodance-X-Press",
+      "urls": [
+        "https://secureonair.krone.at/eurodance.aac"
+      ],
+      "tags": [
+        "90s",
+        "dance",
+        "eurodance",
+        "top40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.eurodance.at/images/logo.png",
+      "votes": 801
+    },
+    {
+      "name": "FFH 80ER",
+      "urls": [
+        "https://mp3.ffh.de/ffhchannels/hq80er.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Flash90s",
+      "urls": [
+        "https://stream.flash90s.at/flash90s/mp3-192/"
+      ],
+      "tags": [
+        "90s",
+        "pop",
+        "rock"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.flash90s.at/images/logo.png",
+      "votes": 73
+    },
+    {
+      "name": "FM4 | ORF",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/fm4-q1a"
+      ],
+      "tags": [
+        "orf",
+        "alternative mainstream",
+        "electronic",
+        "pop",
+        "rock",
+        "public radio"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+      "votes": 2440
+    },
+    {
+      "name": "FM4 | ORF | HQ",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/fm4-q2a"
+      ],
+      "tags": [
+        "orf",
+        "alternative mainstream",
+        "electronic",
+        "pop",
+        "rock",
+        "public radio"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+      "votes": 1613
+    },
+    {
+      "name": "Freies Radio Innviertel",
+      "urls": [
+        "https://radiofri.out.airtime.pro/radiofri_a"
+      ],
+      "tags": [],
+      "city": "Upper Austria",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio-fri.at/wp-content/uploads/2022/10/cropped-FRI_FreiesRadioInnviertel_favicon-32x32.png",
+      "votes": 16
+    },
+    {
+      "name": "Freies Radio Salzkammergut",
+      "urls": [
+        "https://streaming.xaok.org/frs.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-192x192.png",
+      "votes": 20
+    },
+    {
+      "name": "FREIRAD",
+      "urls": [
+        "https://stream.freirad.at/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.freirad.at/wp-content/themes/betheme-child/images/logo-mobile.png",
+      "votes": 4
+    },
+    {
+      "name": "Gamesboro Radio - Video Game Music 24/7",
+      "urls": [
+        "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3"
+      ],
+      "tags": [
+        "chiptune",
+        "game",
+        "nintendo",
+        "playstation",
+        "sega",
+        "video game music",
+        "xbox"
+      ],
+      "city": "Burgenland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png",
+      "votes": 182
+    },
+    {
+      "name": "Grün-Weiss",
+      "urls": [
+        "https://live.gruen-weiss.at/rgw.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "halil haydar telci",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+      "votes": 3
+    },
+    {
+      "name": "Her.st Propaganda Broadcast",
+      "urls": [
+        "https://radio.her.st/listen/listen/128.mp3"
+      ],
+      "tags": [
+        "conspiracy theories",
+        "philosophy",
+        "psychedelic"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://her.st/favicon.ico",
+      "votes": 40
+    },
+    {
+      "name": "I-love-Radio-104",
+      "urls": [
+        "https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg5OTg4MzAwJmQ9NDZlNmZlMzBmNTBkYmRhMzRkM2M"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Infora Austria",
+      "urls": [
+        "https://s35.derstream.net/inforadio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orf.at/app-infos/sound/logos/infoRadio.png",
+      "votes": 5
+    },
+    {
+      "name": "JazzW3",
+      "urls": [
+        "https://air.jazz.w3.at/jazzw3.ogg"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "Vienna",
+      "codec": "OGG",
+      "bitrate": 128,
+      "logo": "http://jazz.w3.at/logo.png",
+      "votes": 109
+    },
+    {
+      "name": "Jö.Live",
+      "urls": [
+        "https://edge10.stream.maxfive.com/max5-joelive"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "Wien",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.joe-club.at/",
+      "votes": 18
+    },
+    {
+      "name": "jö.live - Mein Tag. Meine Musik.",
+      "urls": [
+        "https://edge83.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://maxfive.com/wp-content/themes/Default/Assets/Favicons/apple-touch-icon.png",
+      "votes": 4
+    },
+    {
+      "name": "Kronehit TV",
+      "urls": [
+        "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+      ],
+      "tags": [
+        "tv"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.kronehit.at///apple-touch-icon.png",
+      "votes": 103
+    },
+    {
+      "name": "LCR Radio",
+      "urls": [
+        "https://streaming.radio.co/sba5c95896/listen"
+      ],
+      "tags": [],
+      "city": "Wien",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png",
+      "votes": 22
+    },
+    {
+      "name": "Life Radio 80er",
+      "urls": [
+        "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/"
+      ],
+      "tags": [
+        "80s",
+        "80s radio"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+      "votes": 44
+    },
+    {
+      "name": "Life Radio Chill Out",
+      "urls": [
+        "https://stream8.liferadio.at/"
+      ],
+      "tags": [],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 310
+    },
+    {
+      "name": "Life Radio Chill Out Hits",
+      "urls": [
+        "https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/"
+      ],
+      "tags": [
+        "ambient and relaxation music",
+        "chill out",
+        "chillout"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+      "votes": 62
+    },
+    {
+      "name": "Life Radio Classic Rock",
+      "urls": [
+        "https://stream11.liferadio.at/"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "Life Radio ClassicRock",
+      "urls": [
+        "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 222
+    },
+    {
+      "name": "Life Radio Greatest Hits",
+      "urls": [
+        "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "greatest hits",
+        "pop",
+        "rock"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+      "votes": 80
+    },
+    {
+      "name": "Life Radio Sommersongs",
+      "urls": [
+        "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "sommerhits",
+        "summer",
+        "summer hits",
+        "summer radio",
+        "summer tunes"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+      "votes": 15
+    },
+    {
+      "name": "Life Radio Tirol",
+      "urls": [
+        "https://stream.liferadio.tirol/live/mp3-192/link"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://liferadio.konsole-labs.com/img/live.png",
+      "votes": 48
+    },
+    {
+      "name": "Life Radio Tirol",
+      "urls": [
+        "https://stream.liferadio.tirol/oldies/acc-128/link"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Life Radio Tirol - ITALO",
+      "urls": [
+        "https://stream.liferadio.tirol/italo/mp3-192/link"
+      ],
+      "tags": [],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Life Radio Tirol - Schlagerpuls",
+      "urls": [
+        "https://stream.liferadio.tirol/schlager/mp3-192/link"
+      ],
+      "tags": [],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.liferadio.tirol/wp-content/uploads/2023/02/Channels-Radioplayer-quadratisch-Schlagerpuls.png",
+      "votes": 35
+    },
+    {
+      "name": "Life Radio Tirol- Alles Malle",
+      "urls": [
+        "https://stream.liferadio.tirol/malle/mp3-192/link"
+      ],
+      "tags": [],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Lounge.FM - 100% Austria",
+      "urls": [
+        "https://s35.derstream.net/100austria.mp3"
+      ],
+      "tags": [
+        "downtempo",
+        "easy listening",
+        "lounge",
+        "smooth jazz"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+      "votes": 1908
+    },
+    {
+      "name": "Lounge.FM Kanal 2 - Wien",
+      "urls": [
+        "https://s35.derstream.net/ukwwien.mp3"
+      ],
+      "tags": [
+        "downtempo",
+        "easy listening",
+        "lounge",
+        "smooth jazz"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+      "votes": 130
+    },
+    {
+      "name": "Medex ExYu Balkan",
+      "urls": [
+        "https://a5.asurahosting.com:7350/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Metal Radio",
+      "urls": [
+        "https://stream.radiotechnikum.at:80/METALRadio"
+      ],
+      "tags": [
+        "metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Metal Radio",
+      "urls": [
+        "https://stream.radiotechnikum.at/METALRadio"
+      ],
+      "tags": [],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://metal-radio.at/assets/logo-D4TNgK9S.svg",
+      "votes": 32
+    },
+    {
+      "name": "Modular Station",
+      "urls": [
+        "https://broadcast.modular-station.com/listen/modular_station/radio.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png",
+      "votes": 0
+    },
+    {
+      "name": "Mountain Reggae Radio",
+      "urls": [
+        "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
+      ],
+      "tags": [
+        "hip-hop",
+        "reggae"
+      ],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 642
+    },
+    {
+      "name": "museumsradio",
+      "urls": [
+        "https://museum.streamserver24.com:8080/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "ORANGE 94.0",
+      "urls": [
+        "https://securestream.o94.at/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://o94.at/themes/custom/radio_orange/logo1.png",
+      "votes": 41
+    },
+    {
+      "name": "ORF - Radio Salzburg",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/sbg-q1a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Salzburg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+      "votes": 31
+    },
+    {
+      "name": "ORF Hitradio Ö3",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/oe3-q2a"
+      ],
+      "tags": [
+        "pop",
+        "pop music"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+      "votes": 114
+    },
+    {
+      "name": "ORF Hitradio Ö3",
+      "urls": [
+        "https://ors-sn03.ors-shoutcast.at/oe3-q1a"
+      ],
+      "tags": [
+        "orf",
+        "pop"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+      "votes": 422
+    },
+    {
+      "name": "ORF Hitradio Ö3 (128k HLS)",
+      "urls": [
+        "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+      "votes": 32
+    },
+    {
+      "name": "ORF Hitradio Ö3 (290k HLS)",
+      "urls": [
+        "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 315,
+      "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+      "votes": 114
+    },
+    {
+      "name": "ORF Ö1 (128k HLS)",
+      "urls": [
+        "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 152,
+      "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
+      "votes": 25
+    },
+    {
+      "name": "ORF Ö1 (290k HLS)",
+      "urls": [
+        "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 339,
+      "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
+      "votes": 67
+    },
+    {
+      "name": "ORF Ö1 Campus",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/campus-q1a"
+      ],
+      "tags": [
+        "orf",
+        "campus radio",
+        "experimental radio",
+        "pop",
+        "world music"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
+      "votes": 41
+    },
+    {
+      "name": "ORF Ö1 Campus | HQ",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/campus-q2a"
+      ],
+      "tags": [
+        "orf",
+        "campus radio",
+        "experimental radio",
+        "pop",
+        "world music"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
+      "votes": 83
+    },
+    {
+      "name": "ORF Radio Burgenland",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/bgl-q1a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Burgenland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
+      "votes": 82
+    },
+    {
+      "name": "ORF Radio Kärnten HQ",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/ktn-q2a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Kärnten",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png",
+      "votes": 54
+    },
+    {
+      "name": "ORF Radio Niederösterreich",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/noe-q1a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Niederösterreich",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+      "votes": 163
+    },
+    {
+      "name": "ORF Radio Oberösterreich",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/ooe-q1a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+      "votes": 238
+    },
+    {
+      "name": "ORF Radio Oberösterreich | HQ",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/ooe-q2a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+      "votes": 218
+    },
+    {
+      "name": "ORF Radio Salzburg HQ",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/sbg-q2a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Salzburg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+      "votes": 168
+    },
+    {
+      "name": "ORF Radio Vorarlberg",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/vbg-q2a"
+      ],
+      "tags": [],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 25
+    },
+    {
+      "name": "ORF Radio Wien (128k HLS)",
+      "urls": [
+        "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf"
+      ],
+      "city": "Vienna",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+      "votes": 14
+    },
+    {
+      "name": "ORF Radio Wien (290k HLS)",
+      "urls": [
+        "https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8"
+      ],
+      "tags": [
+        "at_orf"
+      ],
+      "city": "Vienna",
+      "codec": "AAC",
+      "bitrate": 315,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+      "votes": 50
+    },
+    {
+      "name": "PetersPlattentek",
+      "urls": [
+        "https://server7524.streamplus.de/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Pirate Radio Austria",
+      "urls": [
+        "https://secureonair.krone.at/pirate.aac"
+      ],
+      "tags": [
+        "alternative pop",
+        "alternative rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://pirateradio-website.konsole-labs.com/images/logo.png",
+      "votes": 97
+    },
+    {
+      "name": "Popwelle Wörthersee,AutoDJ",
+      "urls": [
+        "https://popwellezwei.sp.radio.fm/stream"
+      ],
+      "tags": [
+        "musik der 90er",
+        "oldies",
+        "oldies der 60er",
+        "oldies der 70er",
+        "oldies der 80er",
+        "popschlager",
+        "schlager"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://lh3.googleusercontent.com/p/AF1QipO1nU_lDtIzU5-Sv6EZFzE7Wa-ttB38YYWP5f3A=s680-w680-h510",
+      "votes": 38
+    },
+    {
+      "name": "Popwelle. Das Musikradio,AutoDJ",
+      "urls": [
+        "https://popwelle.sp.radio.fm/stream"
+      ],
+      "tags": [
+        "indie",
+        "oldie",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://popwelle.at/pimages/popwelle_logo.png",
+      "votes": 32
+    },
+    {
+      "name": "Power FM Dublin",
+      "urls": [
+        "https://www.powerfm.org:8443/powerfm.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Proton - das freie Radio",
+      "urls": [
+        "https://radioproton.at:8443/proton"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 111
+    },
+    {
+      "name": "Purzelradio",
+      "urls": [
+        "https://s5.radio.co/sa760ba7af/listen"
+      ],
+      "tags": [],
+      "city": "Lower Austria",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.purzelradio.net/wp-content/uploads/2023/05/cropped-PurzelradioHeader.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio 3: The DJ Johnson Somerset Remixes",
+      "urls": [
+        "https://radio.eduneu.eu:8020/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.eduneu.eu/logo_radio3.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Agora",
+      "urls": [
+        "https://livestream.agora.at/agora"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.agora.at/images/favicons/apple-touch-icon.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Arabella Oberösterreich",
+      "urls": [
+        "https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "austrian music",
+        "austropop",
+        "smooth"
+      ],
+      "city": "Upper Austria",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.arabella.at/static/base/img/favicon.png",
+      "votes": 375
+    },
+    {
+      "name": "Radio B138",
+      "urls": [
+        "https://webstream.radiob138.at/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Bollerwagen",
+      "urls": [
+        "https://player.ffn.de/radiobollerwagen.mp3"
+      ],
+      "tags": [
+        "apresski",
+        "ballermann",
+        "party"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Braunau am Inn AT",
+      "urls": [
+        "https://stream.zeno.fm/ec0tpqnxqsbvv"
+      ],
+      "tags": [
+        "pop",
+        "schlager"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Flamingo",
+      "urls": [
+        "https://live.antenne.at/rf"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_LIVE_Vollfla_echig_Stream_Icon_4000x4000px_v1_b46a0d320f.jpg",
+      "votes": 38
+    },
+    {
+      "name": "Radio Flamingo + Golden Hits",
+      "urls": [
+        "https://live.radioflamingo.at/rfplusgoldenhits"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Golden_Hits_Vollfla_echig_Stream_Icon_4000x4000px_v1_5dea39f085.jpg",
+      "votes": 20
+    },
+    {
+      "name": "Radio Flamingo + Kultschlager",
+      "urls": [
+        "https://live.radioflamingo.at/rfpluskultschlager"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Kult_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_0c3c69c99a.jpg",
+      "votes": 13
+    },
+    {
+      "name": "Radio Flamingo + Volksmusik",
+      "urls": [
+        "https://live.radioflamingo.at/rfplusvolksmusik"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Volksmusik_Vollfla_echig_Stream_Icon_4000x4000px_v1_3c3eaff79d.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Radio Flamingo Christkindl",
+      "urls": [
+        "https://live.radioflamingo.at/rfchristkindl"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Christkindl_Vollfla_echig_Stream_Icon_4000x4000px_v1_25557f0fa0.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Flamingo Hoamat",
+      "urls": [
+        "https://live.radioflamingo.at/rfhoamat"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Hoamat_Vollfla_echig_Stream_Icon_4000x4000px_v1_0d86fbb36b.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio Flamingo Partyschlager",
+      "urls": [
+        "https://live.radioflamingo.at/rfpartyschlager"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioflamingo.at/uploads/medium_RF_Party_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_cff7d6fff8.png",
+      "votes": 39
+    },
+    {
+      "name": "Radio GÖD",
+      "urls": [
+        "https://radiogoed.securestream.kapper.net/stream"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "classic rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.goed.at/favicon/apple-icon-72x72.png",
+      "votes": 82
+    },
+    {
+      "name": "Radio Helsinki",
+      "urls": [
+        "https://live.helsinki.at:8088/live160.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://live.helsinki.at/img/helsinki.png",
+      "votes": 24
+    },
+    {
+      "name": "Radio MORA",
+      "urls": [
+        "https://server4.streamserver24.com:26250/stream?1655820557881"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio-browser.info/favicon.ico",
+      "votes": 19
+    },
+    {
+      "name": "Radio Nachtvogel",
+      "urls": [
+        "https://stream.tramp-cast.ch/8012/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio OP",
+      "urls": [
+        "https://server4.streamserver24.com:26250/stream"
+      ],
+      "tags": [],
+      "city": "Burgenland",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioop.at/favicon.ico",
+      "votes": 22
+    },
+    {
+      "name": "Radio Rot Weiß Rot",
+      "urls": [
+        "https://secureonair.krone.at/rwr.aac"
+      ],
+      "tags": [
+        "austrian music",
+        "austrian pop music",
+        "austropop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.rotweissrot.fan/favicon.ico",
+      "votes": 61
+    },
+    {
+      "name": "Radio Rudina",
+      "urls": [
+        "https://azuracast.datea.services:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiorudina.com/s/appleicon3.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Steiermark",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/stm-q2a"
+      ],
+      "tags": [],
+      "city": "Styria",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Studio Enns",
+      "urls": [
+        "https://server4.streamserver24.com:61414/"
+      ],
+      "tags": [],
+      "city": "Upper Austria",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Surprise The Live DJ Radio",
+      "urls": [
+        "https://a12.asurahosting.com/listen/radio_surprise/radio.mp3"
+      ],
+      "tags": [
+        "edm",
+        "pop",
+        "trance"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio U1 Tirol",
+      "urls": [
+        "https://live.u1-radio.at/"
+      ],
+      "tags": [],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-150x150.png",
+      "votes": 1210
+    },
+    {
+      "name": "Radio Uno Kärnten",
+      "urls": [
+        "https://radiouno.stream24.net/live.mp3"
+      ],
+      "tags": [],
+      "city": "Carinthia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mlsb1aptnbku.i.optimole.com/w:1920/h:994/q:mauto/f:best/https://radiouno-kaernten.at/wp-content/uploads/2022/07/Radio-Uno-Logo-JPEG-scaled.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio VM1",
+      "urls": [
+        "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+      ],
+      "tags": [
+        "folklore",
+        "schlager",
+        "volksmusik"
+      ],
+      "city": "Tirol",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.wixstatic.com/media/548694_ab538cd3682b46c6b81c924de1b94ee0~mv2.png/v1/fill/w_248,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_vm1_edited.png",
+      "votes": 52
+    },
+    {
+      "name": "Radio VM1 - Steiermark",
+      "urls": [
+        "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
+      ],
+      "tags": [
+        "folklore",
+        "schlager",
+        "volksmusik"
+      ],
+      "city": "Steiermark",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+      "votes": 21
+    },
+    {
+      "name": "Radio VM1 - Wien",
+      "urls": [
+        "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
+      ],
+      "tags": [
+        "folklore",
+        "schlager",
+        "volksmusik"
+      ],
+      "city": "Wien",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+      "votes": 31
+    },
+    {
+      "name": "Radio Vorarlberg",
+      "urls": [
+        "https://orf-live.ors-shoutcast.at/vbg-q1a"
+      ],
+      "tags": [
+        "orf"
+      ],
+      "city": "Vorarlberg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
+      "votes": 856
+    },
+    {
+      "name": "Radio Weanerisch gspielt",
+      "urls": [
+        "https://radiovm1.fluidstream.eu/weanarisch"
+      ],
+      "tags": [],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio-M1",
+      "urls": [
+        "https://stream.laut.fm/m1"
+      ],
+      "tags": [],
+      "city": "Tirol- Südtirol/Alto Adige/",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://radio-m1.com/images/m1-fx-logo.JPG",
+      "votes": 12
+    },
+    {
+      "name": "Radio886",
+      "urls": [
+        "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "ReplayScape",
+      "urls": [
+        "https://radio.replayscape.com:8443/128k.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
+      "votes": 4
+    },
+    {
+      "name": "RES.RADIO",
+      "urls": [
+        "https://edge.mixlr.com/channel/zwtuo"
+      ],
+      "tags": [
+        "culture",
+        "non-commercial",
+        "online"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://res.radio/android-chrome-192x192.png",
+      "votes": 79
+    },
+    {
+      "name": "Revisited",
+      "urls": [
+        "https://revisited.stream.laut.fm/revisited"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "Sankt Veit an der Glan",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.laut.fm/e837bb137d5e31a048d55632f3f84394?t=_120x120",
+      "votes": 7
+    },
+    {
+      "name": "Rock Antenne (Austria)",
+      "urls": [
+        "https://s6-webradio.webradio.de/rockantenne-oesterreich"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Rock Antenne Österreich",
+      "urls": [
+        "https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 19
+    },
+    {
+      "name": "Rock Antenne Österreich (AAC)",
+      "urls": [
+        "https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+      "votes": 112
+    },
+    {
+      "name": "Rockantenne Österreich live",
+      "urls": [
+        "https://s8-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Rockantenne Vorarlberg",
+      "urls": [
+        "https://web.radio.antennevorarlberg.at/av-rock/stream/mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "RRTH Austria",
+      "urls": [
+        "https://rrth.stream.laut.fm/rrth"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "RTV Unirea International",
+      "urls": [
+        "https://s1.bcmsol.ro/8002/stream"
+      ],
+      "tags": [
+        "folk",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://rtvunirea.com/wp-content/uploads/2020/06/png.png",
+      "votes": 3
+    },
+    {
+      "name": "Schwendermarkt",
+      "urls": [
+        "https://laut.fm/schwendermarkt"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "Sinnfunk",
+      "urls": [
+        "https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3"
+      ],
+      "tags": [
+        "meditation",
+        "new age",
+        "spiritual",
+        "talk radio"
+      ],
+      "city": "Styria",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://sinnfunk.b-cdn.net/fotos/SinnfunkLogo.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Soundportal",
+      "urls": [
+        "https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png",
+      "votes": 61
+    },
+    {
+      "name": "Styrialounge",
+      "urls": [
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "Styria",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Super80s",
+      "urls": [
+        "https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412"
+      ],
+      "tags": [
+        "80er",
+        "80s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.super80s.at/images/logo.png",
+      "votes": 19
+    },
+    {
+      "name": "Superfly Radio",
+      "urls": [
+        "https://web.stream.superfly.fm/superfly-live?aggregator=Website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://superfly.fm/player/img/s_logo.png?cb=V3000009",
+      "votes": 38
+    },
+    {
+      "name": "Superfly webradio Easy",
+      "urls": [
+        "https://edge81.stream.superfly.fm/superfly-easy"
+      ],
+      "tags": [
+        "funk",
+        "smooth",
+        "soul"
+      ],
+      "city": "Vienna",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Superfly Webradio Pure",
+      "urls": [
+        "https://edge81.stream.superfly.fm/superfly-pure"
+      ],
+      "tags": [
+        "chillout",
+        "funk",
+        "soul"
+      ],
+      "city": "Vienna",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Superfly.fm",
+      "urls": [
+        "https://edge66.stream.superfly.fm/superfly-live"
+      ],
+      "tags": [
+        "soul",
+        "soulful house"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Technikum City",
+      "urls": [
+        "https://stream.radiotechnikum.at/TECHCITY"
+      ],
+      "tags": [
+        "dab+",
+        "easy listening"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "Technikum Gold",
+      "urls": [
+        "https://stream.radiotechnikum.at/TECHGOLD"
+      ],
+      "tags": [
+        "goldies",
+        "oldies"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 98
+    },
+    {
+      "name": "Technikum One",
+      "urls": [
+        "https://stream.radiotechnikum.at/TECHONE"
+      ],
+      "tags": [],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "https://www.technikumone.at/favicon.ico",
+      "votes": 81
+    },
+    {
+      "name": "Technikum Rock",
+      "urls": [
+        "https://stream.radiotechnikum.at/TECHROCK"
+      ],
+      "tags": [
+        "dab+",
+        "rock"
+      ],
+      "city": "Vienna",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotechnikum.at/img/icon_rock.png",
+      "votes": 57
+    },
+    {
+      "name": "Techno Music Radio",
+      "urls": [
+        "https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png",
+      "votes": 5
+    },
+    {
+      "name": "U1 Tirol",
+      "urls": [
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
+      ],
+      "tags": [
+        "evergreen",
+        "schlager",
+        "volksmusik"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-300x300.png",
+      "votes": 22
+    },
+    {
+      "name": "U1 Tirol",
+      "urls": [
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://u1-radio.at/wp-content/uploads/2022/03/2022_U1_Logo_RGB_Schrift-weiss-1-768x844.png",
+      "votes": 5
+    },
+    {
+      "name": "UP THE IRONS",
+      "urls": [
+        "https://uptheirons.stream.laut.fm/up_the_irons"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal",
+        "metal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 126
+    },
+    {
+      "name": "Viyana FM",
+      "urls": [
+        "https://radyo.viyanafm.at/1453/stream"
+      ],
+      "tags": [],
+      "city": "Vienna",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Vorarlberg 80s",
+      "urls": [
+        "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "WEL 105,5",
+      "urls": [
+        "https://wel105point5.stream.laut.fm/wel105point5"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "WELLE 1 - Oberöstereich",
+      "urls": [
+        "https://live.welle1.at:17128/stream"
+      ],
+      "tags": [
+        "at_welle1"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+      "votes": 89
+    },
+    {
+      "name": "WELLE 1 - Oberösterreich - HQ",
+      "urls": [
+        "https://live.welle1.at:17256/stream"
+      ],
+      "tags": [
+        "at_welle1"
+      ],
+      "city": "Oberösterreich",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+      "votes": 314
+    },
+    {
+      "name": "Welle 1 - Salzburg",
+      "urls": [
+        "https://live.welle1.at:18128/stream"
+      ],
+      "tags": [
+        "at_welle1"
+      ],
+      "city": "Salzburg",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+      "votes": 25
+    },
+    {
+      "name": "Welle 1 - Salzburg - HQ",
+      "urls": [
+        "https://live.welle1.at:18256/stream"
+      ],
+      "tags": [
+        "at_welle1"
+      ],
+      "city": "Salzburg",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+      "votes": 100
+    },
+    {
+      "name": "XXXLutz Radio",
+      "urls": [
+        "https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite"
+      ],
+      "tags": [
+        "adult contemporary",
+        "contemporary hits",
+        "pop dance",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.xxxlutz-dasradio.at/images/logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Yeshua.at Radio",
+      "urls": [
+        "https://yeshua.at:8443/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "Yu Radio",
+      "urls": [
+        "https://stream.radiotechnikum.at:80/YURADIO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Yves Joseph",
+      "urls": [
+        "https://us1.streamingpulse.com/stream/trinity3"
+      ],
+      "tags": [],
+      "city": "Pennsylvania (Philadelphia)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tunein.com/radio/RADIO-PELERIN-FM-s260708/",
+      "votes": 2
+    }
+  ]
+}

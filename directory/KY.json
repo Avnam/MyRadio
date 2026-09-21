@@ -1,0 +1,111 @@
+{
+  "code": "KY",
+  "name": "The Cayman Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "Big Fish 95.5FM",
+      "urls": [
+        "https://ice41.securenetsystems.net/BIGFISH"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://bigfish955.ky/wp-content/uploads/2022/10/round-logo.png",
+      "votes": 30
+    },
+    {
+      "name": "Island FM - The Rhythm Of Cayman",
+      "urls": [
+        "https://iriefm-hurleysmedia.radioca.st/stream?_=912521"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mmo.aiircdn.com/275/60b648b67aea1.png",
+      "votes": 53
+    },
+    {
+      "name": "Paradise Radio",
+      "urls": [
+        "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "Paradise Radio",
+      "urls": [
+        "https://radiostreamcast.com/listen/paradise_radio/radio.mp3"
+      ],
+      "tags": [
+        "24/7",
+        "dance",
+        "disco"
+      ],
+      "city": "grand cayman island",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.paradiseradio.org/wp-content/uploads/2024/08/logo.png",
+      "votes": 14
+    },
+    {
+      "name": "Rooster 101",
+      "urls": [
+        "https://rooster101-hurleysmedia.radioca.st/stream"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "319 Shedden Rd, George Town",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mmo.aiircdn.com/275/60beb112e3b35.png",
+      "votes": 16
+    },
+    {
+      "name": "X107.1",
+      "urls": [
+        "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://stingraymedia.com/wp-content/uploads/2024/11/cropped-logo-2-2-180x180.png",
+      "votes": 121
+    },
+    {
+      "name": "Z99 - Cayman Islands",
+      "urls": [
+        "https://z99-hurleysmedia.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mmo.aiircdn.com/275/60bf9a38a1834.png",
+      "votes": 56
+    }
+  ]
+}

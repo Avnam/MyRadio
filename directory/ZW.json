@@ -1,0 +1,57 @@
+{
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 162
+    },
+    {
+      "name": "Capitalk 100.4FM Harare",
+      "urls": [
+        "https://edge.iono.fm/xice/162_medium.aac"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "Harare",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s295932d.png",
+      "votes": 1316
+    },
+    {
+      "name": "CENTRAL RADIO 98.5",
+      "urls": [
+        "https://centralstream.zbc.co.zw:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://www.centralradio.co.zw/wp-content/uploads/2021/11/central_loge-removebg-preview.png",
+      "votes": 356
+    },
+    {
+      "name": "Star FM 89.7",
+      "urls": [
+        "https://edge.iono.fm/xice/159_medium.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.starfm.co.zw/favicon.ico",
+      "votes": 1702
+    }
+  ]
+}

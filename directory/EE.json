@@ -1,0 +1,852 @@
+{
+  "code": "EE",
+  "name": "Estonia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 7
+    },
+    {
+      "name": "Äripäeva Raadio",
+      "urls": [
+        "https://www.aripaev.ee/raadio/stream.mp3"
+      ],
+      "tags": [
+        "business news",
+        "estonia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.aripaev.ee/favicons/aripaev/favicon.ico",
+      "votes": 264
+    },
+    {
+      "name": "Duo Gold (Estonia)",
+      "urls": [
+        "https://le301.euddn.net/edfdb3638e67dfd07add5461f7e2c50c741947192f070989f0044d846e2845f419d95d41d10acbdb9c2ec000913a22bab07bd8350eaceccc1fc72bf26f6e80058ab3ed7ad8f3cab3e624f11aae2675d611df69be3f1e09f16efb9fe23371a24dcaa294a00126cd100e95bbedee3edd6c4d3eba59ee4ee1c6aed4e8cbb56ebad57ba723e9a98b939165ad8d2b3959661ed1c401ffdb4fb15ece6a776e5095cb50478646dd4bd2ea164669823565ee4b0e/kuld.aac"
+      ],
+      "tags": [
+        "gold",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://pleier.ee/favicons/pleier/favicon-32x32.png",
+      "votes": 18
+    },
+    {
+      "name": "Duo Party",
+      "urls": [
+        "https://le301.euddn.net/1268f24e563992831f398fe3b43540d6cdb4cfa85e5c15b22cc06f07166a47013a1024390d616af8f4c2d79019a9e51541af99a505fc671b2382b19218a99e8a560829bc95a0342692e02644eaaf1b4a057624ee1eb209abb18044414cc9692224e1c7e02395923f30e8190efdd215b81124eaffc49b88146e8eaaba15f1ab42516ac40c26dbb78c9d76e12ee9415992c7f7cf9dc538b6ec7315d7b56741d3fdb5cf97632f99f3f72f7b94fc41806ef4/duodance.aac"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://f302.pmo.ee/L3qQOIrm8IQjKoZDAoI7ouLHfe8=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2024/03/duoparty-ruut.jpg",
+      "votes": 178
+    },
+    {
+      "name": "Elmari Kuld",
+      "urls": [
+        "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac"
+      ],
+      "tags": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "classic pop",
+        "estonia",
+        "vintage"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 160,
+      "logo": "https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png",
+      "votes": 12
+    },
+    {
+      "name": "FinEst Radio",
+      "urls": [
+        "https://shoutcast.finestfm.fi/stream/1/:80/;stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://finestfm.fi/upload/623c699818c312.68089185.ico",
+      "votes": 1426
+    },
+    {
+      "name": "Global Export FM",
+      "urls": [
+        "https://radio.globalexport.ee/stream.mp3"
+      ],
+      "tags": [
+        "estonian news",
+        "news",
+        "talk",
+        "tallinn",
+        "weather"
+      ],
+      "city": "Harju maakond",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.globalexport.ee/logo-192.png",
+      "votes": 0
+    },
+    {
+      "name": "Hitmix",
+      "urls": [
+        "https://stream.hitmix.ee:8443/HIT_320"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://hitmix.ee/player/img/hitmix-dark.png",
+      "votes": 9
+    },
+    {
+      "name": "HITS RADIO ESTONIA",
+      "urls": [
+        "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Tallinn",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Hits Show Radio",
+      "urls": [
+        "https://stream.zeno.fm/7sreyeyustkuv"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png",
+      "votes": 8
+    },
+    {
+      "name": "HPS Bassline",
+      "urls": [
+        "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3"
+      ],
+      "tags": [
+        "dj sets",
+        "drum and bass",
+        "frenchcore",
+        "happy hardcore",
+        "hardcore",
+        "hardstyle/handsup/edm",
+        "j-core"
+      ],
+      "city": "Läänemaa",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.hpsbassline.club/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "IDA",
+      "urls": [
+        "https://broadcast.idaidaida.net:8000/stream"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Jumor FM Estonia",
+      "urls": [
+        "https://a10.asurahosting.com:7640/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://jumorfm.ee/wp-content/uploads/superpwa-splashIcons/super_splash_screens/icon_640x1136.png",
+      "votes": 2
+    },
+    {
+      "name": "Kaguraadio",
+      "urls": [
+        "https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8"
+      ],
+      "tags": [
+        "local news",
+        "local radio",
+        "local talk",
+        "retro music"
+      ],
+      "city": "Põlva",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo-roheline3-2.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Kiss FM",
+      "urls": [
+        "https://stream.skymedia.ee/live/KISS"
+      ],
+      "tags": [],
+      "city": "Tallinn",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg",
+      "votes": 16
+    },
+    {
+      "name": "Kiss FM",
+      "urls": [
+        "https://edge02.cdn.bitflip.ee:8888/KISS"
+      ],
+      "tags": [],
+      "city": "Tallinn",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 79
+    },
+    {
+      "name": "Kiss FM Eurovision",
+      "urls": [
+        "https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68"
+      ],
+      "tags": [
+        "dance",
+        "eurovision",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 88,
+      "logo": "https://sky.ee/storage/articles/2026/02/eurovision-detail-1.webp",
+      "votes": 0
+    },
+    {
+      "name": "KlaRa Jazz",
+      "urls": [
+        "https://icecast.err.ee/klarajazz.mp3"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 86
+    },
+    {
+      "name": "KlaRa Klassika",
+      "urls": [
+        "https://icecast.err.ee/klaraklassika.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 92
+    },
+    {
+      "name": "KlaRa Nostalgia",
+      "urls": [
+        "https://icecast.err.ee/klaranostalgia.mp3"
+      ],
+      "tags": [
+        "classical",
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 122
+    },
+    {
+      "name": "Legendaarne Raadio",
+      "urls": [
+        "https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92"
+      ],
+      "tags": [
+        "hip-hop",
+        "rap"
+      ],
+      "city": "Tallinn",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg",
+      "votes": 13
+    },
+    {
+      "name": "Legendaarne Raadio",
+      "urls": [
+        "https://stream.skymedia.ee/live/Legendaarne"
+      ],
+      "tags": [
+        "hip-hop",
+        "rap"
+      ],
+      "city": "Tallinn",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg",
+      "votes": 11
+    },
+    {
+      "name": "NRJ",
+      "urls": [
+        "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://site.prelive.sky.ee/sites/default/files/2021-08/nrj.svg",
+      "votes": 191
+    },
+    {
+      "name": "NRJ Tallinn",
+      "urls": [
+        "https://edge03.cdn.bitflip.ee:8888/NRJ"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "pop dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 287
+    },
+    {
+      "name": "PCR.FM (Parnu Club Radio)",
+      "urls": [
+        "https://pcrfm.radiocult.fm/stream"
+      ],
+      "tags": [
+        "dance",
+        "dj",
+        "electronic",
+        "house",
+        "techno"
+      ],
+      "city": "Parnu",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://pcr.fm/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "Power Hit Radio",
+      "urls": [
+        "https://ice.leviracloud.eu/phr96-aac?"
+      ],
+      "tags": [
+        "hot adult contemporary"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "http://power.tv3.ee/favicon.ico",
+      "votes": 184
+    },
+    {
+      "name": "R2 Eesti",
+      "urls": [
+        "https://icecast.err.ee/r2eestikorge.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "R2p",
+      "urls": [
+        "https://icecast.err.ee/r2p.opus"
+      ],
+      "tags": [
+        "rap"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Raadio 7",
+      "urls": [
+        "https://edge05.cdn.bitflip.ee:8888/R7"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "Estonia",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 447
+    },
+    {
+      "name": "Raadio Duo",
+      "urls": [
+        "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png",
+      "votes": 79
+    },
+    {
+      "name": "Raadio Elmar",
+      "urls": [
+        "https://le303.euddn.net/352739527270043eac8309634bcd14e92c92c9c02baf5f22e271a8840df32cc4b7d9ad9bfc40cb13a2fb6bcaa1b60e4cb4b469003681eb97ba047875c9f0ee624fec7bb9da738f8ca41bbb1172c07e21ba86941eecb7b9af2d3b091316a5d6a256d52b81da316b2a853d5869034b691e47fe41d03dd59bb27c7506bd241b77d938bcebde46fcf2c2cf0b93270e5fea8ee7ffaf988c85514255e5077c128434b11ca503466ec88b4d4adf0a4653e68c54/elmar.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1276
+    },
+    {
+      "name": "Raadio Kadi",
+      "urls": [
+        "https://edge06.cdn.bitflip.ee:8888/kadi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "Raadio Kidzone",
+      "urls": [
+        "https://le302.euddn.net/26797668527067bf40a353019c78dd9bcb1760227831f621cf05a73cd8b6b14e7871a8271b71c474b65c3d0b01c3d7ffc35a28c1b9fd13c5bfbbdb06e343d1b9f9fc5acb13b310d86ef52bd949f26335c1a134addf53e0b2285d7d852977fd58de42a1e9ffe3f3f3d97d8b5f817e9aebc0340721f21127fdb90221d8367123bacbd9dde70dcc1683c772aaf71064aeea50c1b2336f873c2a49760de84ea941b3dc40d4ee306aa1dbe16a9ef875ffb9fe/kidzone.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://f302.pmo.ee/XCwVL9vwguHbm8jFYYsRXolq8Xg=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/12/raadio-kidzone-logo.png",
+      "votes": 25
+    },
+    {
+      "name": "Raadio Kuku",
+      "urls": [
+        "https://le301.euddn.net/f28dd5c8ba3b7e50b5a2bce19f1c625ece39e8a6f37eda019074705ec9f8bdfbe63b76e7a04e30d8ec94f598430c2a9a02260d46b50d703346729c8f29de4cf4e9e99532fd5ce429d16c3b99ef231ae34c923570ae0024d10edb08f528d364a3b26fd77d2882f0bcbadf99af5b0fe1ccf6eb21c493afdaadef2aaae19a94c3b2af4351914d4499eac9bb58a0ef62aaade6f41fc5aee9cbaa063a3e13068eee2fcce9029d26c41fb2fb221e89e56a77fa/kuku_high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1406
+    },
+    {
+      "name": "Raadio Relax FM",
+      "urls": [
+        "https://stream.relaxfm.ee/relax"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 88,
+      "logo": null,
+      "votes": 614
+    },
+    {
+      "name": "Raadio Relax International",
+      "urls": [
+        "https://stream.relaxfm.ee/international"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 661
+    },
+    {
+      "name": "Radio Azathoth Revival",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/aadu/stream"
+      ],
+      "tags": [
+        "garage rock",
+        "krautrock",
+        "psychedelic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Radio Nostalgia",
+      "urls": [
+        "https://c16.radioboss.fm:8327/stream"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://optim.tildacdn.net/tild3738-6439-4433-a336-616635313861/-/resize/760x/-/format/webp/_-removebg-preview.png",
+      "votes": 35
+    },
+    {
+      "name": "Radio Olematu",
+      "urls": [
+        "https://radio.olematu.ee/listen/radio_olematu/radio.mp3"
+      ],
+      "tags": [
+        "ai music",
+        "eclectic",
+        "international",
+        "pop",
+        "rock",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://olematu.ee/img/favicon.png",
+      "votes": 0
+    },
+    {
+      "name": "Relax cafe",
+      "urls": [
+        "https://stream.relaxfm.ee/cafe"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 596
+    },
+    {
+      "name": "Retro fm disco",
+      "urls": [
+        "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Retro FM Estonia",
+      "urls": [
+        "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b"
+      ],
+      "tags": [
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 938
+    },
+    {
+      "name": "Retro FM Estonia",
+      "urls": [
+        "https://stream.skymedia.ee/live/RETRO_AAC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 88,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 161
+    },
+    {
+      "name": "Retro Love",
+      "urls": [
+        "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
+      ],
+      "tags": [
+        "80s",
+        "disco",
+        "oldies",
+        "pop",
+        "retro"
+      ],
+      "city": "Tallinn",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+      "votes": 51
+    },
+    {
+      "name": "Rock FM",
+      "urls": [
+        "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 5138
+    },
+    {
+      "name": "Rock-FM Metal",
+      "urls": [
+        "https://edge04.cdn.bitflip.ee:8888/rckmetal"
+      ],
+      "tags": [
+        "metal"
+      ],
+      "city": "Tallinn, Harjumaa",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://sky.ee/storage/radio-stations/2025/12/Rock-FM-Metal-card.webp",
+      "votes": 9
+    },
+    {
+      "name": "RUUT FM",
+      "urls": [
+        "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://ruutfm.treraadio.ee/img/logo_valga.svg",
+      "votes": 8
+    },
+    {
+      "name": "Sky Plus",
+      "urls": [
+        "https://skymedia-live.bitflip.ee/SKYPLUS"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 137
+    },
+    {
+      "name": "Sky Plus",
+      "urls": [
+        "https://stream.skymedia.ee/live/SKYPLUS"
+      ],
+      "tags": [],
+      "city": "Harjumaa",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 971
+    },
+    {
+      "name": "Sky Plus D'N'B",
+      "urls": [
+        "https://edge01.cdn.bitflip.ee:8888/NRJdnb"
+      ],
+      "tags": [
+        "dnb",
+        "drum 'n' bass",
+        "drum and bass"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg",
+      "votes": 22
+    },
+    {
+      "name": "Sky Plus DnB",
+      "urls": [
+        "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
+      ],
+      "tags": [
+        "dance",
+        "dnb",
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://sky.ee/favicon.ico",
+      "votes": 768
+    },
+    {
+      "name": "Sky-Radio",
+      "urls": [
+        "https://stream.skymedia.ee/live/SKY"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 217
+    },
+    {
+      "name": "Star Fm",
+      "urls": [
+        "https://ice.leviracloud.eu/star96-aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://www.tv3.ee/wp-content/themes/amb/assets/favicons/favicon-128.png",
+      "votes": 1308
+    },
+    {
+      "name": "Star FM",
+      "urls": [
+        "https://ice.leviracloud.eu/star320-mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.instant.audio/images/logos/raadiod-com/star-fm.png",
+      "votes": 46
+    },
+    {
+      "name": "Star FM Eesti",
+      "urls": [
+        "https://ice.leviracloud.eu/starFMEesti96-aac"
+      ],
+      "tags": [
+        "00's",
+        "10's",
+        "20's",
+        "80's",
+        "90's",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png",
+      "votes": 82
+    },
+    {
+      "name": "Super радио",
+      "urls": [
+        "https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=b2d6fa6f"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 88,
+      "logo": "https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg",
+      "votes": 1
+    },
+    {
+      "name": "Taifuun FM",
+      "urls": [
+        "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://taifuun.eu/favicon.ico",
+      "votes": 26
+    },
+    {
+      "name": "Tre Raadio Ring FM",
+      "urls": [
+        "https://cdn.treraadio.ee/ringfm"
+      ],
+      "tags": [
+        "community radio",
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://ringfm.treraadio.ee/apple-touch-icon.png",
+      "votes": 409
+    },
+    {
+      "name": "Võmba FM",
+      "urls": [
+        "https://c4.radioboss.fm:18123/stream"
+      ],
+      "tags": [
+        "1990s",
+        "90s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 687
+    }
+  ]
+}

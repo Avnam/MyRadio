@@ -1,0 +1,47 @@
+{
+  "code": "SS",
+  "name": "South Sudan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "96.3 Favour FM Juba",
+      "urls": [
+        "https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://img1.wsimg.com/isteam/ip/8283663d-5a2f-4e7a-88b0-762e2b6679d0/Favour%20Radio%20Logo%20PNG.png/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95",
+      "votes": 575
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 164
+    },
+    {
+      "name": "Radio south sudan",
+      "urls": [
+        "https://stream2.svrdedicado.org/8056/stream"
+      ],
+      "tags": [
+        "information",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiosouthsudan.com/static/media/logo_radio-south-sudan.50f8ba3f63682309d7f0.png",
+      "votes": 22
+    }
+  ]
+}

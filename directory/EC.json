@@ -1,0 +1,1523 @@
+{
+  "code": "EC",
+  "name": "Ecuador",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 11
+    },
+    {
+      "name": "Amazonas FM 92.1",
+      "urls": [
+        "https://dattavolt.com/8346/stream"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "music",
+        "popular",
+        "various"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radioamazonas.ec/wp-content/uploads/2023/11/radio-amazonas-logo-1.png",
+      "votes": 94
+    },
+    {
+      "name": "Antena Uno 90.5",
+      "urls": [
+        "https://dattavolt.com/8202/stream"
+      ],
+      "tags": [
+        "classic rock",
+        "country rock",
+        "noticias",
+        "rock",
+        "rock & roll"
+      ],
+      "city": "azuay",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 516
+    },
+    {
+      "name": "area deportiva",
+      "urls": [
+        "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live"
+      ],
+      "tags": [
+        "deportes"
+      ],
+      "city": "Pichincha",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 207
+    },
+    {
+      "name": "Area Deportiva 99.3 FM",
+      "urls": [
+        "https://radio.uncuartocomunicacion.com:8020/stream"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "noticias y deportes",
+        "radio hablada",
+        "sports"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://areadeportiva.ec/wp-content/uploads/2024/01/cropped-IMG_3205-1.png",
+      "votes": 98
+    },
+    {
+      "name": "Armonica FM",
+      "urls": [
+        "https://armonicafm.makrodigital.com:9570/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 344
+    },
+    {
+      "name": "Brisa Azul FM",
+      "urls": [
+        "https://streaming01.radiosenlinea.com.ar/8196/stream"
+      ],
+      "tags": [
+        "etc",
+        "música",
+        "variedad"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_124054028.jpg?alt=media&token=48c5e3b2-df62-4913-9cb4-41664f497810",
+      "votes": 32
+    },
+    {
+      "name": "Café Radio 91.7 FM",
+      "urls": [
+        "https://usa3.lhdserver.es:8139/stream"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "entretenimiento",
+        "musica",
+        "música variada",
+        "reggaeton",
+        "variety"
+      ],
+      "city": "Manabí",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://caferadio917.com.ec/wp-content/uploads/2020/10/logotipo-cafe-radio-917.svg",
+      "votes": 58
+    },
+    {
+      "name": "Cañar Stereo 97.3 FM",
+      "urls": [
+        "https://ecuamedios.net:10937/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "latino",
+        "música en español",
+        "música variada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 59
+    },
+    {
+      "name": "Católica Cuenca 98.1 FM",
+      "urls": [
+        "https://radiohdstreaming.com/radio/8230/catolica"
+      ],
+      "tags": [
+        "catolica",
+        "cristiana",
+        "cumbia",
+        "noticias",
+        "religious",
+        "retro",
+        "tropical",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://i1.wp.com/radiocatolicacuenca.com.ec/wp/wp-content/uploads/2017/02/logo-GRANDE.jpg",
+      "votes": 46
+    },
+    {
+      "name": "Clásica FM",
+      "urls": [
+        "https://radio.soft-dg.com/clasica_fm/index.m3u8"
+      ],
+      "tags": [
+        "clasic rock",
+        "clasicos en ingles",
+        "classic hits"
+      ],
+      "city": "Pastaza",
+      "codec": "AAC",
+      "bitrate": 375,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Cómplice FM 99.7 FM",
+      "urls": [
+        "https://dattavolt.com/8422/stream"
+      ],
+      "tags": [
+        "baladas en español",
+        "entretenimiento",
+        "information",
+        "musica romantica",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Contigo Fm",
+      "urls": [
+        "https://panel.innovatestream.pe:10852/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://contigofm.live/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "votes": 68
+    },
+    {
+      "name": "Contigo FM 104.9",
+      "urls": [
+        "https://panel.innovatestream.pe:10852/;"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "adlut contemporary",
+        "classic hits",
+        "entretenimiento",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png",
+      "votes": 35
+    },
+    {
+      "name": "DIBLU FM 88.9",
+      "urls": [
+        "https://streamingecuador.net:9002/stream"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "information",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 24,
+      "logo": "https://diblu.ec/wp-content/uploads/2023/03/logodibluradio-300x148.png",
+      "votes": 440
+    },
+    {
+      "name": "Ecua Stereo Bohemia",
+      "urls": [
+        "https://stream-069.zeno.fm/xlrqrx7wuwcvv"
+      ],
+      "tags": [],
+      "city": "azuay",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 145
+    },
+    {
+      "name": "Expresiun FM 102.9",
+      "urls": [
+        "https://usa3.lhdserver.es:8031/stream"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "latino",
+        "music",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radioexpresionfm.com/wp-content/uploads/2023/06/logo-grande.jpeg",
+      "votes": 18
+    },
+    {
+      "name": "FB Radio 105.7 FM",
+      "urls": [
+        "https://streamingecuador.com:7032/stream"
+      ],
+      "tags": [
+        "amor",
+        "baladas en español",
+        "musica romantica",
+        "música en español"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://fbradio.ec/wp-content/uploads/thegem-logos/logo_0335860a0b7f69ccdc4ff35cd20eb201_1x.png",
+      "votes": 42
+    },
+    {
+      "name": "Flama Plus 104.5 FM",
+      "urls": [
+        "https://streaming.viphosting.cl/8286/stream?ver=541539"
+      ],
+      "tags": [
+        "entretenimiento",
+        "information",
+        "latino",
+        "música en español e inglés",
+        "radio comunitaria",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://flamaplus.com.ec/wp-content/uploads/2024/03/logoFlamaN.png",
+      "votes": 35
+    },
+    {
+      "name": "FM MUNDO 98.1 FM",
+      "urls": [
+        "https://streamingecuador.com:9810/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": "https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png",
+      "votes": 49
+    },
+    {
+      "name": "Forever Radio 92.5",
+      "urls": [
+        "https://streamingecuador.net:8014/forever"
+      ],
+      "tags": [
+        "actualidas",
+        "noticias"
+      ],
+      "city": "Guayaquil",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 47
+    },
+    {
+      "name": "Gualaceo Stereo 92.7",
+      "urls": [
+        "https://stream.zeno.fm/s74szs5uquhvv"
+      ],
+      "tags": [],
+      "city": "Cuenca ",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://cuencatve.blogspot.com/favicon.ico",
+      "votes": 146
+    },
+    {
+      "name": "HCJB La Voz de los Andes 89.3 FM",
+      "urls": [
+        "https://streamingecuador.net:8287/hcjb"
+      ],
+      "tags": [
+        "christian",
+        "christian music",
+        "cristiana",
+        "music",
+        "musica cristiana",
+        "news",
+        "noticias",
+        "radio cristiana"
+      ],
+      "city": "Pichincha",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1183
+    },
+    {
+      "name": "La 961 - Suprema estacion",
+      "urls": [
+        "https://dattavolt.com/8150/stream"
+      ],
+      "tags": [
+        "bachata",
+        "cumbia",
+        "merengue",
+        "regaeton"
+      ],
+      "city": "azuay",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.la961.com/images2/logo961.png",
+      "votes": 526
+    },
+    {
+      "name": "la chismosa",
+      "urls": [
+        "https://sp.dattavolt.com/8052/stream"
+      ],
+      "tags": [
+        "80's",
+        "reguetón",
+        "rock"
+      ],
+      "city": "cuenca",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": "https://lachismosafm.ec/wp-content/uploads/elementor/thumbs/LOGO-LA-CHISMOSA-qis9zqmwpdkd3vsuxzl4s8l65m4b877e574iskpse8.png",
+      "votes": 659
+    },
+    {
+      "name": "La Main Street (Radios Ecuador Online)",
+      "urls": [
+        "https://radiolatina.info/9930/stream"
+      ],
+      "tags": [
+        "chicha ecuatoriana",
+        "cumbia ecuatoriana",
+        "ecuador quito",
+        "pasillos",
+        "radios ecuador online"
+      ],
+      "city": "azuay",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 686
+    },
+    {
+      "name": "La Matro",
+      "urls": [
+        "https://due8atvq1x46v.cloudfront.net/ts:abr.m3u8"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Pichincha",
+      "codec": "AAC",
+      "bitrate": 322,
+      "logo": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+      "votes": 2
+    },
+    {
+      "name": "La Nueva Unica",
+      "urls": [
+        "https://streamingecuador.net:8035/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiounica945.com/wp-content/uploads/2024/03/LogoLaUnica2024.png",
+      "votes": 319
+    },
+    {
+      "name": "La Radio Redonda Guayaquil",
+      "urls": [
+        "https://laredondafm.makrodigital.com:9550/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 121
+    },
+    {
+      "name": "la voz del Tomebamba",
+      "urls": [
+        "https://streamingecuador.com:8074/lavozdeltomebamba"
+      ],
+      "tags": [
+        "70s disco",
+        "musica",
+        "musica romantica",
+        "noticias"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.lavozdeltomebamba.com/wp-content/uploads/2022/07/LogoTomebamba-230-2.png",
+      "votes": 111
+    },
+    {
+      "name": "La Voz del Tomebamba 1070 AM",
+      "urls": [
+        "https://streamingecuador.net:8074/lavozdeltomebamba"
+      ],
+      "tags": [
+        "latin music",
+        "música ecuatoriana",
+        "música en español",
+        "música latinoamericana",
+        "noticias",
+        "noticias locales"
+      ],
+      "city": "Cuenca",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 380
+    },
+    {
+      "name": "La99Radio",
+      "urls": [
+        "https://cast10.plugstreaming.com/stream/la99fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.la99radio.com/wp-content/uploads/2023/02/La99Radio180x180.png",
+      "votes": 4
+    },
+    {
+      "name": "Los 40 Ecuador",
+      "urls": [
+        "https://streamingecuador.com:7051/stream"
+      ],
+      "tags": [
+        "música pop"
+      ],
+      "city": "Pichincha",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 996
+    },
+    {
+      "name": "machdeportes",
+      "urls": [
+        "https://ss.ecuastreamhd.com:8186/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://machdeportes.com.ec/wp-content/uploads/2014/07/logoMachDeportesini1.png",
+      "votes": 90
+    },
+    {
+      "name": "MANIATICARADIO",
+      "urls": [
+        "https://a7.asurahosting.com/listen/maniaticaradio/radio.mp3"
+      ],
+      "tags": [
+        "electronic",
+        "house",
+        "music",
+        "podcast",
+        "techno",
+        "traditional",
+        "trance"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://maniaticaradio.com/logo.png",
+      "votes": 5
+    },
+    {
+      "name": "MelodiaFM",
+      "urls": [
+        "https://rr5100.globalhost1.com/8260/stream"
+      ],
+      "tags": [
+        "pop",
+        "pop rock",
+        "rock"
+      ],
+      "city": "Tungurahua",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://melodiafm905.com/wp-content/uploads/2026/04/icono-melodia-FM.png",
+      "votes": 3
+    },
+    {
+      "name": "Metro Stereo",
+      "urls": [
+        "https://due8atvq1x46v.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "urban"
+      ],
+      "city": "Tungurahua",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Modelo 97.7 FM",
+      "urls": [
+        "https://usa3.lhdserver.es:8197/stream"
+      ],
+      "tags": [
+        "hits",
+        "merengue",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 108
+    },
+    {
+      "name": "Música para ver llover",
+      "urls": [
+        "https://stream-287.surfernetwork.com/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im45TWJxMWNmVGhXRkRjWmdUTzJhVlEiLCJpYXQiOjE3ODk5MzM3MjUsImV4cCI6MTc4OTkzMzc4NX0.aih9D2fPEJ4s5NyxezuDliFr89GWbPLmfMKGGcYBNDE"
+      ],
+      "tags": [
+        "baladas",
+        "baladas en español",
+        "musica latina",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio.lien.tv/favicon.ico",
+      "votes": 32
+    },
+    {
+      "name": "No es merengue es una merengazo",
+      "urls": [
+        "https://stream.zeno.fm/twem5wa0k0hvv"
+      ],
+      "tags": [
+        "baile",
+        "latino",
+        "merengue",
+        "tecnomerengue"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.lien.tv/favicon.ico",
+      "votes": 77
+    },
+    {
+      "name": "Pa ti Pati cumbia",
+      "urls": [
+        "https://stream.zeno.fm/7cm28ptuhxhvv"
+      ],
+      "tags": [
+        "cumbia",
+        "cumbia argentina",
+        "cumbia colombiana",
+        "cumbia ecuatoriana",
+        "cumbia mexicana",
+        "cumbia pegadita",
+        "cumbia peruana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.lien.tv/favicon.ico",
+      "votes": 72
+    },
+    {
+      "name": "Play FM 95.3",
+      "urls": [
+        "https://streamingecuador.net:8008/radioplayfm"
+      ],
+      "tags": [
+        "deportes",
+        "entretenimiento",
+        "information",
+        "music",
+        "noticias",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.sucrefm.com/images/logo.png",
+      "votes": 51
+    },
+    {
+      "name": "Play Radio Online",
+      "urls": [
+        "https://stream.zeno.fm/thjs0ijturotv"
+      ],
+      "tags": [],
+      "city": "Quito",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Pon salsa y todo norte",
+      "urls": [
+        "https://stream.zeno.fm/eft72w1vrnhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 58
+    },
+    {
+      "name": "R.S.N. La Indestructible",
+      "urls": [
+        "https://stream.zeno.fm/wahxwkbdaoduv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "noticias",
+        "variedad"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_154821820.jpg?alt=media&token=e1c802e1-e899-4457-860b-adf5ed912ca7",
+      "votes": 57
+    },
+    {
+      "name": "Radio 27 Electro",
+      "urls": [
+        "https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/390/radio-27-network.e1f7881f.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Activa",
+      "urls": [
+        "https://dattavolt.com/8394/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "musica",
+        "variedades"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 13
+    },
+    {
+      "name": "Radio Alegria",
+      "urls": [
+        "https://rr5100.globalhost1.com:8156/stream"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "Tungurahua",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://radioalegriafm.com/logo-android-alegria.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio América 104.5 FM",
+      "urls": [
+        "https://streamingecuador.com:7030/stream?1657848016283"
+      ],
+      "tags": [
+        "104.5",
+        "américa",
+        "ecuador",
+        "quito",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 2948
+    },
+    {
+      "name": "Radio Andina",
+      "urls": [
+        "https://grupomundodigital.com:8580/stream"
+      ],
+      "tags": [
+        "musica latinoamericana",
+        "popular culture",
+        "regional music"
+      ],
+      "city": "Chimborazo",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 417
+    },
+    {
+      "name": "RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(",
+      "urls": [
+        "https://grupomundodigital.com:8504/antenashd"
+      ],
+      "tags": [
+        "cumbia",
+        "folclor",
+        "musica andina",
+        "popular"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 112,
+      "logo": "https://radioantenasur.com.ec/images/logo_antenasur2016yes1.png",
+      "votes": 39
+    },
+    {
+      "name": "Radio Armonía 100.1 FM",
+      "urls": [
+        "https://radiohdstreaming.com/radio/8040/armonia"
+      ],
+      "tags": [
+        "cumbia",
+        "entretenimiento",
+        "radio comunitaria",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Radio Canela 106.5 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiotungurahua"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "Tungurahua",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 146
+    },
+    {
+      "name": "Radio Canela Azuay 107.3 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiocuenca"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "azuay",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 102
+    },
+    {
+      "name": "Radio Canela Chimborazo 94.5 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
+      ],
+      "tags": [
+        "cumbia",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "Chimborazo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 61
+    },
+    {
+      "name": "Radio Canela El Oro 100.7 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiomachala"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "El Oro",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 218
+    },
+    {
+      "name": "Radio Canela Guayas",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil"
+      ],
+      "tags": [
+        "merengue",
+        "pop",
+        "reggaeton",
+        "rock",
+        "variado"
+      ],
+      "city": "Guayas",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 963
+    },
+    {
+      "name": "Radio Canela Imbabura 92.7 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "Imbabura",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://web.canelaradio.com/favicon.ico",
+      "votes": 108
+    },
+    {
+      "name": "Radio Canela Manabí 102.5 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiomanabi"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "Manabí",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 98
+    },
+    {
+      "name": "Radio Canela Morona Santiago 91.7 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiomacas"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "musica",
+        "tropical"
+      ],
+      "city": "Morona Santiago",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://web.canelaradio.com/favicon.ico",
+      "votes": 44
+    },
+    {
+      "name": "Radio Canela Napo 106.1 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradionapo"
+      ],
+      "tags": [
+        "chicha",
+        "cumbia",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "tropical"
+      ],
+      "city": "Napo",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://web.canelaradio.com/favicon.ico",
+      "votes": 65
+    },
+    {
+      "name": "Radio Canela Pichincha",
+      "urls": [
+        "https://canelaradio.makrodigital.com:9280/stream"
+      ],
+      "tags": [],
+      "city": "Pichincha",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 3365
+    },
+    {
+      "name": "Radio Canela Pichincha",
+      "urls": [
+        "https://ecuadorstreaming.net:9280/stream"
+      ],
+      "tags": [],
+      "city": "Pichincha",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 307
+    },
+    {
+      "name": "Radio Canela Pichincha 106.5 FM",
+      "urls": [
+        "https://canelaradio.makrodigital.com/stream/canelaradioquito"
+      ],
+      "tags": [
+        "chicha",
+        "chicha ecuatoriana",
+        "cumbia ecuatoriana",
+        "entretenimiento",
+        "entrevistas",
+        "mch",
+        "musica",
+        "tropical"
+      ],
+      "city": "Pichincha",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://web.canelaradio.com/favicon.ico",
+      "votes": 220
+    },
+    {
+      "name": "Radio DJ's Retro",
+      "urls": [
+        "https://www.streamingrv.com:8000/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.djsretro.com/favicon.png?2021-1-5-1-638693982889673767",
+      "votes": 36
+    },
+    {
+      "name": "RADIO ECOS DE RUMIÑAHUI 88.9 FM",
+      "urls": [
+        "https://streamingecuador.com:9040/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "government",
+        "information",
+        "música ecuatoriana",
+        "noticias",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.ecosderuminahui.gob.ec/assets/img/logo.png",
+      "votes": 35
+    },
+    {
+      "name": "Radio Elite 99.7 FM",
+      "urls": [
+        "https://streamingecuador.net:8135/radioelite"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "Radio Eres",
+      "urls": [
+        "https://sv70.ecuaradiotv.net:8000/eres933"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "null",
+      "votes": 79
+    },
+    {
+      "name": "Radio Evolución",
+      "urls": [
+        "https://stream.gradio.net/evolucion"
+      ],
+      "tags": [],
+      "city": "Quito",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Gaviota 105.1 FM",
+      "urls": [
+        "https://streamingecuador.net:9000/radiogaviota"
+      ],
+      "tags": [
+        "music",
+        "musica",
+        "news",
+        "noticias"
+      ],
+      "city": "El Oro",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiogaviotafm.com/wp-content/uploads/2017/05/cropped-icono-gaviota-180x180.png",
+      "votes": 360
+    },
+    {
+      "name": "RADIO IMPACTO 107.9",
+      "urls": [
+        "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://radioimpacto.com.ec/wp-content/uploads/2023/03/logo-impacto-new1.png",
+      "votes": 22
+    },
+    {
+      "name": "Radio La Otra - 91.3 FM",
+      "urls": [
+        "https://laotrafm.makrodigital.com/stream/laotrafmquito"
+      ],
+      "tags": [],
+      "city": "Quito",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 3543
+    },
+    {
+      "name": "Radio La Red 102.1 FM",
+      "urls": [
+        "https://icecast.radiolared.com.ec/radiolared"
+      ],
+      "tags": [],
+      "city": "Pichincha",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 250
+    },
+    {
+      "name": "RADIO LA UNIKA 92.3FM",
+      "urls": [
+        "https://stream-150.zeno.fm/rpcvrn769e9uv?zs=cw5SUc59ROa91dNEStrAww"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://launika.ec/es/wp-content/uploads/2023/06/icon-1.png",
+      "votes": 110
+    },
+    {
+      "name": "Radio Mágica 87.7 (Ecuador)",
+      "urls": [
+        "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683305161"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "Guayas",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 222
+    },
+    {
+      "name": "Radio Mágica 87.7 (Ecuador)",
+      "urls": [
+        "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "Guayaquil",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 340
+    },
+    {
+      "name": "Radio Mix 105.7 FM",
+      "urls": [
+        "https://streaming.ecuaradios.com/radiomix/stream"
+      ],
+      "tags": [],
+      "city": "Loja",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": "https://fmradiomix.com/Radiomix.png",
+      "votes": 10
+    },
+    {
+      "name": "Radio Onda Positiva 94.1 FM",
+      "urls": [
+        "https://streamingecuador.net:8011/radioondapositiva"
+      ],
+      "tags": [
+        "latin music",
+        "merengue",
+        "music",
+        "musica latina",
+        "musica romantica",
+        "news",
+        "religion",
+        "salsa",
+        "urban music"
+      ],
+      "city": "Guayas",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1551
+    },
+    {
+      "name": "Radio Pichincha",
+      "urls": [
+        "https://icecast.radiopichincha.com/radiopichincha"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "city": "Pichincha",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Radio Platinum Fm",
+      "urls": [
+        "https://streamingecuador.com:8160/radioplatinum"
+      ],
+      "tags": [
+        "adult contemporary",
+        "adulto contemporáneo",
+        "news",
+        "noticias locales"
+      ],
+      "city": "Quito",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 407
+    },
+    {
+      "name": "Radio Quito 760 AM",
+      "urls": [
+        "https://streamingecuador.net:8332/radioquito?1679294453918"
+      ],
+      "tags": [
+        "latin music",
+        "multicultural",
+        "música en español",
+        "música latinoamericana",
+        "noticias",
+        "noticias locales"
+      ],
+      "city": "Quito",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 435
+    },
+    {
+      "name": "Radio Rumba",
+      "urls": [
+        "https://streamingecuador.net:8078/radiorumbanetwork"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 484
+    },
+    {
+      "name": "Radio Rumba 107.3 FM",
+      "urls": [
+        "https://streamingecuador.net:8078/RadioRumba"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": "https://radiorumba.fm/wp-content/uploads/2021/01/LOGO-PNG-BORDE-BLANCO-3.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Super Sol - 96.3 FM",
+      "urls": [
+        "https://streamingecuador.com:8002/radiosupersol"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosupersolfm.com/envivo_supersol.jpg",
+      "votes": 126
+    },
+    {
+      "name": "Radio Tambo Mix",
+      "urls": [
+        "https://stream.zeno.fm/gey7t9er11zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/363a26_69ebef21ed91414399c257ed1a2a11a2~mv2.png/v1/fill/w_280,h_173,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FM%20ONLINE%20MIX.png",
+      "votes": 40
+    },
+    {
+      "name": "Radio Turbo 106.9 FM",
+      "urls": [
+        "https://streamingecuador.com/stream/radioturbogye"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://laturbofm.com/wp-content/uploads/2022/12/turbogye-560x560.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio Ultimito Mix",
+      "urls": [
+        "https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1"
+      ],
+      "tags": [
+        "bachata",
+        "baladas",
+        "bolero",
+        "chicha ecuatoriana",
+        "cumbias",
+        "latin music",
+        "merengue",
+        "musica latina",
+        "paso doble",
+        "pop",
+        "rock latino",
+        "salsa",
+        "tecnocumbia",
+        "tecnomerengue"
+      ],
+      "city": "Manabí",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 289
+    },
+    {
+      "name": "Radio Xtrema FM",
+      "urls": [
+        "https://s1.raudiostream.com:8004/stream"
+      ],
+      "tags": [
+        "electro",
+        "pop",
+        "rock"
+      ],
+      "city": "Tungurahua",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png",
+      "votes": 60
+    },
+    {
+      "name": "Radio11Q 104.9 FM",
+      "urls": [
+        "https://streamingecuador.net:8012/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 40,
+      "logo": "https://radio11q.com/wp-content/uploads/2017/10/11QHOME-1.png",
+      "votes": 4
+    },
+    {
+      "name": "RCN CATOLICA NACIONAL",
+      "urls": [
+        "https://dattavolt.com/8358/stream"
+      ],
+      "tags": [
+        "bible",
+        "catolica",
+        "cristiana",
+        "evangelio",
+        "radio hablada",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rcncatolica.com/wp-content/uploads/2023/07/LOGO-RCN.png ",
+      "votes": 96
+    },
+    {
+      "name": "Rockeando con Reguetón",
+      "urls": [
+        "https://stream-284.surfernetwork.com/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBJX1NidndmUmZDSzhac1dZX0FTRGciLCJpYXQiOjE3OTAwMDgxMDksImV4cCI6MTc5MDAwODE2OX0.WdCwdOxO2mMZOS-9JnxTw0ADzURFYBlLCdl0D_kavWM"
+      ],
+      "tags": [
+        "daddy yankee",
+        "flow",
+        "latino",
+        "rap",
+        "reguetón"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.lien.tv/favicon.ico",
+      "votes": 149
+    },
+    {
+      "name": "Rosate con bachata",
+      "urls": [
+        "https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlUyTm5kYzNWVHphdFJvelFjY1c0NUEiLCJpYXQiOjE3ODk5MzgyMzUsImV4cCI6MTc4OTkzODI5NX0.rFlZrDhLM7pjn9psovYaTjkGiBxbc1FpJXD-itF4S_w"
+      ],
+      "tags": [
+        "bachata",
+        "bachata dominicana",
+        "bachata romántica",
+        "bachata sensual",
+        "prince roys",
+        "romeo santos",
+        "torito"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.lien.tv/favicon.ico",
+      "votes": 66
+    },
+    {
+      "name": "RTP 96.5 FM",
+      "urls": [
+        "https://streamingecuador.net:8167/radiotropicana"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 102
+    },
+    {
+      "name": "super 949",
+      "urls": [
+        "https://dattavolt.com/8028/stream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Cuenca",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "Tropicalida",
+      "urls": [
+        "https://d2qzj7eqicisth.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+      ],
+      "tags": [
+        "merengue",
+        "pop",
+        "reggaeton",
+        "tropical"
+      ],
+      "city": "Guayas",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://alba-ec-tropicalida.cdn.mediatiquepress.com/wp-content/uploads/2022/02/22173451/circulo.png",
+      "votes": 11
+    },
+    {
+      "name": "TURBO FM - 93.3 FM TUNGURAHUA",
+      "urls": [
+        "https://streamingecuador.com/stream/radioturboambato"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://laturbofm.com/wp-content/uploads/2022/12/turbo-560x560.png",
+      "votes": 6
+    }
+  ]
+}

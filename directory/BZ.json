@@ -1,0 +1,45 @@
+{
+  "code": "BZ",
+  "name": "Belize",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 35
+    },
+    {
+      "name": "https://stream.svobodnoe.media/freemp3",
+      "urls": [
+        "https://stream.svobodnoe.media/freemp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "Riddim Radio",
+      "urls": [
+        "https://stream.zeno.fm/nw7xmuzasyduv"
+      ],
+      "tags": [
+        "reggae"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://image2url.com/r2/default/images/1774831280375-8a6a2bb2-cba2-474d-a8de-c4efa22ac457.png",
+      "votes": 25
+    }
+  ]
+}

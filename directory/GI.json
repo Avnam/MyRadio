@@ -1,0 +1,79 @@
+{
+  "code": "GI",
+  "name": "Gibraltar",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 19
+    },
+    {
+      "name": "Alpha FM",
+      "urls": [
+        "https://ice.fabricahost.com.br/alphafm1021"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://goiania.alphafm.com.br/assets/site/v2/images/logo/logo_novo.png",
+      "votes": 34
+    },
+    {
+      "name": "GBC Radio Gibraltar",
+      "urls": [
+        "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.gbc.gi/favicons/mstile-70x70.png",
+      "votes": 700
+    },
+    {
+      "name": "Radio Gibraltar Plus 100.5",
+      "urls": [
+        "https://s2.myradiostream.com/32910/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.gbc.gi/images/radio/radio-gibraltar-plus-fm-logo.png",
+      "votes": 43
+    },
+    {
+      "name": "RadioGibraltar MW",
+      "urls": [
+        "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.gbc.gi/images/radio/radio-gibraltar-logo.png",
+      "votes": 22
+    },
+    {
+      "name": "RadioSeu",
+      "urls": [
+        "https://streaming.enacast.com/radiolaseu128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioseu.cat/img/logo-radioseu.jpg",
+      "votes": 49
+    }
+  ]
+}

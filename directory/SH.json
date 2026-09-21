@@ -1,0 +1,45 @@
+{
+  "code": "SH",
+  "name": "Ascension And Tristan Da Cunha Saint Helena",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EDM Radio",
+      "urls": [
+        "https://laut.fm/edmradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 75
+    },
+    {
+      "name": "Radio Jamestown 107.7",
+      "urls": [
+        "https://orbit.citrus3.com:2020/stream/saintfmcommunityradio/;"
+      ],
+      "tags": [],
+      "city": "Saint Helena",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Saint.FM",
+      "urls": [
+        "https://orbit.citrus3.com:8306/stream"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 18
+    }
+  ]
+}

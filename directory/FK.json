@@ -1,0 +1,66 @@
+{
+  "code": "FK",
+  "name": "The Falkland Islands Malvinas",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 18
+    },
+    {
+      "name": "BFBS Falklands",
+      "urls": [
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac"
+      ],
+      "tags": [
+        "bfbs",
+        "contemporary",
+        "contemporary music",
+        "military",
+        "speech",
+        "talk & speech"
+      ],
+      "city": "stanley",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://media.info/l/o/5/5.1647094643.png",
+      "votes": 43
+    },
+    {
+      "name": "Falklands Radio",
+      "urls": [
+        "https://streaming.broadcastradio.com:8332/flklnd?1721893143541="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://api.broadcast.radio/api/image/464937d5-67d8-42e7-886c-426239fa26dd.png?g=center",
+      "votes": 41
+    },
+    {
+      "name": "Falklands Radio 530 Stanley",
+      "urls": [
+        "https://streaming.broadcastradio.com:8332/flklnd"
+      ],
+      "tags": [
+        "bbc news",
+        "local news weather",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 120
+    }
+  ]
+}

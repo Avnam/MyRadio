@@ -1,0 +1,340 @@
+{
+  "code": "CY",
+  "name": "Cyprus",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Active 107.4",
+      "urls": [
+        "https://securestreams3.autopo.st:1417/active"
+      ],
+      "tags": [
+        "local news",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "BitrRcord",
+      "urls": [
+        "https://c10.radioboss.fm:18095/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://bitrecord.one/favicon.ico",
+      "votes": 99
+    },
+    {
+      "name": "Dance FM",
+      "urls": [
+        "https://live.enerjiplay.com/stream/dancefm"
+      ],
+      "tags": [],
+      "city": "Nicosia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://api.nrgplay.com/upload/logo/4700c4e0ed5f0a635114cd0df7c8ed39.jpg",
+      "votes": 146
+    },
+    {
+      "name": "Enerji",
+      "urls": [
+        "https://live.enerjiplay.com/stream/enerji"
+      ],
+      "tags": [],
+      "city": "Nicosia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://api.nrgplay.com/upload/logo/c2099d61294d8975748f15118ddecbc8.jpg",
+      "votes": 14
+    },
+    {
+      "name": "FEELGOOD.FM",
+      "urls": [
+        "https://radio.feelgood.fm/mp3"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://feelgood.fm/wp-content/uploads/2025/01/Logo-600x600-1.png",
+      "votes": 70
+    },
+    {
+      "name": "Greek Laika Nonstop Radio",
+      "urls": [
+        "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3"
+      ],
+      "tags": [
+        "classic hits",
+        "greek hits",
+        "greek music",
+        "pop"
+      ],
+      "city": "Nicosia",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i.ibb.co/PvF4MK0D/20260919-231600.jpg",
+      "votes": 0
+    },
+    {
+      "name": "KISS FM 89.0 - 88.5",
+      "urls": [
+        "https://securestreams3.autopo.st:1417/89FM"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kissfm.com.cy/wp-content/uploads/2016/04/Untitled-5.png",
+      "votes": 36
+    },
+    {
+      "name": "MIX FM Cyprus",
+      "urls": [
+        "https://strm.mixlive.eu/mixfm/index.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 1390,
+      "logo": "https://www.mixfmradio.com/upload/design/66e7d8af577fa9.28585462.png",
+      "votes": 8
+    },
+    {
+      "name": "Mix4.me uplifitng trance web radio",
+      "urls": [
+        "https://s9.webradio-hosting.com/proxy/mix4me/stream"
+      ],
+      "tags": [
+        "balearic",
+        "cyprus",
+        "trance",
+        "uplifting trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.mix4.me/logo_mix4.me.png",
+      "votes": 176
+    },
+    {
+      "name": "MixFM Cyprus",
+      "urls": [
+        "https://link.radiojar.com/c27wx6pdh8vtv"
+      ],
+      "tags": [
+        "chillout",
+        "pop music",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.mixfmradio.com/upload/design/5d79f253b101f9.01147538.png",
+      "votes": 240
+    },
+    {
+      "name": "NJOY Radio",
+      "urls": [
+        "https://stream.radiojar.com/mg7kftnzka3vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.njoyradio.com.cy/wp-content/uploads/2021/11/njoy_logo.png",
+      "votes": 36
+    },
+    {
+      "name": "Politis 107.6 FM",
+      "urls": [
+        "https://cdn.istoikona.com/politis/live/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Nicosia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://politis.com.cy/images/favicon/favicon-32x32.png",
+      "votes": 39
+    },
+    {
+      "name": "Radio ReyMod",
+      "urls": [
+        "https://server.streamcasthd.com:7092/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.reymod.com/img/apple-touch-icon.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Sfera 102.2",
+      "urls": [
+        "https://securestreams3.autopo.st:1417/sfera"
+      ],
+      "tags": [
+        "greek pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 252
+    },
+    {
+      "name": "Radio T.O.A",
+      "urls": [
+        "https://live3.istoikona.net/proxy/radiotoa/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Turbo21",
+      "urls": [
+        "https://radioturbo21.com/radio/stream"
+      ],
+      "tags": [
+        "1980s",
+        "80s",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radioturbo21.com/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "Rock FM Cyprus",
+      "urls": [
+        "https://live3.istoikona.net/proxy/rockfm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rockfmcyprus.com/wp-content/uploads/2019/06/rock-fm-cyprus-logo-gold-retina.webp",
+      "votes": 17
+    },
+    {
+      "name": "VIVA FM 104.3",
+      "urls": [
+        "https://stream1.themediasite.co.uk/8060/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Zenith",
+      "urls": [
+        "https://live3.istoikona.net:9836/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zenithfm.com.cy/favicon.ico",
+      "votes": 103
+    },
+    {
+      "name": "Zucca",
+      "urls": [
+        "https://stream.zuccaradio.com/stream?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Ναυάγιο",
+      "urls": [
+        "https://radio-navagio.com/stream"
+      ],
+      "tags": [
+        "greek music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://resources.live24.gr/resources/images/stations/c69cf970-f33b-4c0e-ac4e-5a5ab8d17c81.png",
+      "votes": 27
+    },
+    {
+      "name": "РУССКОЕ РАДИО КИПР",
+      "urls": [
+        "https://live.vblcast.com/proxy/russianradio/stream/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://russianradio.cy/wp-content/uploads/2024/06/cropped-rr-favico-180x180.png",
+      "votes": 87
+    },
+    {
+      "name": "塞浦路斯CCN欧洲中国平台",
+      "urls": [
+        "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 856,
+      "logo": "https://ccnnetwork.cn/wp-content/uploads/2021/07/newccnlogo2021.png",
+      "votes": 178
+    },
+    {
+      "name": "塞浦路斯中文广播",
+      "urls": [
+        "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio"
+      ],
+      "tags": [
+        "chinese"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 492
+    }
+  ]
+}

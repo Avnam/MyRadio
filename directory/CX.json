@@ -1,0 +1,33 @@
+{
+  "code": "CX",
+  "name": "Christmas Island",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 34
+    },
+    {
+      "name": "Navidad Grupera",
+      "urls": [
+        "https://radioforte.com/8006/stream"
+      ],
+      "tags": [
+        "música navideña"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241227_121855266.jpg?alt=media&token=17db1c95-a62c-49bb-96cd-438c43118968",
+      "votes": 21
+    }
+  ]
+}

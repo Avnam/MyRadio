@@ -1,0 +1,555 @@
+{
+  "code": "HN",
+  "name": "Honduras",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/0n4tnx3wd5zuv"
+      ],
+      "tags": [
+        "américa",
+        "centroamérica",
+        "choluteca",
+        "en todas partes",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "honduras",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latin pop",
+        "latinoamérica",
+        "litoral",
+        "moi merino",
+        "mvs",
+        "mvs radio",
+        "música",
+        "música en español",
+        "música pop",
+        "música urbana",
+        "ponte exa",
+        "pop",
+        "pop music",
+        "radio",
+        "san pedro sula",
+        "tegucigalpa"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
+      "votes": 384
+    },
+    {
+      "name": "EXA FM: Música Pop en Español e Inglés",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "boca del río",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "música variada",
+        "música y noticias",
+        "norteamérica",
+        "ponte exa",
+        "pop",
+        "pop en español",
+        "pop en español e inglés",
+        "pop latino",
+        "pop music",
+        "pop rock",
+        "radio",
+        "veracruz",
+        "veracruz city"
+      ],
+      "city": "Veracruz, México",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://exafm.com/favicon.ico",
+      "votes": 281
+    },
+    {
+      "name": "La Top 102.9 FM - San Pedro Sula, Honduras",
+      "urls": [
+        "https://us9.maindigitalstream.com/ssl/latop102"
+      ],
+      "tags": [
+        "102.9 fm",
+        "américa",
+        "centroamérica",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "honduras",
+        "juvenil",
+        "la top",
+        "latin urban",
+        "latino urbano",
+        "latinoamérica",
+        "mainstream urban",
+        "moi merino",
+        "music",
+        "música",
+        "música en español",
+        "música urbana",
+        "radio",
+        "reggaetón",
+        "reguetón",
+        "san pedro sula",
+        "urban",
+        "urban contemporary",
+        "urbana",
+        "urbano"
+      ],
+      "city": "San Pedro Sula",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/LA-TOP-102.9.png",
+      "votes": 343
+    },
+    {
+      "name": "Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM",
+      "urls": [
+        "https://ice42.securenetsystems.net/VOXFM"
+      ],
+      "tags": [
+        "101.7 fm",
+        "106.1 fm",
+        "américa",
+        "centroamérica",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "honduras",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música en inglés",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "pop rock",
+        "radio",
+        "san pedro sula",
+        "tegucigalpa",
+        "vox",
+        "vox fm"
+      ],
+      "city": "Tegucigalpa",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png",
+      "votes": 277
+    },
+    {
+      "name": "1 FM Hits Radio",
+      "urls": [
+        "https://stream.zeno.fm/yg1gkzwabzzuv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "hits",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://1fm.mex.tl/imagesnew2/0/1/0/0/0/2/4/4/6/0/favicon.ico",
+      "votes": 131
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 59
+    },
+    {
+      "name": "Cadena Radial del Centro 89.7 FM",
+      "urls": [
+        "https://sonic.portalfoxmix.cl/8442/stream"
+      ],
+      "tags": [
+        "bachata",
+        "baladas en español",
+        "entretenimiento",
+        "grupera",
+        "latino",
+        "merengue",
+        "música variada",
+        "noticias",
+        "regional mexican",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/d122c2_81a0b7f03bfc47aa90399fee5bbfad6e~mv2.jpg/v1/fill/w_178,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cadena.jpg ",
+      "votes": 157
+    },
+    {
+      "name": "Cortes FM",
+      "urls": [
+        "https://cortesfm-zikoxweb.radioca.st/stream/1/"
+      ],
+      "tags": [
+        "música variada"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "null",
+      "votes": 85
+    },
+    {
+      "name": "Dee Jay",
+      "urls": [
+        "https://stream.zeno.fm/6wpxyt9htg0uv"
+      ],
+      "tags": [
+        "dance",
+        "dance pop",
+        "electro",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://deejayfm.com/wp-content/themes/deejayTemplate/assets/img/logo.png",
+      "votes": 63
+    },
+    {
+      "name": "Encuentro Digital 104.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/n1dn94e661zuv"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "evangelio",
+        "gospel"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Ft9-id03xG3iXP89HlK25xA945JbggXM7PsNX_C9MekU%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURBNExDWnp3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0tERWpnb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2MjQ1ODk5MDQwMDA.webp&w=1920&q=70",
+      "votes": 64
+    },
+    {
+      "name": "Estereo Clase 92.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/k6grbcx0zceuv"
+      ],
+      "tags": [
+        "128 kbps",
+        "estereo clase",
+        "music",
+        "oldies",
+        "pop"
+      ],
+      "city": "Cortés",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/052/estereo-clase.a99aaac8.png",
+      "votes": 116
+    },
+    {
+      "name": "Estereo Clásica",
+      "urls": [
+        "https://streaming.radio.co/s0c06b7076/listen"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "classic hits",
+        "music",
+        "oldies",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 210
+    },
+    {
+      "name": "Estereo Sur 91.3 FM",
+      "urls": [
+        "https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream"
+      ],
+      "tags": [
+        "classic hits",
+        "musica romantica",
+        "música en español",
+        "oldies",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp",
+      "votes": 92
+    },
+    {
+      "name": "FM FAMA 97.7",
+      "urls": [
+        "https://s9.myradiostream.com/:46498/stream"
+      ],
+      "tags": [
+        "97.7 fm",
+        "fm fama",
+        "joyas musicales",
+        "oldies"
+      ],
+      "city": "Cortés",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/jhwUyNznv3.png",
+      "votes": 3
+    },
+    {
+      "name": "GD Dubai",
+      "urls": [
+        "https://streaming.exclusive.radio/er/gratefuldead/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Just Dubai",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 658
+    },
+    {
+      "name": "Girasol Stereo 102.3 FM",
+      "urls": [
+        "https://stream.playerlive.info:8037/live.aac"
+      ],
+      "tags": [
+        "bachata",
+        "banda",
+        "cumbia",
+        "grupera",
+        "latino",
+        "music",
+        "regional mexican",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://girasolradiotvhn.com/wp-content/uploads/2020/10/radio-girasolfm-logo.png",
+      "votes": 99
+    },
+    {
+      "name": "LA RADIO GLOBAL",
+      "urls": [
+        "https://sonicpanel.us/8022/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 121
+    },
+    {
+      "name": "LHT FM 104.1",
+      "urls": [
+        "https://ice26.securenetsystems.net/LHTFM"
+      ],
+      "tags": [
+        "la hora del te",
+        "lht fm",
+        "ultra fm",
+        "ultra fm 104.1"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 24
+    },
+    {
+      "name": "Musiquera 93.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/83h238tqsceuv"
+      ],
+      "tags": [
+        "93.3 fm",
+        "musiquera",
+        "parrandeando",
+        "rancheras"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240323_072719225.jpg?alt=media&token=fc66d26c-24ae-49f8-bf4a-8976b66f3aa3",
+      "votes": 910
+    },
+    {
+      "name": "Musiquera 93.3 FM",
+      "urls": [
+        "https://stream-142.zeno.fm/83h238tqsceuv?zs=vZNVzaY3QLy9RmUb9QK5uA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://musiquera.com/wp-content/uploads/2024/03/Musiquera-sombrero.png",
+      "votes": 519
+    },
+    {
+      "name": "Otoro Radio",
+      "urls": [
+        "https://stream.playerlive.info:8089/live.aac"
+      ],
+      "tags": [
+        "música variada"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "null",
+      "votes": 88
+    },
+    {
+      "name": "Radio Activa Honduras",
+      "urls": [
+        "https://stream.zeno.fm/6n7fp9t2pceuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1857
+    },
+    {
+      "name": "Radio HRN La Voz de Honduras",
+      "urls": [
+        "https://ice42.securenetsystems.net/HRN"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "talk radio"
+      ],
+      "city": "Tegucigalpa",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://radiohrn.hn/favicon.ico",
+      "votes": 6574
+    },
+    {
+      "name": "RadioActiva 99.7 Honduras",
+      "urls": [
+        "https://stream.zeno.fm/fh8qfg75puquv"
+      ],
+      "tags": [
+        "99.7",
+        "hn",
+        "la mera yema",
+        "radioactiva",
+        "reggaeton"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240327_153705097.jpg?alt=media&token=7276246b-8600-4b88-8f00-62a7c4094f9d",
+      "votes": 190
+    },
+    {
+      "name": "RNH",
+      "urls": [
+        "https://stream.zeno.fm/mb5f69fk0d0uv"
+      ],
+      "tags": [
+        "101.3",
+        "radio",
+        "radio publica",
+        "rnh",
+        "xiomara cumple"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240324_100747536.jpg?alt=media&token=9ab37c6c-2d8f-40d2-aefa-3e1e1de85242",
+      "votes": 309
+    },
+    {
+      "name": "ROCK N' POP",
+      "urls": [
+        "https://ice42.securenetsystems.net/ROCKNPOP"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1266
+    },
+    {
+      "name": "Stereo Dimensión - La 96",
+      "urls": [
+        "https://rr5100.globalhost1.com:7328/stream"
+      ],
+      "tags": [
+        "música",
+        "urbana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://crh.hn/wp-content/uploads/2023/08/cropped-cropped-cropped-logo-crh-180x180.png",
+      "votes": 79
+    },
+    {
+      "name": "Stereo Luz",
+      "urls": [
+        "https://stream.playerlive.info:8081/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 46
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "code": "AO",
+  "name": "Angola",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM: Música pop em inglês e espanhol",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 1598
+    },
+    {
+      "name": "LOVE FM:  Músicas pop espanholas clássicas dos anos 80, 90 e 2000",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 386
+    },
+    {
+      "name": "AfriRádio",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/afriradi/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 80
+    },
+    {
+      "name": "Powermix FM",
+      "urls": [
+        "https://cast.iplayradio.net/listen/powermixfm/stream"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 589
+    },
+    {
+      "name": "Radio Kuia Bue",
+      "urls": [
+        "https://a11.asurahosting.com:7400/radio.aac"
+      ],
+      "tags": [
+        "african music",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjaxhBAuprxwqueMvQ9jmw8MD5rxew5OUYBENkO36-lOsH4bgVHalTTHO_O-mSgXnyTKK5-K97ZXQJ7LOn3FUjlOFsUv-cRszHhFPbyG_dbU4dUsRzOxjzTiiMefGk4cBMR48K1VrVqPa5GMKjA2N0qbBtWIsY_yI0CISj4u0z0UXLWujPAVDkBylI9Or4=s495",
+      "votes": 122
+    },
+    {
+      "name": "Radio Luanda",
+      "urls": [
+        "https://paineldj5.com.br:20089/stream"
+      ],
+      "tags": [],
+      "city": "Luanda",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 406
+    },
+    {
+      "name": "Radio Rashi",
+      "urls": [
+        "https://s2.free-shoutcast.com/stream/18214"
+      ],
+      "tags": [
+        "broken beat",
+        "djaz",
+        "foklore",
+        "folk",
+        "muzică populară",
+        "pop",
+        "regional music",
+        "regional radio",
+        "rnb"
+      ],
+      "city": "Sofia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://imgur.com/totzCmb",
+      "votes": 43
+    },
+    {
+      "name": "Rádio Vibrar Angola",
+      "urls": [
+        "https://stream-177.surfernetwork.com/ousf94tzyhkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvdXNmOTR0enloa3V2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilo0NzA0NjA2UngyaHdTYU5QZUZjbHciLCJpYXQiOjE3ODk5NDUzMTAsImV4cCI6MTc4OTk0NTM3MH0.n6uGPydWOeMZGGKUSnwSyvnTFq58-9nuJvjZ8vauplM"
+      ],
+      "tags": [],
+      "city": "Bié",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://im.ge/i/file-00000000cb707243bd019d75f481bf60-QMpk6Ap",
+      "votes": 11
+    }
+  ]
+}

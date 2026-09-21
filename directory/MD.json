@@ -1,0 +1,955 @@
+{
+  "code": "MD",
+  "name": "The Republic Of Moldova",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "CITY FM",
+      "urls": [
+        "https://live.cityfm.md:8001/cityfm"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://cityfm.md/images/360/13545635/LOGOCITY004.png",
+      "votes": 3
+    },
+    {
+      "name": "DeepNova Radio",
+      "urls": [
+        "https://a8.asurahosting.com:8820/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
+      "votes": 12
+    },
+    {
+      "name": "DeepNova Radio - DanceNova",
+      "urls": [
+        "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)"
+      ],
+      "tags": [
+        "club hits",
+        "dance house",
+        "edm"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png.webp",
+      "votes": 11
+    },
+    {
+      "name": "Focul din Vatră",
+      "urls": [
+        "https://aiciascult.eu/radio"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://aiciascult.eu/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "Glowwave-FM",
+      "urls": [
+        "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1"
+      ],
+      "tags": [],
+      "city": "Chişinǎu",
+      "codec": "OGG",
+      "bitrate": 448,
+      "logo": "https://glowlinks.net/the-glow-network.png",
+      "votes": 3
+    },
+    {
+      "name": "Hit FM 2000s HITS",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac"
+      ],
+      "tags": [
+        "#00s",
+        "00s",
+        "2000s",
+        "2000s dance",
+        "moldova",
+        "retro hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.ascultalive.ro/images/stations/1736887228.webp",
+      "votes": 71
+    },
+    {
+      "name": "Hit FM Best Hits",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 248
+    },
+    {
+      "name": "Hit FM Chișinău 101.7 fm",
+      "urls": [
+        "https://stream.dixi.md:9443/HitFM"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Hit FM Dance",
+      "urls": [
+        "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 178
+    },
+    {
+      "name": "Hit Fm Drive Mode",
+      "urls": [
+        "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "HIT FM Eurovision Hits",
+      "urls": [
+        "https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac"
+      ],
+      "tags": [
+        "eurodance",
+        "europe",
+        "european",
+        "european music",
+        "eurovision",
+        "eurovision song contest",
+        "hits",
+        "pop",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/img/channel/qbDkiVaF9GmGwBLA7Za2MGtZAOVhs7h2.png",
+      "votes": 4
+    },
+    {
+      "name": "Hit FM Hot Hits",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "http://hitfm.md/favicon.ico",
+      "votes": 277
+    },
+    {
+      "name": "HIT FM K-Pop Hits",
+      "urls": [
+        "https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/favicon.png?v=2",
+      "votes": 5
+    },
+    {
+      "name": "HIT FM Latino Hits",
+      "urls": [
+        "https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3"
+      ],
+      "tags": [
+        "latin",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/favicon.png?v=2",
+      "votes": 6
+    },
+    {
+      "name": "HIT FM Orchestral Classics",
+      "urls": [
+        "https://radio7.dixi.md/listen/orchestral-classics/orchestral-classics.aac"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/favicon.png?v=2",
+      "votes": 0
+    },
+    {
+      "name": "Hit FM Summer Hits",
+      "urls": [
+        "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "HIT FM Trance Hits",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac"
+      ],
+      "tags": [
+        "trance"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/favicon.png?v=2",
+      "votes": 16
+    },
+    {
+      "name": "HIT FM Tricolor de Hituri",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://hitfm.md/favicon.png?v=2",
+      "votes": 3
+    },
+    {
+      "name": "HIT FM Русский Хит",
+      "urls": [
+        "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac"
+      ],
+      "tags": [
+        "hit"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 223
+    },
+    {
+      "name": "IMAGO.FM",
+      "urls": [
+        "https://radio.imago.fm:8007/_a"
+      ],
+      "tags": [
+        "alternative",
+        "eclectic",
+        "indie",
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://imago.fm/img/favicons/android-icon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Inter FM 107.7",
+      "urls": [
+        "https://inter-fm.com/hlsstream/stream.m3u8"
+      ],
+      "tags": [],
+      "city": "Pridnestrovie",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Jurnal Fm",
+      "urls": [
+        "https://audio.jurnalfm.md/hq"
+      ],
+      "tags": [
+        "hits",
+        "music",
+        "new music",
+        "news",
+        "pop",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://jurnalfm.md/wp-content/uploads/2020/08/JFM-LOGO.png",
+      "votes": 752
+    },
+    {
+      "name": "Kiss FM Chișinău",
+      "urls": [
+        "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
+      ],
+      "tags": [
+        "hits",
+        "moldova",
+        "romanian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": "https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1",
+      "votes": 31
+    },
+    {
+      "name": "Kiss FM Moldova",
+      "urls": [
+        "https://live.kissfm.md/kissfm.chisinau"
+      ],
+      "tags": [
+        "top hits",
+        "top40"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 1369
+    },
+    {
+      "name": "Master Class FM (MD)",
+      "urls": [
+        "https://listen3.myradio24.com/master1"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Megapolis Fm",
+      "urls": [
+        "https://megapolisfm.md:8443/886"
+      ],
+      "tags": [
+        "dance",
+        "dance pop",
+        "electronic",
+        "house",
+        "new music"
+      ],
+      "city": "Chișinău",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 639
+    },
+    {
+      "name": "Muz FM Moldova",
+      "urls": [
+        "https://live.muzfm.md/muzfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 439
+    },
+    {
+      "name": "Radio Ai Noștri",
+      "urls": [
+        "https://s5.radio.co/sfd9f42d1d/listen"
+      ],
+      "tags": [
+        "pop",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.ainostri.com/favicon.ico",
+      "votes": 17
+    },
+    {
+      "name": "Radio Cafe Moldova",
+      "urls": [
+        "https://play.radiocafe.md:7000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiocafe.md/wp-content/uploads/2024/12/cropped-cafelogo-192x192.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio Chișinău",
+      "urls": [
+        "https://radiochisinau.md/hls/RChisinau.m3u8"
+      ],
+      "tags": [
+        "culture",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://radiochisinau.md/static/images/v1.logo.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Fresh MD",
+      "urls": [
+        "https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Radio Moldova Tineret",
+      "urls": [
+        "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
+      ],
+      "tags": [
+        "news",
+        "pop"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://radiomoldova.md/apple-touch-icon.png",
+      "votes": 12
+    },
+    {
+      "name": "RADIO MUZFM",
+      "urls": [
+        "https://live.muzfm.md//muzfmhd"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://www.muzfm.md/images/logo3.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Noroc Moldova",
+      "urls": [
+        "https://stream.noroc.tv/radionoroc_aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.radionoroc.md/favicon.ico",
+      "votes": 1434
+    },
+    {
+      "name": "Radio Plai",
+      "urls": [
+        "https://stream.radioplai.md/live"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioplai.md/logo-radio-plai.png",
+      "votes": 23
+    },
+    {
+      "name": "Radio Relax - Funk & Soul",
+      "urls": [
+        "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac"
+      ],
+      "tags": [
+        "funk",
+        "soul"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Relax - Jazz & Blues",
+      "urls": [
+        "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac"
+      ],
+      "tags": [
+        "blues",
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 57
+    },
+    {
+      "name": "Radio Relax - lo-fi",
+      "urls": [
+        "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac"
+      ],
+      "tags": [
+        "chill",
+        "lo-fi"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Relax - Nature",
+      "urls": [
+        "https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac"
+      ],
+      "tags": [
+        "ambient",
+        "nature"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Relax - Tricolor",
+      "urls": [
+        "https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Relax - Versiuni Acustice",
+      "urls": [
+        "https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac"
+      ],
+      "tags": [
+        "acoustic"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Relax - VinoPizza",
+      "urls": [
+        "https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio RFI Moldova",
+      "urls": [
+        "https://asculta.radiorfi.ro/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 403
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Classic Rock",
+      "urls": [
+        "https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Hard'n'Heavy",
+      "urls": [
+        "https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Indie Rock",
+      "urls": [
+        "https://radio6.dixi.md/listen/indie_rock/indie_rock.aac"
+      ],
+      "tags": [
+        "indie rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio ROKS (Moldova) - New Rock",
+      "urls": [
+        "https://radio6.dixi.md/listen/new_rock/new_rock128.aac"
+      ],
+      "tags": [
+        "alternative rock",
+        "new rock",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/favicon.ico",
+      "votes": 5
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Pop Rock",
+      "urls": [
+        "https://radio6.dixi.md/listen/pop_rock/pop_rock.acc"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Rock Ballads",
+      "urls": [
+        "https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac"
+      ],
+      "tags": [
+        "rock ballads"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Rock Tricolor",
+      "urls": [
+        "https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio ROKS (Moldova) - Workout",
+      "urls": [
+        "https://radio6.dixi.md/listen/workout_rock/workout.aac"
+      ],
+      "tags": [
+        "rock",
+        "workout"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio ROKS Moldova",
+      "urls": [
+        "https://stream.dixi.md:9443/Roks"
+      ],
+      "tags": [
+        "moldova",
+        "radio roks",
+        "radio roks moldova",
+        "rock"
+      ],
+      "city": "Chișinău",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://gitlab.com/alexby306/host-images/-/raw/c423ddd4e04814d37b020222f2ff4fca04aef928/radio-roks.jpg",
+      "votes": 117
+    },
+    {
+      "name": "Radio Vintage",
+      "urls": [
+        "https://live.radiovintage.md/vintage_main"
+      ],
+      "tags": [
+        "00s",
+        "90s"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radiovintage.md/favicon/apple-touch-icon.png?v=3",
+      "votes": 2
+    },
+    {
+      "name": "Radio ZUM 1",
+      "urls": [
+        "https://streams.radiozum.md/listen/zum1/ZUM1"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "new",
+        "new music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png",
+      "votes": 166
+    },
+    {
+      "name": "Radio ZUM 2",
+      "urls": [
+        "https://streams.radiozum.md/listen/zum2/ZUM2"
+      ],
+      "tags": [
+        "00s",
+        "10s",
+        "2000s",
+        "2010s",
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png",
+      "votes": 251
+    },
+    {
+      "name": "Radio ZUM4",
+      "urls": [
+        "https://streams.radiozum.md/listen/zum4/ZUM4"
+      ],
+      "tags": [
+        "chill",
+        "lo-fi",
+        "lounge",
+        "relax"
+      ],
+      "city": "Chișinău",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg",
+      "votes": 82
+    },
+    {
+      "name": "RadioBEAT",
+      "urls": [
+        "https://ssl.omegahost.ro/9998/stream"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobeat.md/images/favi1.png",
+      "votes": 2
+    },
+    {
+      "name": "Realitatea FM",
+      "urls": [
+        "https://radio.realitatea.group/realitatea"
+      ],
+      "tags": [
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://realitatea.md/wp-content/smush-webp/2021/03/cropped-rlive_avatar1-180x180.jpg.webp",
+      "votes": 4
+    },
+    {
+      "name": "Retro FM Moldova",
+      "urls": [
+        "https://efir.retrofm.md:8000/retro"
+      ],
+      "tags": [
+        "retro"
+      ],
+      "city": "Chișinău",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png",
+      "votes": 563
+    },
+    {
+      "name": "Sex Sound Radio",
+      "urls": [
+        "https://sexsoundradio.com:8000/radio.mp3"
+      ],
+      "tags": [
+        "adult",
+        "asmr",
+        "erotic",
+        "explicit",
+        "female voices",
+        "noise",
+        "voices"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sexsoundradio.com/favicon.ico",
+      "votes": 52
+    },
+    {
+      "name": "Smile FM",
+      "urls": [
+        "https://sonicssl.namehost.ro/8050/;"
+      ],
+      "tags": [
+        "chr",
+        "hits",
+        "pop",
+        "top40"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 62
+    },
+    {
+      "name": "VibeFM",
+      "urls": [
+        "https://stream.radio.co/s6a544f6c9/listen"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "dj",
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/daef01_5bbe85f23d3d44819ae8a0f4e2dc7097~mv2.png",
+      "votes": 16
+    },
+    {
+      "name": "Vocea Basarabiei",
+      "urls": [
+        "https://stream.noroc.tv/radiovb_aac"
+      ],
+      "tags": [
+        "folk",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://voceabasarabiei.md/wp-content/uploads/2022/08/cropped-Favicon-VB-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "Первое радио в вашем мобильном",
+      "urls": [
+        "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 79
+    }
+  ]
+}

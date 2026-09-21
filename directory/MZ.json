@@ -1,0 +1,99 @@
+{
+  "code": "MZ",
+  "name": "Mozambique",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 283
+    },
+    {
+      "name": "Grandes Clássicos da Música Moçambicana",
+      "urls": [
+        "https://stream-177.surfernetwork.com/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNlV2pBMlFKVGlXOG5uVFZFa1NwTFEiLCJpYXQiOjE3ODk5OTk1MjcsImV4cCI6MTc4OTk5OTU4N30.s2zFadpsbXKvRL907sPSWofOt0e3i9_De3FFRjUQsq8"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1378
+    },
+    {
+      "name": "Grandes Clássicos da Música Moçambicana",
+      "urls": [
+        "https://stream-177.surfernetwork.com/bm29ouxe0hrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTI5b3V4ZTBocnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRIS0J6RTRrU2xhX25NdGlDTE5KOVEiLCJpYXQiOjE3ODk5NjI0OTUsImV4cCI6MTc4OTk2MjU1NX0.xGmwqTRhcaf7d1-2d5AZoFvj7sG7DLp3edYYZZ8K68E"
+      ],
+      "tags": [
+        "r&b/urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 947
+    },
+    {
+      "name": "LM Radio",
+      "urls": [
+        "https://ukwesta.streaming.broadcast.radio/lmradio"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 172
+    },
+    {
+      "name": "LM Radio Mozambique",
+      "urls": [
+        "https://edge.iono.fm/xice/392_medium.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 273
+    },
+    {
+      "name": "Rádio Cidade - Beira 105.2 FM",
+      "urls": [
+        "https://node.stream-africa.com:8443/RadioCidadeBeira"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 834
+    },
+    {
+      "name": "Rádio Moçambique Antena Nacional",
+      "urls": [
+        "https://node.stream-africa.com:8443/AntenaNacional"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9859
+    }
+  ]
+}

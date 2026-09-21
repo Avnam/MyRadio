@@ -1,0 +1,2030 @@
+{
+  "code": "IE",
+  "name": "Ireland",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 4
+    },
+    {
+      "name": "[ vinyl stacks ]",
+      "urls": [
+        "https://vinylstacks.uncool.club/vinyl-stacks.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://vinylstacks.uncool.club/favicon.png",
+      "votes": 7
+    },
+    {
+      "name": "80s Rewind",
+      "urls": [
+        "https://a8.asurahosting.com:7170/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Dub",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://80s-rewind.com/branding/80s_Rewind_Poster.jpg",
+      "votes": 8
+    },
+    {
+      "name": "8Radio",
+      "urls": [
+        "https://stream.rcast.net/66127"
+      ],
+      "tags": [
+        "alternative",
+        "indie rock"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 699
+    },
+    {
+      "name": "8radio",
+      "urls": [
+        "https://edge4.audioxi.com/8RADIO"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "indie rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1109
+    },
+    {
+      "name": "92.5 Phoenix FM",
+      "urls": [
+        "https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.phoenixfm.ie/wp-content/uploads/2023/07/cropped-favicon-270x270.png",
+      "votes": 6
+    },
+    {
+      "name": "98fm Dance",
+      "urls": [
+        "https://edge.audioxi.com/98DANCE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 94
+    },
+    {
+      "name": "98FM Throwback",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/98"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Beat 102 103",
+      "urls": [
+        "https://stream.audioxi.com/BEAT"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/d0/c0/db/d0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9/70aabc5c-2d63-43ab-ad31-12d2592c7c32.png/1200x1200bf-60.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Beat 102-103",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/BEAT"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.beat102103.com/images/ico/android-icon-192x192.png",
+      "votes": 3
+    },
+    {
+      "name": "BFBS Northern Ireland",
+      "urls": [
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac",
+      "votes": 21
+    },
+    {
+      "name": "Birdhill Radio",
+      "urls": [
+        "https://w42pfn4y.hostingenergy.com/"
+      ],
+      "tags": [],
+      "city": "IRELAND",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://birdhillradio.com/bhr_logo_splash.png",
+      "votes": 1
+    },
+    {
+      "name": "BOB FM",
+      "urls": [
+        "https://bobfm-seanashmore.radioca.st/stream"
+      ],
+      "tags": [
+        "whatever"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "BRIAN DALY",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio:28140/lifefm"
+      ],
+      "tags": [
+        "community radio",
+        "religious"
+      ],
+      "city": "IRELAND",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "C103 West",
+      "urls": [
+        "https://wg.cdn.tibus.net/C103West"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mm.aiircdn.com/619/5d5199be0aa8e.png",
+      "votes": 68
+    },
+    {
+      "name": "CFC FM",
+      "urls": [
+        "https://visual.shoutca.st/stream/crcfm"
+      ],
+      "tags": [],
+      "city": "Mayo",
+      "codec": "AAC+",
+      "bitrate": 384,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Christmas FM",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2547_128.mp3"
+      ],
+      "tags": [
+        "christmas",
+        "holiday",
+        "seasonal"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Christmas FM",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://christmasfm.com/wp-content/uploads/2021/07/generic_CFM_web.png",
+      "votes": 371
+    },
+    {
+      "name": "Christmas FM Classical",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448390"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png",
+      "votes": 34
+    },
+    {
+      "name": "Christmas FM Classical & Carols",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2549_128.mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://live.mystreamplayer.com/configs/images/northpole_web-icon.png",
+      "votes": 76
+    },
+    {
+      "name": "Christmas FM Classical & Carols",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2549_64.aac"
+      ],
+      "tags": [
+        "carols",
+        "christmas",
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png",
+      "votes": 621
+    },
+    {
+      "name": "Christmas FM Classics",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2550_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448283"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-192x192.png",
+      "votes": 93
+    },
+    {
+      "name": "Christmas FM Ireland",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-192x192.png",
+      "votes": 301
+    },
+    {
+      "name": "Circle Of White Light Radio",
+      "urls": [
+        "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1"
+      ],
+      "tags": [
+        "local talk",
+        "news",
+        "news talk",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Clare FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3?dist=web"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.clare.fm/wp-content/uploads/2024/09/CLARE-FM-LOGO-HEADER-TRANS-272x90-1.png",
+      "votes": 0
+    },
+    {
+      "name": "Classic Gold Radio",
+      "urls": [
+        "https://live.btsstream.com/stream/classicgoldradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://classicgoldradio.ie/wp-content/uploads/2024/07/Logo-Classic-Gold-02.png",
+      "votes": 2
+    },
+    {
+      "name": "Classic Hits 80s",
+      "urls": [
+        "https://edge7.audioxi.com/CH80S"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.google.com/imgres?q=classic%20hits%2080%27s%20icon&imgurl=https%3A%2F%2Fstatic.mytuner.mobi%2Fmedia%2Ftvos_radios%2F935%2Fclassic-hits-80s.570a3c5f.png&imgrefurl=https%3A%2F%2Fwww.radio-ireland.com%2Fclassic-hits-80s&docid=y6gt-Cu1A1HPtM&tbnid=Hla6m0zY1ls_TM&vet=12ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA",
+      "votes": 93
+    },
+    {
+      "name": "Clonmellon Community Radio",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/ccr?mp=/1"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "dance music",
+        "irish",
+        "irish music",
+        "local music",
+        "news talk",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.liveradio.ie/files/images/344781/resized/180x172c/clonmellon_community_radio.jpg",
+      "votes": 43
+    },
+    {
+      "name": "Club FM  Dublin Dublins hottest dance mix",
+      "urls": [
+        "https://c6.radioboss.fm:8225/autodj"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Club FM Dublin",
+      "urls": [
+        "https://c6.radioboss.fm:8225/stream"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.liveradio.ie/files/images/491331/resized/180x172c/screenshot_20211216_030436_instagram.jpg",
+      "votes": 30
+    },
+    {
+      "name": "Cork's RedFM",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/RED"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.redfm.ie/i/android-chrome-192x192.png",
+      "votes": 56
+    },
+    {
+      "name": "Dance Nation Radio",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio/dancenationradio?1786022890575="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://dancenationradio.ie/api/image/77596c2b-b8f8-47a5-a169-61cfc6f938ea.png?g=center&h=200",
+      "votes": 3
+    },
+    {
+      "name": "Deep House Radio",
+      "urls": [
+        "https://deephouse-radio.com/api/stream/free"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://deephouse-radio.com/dhr-logo-bg.png",
+      "votes": 13
+    },
+    {
+      "name": "Deep House Radio (DHR)",
+      "urls": [
+        "https://listen.adtonos.com/deep-house-radio-dhr-4"
+      ],
+      "tags": [
+        "chillout+lounge",
+        "deep house",
+        "deep techno",
+        "deephouse",
+        "house",
+        "house/soulful/deep house"
+      ],
+      "city": "Co. Cork",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://deephouse-radio.com/dhr-logo-bg.png",
+      "votes": 2
+    },
+    {
+      "name": "Deise Christmas Radio",
+      "urls": [
+        "https://drn.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "Waterford",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img1.wsimg.com/isteam/ip/0f31d834-d4d9-411f-9779-2be3e50de7a6/dc1.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:710,cg:true",
+      "votes": 8
+    },
+    {
+      "name": "Dublin Digital Radio",
+      "urls": [
+        "https://dublin-digital-radio.radiocult.fm/stream"
+      ],
+      "tags": [
+        "alternative",
+        "art",
+        "community",
+        "independent",
+        "listener supported",
+        "politics"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://play-lh.googleusercontent.com/mVz6RPCPV4vBX875xKk8tiBJ-z-A2hqbf3QO2SSSYxe_RtyPUumEXlxmETuYbsXHsUw",
+      "votes": 67
+    },
+    {
+      "name": "Dublin's 98FM",
+      "urls": [
+        "https://stream.audioxi.com/98"
+      ],
+      "tags": [
+        "contemporary hits",
+        "news",
+        "pop",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.98fm.com/favicon.ico?v=11",
+      "votes": 738
+    },
+    {
+      "name": "Dublin's FM104",
+      "urls": [
+        "https://onic.dublin.live.stream.broadcasting.news/stream-fm104"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/6343debbb68a1.png",
+      "votes": 16
+    },
+    {
+      "name": "Dublin's FM104",
+      "urls": [
+        "https://wg.cdn.tibus.net/fm104MP3128"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mm.aiircdn.com/620/5d9f214ccc05f.png",
+      "votes": 372
+    },
+    {
+      "name": "Dublin's Q102",
+      "urls": [
+        "https://onic.dublin.live.stream.broadcasting.news/stream-q102"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/679cae225b89a.png",
+      "votes": 116
+    },
+    {
+      "name": "East Coast FM",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/EASTCOAST?_=999173"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/286/6229c6697e623.png",
+      "votes": 15
+    },
+    {
+      "name": "Easy Radio Ireland, Easy Mix",
+      "urls": [
+        "https://streaming.exclusive.radio/uber/easymix/icecast.audio"
+      ],
+      "tags": [
+        "classic pop",
+        "classic rock",
+        "pop",
+        "r&b"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+      "votes": 380
+    },
+    {
+      "name": "eist",
+      "urls": [
+        "https://eist-radio.radiocult.fm/stream"
+      ],
+      "tags": [],
+      "city": "Cork",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Energy 106 Belfast Northern Ireland",
+      "urls": [
+        "https://stream1.hippynet.co.uk:8189/Studio"
+      ],
+      "tags": [
+        "electronic dance music"
+      ],
+      "city": "belfast",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Flirt FM 101.3",
+      "urls": [
+        "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://flirtfm.ie/wp-content/uploads/2021/12/Flirt-speech-bubble-1.png",
+      "votes": 5
+    },
+    {
+      "name": "FM104",
+      "urls": [
+        "https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/63435a48d085e.png",
+      "votes": 23
+    },
+    {
+      "name": "Free FM Ireland",
+      "urls": [
+        "https://rocafmadrid.radioca.st/stream"
+      ],
+      "tags": [
+        "#free",
+        "#freefm",
+        "80s",
+        "90s",
+        "free fm"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
+      "votes": 105
+    },
+    {
+      "name": "Freedom FM",
+      "urls": [
+        "https://edge3.audioxi.com/FREEDOMFM"
+      ],
+      "tags": [
+        "00s",
+        "2000s",
+        "90s",
+        "dance",
+        "pop",
+        "pop music",
+        "r&b",
+        "rock"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/606/655bcddbaa77f.png",
+      "votes": 171
+    },
+    {
+      "name": "Funky Ass Tunes",
+      "urls": [
+        "https://ams1.reliastream.com/proxy/john12/stream"
+      ],
+      "tags": [
+        "funk",
+        "lounge",
+        "rare groove",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://funkyasstunes.com/public_3a05_aceb1777f3554a7da05b8a52cb676132.png",
+      "votes": 8
+    },
+    {
+      "name": "Gem New Wave Radio",
+      "urls": [
+        "https://gemradionw.radioca.st/;stream.nsv"
+      ],
+      "tags": [
+        "80's"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/vJZNMZAyy6.png",
+      "votes": 112
+    },
+    {
+      "name": "Gem New Wave Radio",
+      "urls": [
+        "https://gemradio.radioca.st/stream/1/"
+      ],
+      "tags": [
+        "ad free",
+        "classics",
+        "gold",
+        "hits",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://station-images-prod.radio-assets.com/175/gemradiogold.png?version=821b631d86bb60e11cc1f872384823d6",
+      "votes": 69
+    },
+    {
+      "name": "GOCOM Radio",
+      "urls": [
+        "https://stream-57.zeno.fm/6rx2z8u2um0uv?zs=1dODRfWFRzyrlJXub0Ru6Q"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.gocomradio.ie/wp-content/uploads/2022/09/favicon-113x113.png",
+      "votes": 3
+    },
+    {
+      "name": "Gravity Hits",
+      "urls": [
+        "https://live.btsstream.com/stream/gravityhits"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gravityhits.ie/wp-content/uploads/2024/10/gravity512_3.png",
+      "votes": 1
+    },
+    {
+      "name": "HeadWax Radio",
+      "urls": [
+        "https://headwaxradio.radioca.st/stream"
+      ],
+      "tags": [
+        "jazz fusion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.wix.com/favicon.ico",
+      "votes": 11
+    },
+    {
+      "name": "Heartbeat FM",
+      "urls": [
+        "https://cast5.magicstreams.gr:8010/"
+      ],
+      "tags": [
+        "ad free",
+        "easy listening",
+        "love songs",
+        "non stop music",
+        "smooth"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://heartbeatfm.net/wp-content/uploads/2021/02/cropped-cropped-cropped-Heartbeat-Logo-Master-5.png",
+      "votes": 6
+    },
+    {
+      "name": "Highland Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3"
+      ],
+      "tags": [
+        "popular music",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png",
+      "votes": 800
+    },
+    {
+      "name": "HITMIX RADIO IRELAND",
+      "urls": [
+        "https://a8.asurahosting.com:7180/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "top 40",
+        "variety"
+      ],
+      "city": "Galway",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Ignoreradio Shoegaze",
+      "urls": [
+        "https://sp1.autopo.st/8026/stream"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "iRadio",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/IRADNWAAC"
+      ],
+      "tags": [
+        "top 40"
+      ],
+      "city": "Westmeath",
+      "codec": "AAC",
+      "bitrate": 63,
+      "logo": "https://pbs.twimg.com/profile_images/1425495497410818050/btb4eQjn_400x400.jpg",
+      "votes": 26
+    },
+    {
+      "name": "Kfm 97.6",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/KFM?_=668840"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/516/607824528e9c8.png",
+      "votes": 48
+    },
+    {
+      "name": "Limerick's Live 95FM",
+      "urls": [
+        "https://wg.cdn.tibus.net/Live95fm"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news",
+        "local radio",
+        "local talk",
+        "love songs",
+        "music"
+      ],
+      "city": "Limerick",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+      "votes": 273
+    },
+    {
+      "name": "Live95 Limerick",
+      "urls": [
+        "https://live.onic.ie/stream-live95"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+      "votes": 1
+    },
+    {
+      "name": "Live95FM",
+      "urls": [
+        "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+      "votes": 14
+    },
+    {
+      "name": "LMFM",
+      "urls": [
+        "https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mm.aiircdn.com/616/5d5138dc14031.png",
+      "votes": 61
+    },
+    {
+      "name": "Midlands 103",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3"
+      ],
+      "tags": [],
+      "city": "Westmeath",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Midwest Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8"
+      ],
+      "tags": [],
+      "city": "Ballyhaunis",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Midwest Radio [AAC]",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
+      ],
+      "tags": [],
+      "city": "Ballyhaunis",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Midwest Radio [MP3]",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+      ],
+      "tags": [],
+      "city": "Ballyhaunis",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg",
+      "votes": 2
+    },
+    {
+      "name": "MixLive - Progressive & Tech-house",
+      "urls": [
+        "https://strw3.openstream.co/939"
+      ],
+      "tags": [
+        "progressive house",
+        "progressive trance",
+        "tech house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mixlive.net/wp-content/uploads/2025/12/cropped-sound-mixer-192x192.png",
+      "votes": 15
+    },
+    {
+      "name": "MixLive.net - Psybient Sunset",
+      "urls": [
+        "https://listen.openstream.co/6517/audio"
+      ],
+      "tags": [
+        "darkpsy",
+        "psybient",
+        "psychill"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Mixlive.net - Psybient Sunset",
+      "urls": [
+        "https://strw3.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%26publisherId%3D956%26k%3D1789010429"
+      ],
+      "tags": [
+        "darkpsy",
+        "psybient",
+        "psychill"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "MPB Radio 1",
+      "urls": [
+        "https://sc.mpbnl.nl/radio1.mp3"
+      ],
+      "tags": [
+        "pop music",
+        "pop",
+        "hit music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 320,
+      "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio1.png",
+      "votes": 19
+    },
+    {
+      "name": "MPB Radio 1",
+      "urls": [
+        "https://sc.mpbnl.nl/radio1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.mpbradio1.com/images/logo.png",
+      "votes": 3
+    },
+    {
+      "name": "MPB Radio 1 Dance",
+      "urls": [
+        "https://icy1.mpbnl.nl/radio1-mm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 384,
+      "logo": "https://www.mpbradio1.com/_next/image?url=%2Fincludes%2Fpng%2Flogo.png&w=128&q=80",
+      "votes": 3
+    },
+    {
+      "name": "MPB Radio 2",
+      "urls": [
+        "https://sc.mpbnl.nl/radio2.mp3"
+      ],
+      "tags": [
+        "pop music",
+        "pop",
+        "hit music",
+        "70s",
+        "80s",
+        "90s",
+        "00s",
+        "oldies",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 384,
+      "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
+      "votes": 42
+    },
+    {
+      "name": "MPB Radio 2 90s & 00s",
+      "urls": [
+        "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+      ],
+      "tags": [
+        "pop music",
+        "pop",
+        "hit music",
+        "90s music",
+        "rave",
+        "eurodance",
+        "90s pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 384,
+      "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
+      "votes": 47
+    },
+    {
+      "name": "Near FM",
+      "urls": [
+        "https://nearfm-radiohosting.radioca.st/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nearfm.ie/wp-content/uploads/2014/05/near-top-logo-long-1.png",
+      "votes": 5
+    },
+    {
+      "name": "Near FM (webcam)",
+      "urls": [
+        "https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://nearfm.ie/wp-content/uploads/2014/05/near-top-logo-long-1.png",
+      "votes": 2
+    },
+    {
+      "name": "Newstalk",
+      "urls": [
+        "https://edge.audioxi.com/NT"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.newstalk.com/i/android-icon-192x192.png",
+      "votes": 3587
+    },
+    {
+      "name": "Newstalk Ireland AAC",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/NTAAC"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "AAC+",
+      "bitrate": 63,
+      "logo": "https://www.newstalk.com/i/android-icon-192x192.png",
+      "votes": 31
+    },
+    {
+      "name": "Off The Ball",
+      "urls": [
+        "https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false"
+      ],
+      "tags": [
+        "ireland",
+        "sport",
+        "sports news",
+        "sports talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.offtheball.com/images/logo-stacked-otb.svg?v1694182767",
+      "votes": 24
+    },
+    {
+      "name": "Onic 80s",
+      "urls": [
+        "https://live.onic.ie/stream-80s?_=184336"
+      ],
+      "tags": [
+        "80s"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eecd2991bb4.png",
+      "votes": 41
+    },
+    {
+      "name": "Onic Alternative",
+      "urls": [
+        "https://live.onic.ie/stream-alternative?_=623178"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eea83a947d4.png",
+      "votes": 19
+    },
+    {
+      "name": "Onic Classical",
+      "urls": [
+        "https://live.onic.ie/stream-classical?_=954716"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/301/67eecd91a06c6.png",
+      "votes": 11
+    },
+    {
+      "name": "Onic Country",
+      "urls": [
+        "https://live.onic.ie/stream-country?_=267164"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/301/67eece1b64dda.png",
+      "votes": 17
+    },
+    {
+      "name": "Onic Gold",
+      "urls": [
+        "https://live.onic.ie/stream-gold?_=718030"
+      ],
+      "tags": [
+        "gold"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/301/67eecec1208af.png",
+      "votes": 11
+    },
+    {
+      "name": "Onic Hits",
+      "urls": [
+        "https://live.onic.ie/stream-hits?_=408214"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/301/67eea1328caba.png",
+      "votes": 7
+    },
+    {
+      "name": "Onic Kids",
+      "urls": [
+        "https://live.onic.ie/stream-kids?_=661229"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eecf376f000.png",
+      "votes": 7
+    },
+    {
+      "name": "Onic Movies",
+      "urls": [
+        "https://live.onic.ie/stream-movies?_=55552"
+      ],
+      "tags": [
+        "movie scores",
+        "movie soundtracks",
+        "movies"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/301/67eecfc515e09.png",
+      "votes": 42
+    },
+    {
+      "name": "Onic Pride Vibes",
+      "urls": [
+        "https://live.onic.ie/stream-pride-vibes?_=895437"
+      ],
+      "tags": [
+        "pride",
+        "pride radio"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eed032f35db.png",
+      "votes": 4
+    },
+    {
+      "name": "Onic RnB",
+      "urls": [
+        "https://live.onic.ie/stream-rnb?_=890764"
+      ],
+      "tags": [
+        "rap hiphop rnb",
+        "rnb"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eed0efb2ee9.png",
+      "votes": 22
+    },
+    {
+      "name": "Onic Rock",
+      "urls": [
+        "https://live.onic.ie/stream-rock?_=630901"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": "https://mmo.aiircdn.com/301/67eed19d50886.png",
+      "votes": 13
+    },
+    {
+      "name": "Phantom Radio Ireland",
+      "urls": [
+        "https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.phantomradio.ie/wp-content/uploads/2020/06/Logo-Transparent-2.png",
+      "votes": 17
+    },
+    {
+      "name": "PHEVER Radio",
+      "urls": [
+        "https://uk1.internet-radio.com/proxy/phever?mp=/live"
+      ],
+      "tags": [
+        "djs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.phever.ie/images/placeholder.png",
+      "votes": 344
+    },
+    {
+      "name": "Planet Radio ACC",
+      "urls": [
+        "https://media.planetradio.ie/radio/8000/ACC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://planetradio.ie/wp-content/uploads/2020/06/PR-1800-x-1720-PNG.png",
+      "votes": 9
+    },
+    {
+      "name": "PlanetRadioie",
+      "urls": [
+        "https://media.planetradio.ie/radio/8000/OnAir"
+      ],
+      "tags": [
+        "1960s and 1970s",
+        "1980s hits",
+        "1990s hits",
+        "classic hits"
+      ],
+      "city": "Dublin ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 46
+    },
+    {
+      "name": "PlayFm Dublin",
+      "urls": [
+        "https://stream.playfmdublin.com/radio192.mp3"
+      ],
+      "tags": [
+        "afro house",
+        "balearic",
+        "chillout",
+        "deep house",
+        "disco",
+        "electronica",
+        "hard house",
+        "house",
+        "lounge",
+        "organic house",
+        "progressive house",
+        "soulful house",
+        "techno",
+        "trance"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://playfmdublin.com/wp-content/uploads/2023/08/Fav.jpg",
+      "votes": 1
+    },
+    {
+      "name": "PowerFM Dublin 320Kbps MP3",
+      "urls": [
+        "https://www.powerfm.org:8443/powerfm.mp3"
+      ],
+      "tags": [
+        "dance",
+        "drum and bass",
+        "electronic",
+        "house",
+        "jungle"
+      ],
+      "city": "Leinster",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://powerfm.org/favicon.ico",
+      "votes": 149
+    },
+    {
+      "name": "PowerFM Dublin 320Kbps Ogg/Vorbis",
+      "urls": [
+        "https://www.powerfm.org:8443/powerfm.ogg"
+      ],
+      "tags": [],
+      "city": "Leinster",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://powerfm.org/favicon.ico",
+      "votes": 94
+    },
+    {
+      "name": "Q102",
+      "urls": [
+        "https://wg.cdn.tibus.net/q102MP3128"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 329
+    },
+    {
+      "name": "Radio Ajay",
+      "urls": [
+        "https://ajayradio.com/stream/radioajay.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://ajayradio.com/favicon.ico",
+      "votes": 1
+    },
+    {
+      "name": "Radio Nova 100",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.nova.ie/wp-content/uploads/2024/11/color-logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Siamsa",
+      "urls": [
+        "https://cast02.siamsa.ie/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "irish traditional",
+        "mp3"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://siamsa.ie/favicon.ico",
+      "votes": 222
+    },
+    {
+      "name": "Radio Siamsa",
+      "urls": [
+        "https://main.siamsa.ie:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://siamsa.ie/wp-content/uploads/2022/07/radiosiamsa.ico",
+      "votes": 4
+    },
+    {
+      "name": "Raidió na Gaeltachta",
+      "urls": [
+        "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8"
+      ],
+      "tags": [
+        "irish language",
+        "mixed"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "Raídío Rí-Rá",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472="
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Rana Sundi",
+      "urls": [
+        "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.pinimg.com/1200x/81/c0/44/81c044d4553049ecbc09296ca53b2eae.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Retro Rewind",
+      "urls": [
+        "https://a10.asurahosting.com:7050/radio.mp3"
+      ],
+      "tags": [
+        "90s",
+        "club dance",
+        "dance"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Rewind",
+      "urls": [
+        "https://christmasfm.cdnstream1.com/2551_128.mp3"
+      ],
+      "tags": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "classic hits",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "RTE 2 FM",
+      "urls": [
+        "https://icecast.rte.ie/2fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 233
+    },
+    {
+      "name": "RTÉ 2FM",
+      "urls": [
+        "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "popular music"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "RTÉ Gold",
+      "urls": [
+        "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 109
+    },
+    {
+      "name": "RTÉ lyric fm",
+      "urls": [
+        "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8"
+      ],
+      "tags": [
+        "classical music",
+        "music"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "RTÉ Radio 1",
+      "urls": [
+        "https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8"
+      ],
+      "tags": [
+        "news",
+        "sport",
+        "talk",
+        "talk & speech"
+      ],
+      "city": "Dublin",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 777
+    },
+    {
+      "name": "Scariff Bay Community Radio",
+      "urls": [
+        "https://s4.radio.co/s87ac5cf5a/listen"
+      ],
+      "tags": [],
+      "city": "Co. Clare",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "SOLID GOLD RADIO IRELAND",
+      "urls": [
+        "https://a1.asurahosting.com:10000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "SOLID GOLD RADIO IRELAND",
+      "urls": [
+        "https://az11.yesstreaming.net:8020/radio.mp3"
+      ],
+      "tags": [],
+      "city": "LAOIS",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "SOLID GOLD RADIO IRELAND 1",
+      "urls": [
+        "https://az10.yesstreaming.net:8320/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://az11.yesstreaming.net/api/station/solid_gold_radio_ireland_1/art/dd67ea0ed1b8a5e9822f8af8",
+      "votes": 10
+    },
+    {
+      "name": "South East Radio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3"
+      ],
+      "tags": [
+        "community radio",
+        "freeform",
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "Wexford",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mmo.aiircdn.com/277/697b460932735.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Spin 103.8",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://img.resized.co/shuffle/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczovL21lZGlhLmdvbG91ZG5vdy5jb20vdXBsb2Fkcy8xNzIxMTQzOTg4L1NwaW4xMDM4XzUwMC5wbmdcIixcIndpZHRoXCI6MjEwLFwiaGVpZ2h0XCI6MjEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6Ly93d3cuZ29sb3Vkbm93LmNvbS9pbWFnZXMvbG9nby5zdmdcIn0iLCJoYXNoIjoiMDBiNmNmNTFlNWVmMWEzOThlMTY5Y2I3NDc1MDIzODE4OThjODYyNyJ9/Spin1038_500.png",
+      "votes": 3
+    },
+    {
+      "name": "SPIN South West",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/SW"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "AAC+",
+      "bitrate": 65,
+      "logo": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
+      "votes": 6
+    },
+    {
+      "name": "SPIN South West",
+      "urls": [
+        "https://edge.audioxi.com/SW"
+      ],
+      "tags": [
+        "hit music",
+        "top 40"
+      ],
+      "city": "Limerick",
+      "codec": "AAC+",
+      "bitrate": 65,
+      "logo": "https://www.spinsouthwest.com/images/logo.svg",
+      "votes": 9
+    },
+    {
+      "name": "Spin1038",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/SP"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.spin1038.com/i/android-icon-192x192.png",
+      "votes": 10
+    },
+    {
+      "name": "St. Ita’s Hospital Radio",
+      "urls": [
+        "https://de2.streamingpulse.com/ssl/8042"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://us7.streamingpulse.com/1962/tmp/images/default.png",
+      "votes": 1
+    },
+    {
+      "name": "Sunshine 106.8",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/SUN?_=808250"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mm.aiircdn.com/529/5e1463a7c9707.png",
+      "votes": 210
+    },
+    {
+      "name": "sunshine soul",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/SSOULAAC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "The Zone - Dublin",
+      "urls": [
+        "https://uk1.internet-radio.com/proxy/thezone/stream"
+      ],
+      "tags": [
+        "alternative",
+        "alternative / indie",
+        "classic rock",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "Timewarp Ireland",
+      "urls": [
+        "https://broadcast.shoutstream.co.uk:8052/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/110200.v3.png",
+      "votes": 29
+    },
+    {
+      "name": "Tipperary Hospital Radio Clonmel",
+      "urls": [
+        "https://de2.streamingpulse.com/ssl/THRCL"
+      ],
+      "tags": [
+        "community radio",
+        "hospital radio"
+      ],
+      "city": "Tipperary",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.thrcl.com/assets/images/thrcl-fm-logo-128x128.png",
+      "votes": 5
+    },
+    {
+      "name": "Tipperary Mid West Community Radio",
+      "urls": [
+        "https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.tippmidwestradio.com/player/images/tmwr-logo-272x90.png",
+      "votes": 11
+    },
+    {
+      "name": "Today FM",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/TDAAC"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "AAC+",
+      "bitrate": 63,
+      "logo": "https://www.todayfm.com/i/android-icon-192x192.png",
+      "votes": 11
+    },
+    {
+      "name": "Today FM",
+      "urls": [
+        "https://stream.audioxi.com/TD"
+      ],
+      "tags": [
+        "alternative",
+        "pop",
+        "rock"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.todayfm.com/favicon.ico",
+      "votes": 1994
+    },
+    {
+      "name": "Today FM 80's",
+      "urls": [
+        "https://edge3.audioxi.com/T80"
+      ],
+      "tags": [
+        "80's hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.todayfm.com/favicon.ico?v=11",
+      "votes": 79
+    },
+    {
+      "name": "Today FM 80s",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/T80"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.todayfm.com/i/android-icon-192x192.png",
+      "votes": 2
+    },
+    {
+      "name": "Today FM 90s",
+      "urls": [
+        "https://live-bauerie.sharp-stream.com/T90"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.todayfm.com/i/android-icon-192x192.png",
+      "votes": 6
+    },
+    {
+      "name": "TodayFm",
+      "urls": [
+        "https://edge.audioxi.com/TDAAC"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 63,
+      "logo": "https://www.todayfm.com/i/android-icon-192x192.png?v=6",
+      "votes": 102
+    },
+    {
+      "name": "TodayFm",
+      "urls": [
+        "https://pri.gocaster.net/td"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.todayfm.com/i/apple-touch-icon.png?v=6",
+      "votes": 276
+    },
+    {
+      "name": "Total Country Inchicore",
+      "urls": [
+        "https://totalcountry.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "Dublin",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "TrancePulse Dublin",
+      "urls": [
+        "https://stream.trance.ie:8443/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://trancepulsefm.ie/wp-content/uploads/elementor/thumbs/Trancepulse-1-qhvmeannx5ha8zqboniuwvif323gi2k5pqrpcwjovs.png",
+      "votes": 69
+    },
+    {
+      "name": "UCBI WORSHIP",
+      "urls": [
+        "https://stream.btsstream.com/stream/iworship"
+      ],
+      "tags": [
+        "praise & worship"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fuk.radio.net%2Fimages%2Fbroadcasts%2F93%2F9f%2F130137%2F1%2Fc300.png&tbnid=_l8rjHnL2ip3MM&vet=12ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9..i&imgrefurl=https%3A%2F%2Fuk.radio.net%2Fs%2Fucbirelandworship&docid=LLoJBiNVqqetTM&w=300&h=300&q=ucbi%20worship&client=firefox-b-lm&ved=2ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9",
+      "votes": 202
+    },
+    {
+      "name": "University College Cork",
+      "urls": [
+        "https://stream.btsstream.com:8060/ucc.mp3"
+      ],
+      "tags": [
+        "college",
+        "cork",
+        "ireland",
+        "ucc"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Wired 99.9",
+      "urls": [
+        "https://s2.radio.co/sf0986595a/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://images.radio.co/station_logos/sf0986595a.20220329055810.png",
+      "votes": 9
+    },
+    {
+      "name": "XT Alternative",
+      "urls": [
+        "https://xt.stream.ie:8443/xt"
+      ],
+      "tags": [
+        "alternative",
+        "alternative / indie",
+        "alternative indie rock",
+        "alternative rock",
+        "indie",
+        "indie music",
+        "indie pop",
+        "indie rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://pri.ie/wp-content/uploads/2025/01/5b80707a-6c35-40eb-98bb-f1f29938c3cd.png",
+      "votes": 0
+    }
+  ]
+}

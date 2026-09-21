@@ -1,0 +1,129 @@
+{
+  "code": "MG",
+  "name": "Madagascar",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 202
+    },
+    {
+      "name": "ESDES Radio",
+      "urls": [
+        "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3"
+      ],
+      "tags": [
+        "educational",
+        "hits",
+        "jazz"
+      ],
+      "city": "Antananarivo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png",
+      "votes": 322
+    },
+    {
+      "name": "Hopefy Radio MG",
+      "urls": [
+        "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://hopefy.fanantenanahoanao.org/static/uploads/album_art.1718582233.png",
+      "votes": 511
+    },
+    {
+      "name": "Radio Feon'ny Filazantsara",
+      "urls": [
+        "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
+      ],
+      "tags": [
+        "christian-gospel",
+        "educational"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://flm-rff.org/logo.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio HIFI",
+      "urls": [
+        "https://listen.radioking.com/radio/52108/stream/89122"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 152
+    },
+    {
+      "name": "Radio Oasis",
+      "urls": [
+        "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 249
+    },
+    {
+      "name": "Radio Rock Madagascar",
+      "urls": [
+        "https://tanjona.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 369
+    },
+    {
+      "name": "Radio Vazo Gasy",
+      "urls": [
+        "https://stream.radiovazogasy.com/stream?1.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 310
+    },
+    {
+      "name": "Top Radio 102.8",
+      "urls": [
+        "https://listen.radioking.com/radio/309053/stream/356036"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 362
+    }
+  ]
+}

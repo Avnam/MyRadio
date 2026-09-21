@@ -1,0 +1,3242 @@
+{
+  "code": "CH",
+  "name": "Switzerland",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "A Fine Jazz Gumbo Radio",
+      "urls": [
+        "https://streaming.smartradio.ch:9502/stream"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://jazzgumboradio.com/favicon.ico",
+      "votes": 318
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 3
+    },
+    {
+      "name": ". Al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+      "votes": 255
+    },
+    {
+      "name": "1.FM - Absolute Country Hits Radio",
+      "urls": [
+        "https://strmreg.1.fm/acountry_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/2730.v5.png",
+      "votes": 16
+    },
+    {
+      "name": "1.fm - Calming Piano",
+      "urls": [
+        "https://strm112.1.fm/gospel_mobile_mp3"
+      ],
+      "tags": [
+        "calm",
+        "classical piano",
+        "piano",
+        "relax",
+        "relaxing"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radio.1cloud.fm/favicon/favicon.svg?v=2",
+      "votes": 14
+    },
+    {
+      "name": "1.FM - Classic Country Radio",
+      "urls": [
+        "https://strmreg.1.fm/ccountry_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/2619.v4.png",
+      "votes": 20
+    },
+    {
+      "name": "1.FM - Country One Radio",
+      "urls": [
+        "https://strmreg.1.fm/country_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/2685.v4.png",
+      "votes": 9
+    },
+    {
+      "name": "1.FM - Love Classics Radio",
+      "urls": [
+        "https://strmreg.1.fm/loveclassics_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/2731.v5.png",
+      "votes": 15
+    },
+    {
+      "name": "1.FM - Sunshine",
+      "urls": [
+        "https://strm112.1.fm/allmixedup_mobile_mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 278
+    },
+    {
+      "name": "1.FM Absolute 90's Radio",
+      "urls": [
+        "https://strm112.1.fm/90s_mobile_mp3"
+      ],
+      "tags": [
+        "90s",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.1.fm/images/favicon.ico",
+      "votes": 181
+    },
+    {
+      "name": "1.fm Back To The 50's",
+      "urls": [
+        "https://strm112.1.fm/60s_70s_mobile_mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 370
+    },
+    {
+      "name": "1.FM Beloved Ballads",
+      "urls": [
+        "https://strm112.1.fm/onelive_mobile_mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 381
+    },
+    {
+      "name": "1.fm classic rock",
+      "urls": [
+        "https://strm112.1.fm/crock_mobile_mp3"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "1.fm Movie Soundtrack Hits",
+      "urls": [
+        "https://strm112.1.fm/moviesoundtracks_mobile_mp3?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 287
+    },
+    {
+      "name": "1.fm Otto's Classical music",
+      "urls": [
+        "https://strm112.1.fm/classical_mobile_aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 1431
+    },
+    {
+      "name": "1.fm top rap",
+      "urls": [
+        "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue"
+      ],
+      "tags": [
+        "rap hiphop rnb"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 108
+    },
+    {
+      "name": "20minuten.radio DAB+ (GOAT Radio)",
+      "urls": [
+        "https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "80ies dot radio",
+      "urls": [
+        "https://stream.radiojar.com/6cbvkaa1mrruv?1643199882"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "80s Forever - We Keep The 80s Alive",
+      "urls": [
+        "https://premium.shoutcastsolutions.com/radio/8050/256.mp3"
+      ],
+      "tags": [
+        "80s",
+        "alternative rock",
+        "eighties",
+        "gothic",
+        "indie",
+        "indie pop",
+        "manchester rave",
+        "new wave",
+        "power pop",
+        "rare 80s",
+        "rock",
+        "synthpop"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.80sforever.radio/favicon.ico",
+      "votes": 2494
+    },
+    {
+      "name": "Agaune Radio",
+      "urls": [
+        "https://stream.zeno.fm/0r0xa792kwzuv"
+      ],
+      "tags": [
+        "general"
+      ],
+      "city": "Valais",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.agaune.radio/upload/design/69a67c2b9ba951.58189328.png",
+      "votes": 3
+    },
+    {
+      "name": "Alti Radio",
+      "urls": [
+        "https://transmiss.ion.ovh/listen/altiradio/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "eclectic",
+        "gospel",
+        "louange"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Ambi Nature Radio",
+      "urls": [
+        "https://nature-rex.radioca.st/stream"
+      ],
+      "tags": [
+        "field recording",
+        "nature",
+        "sounds of nature"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s266086d.png",
+      "votes": 1369
+    },
+    {
+      "name": "Arc Musique",
+      "urls": [
+        "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 87
+    },
+    {
+      "name": "Bachata Nation Radio",
+      "urls": [
+        "https://stream.zeno.fm/vwcq5n2rruhvv"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "Basspistol Radio",
+      "urls": [
+        "https://radio.basspistol.com/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "experimental",
+        "hiphop",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://basspistol.com/siteicon.png",
+      "votes": 141
+    },
+    {
+      "name": "Basspistol Radio",
+      "urls": [
+        "https://radio.basspistol.com/listen/basspistol/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "experimental",
+        "hiphop",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://basspistol.com/siteicon.png",
+      "votes": 2
+    },
+    {
+      "name": "Bear Metal Radio",
+      "urls": [
+        "https://cast5.asurahosting.com/proxy/bear?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.bearmetalradio.com/images/logo.png",
+      "votes": 73
+    },
+    {
+      "name": "Brazilian Birds Radio",
+      "urls": [
+        "https://strm112.1.fm/brazilianbirds_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0",
+      "votes": 97
+    },
+    {
+      "name": "Break Radio",
+      "urls": [
+        "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3"
+      ],
+      "tags": [
+        "hip-hop",
+        "hip-hop and rap oldies",
+        "hiphop",
+        "rap",
+        "rap hiphop rnb",
+        "rnb",
+        "trap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.breakradio.ch/apple-touch-icon.png",
+      "votes": 100
+    },
+    {
+      "name": "Canal3 deutsch",
+      "urls": [
+        "https://radio.upstream-cloud.ch/canal3allemand-192.aac"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop"
+      ],
+      "city": "Kanton Bern",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://web.canal3.ch/de/sites/all/themes/canal3_theme_v2/favicon.ico",
+      "votes": 44
+    },
+    {
+      "name": "Christmas Radio FM",
+      "urls": [
+        "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Classic | Radio Swiss",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+      ],
+      "tags": [
+        "classical",
+        "mp3",
+        "radio swiss"
+      ],
+      "city": "Bern",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 82
+    },
+    {
+      "name": "CM Radio Crans-Montana",
+      "urls": [
+        "https://listen.radioking.com/radio/605899/stream/669205"
+      ],
+      "tags": [
+        "diversity"
+      ],
+      "city": "Valais",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Country Radio Switzerland",
+      "urls": [
+        "https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "DIKS ДИКС",
+      "urls": [
+        "https://icecast.correctiv.net/sacharow"
+      ],
+      "tags": [
+        "#"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Dream Sequence",
+      "urls": [
+        "https://listen.radioking.com/radio/453296/stream/508976"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png",
+      "votes": 27
+    },
+    {
+      "name": "Electrons Libres",
+      "urls": [
+        "https://listen.radioking.com/radio/427889/stream/481502"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://electronslibres.ch/wp-content/uploads/2021/06/cropped-LogoRadioSimpleSansTxt-1.png",
+      "votes": 35
+    },
+    {
+      "name": "Energy Basel (NRJ)",
+      "urls": [
+        "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3"
+      ],
+      "tags": [
+        "charts",
+        "local news",
+        "pop"
+      ],
+      "city": "Basel",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 416
+    },
+    {
+      "name": "Energy Bern",
+      "urls": [
+        "https://energybern.ice.infomaniak.ch/energybern-high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
+      "votes": 57
+    },
+    {
+      "name": "ERF LifeChannel",
+      "urls": [
+        "https://stream1.lifechannel.ch/LIFECHANNEL"
+      ],
+      "tags": [
+        "ccm",
+        "christian"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://lifechannel.ch/wp-content/uploads/sites/2/cropped-Life-Channel-Profil-Logo-32x32.png",
+      "votes": 4
+    },
+    {
+      "name": "FLASHBACK FM",
+      "urls": [
+        "https://flashback.streambase.ch/001"
+      ],
+      "tags": [
+        "international"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "GDS.FM",
+      "urls": [
+        "https://live.gds.fm/main.mp3"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "GIN Radio 24",
+      "urls": [
+        "https://app.aloncast.com/api/stream/gin-radio-24-a7f910"
+      ],
+      "tags": [
+        "chillout",
+        "country",
+        "electro",
+        "investigative reports",
+        "news",
+        "pop",
+        "rock"
+      ],
+      "city": "Basel-Landschaft",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Global Sport Canal Romand",
+      "urls": [
+        "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.globalsport.ch/player/bouton_player.png",
+      "votes": 1
+    },
+    {
+      "name": "Gnu Radio - Metal FM",
+      "urls": [
+        "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802"
+      ],
+      "tags": [
+        "classic metal",
+        "drgnu",
+        "gnu",
+        "gnu radio",
+        "metal",
+        "metal fm",
+        "radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.gnuradio.org/favicon.ico",
+      "votes": 208
+    },
+    {
+      "name": "GOAT Radio",
+      "urls": [
+        "https://20min.dmd2streaming.com/20minuten_radio_64.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png",
+      "votes": 163
+    },
+    {
+      "name": "Gorilla.fm",
+      "urls": [
+        "https://strm112.1.fm/gorillafm_mobile_mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "GRRIF",
+      "urls": [
+        "https://rjb.ice.infomaniak.ch/rjb-high.mp3"
+      ],
+      "tags": [
+        "blues",
+        "eclectic",
+        "electronic",
+        "indie",
+        "rock",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 141
+    },
+    {
+      "name": "Happy Radio",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://goodtimeradio.broadcast.radio/favicon.ico",
+      "votes": 90
+    },
+    {
+      "name": "hifreaksradio",
+      "urls": [
+        "https://stream.laut.fm/hifreaksradio"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "rock",
+        "songwriter",
+        "world music"
+      ],
+      "city": "Nidwalden",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "IP music SLOW - aacPlus@96 Kb/s",
+      "urls": [
+        "https://live9.avf.ch/ipmusicslowaacp96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.ipmusicslow.ch/images/logo-ipmusicslow.png",
+      "votes": 44
+    },
+    {
+      "name": "Jam On Radio",
+      "urls": [
+        "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3"
+      ],
+      "tags": [],
+      "city": "Zug",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://jam-on.ch/img/apple-touch-icon.png",
+      "votes": 2
+    },
+    {
+      "name": "JAMES FM",
+      "urls": [
+        "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png",
+      "votes": 1
+    },
+    {
+      "name": "Jazz | Radio Swiss",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+      ],
+      "tags": [
+        "jazz",
+        "mp3",
+        "radio swiss"
+      ],
+      "city": "Bern",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+      "votes": 572
+    },
+    {
+      "name": "Jukebox - Nonstop Music",
+      "urls": [
+        "https://kreuzbergswiss.spcast.eu/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Jukebox - Nonstop Music",
+      "urls": [
+        "https://kreuzbergswiss.sp.radio.fm/stream.hls"
+      ],
+      "tags": [],
+      "city": "St. Gallen",
+      "codec": "AAC",
+      "bitrate": 312,
+      "logo": "https://jukebox.kreuzbergswiss.ch/images/favicon.ico",
+      "votes": 7
+    },
+    {
+      "name": "Kanal K",
+      "urls": [
+        "https://play.kanalk.ch/kanalk/mp3-192/webstream"
+      ],
+      "tags": [],
+      "city": "Saarland",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://backend.kanalk.ch/wp-content/uploads/2023/10/Kanal_K_Icon_WeissAufSchwarz.png",
+      "votes": 23
+    },
+    {
+      "name": "Kanal K",
+      "urls": [
+        "https://play.kanalk.ch/kanalk/mp3-192/webseite"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.kanalk.ch/favicon.png",
+      "votes": 10
+    },
+    {
+      "name": "kanalk",
+      "urls": [
+        "https://play.kanalk.ch/kanalk/mp3-192/"
+      ],
+      "tags": [
+        "alternative / indie"
+      ],
+      "city": "Switzerland",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Kiss Collector Radio",
+      "urls": [
+        "https://dr2101.ice.infomaniak.ch/dr2101.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://kisscollector.ch/favicon.ico",
+      "votes": 20
+    },
+    {
+      "name": "Klassik Radio (Switzerland)",
+      "urls": [
+        "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "Kontrafunk",
+      "urls": [
+        "https://s5.radio.co/sca4082ebb/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Kontrafunk (AAC 64)",
+      "urls": [
+        "https://s5.radio.co/sca4082ebb/low"
+      ],
+      "tags": [
+        "conservative",
+        "news",
+        "politics",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 316
+    },
+    {
+      "name": "Kontrafunk (Mobil)",
+      "urls": [
+        "https://icecast.multhielemedia.de/listen/kontrafunk/mobil"
+      ],
+      "tags": [
+        "news",
+        "opinion",
+        "talk"
+      ],
+      "city": "Thurgau",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "Kontrafunk (MP3 192)",
+      "urls": [
+        "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3"
+      ],
+      "tags": [
+        "conservative",
+        "news",
+        "politics",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1428
+    },
+    {
+      "name": "KTfm Geneva - THE BEST OF 70'S AND 80'S",
+      "urls": [
+        "https://ktfm.ice.infomaniak.ch/ktfm-high.mp3"
+      ],
+      "tags": [
+        "70s",
+        "70s disco",
+        "80s",
+        "disco"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/ktfm-radio.ch/wp-content/uploads/2019/12/KTFM-1.png?fit=50%2C50&ssl=1",
+      "votes": 22
+    },
+    {
+      "name": "La Radio du bord de l’eau",
+      "urls": [
+        "https://listen.radioking.com/radio/181657/stream/223420"
+      ],
+      "tags": [
+        "chillout",
+        "house",
+        "smooth lounge",
+        "world music"
+      ],
+      "city": "Valais",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg",
+      "votes": 7
+    },
+    {
+      "name": "LFM",
+      "urls": [
+        "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png",
+      "votes": 33
+    },
+    {
+      "name": "LFM",
+      "urls": [
+        "https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png",
+      "votes": 8
+    },
+    {
+      "name": "lounge-radio.com",
+      "urls": [
+        "https://fr1.streamhosting.ch/lounge128.mp3"
+      ],
+      "tags": [
+        "chillout+lounge"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "votes": 253
+    },
+    {
+      "name": "LOUNGE-RADIO.COM - swiss made",
+      "urls": [
+        "https://player.streamhosting.ch/lounge128.ogg"
+      ],
+      "tags": [],
+      "city": "Aargau",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://lounge-radio.com/images/lounge-radio_logo.png",
+      "votes": 15
+    },
+    {
+      "name": "LOUNGE-RADIO.COM - swiss made",
+      "urls": [
+        "https://player.streamhosting.ch/lounge64.aac"
+      ],
+      "tags": [
+        "lounge downtempo chillout ambient easy listening"
+      ],
+      "city": "Aargau",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://lounge-radio.com/images/lounge-radio_logo.png",
+      "votes": 18
+    },
+    {
+      "name": "Love Hardstyle",
+      "urls": [
+        "https://ca.azura.linkodev.ch/listen/lovehardstyle/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "LUX RADIO",
+      "urls": [
+        "https://live7.avf.ch/lux_main"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 1200,
+      "logo": "https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png",
+      "votes": 15
+    },
+    {
+      "name": "LUX RADIO",
+      "urls": [
+        "https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 192,
+      "logo": "https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png",
+      "votes": 4
+    },
+    {
+      "name": "MaXXima",
+      "urls": [
+        "https://maxxima.mine.nu/maxxima.aac"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "deep house",
+        "edm",
+        "electro house",
+        "electronic",
+        "house",
+        "progressive house"
+      ],
+      "city": "Canton of Vaud",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": "https://maxxima.ch/wp-content/uploads/2018/03/cropped-maxxima_radio_512-180x180.png",
+      "votes": 9
+    },
+    {
+      "name": "my105 X-MAS",
+      "urls": [
+        "https://stream01.my105.ch/my105xmas.mp3"
+      ],
+      "tags": [
+        "weihnachten",
+        "x-mas"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "my105 X-MAS Radio (AAC)",
+      "urls": [
+        "https://stream01.my105.ch/my105xmas-aac.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Neo1",
+      "urls": [
+        "https://neo1.ice.infomaniak.ch/neo1.mp3"
+      ],
+      "tags": [
+        "local news",
+        "pop",
+        "rock"
+      ],
+      "city": "Bern",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg",
+      "votes": 31
+    },
+    {
+      "name": "One Dance Ticino",
+      "urls": [
+        "https://ice15.fluidstream.net/onedancech.aac"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "pop",
+        "top 40"
+      ],
+      "city": "Ticino",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 472
+    },
+    {
+      "name": "One FM",
+      "urls": [
+        "https://onefm.ice.infomaniak.ch/onefm-high.aac"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "AAC",
+      "bitrate": 103,
+      "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+      "votes": 3
+    },
+    {
+      "name": "One FM",
+      "urls": [
+        "https://onefm.ice.infomaniak.ch/onefm-high.mp3"
+      ],
+      "tags": [],
+      "city": "Genève",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s7567/images/bannerx.jpg?t=636482377033470000",
+      "votes": 11
+    },
+    {
+      "name": "One FM 2000s",
+      "urls": [
+        "https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3"
+      ],
+      "tags": [
+        "00s",
+        "2000s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+      "votes": 187
+    },
+    {
+      "name": "One FM 90s",
+      "urls": [
+        "https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+      "votes": 100
+    },
+    {
+      "name": "One FM New Hits",
+      "urls": [
+        "https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png",
+      "votes": 10
+    },
+    {
+      "name": "One FM Rock Oldies",
+      "urls": [
+        "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png",
+      "votes": 22
+    },
+    {
+      "name": "OnFlow Hot",
+      "urls": [
+        "https://stream.zeno.fm/pxqdhcb7gqutv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Open Broadcast",
+      "urls": [
+        "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352"
+      ],
+      "tags": [
+        "eclectic"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "openbroadcast.ch",
+      "urls": [
+        "https://stream.openbroadcast.ch/16bit.flac"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Pop | Radio Swiss",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsp/mp3_128"
+      ],
+      "tags": [
+        "mp3",
+        "pop",
+        "radio swiss"
+      ],
+      "city": "Bern",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioswisspop.ch/favicon.ico",
+      "votes": 124
+    },
+    {
+      "name": "Provoda.ch LEGACY MP3",
+      "urls": [
+        "https://station.waveradio.org/provodach.mp3?irqlzgjdlfohjixsouex"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://provoda.ch/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "PureGlow Radio",
+      "urls": [
+        "https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://2023.pureglowradio.com/wp-content/uploads/2016/09/logo-dark-pgr-2.png",
+      "votes": 2
+    },
+    {
+      "name": "QUEER RADIO",
+      "urls": [
+        "https://solid67.streamupsolutions.com/proxy/eyprxrqz?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.queerradio.ch/wp-content/uploads/2019/10/QUEER-RADIO-HEART-PLAYER-180-180-pixel-150x150.jpg",
+      "votes": 6
+    },
+    {
+      "name": "Radio 1 - FM 93.6",
+      "urls": [
+        "https://stream.radio1.ch/128k"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Radio 1 Zürich",
+      "urls": [
+        "https://stream.radio1.ch/128k?utm_source=chatgpt.com"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio 24",
+      "urls": [
+        "https://stream.streambase.ch/radio24/mp3-192/direct/"
+      ],
+      "tags": [
+        "classic rock",
+        "easy listening",
+        "pop music"
+      ],
+      "city": "Zurich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg",
+      "votes": 60
+    },
+    {
+      "name": "Radio 2Go",
+      "urls": [
+        "https://uksoutha.streaming.broadcast.radio:15830/radio2go"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "top hits"
+      ],
+      "city": "Aargau",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radio2go.fm/wp-content/uploads/2020/06/favicon.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio 32",
+      "urls": [
+        "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop"
+      ],
+      "city": "solothurn",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
+      "votes": 91
+    },
+    {
+      "name": "Radio 32 Goldies",
+      "urls": [
+        "https://stream.streambase.ch/r32goldies/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png",
+      "votes": 135
+    },
+    {
+      "name": "Radio 3FACH",
+      "urls": [
+        "https://stream01.3fach.ch/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://3fach.ch/themes/3fach/assets/logo_black@2x.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Alta",
+      "urls": [
+        "https://transmiss.ion.ovh/listen/alta/radio.mp3"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "louange",
+        "worship"
+      ],
+      "city": "Burgenland",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "Radio Argovia",
+      "urls": [
+        "https://stream.streambase.ch/argovia/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "Aargau",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.46.3/argovia/device-icons/48x48.png",
+      "votes": 29
+    },
+    {
+      "name": "Radio Argovia",
+      "urls": [
+        "https://stream.streambase.ch/argovia/mp3-192/radiobrowser/"
+      ],
+      "tags": [
+        "hot adult contemporary",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png",
+      "votes": 46
+    },
+    {
+      "name": "Radio Argovia Hit Mix",
+      "urls": [
+        "https://stream.streambase.ch/hitmix/mp3-192/direct/"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "Aargau",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio BeO",
+      "urls": [
+        "https://streaming.radiobeo.ch/beo/mp3_192/web"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "RADIO BERN1",
+      "urls": [
+        "https://stream.streambase.ch/radiobern1/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "Kanton Bern",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+      "votes": 192
+    },
+    {
+      "name": "Radio Bollwerk",
+      "urls": [
+        "https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Bern",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Central",
+      "urls": [
+        "https://stream.streambase.ch/rcentral/mp3-192/direct/"
+      ],
+      "tags": [
+        "local radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.3.0/radiocentral/device-icons/192x192.png",
+      "votes": 35
+    },
+    {
+      "name": "Radio Central",
+      "urls": [
+        "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico",
+      "votes": 43
+    },
+    {
+      "name": "Radio Central",
+      "urls": [
+        "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.68.0/radiocentral/device-icons/512x512.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio Eviva",
+      "urls": [
+        "https://stream.streambase.ch/reviva/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "Schwyz",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "Radio FM1",
+      "urls": [
+        "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894"
+      ],
+      "tags": [],
+      "city": "Sankt Gallen",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.18.0/radiofm1/device-icons/48x48.png",
+      "votes": 24
+    },
+    {
+      "name": "RADIO FM1",
+      "urls": [
+        "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728"
+      ],
+      "tags": [
+        "rock pop"
+      ],
+      "city": "Sankt Gallen",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.imgur.com/zSVUQHv.png",
+      "votes": 279
+    },
+    {
+      "name": "Radio FM1",
+      "urls": [
+        "https://stream.streambase.ch/radiofm1/mp3-192/chmedia-radio-web/1781426097046_90149623?metaid=1781426094456_98706427"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/5.23.0/radiofm1/device-icons/512x512.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Freiburg",
+      "urls": [
+        "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Freundes-Dienst Schweiz",
+      "urls": [
+        "https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser"
+      ],
+      "tags": [
+        "christian music",
+        "news"
+      ],
+      "city": "Kanton Bern",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Radio Gaia",
+      "urls": [
+        "https://strm112.1.fm/radiogaia_128"
+      ],
+      "tags": [
+        "chillout"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Gloria",
+      "urls": [
+        "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo"
+      ],
+      "tags": [
+        "christian",
+        "katholik"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radiogloria.ch/favicon.ico",
+      "votes": 71
+    },
+    {
+      "name": "Radio grenzenlos,Radio grenzenlos [SPCast]",
+      "urls": [
+        "https://grenzenlos.sp.radio.fm/stream"
+      ],
+      "tags": [
+        "charts",
+        "dance",
+        "gay",
+        "mainstream",
+        "mundart",
+        "oldies",
+        "pop",
+        "queer",
+        "schlager",
+        "schweiz",
+        "top 40"
+      ],
+      "city": "Basel-Landschaft",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radio.grenzenlos.ch/logo.png",
+      "votes": 45
+    },
+    {
+      "name": "Radio Grischa",
+      "urls": [
+        "https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rso.ch/themes/custom/rso/images/RadioGrischa.svg",
+      "votes": 11
+    },
+    {
+      "name": "Radio Grischa",
+      "urls": [
+        "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128"
+      ],
+      "tags": [
+        "infos",
+        "music",
+        "news"
+      ],
+      "city": "Grison",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+      "votes": 47
+    },
+    {
+      "name": "Radio Grischa",
+      "urls": [
+        "https://stream.radiogrischa.ch/radiogrischa/mp3_128/internetradioschweiz"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio HOF—BAR",
+      "urls": [
+        "https://hofbar.beatnik.ch/stream"
+      ],
+      "tags": [
+        "ambient"
+      ],
+      "city": "Bern",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://hof-bar.ch/assets/favicon.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Jura bernois",
+      "urls": [
+        "https://rjb.ice.infomaniak.ch/rjb-128.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.rjb.ch/Htdocs/Images/Theme/rjb/HeadIcons/apple-touch-icon.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Lac",
+      "urls": [
+        "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3"
+      ],
+      "tags": [
+        "genève",
+        "lac",
+        "yes fm"
+      ],
+      "city": "Geneva",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiolac.ch/favicon.ico",
+      "votes": 182
+    },
+    {
+      "name": "Radio LoRa",
+      "urls": [
+        "https://livestream.lora.ch/lora.mp3"
+      ],
+      "tags": [
+        "community radio",
+        "feminist",
+        "freies radio",
+        "queer"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.lora.ch/images/favicon/apple-touch-icon.png",
+      "votes": 40
+    },
+    {
+      "name": "Radio Maxxima",
+      "urls": [
+        "https://maxxima.mine.nu/maxxima.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 250
+    },
+    {
+      "name": "Radio Melody",
+      "urls": [
+        "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374"
+      ],
+      "tags": [
+        "classic hits",
+        "hits",
+        "top40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
+      "votes": 642
+    },
+    {
+      "name": "Radio Melody Schweiz",
+      "urls": [
+        "https://stream.streambase.ch/rm/mp3-192/mytuner/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png",
+      "votes": 62
+    },
+    {
+      "name": "Radio Munot",
+      "urls": [
+        "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128"
+      ],
+      "tags": [],
+      "city": "Schaffhausen",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
+      "votes": 28
+    },
+    {
+      "name": "Radio Munot",
+      "urls": [
+        "https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio neue Hoffnung (RNH)",
+      "urls": [
+        "https://s5.radio.co/seeece1f6b/listen"
+      ],
+      "tags": [
+        "christian",
+        "christian music",
+        "talk & speech"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.mnr.ch/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "RADIO OUISTITI",
+      "urls": [
+        "https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Pilatus",
+      "urls": [
+        "https://stream.streambase.ch/radiopilatus/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.az-cdn.ch/__ip/-mJfyVrl_jY3yNiQEv1P6bDVERI/e2f4da8bbaacde7412f8067126f84818cfc72783/remote.adjust.rotate=0",
+      "votes": 23
+    },
+    {
+      "name": "Radio Pilatus",
+      "urls": [
+        "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png",
+      "votes": 266
+    },
+    {
+      "name": "Radio R Louange",
+      "urls": [
+        "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png",
+      "votes": 26
+    },
+    {
+      "name": "Radio R Louange",
+      "urls": [
+        "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac"
+      ],
+      "tags": [
+        "christian contemporary",
+        "christian praise&worship",
+        "christmas music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio Rasa Schaffhausen",
+      "urls": [
+        "https://radio.upstream-cloud.ch/radiorasa-128.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "independent",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rasa.ch/favicon.ico",
+      "votes": 28
+    },
+    {
+      "name": "Radio Rocher",
+      "urls": [
+        "https://play.radioking.io/radio-rocher/429886"
+      ],
+      "tags": [
+        "community radio",
+        "suisse",
+        "swiss made"
+      ],
+      "city": "Neuchatel",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://image.radioking.io/radios/321905/logo/26ca805b-11bd-49c0-a13d-d357fb33ffd0.jpeg",
+      "votes": 6
+    },
+    {
+      "name": "Radio Rocket",
+      "urls": [
+        "https://i9.streams.ovh/sc/radioroc/stream"
+      ],
+      "tags": [
+        "alternative",
+        "eclectic prog",
+        "rock"
+      ],
+      "city": "NE",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 99
+    },
+    {
+      "name": "Radio S",
+      "urls": [
+        "https://stream.radio-s.ch/stream"
+      ],
+      "tags": [
+        "eclectic",
+        "hospita"
+      ],
+      "city": "Thurgau",
+      "codec": "MP3",
+      "bitrate": 185,
+      "logo": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Schlagerpark",
+      "urls": [
+        "https://radio.schlagerpark.com/"
+      ],
+      "tags": [
+        "partyschlager",
+        "schlager"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio SRF 1 (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/srf1/aac/192"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "pop",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 224,
+      "logo": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio SRF 1 Bern Freiburg Wallis | 96k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96"
+      ],
+      "tags": [
+        "commercial free",
+        "contemporary",
+        "culture",
+        "mixed programming",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio SRF 1 Graubünden | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/regi_gr/aacp_32"
+      ],
+      "tags": [
+        "commercial free",
+        "contemporary",
+        "culture",
+        "mixed programming",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio SRF 1 Graubünden | 96k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/regi_gr/aacp_96"
+      ],
+      "tags": [
+        "commercial free",
+        "contemporary",
+        "culture",
+        "mixed programming",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio SRF 1 Ostschweiz | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/regi_ost/aacp_32"
+      ],
+      "tags": [
+        "commercial free",
+        "contemporary",
+        "culture",
+        "mixed programming",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio SRF 1 Zentralschweiz | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/regi_zentr/aacp_32"
+      ],
+      "tags": [
+        "commercial free",
+        "contemporary",
+        "culture",
+        "mixed programming",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio SRF 2 Kultur",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs2/aacp_32"
+      ],
+      "tags": [
+        "classical",
+        "culture",
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+      "votes": 89
+    },
+    {
+      "name": "Radio SRF 2 Kultur",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs2/aacp_96"
+      ],
+      "tags": [
+        "classical",
+        "culture",
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 80,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+      "votes": 73
+    },
+    {
+      "name": "Radio SRF 2 Kultur (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/srf2/aac/192"
+      ],
+      "tags": [
+        "classical",
+        "culture",
+        "jazz",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 200,
+      "logo": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "votes": 20
+    },
+    {
+      "name": "Radio SRF 3",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs3/aacp_96"
+      ],
+      "tags": [
+        "entertainment",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "votes": 183
+    },
+    {
+      "name": "Radio SRF 3",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs3/aacp_32"
+      ],
+      "tags": [
+        "entertainment",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "votes": 792
+    },
+    {
+      "name": "Radio SRF 3 (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/srf3/aac/192"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "votes": 26
+    },
+    {
+      "name": "Radio SRF 4 News",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs4news/aacp_96"
+      ],
+      "tags": [
+        "information",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png",
+      "votes": 90
+    },
+    {
+      "name": "Radio SRF 4 News",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/drs4news/aacp_32"
+      ],
+      "tags": [
+        "information",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png",
+      "votes": 236
+    },
+    {
+      "name": "Radio SRF 4 News (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/srf4news/aac/192"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 224,
+      "logo": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio Stadtfilter (DAB+)",
+      "urls": [
+        "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
+      ],
+      "tags": [
+        "city",
+        "pop"
+      ],
+      "city": "Winterthur",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radio Südostschweiz",
+      "urls": [
+        "https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.suedostschweiz.ch/themes/suedostschweiz/logo.svg",
+      "votes": 12
+    },
+    {
+      "name": "Radio Suisse Classique",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "votes": 691
+    },
+    {
+      "name": "Radio Suisse Jazz",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsj/aacp_96"
+      ],
+      "tags": [
+        "blues",
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png",
+      "votes": 126
+    },
+    {
+      "name": "Radio Summernight",
+      "urls": [
+        "https://stream.laut.fm/radiosummernight"
+      ],
+      "tags": [],
+      "city": "Aarau",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "Radio Swiss Classic",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsc_de/aacp_96"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Swiss Classic DE (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192"
+      ],
+      "tags": [
+        "classical",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 200,
+      "logo": "https://www.radioswissclassic.ch/social-media/rsc-web.png",
+      "votes": 53
+    },
+    {
+      "name": "Radio Swiss Classic FR",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/192"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 184,
+      "logo": "https://www.radioswissclassic.ch/favicon.ico",
+      "votes": 3
+    },
+    {
+      "name": "RADIO SWISS CLASSICA ITALIA",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rsc_it/mp3_128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioswissclassic.ch/favicon.ico",
+      "votes": 101
+    },
+    {
+      "name": "Radio Swiss Jazz (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/rsj/aac/192"
+      ],
+      "tags": [
+        "jazz",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 176,
+      "logo": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+      "votes": 80
+    },
+    {
+      "name": "Radio Swiss Pop",
+      "urls": [
+        "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioswisspop.ch/_nuxt/img/rsp-logo-35.2e0febd.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Swiss Pop (AAC 192)",
+      "urls": [
+        "https://stream.srg-ssr.ch/srgssr/rsp/aac/192"
+      ],
+      "tags": [
+        "pop",
+        "srg ssr"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 176,
+      "logo": "https://www.radioswisspop.ch/social-media/rsp-web.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Tell Bodeständig",
+      "urls": [
+        "https://radiotell.dmd2streaming.com/radiotell03.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-32x32.png",
+      "votes": 9
+    },
+    {
+      "name": "Radio Texoplex",
+      "urls": [
+        "https://radio.texoplex.ch/stream"
+      ],
+      "tags": [
+        "ambient",
+        "art music",
+        "art pop",
+        "experimental",
+        "funk"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.texoplex.ch/favicon.png",
+      "votes": 57
+    },
+    {
+      "name": "Radio Top (Ostschweiz)",
+      "urls": [
+        "https://radiotop.ice.infomaniak.ch/radiotop96.aac"
+      ],
+      "tags": [
+        "news",
+        "pop"
+      ],
+      "city": " Zürich",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png",
+      "votes": 76
+    },
+    {
+      "name": "RADIO VINTAGE",
+      "urls": [
+        "https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3?ua=RADIO%20VINTAGE%20-%20audio%20player%201"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio-vintage.com/wp-content/uploads/2020/12/cropped-logo-4.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio X FLAC",
+      "urls": [
+        "https://mp3.radiox.ch/standard.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 2000,
+      "logo": null,
+      "votes": 413
+    },
+    {
+      "name": "Radio Zuerich Nord: Musikbox",
+      "urls": [
+        "https://bayern.streampanel.cloud:11145/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-zuerich-nord.ch/s3/a/wsw.website.1097/public/images/pages/1493162-436252646518688-612187691-njpg2.jpeg",
+      "votes": 6
+    },
+    {
+      "name": "Radio Zürisee",
+      "urls": [
+        "https://mp3.radio.ch/radiozuerisee256k"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "pop",
+        "top 100"
+      ],
+      "city": "St. Gallen",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+      "votes": 166
+    },
+    {
+      "name": "Radio-Drachenblut",
+      "urls": [
+        "https://radio-drachenblut.ch:8443/listen.mp3"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 43
+    },
+    {
+      "name": "Radio3i",
+      "urls": [
+        "https://vstream-cdn.ch/hls/radio3i.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 2628,
+      "logo": "https://radio3i.ch/assets/images/app-logo.png",
+      "votes": 31
+    },
+    {
+      "name": "Radio4TNG",
+      "urls": [
+        "https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio4tng.ch/media/Icon-60@3x-170x170.png",
+      "votes": 1
+    },
+    {
+      "name": "RadioFr. Fresh",
+      "urls": [
+        "https://radiofresh.ice.infomaniak.ch/radiofresh.aac"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "RadioPungis",
+      "urls": [
+        "https://radio.second-hands.org/listen/radiopungis/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio.second-hands.org/favicon.ico",
+      "votes": 0
+    },
+    {
+      "name": "Rete Due | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/retedue/aacp_32"
+      ],
+      "tags": [
+        "classical",
+        "commercial free",
+        "contemporary",
+        "culture",
+        "jazz",
+        "mixed programming",
+        "reflective",
+        "sophisticated",
+        "world music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-due.png",
+      "votes": 3
+    },
+    {
+      "name": "Rete Tre | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/retetre/aacp_32"
+      ],
+      "tags": [
+        "alternative",
+        "commercial free",
+        "contemporary",
+        "culture",
+        "energetic",
+        "mixed programming",
+        "pop",
+        "upbeat"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 88,
+      "logo": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-tre.png",
+      "votes": 4
+    },
+    {
+      "name": "Rete Uno | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/reteuno/aacp_32"
+      ],
+      "tags": [
+        "blues",
+        "classical",
+        "commercial free",
+        "contemporary",
+        "culture",
+        "folk",
+        "hip hop",
+        "italian singer-songwriter",
+        "jazz",
+        "mixed programming",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png",
+      "votes": 3
+    },
+    {
+      "name": "RFJ",
+      "urls": [
+        "https://rfj.ice.infomaniak.ch/rfj-high.mp3"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 59
+    },
+    {
+      "name": "Rockstar Radio",
+      "urls": [
+        "https://dr2101.ice.infomaniak.ch/dr2102.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "rock",
+        "rock music"
+      ],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://dr21.mediaonegroup.ch/apps/assets/logo_rockstar_2.svg",
+      "votes": 28
+    },
+    {
+      "name": "ROCKSTATION",
+      "urls": [
+        "https://radio2.stream24.net:8130/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rockstation.ch/wp-content/uploads/2023/03/cropped-favicon-basis-192x192.jpg",
+      "votes": 20
+    },
+    {
+      "name": "RTN",
+      "urls": [
+        "https://rtn.ice.infomaniak.ch/rtn-high.mp3"
+      ],
+      "tags": [
+        "regional"
+      ],
+      "city": "Suisse Romande",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 194
+    },
+    {
+      "name": "RTR | 32k AAC+",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/rr/aacp_32"
+      ],
+      "tags": [
+        "alpine traditional music",
+        "commercial free",
+        "contemporary",
+        "culture",
+        "graubünden regional folk music",
+        "mixed programming",
+        "romansh-language pop",
+        "swiss folk music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://download-media.srf.ch/world/image/audio/2020/07/45780e322f604be8973867ee03cf88e6.png",
+      "votes": 2
+    },
+    {
+      "name": "RTS La Première",
+      "urls": [
+        "https://stream.srg-ssr.ch/m/la-1ere/aacp_96"
+      ],
+      "tags": [],
+      "city": "Suisse Romande",
+      "codec": "AAC",
+      "bitrate": 120,
+      "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+      "votes": 11
+    },
+    {
+      "name": "Rundfunk.fm",
+      "urls": [
+        "https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3"
+      ],
+      "tags": [
+        "funky"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Rundfunk.fm",
+      "urls": [
+        "https://rundfunkfm.broadcast.brandsarelive.com:8020/radio.mp3"
+      ],
+      "tags": [
+        "funk"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Sabaton радио",
+      "urls": [
+        "https://stream.pcradio.ru/sabaton-hi"
+      ],
+      "tags": [
+        "discography"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 31
+    },
+    {
+      "name": "Skuizz Hits 90s-00s",
+      "urls": [
+        "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3"
+      ],
+      "tags": [
+        "00s",
+        "90s",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 316
+    },
+    {
+      "name": "soundz",
+      "urls": [
+        "https://stream.mysoundz.ch/streams/radio-browser/3602b6f9ee3c4521bdec84ec/shared/stream"
+      ],
+      "tags": [],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "soundz",
+      "urls": [
+        "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream"
+      ],
+      "tags": [
+        "dance",
+        "hip hop",
+        "house",
+        "indie",
+        "pop",
+        "rnb",
+        "rock",
+        "urban"
+      ],
+      "city": "Zürich",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://imgur.com/a/IKmjmtF",
+      "votes": 0
+    },
+    {
+      "name": "Spoon Radio",
+      "urls": [
+        "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.spoonradio.com/newimages/logo.png",
+      "votes": 17
+    },
+    {
+      "name": "Spoon Radio - Acoustic Rock",
+      "urls": [
+        "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac"
+      ],
+      "tags": [
+        "acoustic",
+        "acoustic rock",
+        "commercial-free",
+        "no ads",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 232
+    },
+    {
+      "name": "Spoon Radio - Alternative Rock",
+      "urls": [
+        "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png",
+      "votes": 127
+    },
+    {
+      "name": "Spoon Radio - Classic Rock",
+      "urls": [
+        "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac"
+      ],
+      "tags": [
+        "classic rock",
+        "commercial-free",
+        "no ads",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 759
+    },
+    {
+      "name": "Spoon Radio - Hard Rock",
+      "urls": [
+        "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png",
+      "votes": 186
+    },
+    {
+      "name": "Spoon Radio - Modern Rock",
+      "urls": [
+        "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac"
+      ],
+      "tags": [
+        "commercial-free",
+        "modern rock",
+        "no ads",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 433
+    },
+    {
+      "name": "Spoon Radio - Rock Ballads",
+      "urls": [
+        "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
+      "votes": 228
+    },
+    {
+      "name": "Sunshine Radio (Switzerland)",
+      "urls": [
+        "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png",
+      "votes": 366
+    },
+    {
+      "name": "Superyachtradio",
+      "urls": [
+        "https://stream.radio.co/s43a403d3a/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://superyachtradio.com",
+      "votes": 1
+    },
+    {
+      "name": "Swiss Country Radio",
+      "urls": [
+        "https://streaming.swisscountryradio.ch/scr/aac_128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Swiss Groove",
+      "urls": [
+        "https://relay1.swissgroove.ch/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.swissgroove.ch/favicon.ico",
+      "votes": 103
+    },
+    {
+      "name": "SWISS GROOVE",
+      "urls": [
+        "https://relay2.swissgroove.ch/;"
+      ],
+      "tags": [
+        "funk",
+        "jazz",
+        "latin",
+        "lounge",
+        "nu grooves",
+        "soul",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://swissgroove.ch/favicon.ico",
+      "votes": 336
+    },
+    {
+      "name": "Symphoniya Wave",
+      "urls": [
+        "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac"
+      ],
+      "tags": [
+        "classical",
+        "symphonic",
+        "transe symphonic"
+      ],
+      "city": "Canton of Vaud",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://symphoniya.com/wp-content/uploads/2026/08/symphoniya-wave.png",
+      "votes": 0
+    },
+    {
+      "name": "Symphoniya Wave — Symphoniya.com",
+      "urls": [
+        "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3"
+      ],
+      "tags": [
+        "ambient",
+        "classical",
+        "instrumental",
+        "meditation",
+        "orchestral"
+      ],
+      "city": "Vaud",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Ta Radio",
+      "urls": [
+        "https://stream.taradio.ch/dab"
+      ],
+      "tags": [
+        "dance",
+        "funk",
+        "hits",
+        "live",
+        "rnb",
+        "rock"
+      ],
+      "city": "Neuchatel",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "TRANSITION RADIO",
+      "urls": [
+        "https://a9.asurahosting.com/listen/transition_radio/radio.mp3"
+      ],
+      "tags": [
+        "experimental",
+        "experimental electronic music"
+      ],
+      "city": "Fribourg",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Trasformatorio",
+      "urls": [
+        "https://radio.dyne.org/trasformatorio-archives.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://trasformatorio.net/wp-content/uploads/2013/07/cropped-logotondo-2.png",
+      "votes": 3
+    },
+    {
+      "name": "Traxx FM - Hits",
+      "urls": [
+        "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3"
+      ],
+      "tags": [],
+      "city": "Geneva",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "True House Chill",
+      "urls": [
+        "https://stream.truehouse.net:8443/chill"
+      ],
+      "tags": [
+        "chillout"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 472
+    },
+    {
+      "name": "True House Radio",
+      "urls": [
+        "https://stream.truehouse.net:8443/house"
+      ],
+      "tags": [
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "http://www.truehouse.net/favicon.ico",
+      "votes": 701
+    },
+    {
+      "name": "URBN Radio",
+      "urls": [
+        "https://dr2101.ice.infomaniak.ch/dr2103.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://urbnradio.ch/favicon.ico",
+      "votes": 7
+    },
+    {
+      "name": "UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive",
+      "urls": [
+        "https://uzic.ice.infomaniak.ch/uzic-128.aac"
+      ],
+      "tags": [
+        "electro",
+        "house",
+        "minimal techno",
+        "progressive house",
+        "techno"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png",
+      "votes": 170
+    },
+    {
+      "name": "Vertical Radio",
+      "urls": [
+        "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.verticalradio.ch/media/image/11/base/logo-vertical-green.svg?undefined",
+      "votes": 9
+    },
+    {
+      "name": "Vintage Radio",
+      "urls": [
+        "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1846
+    },
+    {
+      "name": "Virgin Radio Switzerland",
+      "urls": [
+        "https://stream.streambase.ch/vrock/mp3-192/direct/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 292
+    },
+    {
+      "name": "Volnadavida Radio",
+      "urls": [
+        "https://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://transmiss.ion.ovh/api/station/volnadavida/art/e8c237f255cb9ca7df3a9da1",
+      "votes": 2
+    },
+    {
+      "name": "WALTS WELT",
+      "urls": [
+        "https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://waltswelt.ch/wp-content/uploads/2017/06/cropped-favicon_512x512_2-150x150.png",
+      "votes": 8
+    },
+    {
+      "name": "Wildmountain Radio",
+      "urls": [
+        "https://wildmountain.ice.infomaniak.ch/wmr.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.wildmountain.ch/favicon.png",
+      "votes": 26
+    },
+    {
+      "name": "World Radio Switzerland",
+      "urls": [
+        "https://uksouth.streaming.broadcast.radio:10290/wrs"
+      ],
+      "tags": [],
+      "city": "Geneva",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "WRS",
+      "urls": [
+        "https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910"
+      ],
+      "tags": [
+        "hits",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "WRS \"Swiss Radio in English\"",
+      "urls": [
+        "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://mmo.aiircdn.com/29/61eaca66a914b.png",
+      "votes": 97
+    }
+  ]
+}

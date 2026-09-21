@@ -1,0 +1,223 @@
+{
+  "code": "MU",
+  "name": "Mauritius",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 44
+    },
+    {
+      "name": "MBC Best FM",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/bestfm.m3u8"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "top40"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://mbcradio.tv/sites/default/files/favicon.ico",
+      "votes": 2210
+    },
+    {
+      "name": "MBC Kool FM",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/koolfm.m3u8"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2223
+    },
+    {
+      "name": "MBC Radio Maurice",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/radiomaurice.m3u8"
+      ],
+      "tags": [
+        "oldies",
+        "pop"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1274
+    },
+    {
+      "name": "MBC Radio Mauritius",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/radiomauritus.m3u8"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://mbcradio.tv/sites/default/files/favicon.ico",
+      "votes": 1005
+    },
+    {
+      "name": "MBC Taal FM",
+      "urls": [
+        "https://radio.mbconline.xyz/hls/tallfm.m3u8"
+      ],
+      "tags": [
+        "indian music",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://mbcradio.tv/streaming/img/cover_taalfm.png",
+      "votes": 802
+    },
+    {
+      "name": "OUi Radio",
+      "urls": [
+        "https://mu1stream.mushost.com:8443/"
+      ],
+      "tags": [
+        "christian",
+        "christian music",
+        "christian praise&worship",
+        "christian-gospel",
+        "gospel",
+        "mauritius"
+      ],
+      "city": "Mauritius",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.ouiradio.com/wp-content/uploads/2023/06/OUI-Radio-Logo-White-5000.png",
+      "votes": 9
+    },
+    {
+      "name": "OUi Radio Rodrigues",
+      "urls": [
+        "https://mu1stream.mushost.com:8554/"
+      ],
+      "tags": [],
+      "city": "Mauritius",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio 7 Mauritius",
+      "urls": [
+        "https://c2.radioboss.fm/stream/1056"
+      ],
+      "tags": [
+        "dancehall",
+        "hindi",
+        "hindi bollywood"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "Radio One",
+      "urls": [
+        "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Radio Plus - Indiz",
+      "urls": [
+        "https://streamer.radio.co/sed5c5a375/listen"
+      ],
+      "tags": [
+        "bollywood",
+        "hindi"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static-media.streema.com/media/cache/7e/87/7e878f2a00ddf5a8311c66914c6fc44d.jpg",
+      "votes": 96
+    },
+    {
+      "name": "Radio Plus Mauritius",
+      "urls": [
+        "https://stream.radioplus.mu:8000/radio.mp3"
+      ],
+      "tags": [
+        "news",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://live.radioplus.mu/wp-content/uploads/elementor/thumbs/radioplus-qohb3n7nfwchk09bu0c6dm1hvtjgr7523yeok8btoq.jpg",
+      "votes": 11912
+    },
+    {
+      "name": "Radioplus Fever",
+      "urls": [
+        "https://streamer.radio.co/s3fe39a4a4/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1206
+    },
+    {
+      "name": "SENSUELLE RADIO",
+      "urls": [
+        "https://forwardmystream.com/sensuelleradio"
+      ],
+      "tags": [
+        "70",
+        "80",
+        "90"
+      ],
+      "city": "LE TAMPON",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://sensuelleradio.com/favicon.ico",
+      "votes": 125
+    },
+    {
+      "name": "Tamizen",
+      "urls": [
+        "https://c34.radioboss.fm:18023/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 519
+    }
+  ]
+}

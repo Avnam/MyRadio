@@ -1,0 +1,75 @@
+{
+  "code": "SD",
+  "name": "The Sudan",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "#Radio Quran",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 506
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 186
+    },
+    {
+      "name": "Dabanga Radio",
+      "urls": [
+        "https://stream.dabangasudan.org/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.dabangasudan.org/wp-content/uploads/2022/12/dabanga-logo-x2.png",
+      "votes": 820
+    },
+    {
+      "name": "Dial Radio",
+      "urls": [
+        "https://cast.dialradio.live/stream.aac"
+      ],
+      "tags": [
+        "automated",
+        "collaborative",
+        "people's playlists"
+      ],
+      "city": "Nouvelle-Aquitaine",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://dialradio.live/favicon.ico",
+      "votes": 183
+    },
+    {
+      "name": "HAWA al Sudan",
+      "urls": [
+        "https://stream.zeno.fm/mqctx1bfd8zuv"
+      ],
+      "tags": [
+        "sudanese varieties radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 27
+    }
+  ]
+}

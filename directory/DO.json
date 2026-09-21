@@ -1,0 +1,1301 @@
+{
+  "code": "DO",
+  "name": "The Dominican Republic",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "570 AM Radio Crystal",
+      "urls": [
+        "https://stream.zeno.fm/fu9hfhw8na0uv"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/XMkAxbX.png",
+      "votes": 200
+    },
+    {
+      "name": "710 AM Radio Nacional Cristiana (RD)",
+      "urls": [
+        "https://node-09.zeno.fm/03yn1w98swzuv"
+      ],
+      "tags": [
+        "cristiana"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/0nMbJ4M.png",
+      "votes": 520
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "Air Romana Radio",
+      "urls": [
+        "https://stream.radiojar.com/4ggz3rkd838uv"
+      ],
+      "tags": [
+        "dance",
+        "latino",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.wixstatic.com/media/356ad5_5d1c2504ac95419ab6ae071a3dcf6b69~mv2.png/v1/fill/w_78,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/356ad5_5d1c2504ac95419ab6ae071a3dcf6b69~mv2.png",
+      "votes": 36
+    },
+    {
+      "name": "Artistas del Ayer",
+      "urls": [
+        "https://streamfgh.com:8285/;"
+      ],
+      "tags": [
+        "2000s",
+        "70s",
+        "80s",
+        "90s",
+        "baladas en español",
+        "boleros",
+        "retro"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": "http://delayerfm.com/images/logo-artistas.png",
+      "votes": 42
+    },
+    {
+      "name": "Azúcar 89.1 FM",
+      "urls": [
+        "https://visual.alexmer.com:8068/stream"
+      ],
+      "tags": [
+        "entretenimiento",
+        "music",
+        "música variada",
+        "noticias y comentarios",
+        "radio hablada"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s134497g.png",
+      "votes": 33
+    },
+    {
+      "name": "Bachata Hits",
+      "urls": [
+        "https://stream.zeno.fm/prbf8rrgvzzuv"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "musica"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://radio.clasificadosya.com/wp-content/uploads/2026/04/1771962827217-300x300.png",
+      "votes": 23
+    },
+    {
+      "name": "bani fm 97.5",
+      "urls": [
+        "https://stream.zeno.fm/3fdfdb8g0hhvv"
+      ],
+      "tags": [
+        "bachata",
+        "latino",
+        "merengue",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F30d6sKSehUF7UwmEic7tGvBY884Iys0UdLGYiZnCb7I%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnbi1qSG1RZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJeHZmaGxBa01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjE1MjY4MjQwMDA.webp&w=1920&q=70",
+      "votes": 51
+    },
+    {
+      "name": "BE 99.7",
+      "urls": [
+        "https://stream1.rcast.net/61186"
+      ],
+      "tags": [
+        "english",
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://be997.com/wp-content/uploads/2016/05/logoBe997@2x.png",
+      "votes": 2
+    },
+    {
+      "name": "Bendicion95.1 FM",
+      "urls": [
+        "https://sp.unoredcdn.net/8054/stream"
+      ],
+      "tags": [
+        "bible",
+        "cristiana",
+        "radio hablada",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.ministeriobendicion.com/wp-content/uploads/2021/03/LOGO-BENDICION.png",
+      "votes": 26
+    },
+    {
+      "name": "BUEN PASTOR RADIO",
+      "urls": [
+        "https://c22.radioboss.fm:8394/stream"
+      ],
+      "tags": [
+        "bachata",
+        "catolica",
+        "merengue",
+        "musica cristiana"
+      ],
+      "city": "Santiago",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://buenpastoradio.blogspot.com/favicon.ico",
+      "votes": 6
+    },
+    {
+      "name": "Canal 105.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/b94afcu8na0uv"
+      ],
+      "tags": [
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "musica",
+        "pop",
+        "pop en español e inglés",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://canal105.com/wp-content/uploads/2015/04/clogo.png",
+      "votes": 50
+    },
+    {
+      "name": "Caricias FM",
+      "urls": [
+        "https://streamfgh.com:8915/;"
+      ],
+      "tags": [
+        "baladas en español",
+        "hits",
+        "musica romantica",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "CDN Radio",
+      "urls": [
+        "https://play.cdnradio.com.do/cdnlive"
+      ],
+      "tags": [
+        "baseball",
+        "beisbol",
+        "deportes",
+        "futball",
+        "mlb",
+        "nba",
+        "sports"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://i.imgur.com/NWVW9QV.png",
+      "votes": 388
+    },
+    {
+      "name": "Criolla 106.1 FM",
+      "urls": [
+        "https://streaming.grupomediosdelnorte.com:8002/stream"
+      ],
+      "tags": [
+        "bachata",
+        "entretenimiento",
+        "merengue",
+        "tropical",
+        "variety"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://criolla106fm.com/Criolla100.png",
+      "votes": 67
+    },
+    {
+      "name": "DBS Radio",
+      "urls": [
+        "https://stream.dbcradio.net:8005/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://dbcradio.net/wp-content/uploads/2024/01/dbs_web_logo_dark.png",
+      "votes": 8
+    },
+    {
+      "name": "Disco 106.1",
+      "urls": [
+        "https://radiordomi.com/8118/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Disco 88.9",
+      "urls": [
+        "https://rgradio.net/disco89/disco89.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "Dominicana FM 98.9 y 99.9 FM",
+      "urls": [
+        "https://protvradiostream.com:8610/;"
+      ],
+      "tags": [
+        "bachata",
+        "government",
+        "latino",
+        "merengue",
+        "noticias",
+        "radio hablada",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://dominicanafmrd.com/wp-content/uploads/2022/08/cropped-DFM-32x32.png",
+      "votes": 263
+    },
+    {
+      "name": "ecodebendición",
+      "urls": [
+        "https://stream-179.surfernetwork.com/d5gahvz0rxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkNWdhaHZ6MHJ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imt5aWZucW0zUW9pTXl6NmVJZTF1RkEiLCJpYXQiOjE3ODk5NjY0MDYsImV4cCI6MTc4OTk2NjQ2Nn0.3yEqRBdohBFuG_T8jhPRbJJFuSV_kxhS-nPTpAMQ6ic"
+      ],
+      "tags": [
+        "música cristiana"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ecodebendiciononline.blogspot.com/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "Escandalo 102.5",
+      "urls": [
+        "https://stream-291.zeno.fm/iwqlyzpyry1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd3FseXpweXJ5MXV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikl5N0ZoYlJSU0d1UFdLbFhtRjZEUHciLCJpYXQiOjE3Nzk0NjA3NDAsImV4cCI6MTc3OTQ2MDgwMH0.X9jLonVgmfxbXfLYWcMrM3Ybvfve6OE2cLmt-0wKQ4s"
+      ],
+      "tags": [
+        "bachata",
+        "caribbean",
+        "merengue",
+        "salsa"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://escandalofm.com/img/logo-radio.png",
+      "votes": 5
+    },
+    {
+      "name": "Especial 93.5 FM",
+      "urls": [
+        "https://stream.zeno.fm/uhkv3smxuchvv"
+      ],
+      "tags": [
+        "baladas en español",
+        "baladas en ingles",
+        "music",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F4d2dOWTbfQvm26YMeThBU5yVWfbZ8FhpQbAeqWhSsdc%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURndXFhYTh3c01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJNEpERm53c01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2ODIzOTU5OTAwMDA.webp&w=1920&q=70",
+      "votes": 33
+    },
+    {
+      "name": "Estación 97.7 FM",
+      "urls": [
+        "https://stream2.rcast.net/61187"
+      ],
+      "tags": [
+        "baladas en ingles",
+        "love songs",
+        "musica romantica"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://estacion977.com/assets/img/logoEstacion977_300_shd.png",
+      "votes": 22
+    },
+    {
+      "name": "Estelar 106",
+      "urls": [
+        "https://nexostream.net:8060/live"
+      ],
+      "tags": [],
+      "city": "Tropical",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://admin.nexotuner.net/nexopro/nexo/public/images/favicons/16/favicon.png",
+      "votes": 4
+    },
+    {
+      "name": "Estelar-106",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/estelar106?mp=/stream"
+      ],
+      "tags": [
+        "latino",
+        "merengue",
+        "music",
+        "reggaeton",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhd29uClrp0DUBQ0hI6ftLzRmYEQjaTu_cxpUEJBtPREGLIzkNxQwSxkYJLa8zsdjCauHjTakBF0CIQFR7gtcda4xga73N_nJeWmKiAQy8OQObQsfYzhTTrWDx6pxq_887mucURzMjgMP3zJDfYqHCvLrhXHTfu40xlan_YgDpdJgv8HLLXrxsa_UCc4Q=s429",
+      "votes": 28
+    },
+    {
+      "name": "Estrella 92.3 FM",
+      "urls": [
+        "https://c13.radioboss.fm:18187/stream"
+      ],
+      "tags": [
+        "bachata",
+        "entretenimiento",
+        "latino",
+        "merengue",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.ccvdigital.com/assets/01_la_estrella.png",
+      "votes": 29
+    },
+    {
+      "name": "Exaltación FM",
+      "urls": [
+        "https://exaltacionfm.net:8070/stream"
+      ],
+      "tags": [
+        "religioso católico"
+      ],
+      "city": "San Pedro de Macorís ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://exaltacionfm.net/assets/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "Exclusive Radio",
+      "urls": [
+        "https://servidor25-3.brlogic.com:7110/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "EXTASIS 89.5",
+      "urls": [
+        "https://stream.zeno.fm/f7wt0ptjpn3vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://imgur.com/a/EB8PGIr",
+      "votes": 9
+    },
+    {
+      "name": "EXTASIS 89.5",
+      "urls": [
+        "https://radio.hostlagarto.com/8070/stream"
+      ],
+      "tags": [],
+      "city": "SANTIAGO DE LOS CABALLERO ",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.instagram.com/extasis89.5?utm_source=qr&igsh=MTB4aG45Ym52a3U5aQ==",
+      "votes": 13
+    },
+    {
+      "name": "Fascinante FM",
+      "urls": [
+        "https://nexostream.net:8180/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "http://fascinantefm.net/wp-content/uploads/2024/01/fascina-bien-2.png",
+      "votes": 1
+    },
+    {
+      "name": "FieraMix",
+      "urls": [
+        "https://c11.radioboss.fm:18269/stream"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "musica latina"
+      ],
+      "city": "La Altagracia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fieramix.com/assets/favicon.ico",
+      "votes": 1939
+    },
+    {
+      "name": "FM 97.3 La Super Estación",
+      "urls": [
+        "https://cast4.my-control-panel.com/proxy/atlantica97/;"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "salsa",
+        "tropical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://grupobadui.com/wp-content/uploads/2020/10/Logo-Super-Estacion-cortado-600x400-1-300x200.png",
+      "votes": 30
+    },
+    {
+      "name": "Fuego 90.1",
+      "urls": [
+        "https://radiordomi.com/8390/stream"
+      ],
+      "tags": [
+        "latin music",
+        "salsa"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.rdmusica.com/wp-content/uploads/2023/05/fuego90-560x560.png",
+      "votes": 6
+    },
+    {
+      "name": "GamersOnFireHR",
+      "urls": [
+        "https://stream.zeno.fm/2h6plesly3nvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Genial FM",
+      "urls": [
+        "https://nexostream.net:8040/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://genialfm.net/assets/default.jpg",
+      "votes": 6
+    },
+    {
+      "name": "La 91.1 FM",
+      "urls": [
+        "https://stream-291.zeno.fm/859cd7buqg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4NTljZDdidXFnOHV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktxR25DVzdKVEJLY1Y5aDJ6cHRjVHciLCJpYXQiOjE3NzkzNzE5MzMsImV4cCI6MTc3OTM3MTk5M30.Pq1gWSnM8Ql5gsu5PZR1KEW6s-Gr_RDesPB0msnw3jc"
+      ],
+      "tags": [
+        "2000's",
+        "80's",
+        "90's",
+        "pop",
+        "rock",
+        "variuos topics"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "La Bakana 105.9 FM",
+      "urls": [
+        "https://stream-291.surfernetwork.com/f3nffca3jsfuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmM25mZmNhM2pzZnV2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJmZTFBQ0hmWlNyT1p5WmpPY3FibGpRIiwiaWF0IjoxNzg3MzAzNTIwLCJleHAiOjE3ODczMDM1ODB9.0kBQZvNapeKeGrb2PW2D_iUNxpLRV4gB2Mp57WBgMME"
+      ],
+      "tags": [
+        "latin music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "La Nueva 106.9 FM",
+      "urls": [
+        "https://lanueva106.radioca.st/stream/1/"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "news",
+        "reggaeton",
+        "salsa",
+        "tropical"
+      ],
+      "city": "Santiago de los Caballeros",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.lanueva106.com/wp-content/uploads/2022/01/8dcc9c61-1691-4bdf-9287-2b5b25c6032e.png",
+      "votes": 35
+    },
+    {
+      "name": "La Voz del Pacoredo",
+      "urls": [
+        "https://stream-50.zeno.fm/9zxyvh9vrhruv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 78
+    },
+    {
+      "name": "La X 102.1 FM",
+      "urls": [
+        "https://audio.livecastnet.com:2535/stream"
+      ],
+      "tags": [],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lax102.fm/wp-content/uploads/2024/08/cropped-logonegroArtboard-77-1-3-e1723742096164-32x32.png",
+      "votes": 18
+    },
+    {
+      "name": "La Z101 Fm",
+      "urls": [
+        "https://streaming.z101digital.com/z101?cb=1779372229211"
+      ],
+      "tags": [
+        "news",
+        "noticias"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Latina 104",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/latina104?mp=/stream"
+      ],
+      "tags": [
+        "merengue",
+        "merengue bachata",
+        "radio dominicana",
+        "salsa"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1101
+    },
+    {
+      "name": "Los 40 República Dominicana",
+      "urls": [
+        "https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 101
+    },
+    {
+      "name": "MC Anime Radio",
+      "urls": [
+        "https://cast.mcanimeradio.com/listen/mcradio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://mcanimeradio.com/wp-content/uploads/2025/02/logoaniversario-768x179.png",
+      "votes": 22
+    },
+    {
+      "name": "Misionera FM",
+      "urls": [
+        "https://stream.zeno.fm/vget1nz0czxvv"
+      ],
+      "tags": [
+        "cristiana"
+      ],
+      "city": "La Altagracia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.imgur.com/jOT19aR.png",
+      "votes": 91
+    },
+    {
+      "name": "Miss 104 FM",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/miss104fm?mp=/stream"
+      ],
+      "tags": [
+        "baladas en español",
+        "musica romantica",
+        "pop latino"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://latina104.net/wp-content/uploads/2021/06/miss-104-fm-756x680.jpg",
+      "votes": 335
+    },
+    {
+      "name": "Monumental 100.3 FM",
+      "urls": [
+        "https://radio2.grupointernet.com/8103/stream"
+      ],
+      "tags": [
+        "dominican republic",
+        "republica dominicana",
+        "santiago",
+        "santo domingo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 107
+    },
+    {
+      "name": "Mortal 104.9 FM",
+      "urls": [
+        "https://radio.telemicro.com.do/mortal104"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://nexotuner.net/wp-content/uploads/2025/07/nvo-300x300-2.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Nex Hits",
+      "urls": [
+        "https://nexhits.net:8050/stream"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "urban"
+      ],
+      "city": "San Pedro de Macorís ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nexhits.net/assets/favicon.png",
+      "votes": 7
+    },
+    {
+      "name": "Palma 90.7 FM",
+      "urls": [
+        "https://radiordomi.com/8030/stream"
+      ],
+      "tags": [
+        "merengue 80s 90s",
+        "salsa 80s 90s",
+        "tropical"
+      ],
+      "city": "Barahona",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://empresasradiofonicas.com.do/wp-content/uploads/2016/02/palma-1.png",
+      "votes": 23
+    },
+    {
+      "name": "Platino Radio",
+      "urls": [
+        "https://platinoradio-henrsosa.radioca.st/stream"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "merengue bachata",
+        "musica tropical",
+        "música tropical",
+        "salsa",
+        "tecnomerengue",
+        "tropical",
+        "tropical music"
+      ],
+      "city": "Santo Domingo Este",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 217
+    },
+    {
+      "name": "Radio Amanecer",
+      "urls": [
+        "https://sp.sintonizapp.com:7003/;type=mp3"
+      ],
+      "tags": [
+        "christian",
+        "christian music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://radioamanecer.org.do/img/logoGrande.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Bendicion",
+      "urls": [
+        "https://samuel.i-radio.co:9000/radiobendicion"
+      ],
+      "tags": [
+        "christian",
+        "gospel"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 362
+    },
+    {
+      "name": "Radio Cadena Hispana",
+      "urls": [
+        "https://stream-282.surfernetwork.com/w68mzwkwfzzuv"
+      ],
+      "tags": [
+        "balada pop",
+        "electronic dance music",
+        "latin music",
+        "pop music",
+        "pop rock"
+      ],
+      "city": "Santo Domingo Este",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://emisoras.net/wp/radio-cadena-hispana.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Radio Cima 100.5",
+      "urls": [
+        "https://app.sonicpanelradio.com:8648/stream"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "tropical"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Radio Cima 100.5",
+      "urls": [
+        "https://sonicpanel.streaming10.net:8146/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/473571034_1019487163527144_5337110701659308325_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFPZlMPFgQ2Z7HMjXFXCUjhrW4EcZppKCitbgRxmmkoKIcQAWnhARmcPJ-kFSvVtPmL_TdlOT_HafzDP7-mEaoN&_nc_ohc=KgC42eIHz24Q7kNvwHcZwt9&_nc_oc=Adp1W5WyckG7LhYqQhmWKAAGeV8orn4zKrX3awUB6_88BoEdM19Bz5fL_fYPlt_dHxk&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=XFhn64DNK-aEBkpRW4eEFQ&_nc_ss=7b2a8&oh=00_Af_pY6WT8I2RAoo_YNzNgpZt7yCpkqVc7Q-RJK35EilgBw&oe=6A3B48A0",
+      "votes": 9
+    },
+    {
+      "name": "Radio Dembow",
+      "urls": [
+        "https://stream.zeno.fm/nhqm2f7zxtwtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Radio Dial 670 AM (RD)",
+      "urls": [
+        "https://node-08.zeno.fm/8wgv914262quv"
+      ],
+      "tags": [
+        "bachata",
+        "merengue",
+        "music",
+        "noticias",
+        "tropial"
+      ],
+      "city": "San Pedro de Macorís ",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://i.imgur.com/JpHx8pH.png",
+      "votes": 209
+    },
+    {
+      "name": "Radio Eternidad",
+      "urls": [
+        "https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioeternidad.com/favicon.ico",
+      "votes": 33
+    },
+    {
+      "name": "Radio FM-103 - 103.5",
+      "urls": [
+        "https://radio.radiord.net/8008/;"
+      ],
+      "tags": [
+        "baladas",
+        "entretenimiento",
+        "familia",
+        "música en español",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.fm103.com.do/wp-content/themes/fm103/images/logo.png",
+      "votes": 23
+    },
+    {
+      "name": "Radio fm103 (RD)",
+      "urls": [
+        "https://radio.radiord.net/8008/;stream.mp3"
+      ],
+      "tags": [
+        "tropical"
+      ],
+      "city": "San Pedro de Macorís ",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.fm103.com.do/wp-content/themes/fm103/images/favicon.ico",
+      "votes": 143
+    },
+    {
+      "name": "Radio Santa Maria",
+      "urls": [
+        "https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3"
+      ],
+      "tags": [],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 60,
+      "logo": "https://i.imgur.com/CIGSXVd.png",
+      "votes": 95
+    },
+    {
+      "name": "Radio Util 102.9 FM",
+      "urls": [
+        "https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Salcedo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio.net/100/radioutil102.png?version=9649844d36ba59be876174564f398140853707fe",
+      "votes": 3
+    },
+    {
+      "name": "RD 700am Radio Gosen",
+      "urls": [
+        "https://s5.radio.co/sfc2826e6e/listen"
+      ],
+      "tags": [
+        "cristiana"
+      ],
+      "city": "Valderde",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i.imgur.com/MH4k2RE.png",
+      "votes": 9
+    },
+    {
+      "name": "Ritmo 96",
+      "urls": [
+        "https://stream.zenolive.com/y0br5ck4ququv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://ritmo96.com/wp-content/uploads/2024/04/ritmo96.png",
+      "votes": 4
+    },
+    {
+      "name": "Ritmo 96.5 FM",
+      "urls": [
+        "https://stream-49.zeno.fm/y0br5ck4ququv?zs=2R5Njz6XShSzNF_ProbdIA"
+      ],
+      "tags": [
+        "pop latino",
+        "pop music",
+        "top 40"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1083
+    },
+    {
+      "name": "Romantica 103.FM",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/romantica103fm/stream"
+      ],
+      "tags": [
+        "romanticas"
+      ],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Salsa 92.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/h7lnwv51bh5uv"
+      ],
+      "tags": [],
+      "city": "Santiago de los Caballeros",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 252
+    },
+    {
+      "name": "Suave 107.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/cta80ru8na0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://suave107.com/wp-content/uploads/2015/04/logo-suave.png",
+      "votes": 96
+    },
+    {
+      "name": "Super K FM",
+      "urls": [
+        "https://grupomedrano.stream-audio.com:8856/SuperK"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 55
+    },
+    {
+      "name": "SuperTrova",
+      "urls": [
+        "https://radio.supertrova.com/listen/supertrova/radio.mp3"
+      ],
+      "tags": [
+        "cancion de autor",
+        "cantautor",
+        "latin",
+        "rock en espanol",
+        "singer-songwriter",
+        "spanish",
+        "trova"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://supertrova.com/icon-512.png",
+      "votes": 1
+    },
+    {
+      "name": "Top Bachata Radio",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topbachata?mp=/stream"
+      ],
+      "tags": [],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 506
+    },
+    {
+      "name": "Top Balada Radio",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream"
+      ],
+      "tags": [
+        "baladas",
+        "boleros"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2173
+    },
+    {
+      "name": "Top Cristiano Radio",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream"
+      ],
+      "tags": [
+        "cristiano"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1052
+    },
+    {
+      "name": "Top Merengue Radio",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream"
+      ],
+      "tags": [
+        "merengue"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2508
+    },
+    {
+      "name": "Top Salsa Radio",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream"
+      ],
+      "tags": [
+        "salsa"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://latina104.net/wp-content/uploads/2021/06/cropped-latina-104-500x500-1-180x180.jpg",
+      "votes": 2471
+    },
+    {
+      "name": "Top Urbano",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topurbano?mp=/stream"
+      ],
+      "tags": [
+        "hip hop",
+        "latino urbano",
+        "pop urbano",
+        "reggaeton",
+        "urbano"
+      ],
+      "city": "Santo Domingo",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2407
+    },
+    {
+      "name": "Tropical 100 Bolero",
+      "urls": [
+        "https://stream.zeno.fm/b34hotasejstv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s102276/images/logod.png?t=637903326480000000",
+      "votes": 447
+    },
+    {
+      "name": "Tropical 100 Mix",
+      "urls": [
+        "https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q"
+      ],
+      "tags": [
+        "bachata",
+        "latin",
+        "merengue",
+        "salsa"
+      ],
+      "city": "Santiago de los Caballeros",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1224
+    },
+    {
+      "name": "Tropical 100 Salsa",
+      "urls": [
+        "https://stream-107.zeno.fm/cjgfujr8yhbvv?zs=VsqKiPTASc-XIz7P9HnYjQ"
+      ],
+      "tags": [
+        "salsa"
+      ],
+      "city": "Santiago de los Caballeros",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s102276/images/logod.png?t=637903326480000000",
+      "votes": 1640
+    },
+    {
+      "name": "Turbo 98.3 FM",
+      "urls": [
+        "https://cdn-embed.tunein.com/resources/media/blank.mp3"
+      ],
+      "tags": [],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn-profiles.tunein.com/s96665/images/logod.png?t=637250015740000000",
+      "votes": 168
+    },
+    {
+      "name": "Urban Hits",
+      "urls": [
+        "https://urbanhits.live/listen/urbanhits/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://admin.nexotuner.net/nexopro/nexo/public/images/1775045111logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Vida FM",
+      "urls": [
+        "https://servidor38.brlogic.com:7104/live"
+      ],
+      "tags": [],
+      "city": "María Trinidad Sánchez",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://public-rf-upload.minhawebradio.net/250198/favicon/44448f5b66f9ae307da50fa970d92a8c.png",
+      "votes": 11
+    },
+    {
+      "name": "wao89.1",
+      "urls": [
+        "https://stream.zeno.fm/pkxlvgeiocstv"
+      ],
+      "tags": [],
+      "city": "Santo Domingo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 19
+    },
+    {
+      "name": "WXM ON RADIO",
+      "urls": [
+        "https://jm8n.net/8024/stream"
+      ],
+      "tags": [],
+      "city": "Villa Isabela Pueto Plata",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.wxmradio.com/favicon.ico",
+      "votes": 6
+    },
+    {
+      "name": "Yarah Radio",
+      "urls": [
+        "https://servidor40-4.brlogic.com:7022/live?source=website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://public-rf-upload.minhawebradio.net/252370/logo/291cb762d4ebc34d6894d9bdd6b03452.jpg",
+      "votes": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "BS",
+  "name": "The Bahamas",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "96.9 FM GuardianRadio",
+      "urls": [
+        "https://radiostreams.streamcomedia.com:8000/969guardianradio"
+      ],
+      "tags": [],
+      "city": "Nassau",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png",
+      "votes": 100
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 22
+    },
+    {
+      "name": "Bahamian or Nuttin",
+      "urls": [
+        "https://s2.reliastream.com/proxy/rumcayme?mp=/stream"
+      ],
+      "tags": [
+        "caribbean",
+        "junkanoo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img1.wsimg.com/isteam/ip/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31/favicon/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png/:/rs=w:64,h:64,m",
+      "votes": 292
+    },
+    {
+      "name": "Kingdom Living Publications & Media Ltd",
+      "urls": [
+        "https://s4.radio.co/s440e54fd7/listen"
+      ],
+      "tags": [],
+      "city": "Grand Bahama",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.klpmradio.com/",
+      "votes": 2
+    }
+  ]
+}

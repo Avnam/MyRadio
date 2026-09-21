@@ -1,0 +1,257 @@
+{
+  "code": "QA",
+  "name": "Qatar",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 612
+    },
+    {
+      "name": ".. مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 606
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 312
+    },
+    {
+      "name": "Al araby",
+      "urls": [
+        "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio"
+      ],
+      "tags": [
+        "news",
+        "news talk",
+        "world news"
+      ],
+      "city": "Doha QATAR ",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 1867
+    },
+    {
+      "name": "Al Jazeera - English",
+      "urls": [
+        "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8"
+      ],
+      "tags": [
+        "business news",
+        "cultural news",
+        "documentaries",
+        "international news",
+        "news",
+        "news and talk",
+        "sports news"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.aljazeera.com/wp-content/uploads/2025/05/english-live-1747222410.png?resize=270%2C270&quality=80",
+      "votes": 1457
+    },
+    {
+      "name": "Al Jazeera Arabic",
+      "urls": [
+        "https://live-hls-web-aja-gcp.thehlive.com/VOICE-AJA/index.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://www.aljazeera.net/wp-content/uploads/2025/05/arabic-live-1747222223.jpg",
+      "votes": 82
+    },
+    {
+      "name": "Al Jazeera English (Audio)",
+      "urls": [
+        "https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8"
+      ],
+      "tags": [
+        "aljazeera",
+        "tv audio"
+      ],
+      "city": "Doha QATAR ",
+      "codec": "AAC",
+      "bitrate": 99,
+      "logo": "https://www.aljazeera.com/favicon_aje.ico",
+      "votes": 25
+    },
+    {
+      "name": "Al Jazeera English (Live)",
+      "urls": [
+        "https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8"
+      ],
+      "tags": [
+        "breaking news",
+        "live",
+        "news",
+        "world",
+        "world news"
+      ],
+      "city": "Doha QATAR ",
+      "codec": "AAC,H.264",
+      "bitrate": 6324,
+      "logo": "https://yt3.googleusercontent.com/XsTga3Nsfc1E6ZgC6HfHfzTG_3zhuZleOnsKxSK2aILMjwkkIm-0vdALFaU-yt0Lw07iLtbSifk=s900-c-k-c0x00ffffff-no-rj",
+      "votes": 9
+    },
+    {
+      "name": "Al Jazeera Video",
+      "urls": [
+        "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+      ],
+      "tags": [
+        "english",
+        "world news"
+      ],
+      "city": "Doha QATAR ",
+      "codec": "AAC,H.264",
+      "bitrate": 6128,
+      "logo": "https://www.aljazeera.com/",
+      "votes": 116
+    },
+    {
+      "name": "aljazeera",
+      "urls": [
+        "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 6324,
+      "logo": null,
+      "votes": 1215
+    },
+    {
+      "name": "Qabayan Radio 94.3 FM (FLAC)",
+      "urls": [
+        "https://c2.radioboss.fm:8478/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/418af1_49879588b7204884b90d4994f7f25d3e%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/418af1_49879588b7204884b90d4994f7f25d3e%7Emv2.png",
+      "votes": 374
+    },
+    {
+      "name": "Radio Olive 106.3",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://olive.qa/wp-content/uploads/2024/12/googleplay_image.png",
+      "votes": 481
+    },
+    {
+      "name": "Radio Olive 106.3 - Jiyo Bindass",
+      "urls": [
+        "https://22733.live.streamtheworld.com/OLIVE1063.mp3"
+      ],
+      "tags": [],
+      "city": "Doha QATAR ",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 315
+    },
+    {
+      "name": "Radio Olive 106.3 FM",
+      "urls": [
+        "https://osrnstream.olivesuno.com/olive1063.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/vzn5tr4cru4r.png",
+      "votes": 3
+    },
+    {
+      "name": "SUNO 91.7",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://suno.qa/favicon.ico",
+      "votes": 318
+    },
+    {
+      "name": "الجزيرة صوت",
+      "urls": [
+        "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png",
+      "votes": 29784
+    },
+    {
+      "name": "تفسير بن عثيمين رحمه الله",
+      "urls": [
+        "https://qurango.net/radio/tafseer"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 691
+    },
+    {
+      "name": "قناة الجزيرة",
+      "urls": [
+        "https://live-hls-web-aja.getaj.net/AJA/06.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://www.aljazeera.net/favicon.ico",
+      "votes": 8051
+    }
+  ]
+}

@@ -1,0 +1,3181 @@
+{
+  "code": "RS",
+  "name": "Serbia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 5
+    },
+    {
+      "name": "*KISS FM RS*",
+      "urls": [
+        "https://stream.zeno.fm/v148h04dztzuv"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "021 caffe",
+      "urls": [
+        "https://centova.dukahosting.com/proxy/021kafe/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "votes": 28
+    },
+    {
+      "name": "Balkan Radio 24/7",
+      "urls": [
+        "https://stream.laut.fm/balkan-radio-24-7"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "BB Radio Sombor",
+      "urls": [
+        "https://mhpanel.mediahosting025.com/radio/8383/;"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://bbradio.co.rs/assets/img/logo.png",
+      "votes": 13
+    },
+    {
+      "name": "Blok Radio",
+      "urls": [
+        "https://stream.blokradio.com/hls/blok_radio/live.m3u8"
+      ],
+      "tags": [
+        "news",
+        "protest",
+        "student radio",
+        "talk"
+      ],
+      "city": "Beograd",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Blok Radio",
+      "urls": [
+        "https://blokradio.navijan.nl/blok.mp3"
+      ],
+      "tags": [
+        "news",
+        "student radio",
+        "talk"
+      ],
+      "city": "Beograd",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://blokradio.com/wp-content/uploads/2026/08/cropped-cropped-Blok-Radio-LOGO-RW-192x192.png",
+      "votes": 2
+    },
+    {
+      "name": "Bum Bum Radio",
+      "urls": [
+        "https://bumbum.nlnet.rs:8443/bumbum?download=false"
+      ],
+      "tags": [],
+      "city": "Beograd",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://bumbumradio.rs/wp-content/uploads/2024/05/bum-bum-radio-logo-beograd.jpg",
+      "votes": 33
+    },
+    {
+      "name": "DENSOMANIAK Radio",
+      "urls": [
+        "https://stream.iradio.pro/proxy/densomaniak?mp=/stream"
+      ],
+      "tags": [
+        "90s",
+        "devedesete"
+      ],
+      "city": "Belgrade",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.densomaniak.com/wp-content/uploads/2020/02/logo.png",
+      "votes": 17
+    },
+    {
+      "name": "Dharmar Goa",
+      "urls": [
+        "https://radio.mugadavanje.rs/listen/dharmar_goa/dharmar"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mugadavanje.rs/wp-content/uploads/2024/01/cropped-SLOVA-SAMO1111-768x197.png",
+      "votes": 4
+    },
+    {
+      "name": "dj canic radio",
+      "urls": [
+        "https://stream.zeno.fm/5xbihv8cky7tv"
+      ],
+      "tags": [],
+      "city": "Norfolk",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Domus Radio",
+      "urls": [
+        "https://libretime.domusradio.com/icecast/main"
+      ],
+      "tags": [
+        "alternative",
+        "local music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://domusradio.com/wp-content/uploads/2025/12/domus_favicon_new2.png",
+      "votes": 7
+    },
+    {
+      "name": "Focus Radio",
+      "urls": [
+        "https://streamer.radio.co/s34d2c17d8/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 71
+    },
+    {
+      "name": "Gudalo i Struna",
+      "urls": [
+        "https://stream.zeno.fm/kpcnnvbdfjtvv"
+      ],
+      "tags": [
+        "gusle",
+        "izvorna",
+        "narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 39
+    },
+    {
+      "name": "Hype.FM",
+      "urls": [
+        "https://93.87.22.105:8000/hypefm"
+      ],
+      "tags": [
+        "90.8 fm",
+        "hype fm",
+        "hype showtime",
+        "hype.fm",
+        "narodna muzika",
+        "radio hype",
+        "zajecar"
+      ],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://hypeproductionserbia-my.sharepoint.com/:i:/g/personal/nikolavukajlovic_hypeproductionserbia_onmicrosoft_com/EcILdeBEbaZCvj9RubxWsXsBdN6sOdjy5dYjFhdY2RnApg?e=tN8c1R",
+      "votes": 2
+    },
+    {
+      "name": "Internet Radio Pingvin",
+      "urls": [
+        "https://uzivo.radiopingvin.com/domaci1"
+      ],
+      "tags": [
+        "pop - zabavna - mix"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Jack folk radio",
+      "urls": [
+        "https://media.radioexs.com/stream/jackfolkradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://postimg.cc/ZWfX1gGP",
+      "votes": 2
+    },
+    {
+      "name": "Jack radio Varvarin",
+      "urls": [
+        "https://media.radioexs.com/stream/jackradio"
+      ],
+      "tags": [],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://postimg.cc/BPT5749p",
+      "votes": 1
+    },
+    {
+      "name": "JAT Radio",
+      "urls": [
+        "https://streaming.radiojat.rs/radiojat.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 245
+    },
+    {
+      "name": "Kiss Club FM",
+      "urls": [
+        "https://stream.zeno.fm/572ugg75ztzuv"
+      ],
+      "tags": [
+        "dance",
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Kiss FM",
+      "urls": [
+        "https://cast2.my-control-panel.com/proxy/kissdoog/stream"
+      ],
+      "tags": [
+        "zabavna - narodna - folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 80
+    },
+    {
+      "name": "Kiss FM Balkan",
+      "urls": [
+        "https://stream.zeno.fm/kwku1q84p48uv"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "KISS FM EX YU",
+      "urls": [
+        "https://stream.zeno.fm/abn3hm6w768uv"
+      ],
+      "tags": [
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Kiss FM Narodni",
+      "urls": [
+        "https://stream.zeno.fm/q8252338t68uv"
+      ],
+      "tags": [
+        "folk",
+        "narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Kolubara 96.9",
+      "urls": [
+        "https://kolubara.name.ba:8000/stream/1/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radiokolubara.rs/images/radio_kolubara.png",
+      "votes": 1
+    },
+    {
+      "name": "Krajiski LiD Rafio",
+      "urls": [
+        "https://mojaudio.stream/proxy/lidradio/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Laguna",
+      "urls": [
+        "https://live.radiolaguna.rs/laguna"
+      ],
+      "tags": [
+        "undefined"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 392
+    },
+    {
+      "name": "Lolipop",
+      "urls": [
+        "https://streaming.tdiradio.com/lollipop.mp3"
+      ],
+      "tags": [
+        "pop folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://llp.rs/assets/logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Lotel Radio",
+      "urls": [
+        "https://s1.skeletor.rs/lotel"
+      ],
+      "tags": [
+        "pop - folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "Luna Radio",
+      "urls": [
+        "https://eu10.fastcast4u.com:6110/stream/7/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radioluna.info/wp-content/uploads/2020/12/300lunalogo.png",
+      "votes": 5
+    },
+    {
+      "name": "Lux Radio",
+      "urls": [
+        "https://lux-naxinacional.streaming.rs:8607/;"
+      ],
+      "tags": [
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "MansionNET Radio",
+      "urls": [
+        "https://radio.inthemansion.com/listen/mansionnet/radio.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "electronic",
+        "metal",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Moj Radio",
+      "urls": [
+        "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1685
+    },
+    {
+      "name": "mr.chem fm",
+      "urls": [
+        "https://e20.yesstreaming.net:6217/stream"
+      ],
+      "tags": [
+        "chillout",
+        "downtempo",
+        "electro",
+        "electronic",
+        "house",
+        "techno"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://ptpimg.me/25mrpr.jpg",
+      "votes": 24
+    },
+    {
+      "name": "Mugadavanje",
+      "urls": [
+        "https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mugadavanje.rs/wp-content/uploads/2022/08/flamingtext__28276465349303853.png",
+      "votes": 2
+    },
+    {
+      "name": "Muzicki Radio 101",
+      "urls": [
+        "https://as1.radioserveri.com:8090/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "NAŠ MM Radio 97.8",
+      "urls": [
+        "https://radio.dukahosting.com:7045/stream"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nasradiomm.com/wp-content/uploads/2023/12/cropped-logo-nas-radio-MM-png.png",
+      "votes": 24
+    },
+    {
+      "name": "Nas Radio 107,80 Zabalj",
+      "urls": [
+        "https://radio.dukahosting.com:7043/"
+      ],
+      "tags": [],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nasradio.rs/wp-content/uploads/2020/06/cropped-Logotipovi-za-radio1078-2.png",
+      "votes": 19
+    },
+    {
+      "name": "Nas Radio 107,80 Zabalj",
+      "urls": [
+        "https://radio.dukahosting.com:7043/;"
+      ],
+      "tags": [],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nasradio.rs/wp-content/uploads/2020/06/cropped-Logotipovi-za-radio1078-2.png",
+      "votes": 21
+    },
+    {
+      "name": "NAS Radio 97.8",
+      "urls": [
+        "https://radio.dukahosting.com:7045/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Naxi",
+      "urls": [
+        "https://naxi128ssl.streaming.rs:9152/"
+      ],
+      "tags": [
+        "naxi",
+        "pop",
+        "rock",
+        "serbian music",
+        "zabavna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.naxi.rs/files/img/logos/logo.png",
+      "votes": 23
+    },
+    {
+      "name": "Naxi - hype",
+      "urls": [
+        "https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 294
+    },
+    {
+      "name": "Naxi 70-e 3",
+      "urls": [
+        "https://naxidigital-70s128ssl.streaming.rs:8382/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 23
+    },
+    {
+      "name": "Naxi 70e",
+      "urls": [
+        "https://naxidigital-70s128ssl.streaming.rs:8042/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 28
+    },
+    {
+      "name": "Naxi 80-e Radio",
+      "urls": [
+        "https://naxidigital-80s128ssl.streaming.rs:8042/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1693
+    },
+    {
+      "name": "Naxi 90s",
+      "urls": [
+        "https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 424
+    },
+    {
+      "name": "Naxi Active Radio",
+      "urls": [
+        "https://active96-naxinacional.streaming.rs:8557/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radioactive.rs/img/logo.png",
+      "votes": 9
+    },
+    {
+      "name": "Naxi Adore",
+      "urls": [
+        "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+      ],
+      "tags": [
+        "chansons",
+        "mediterranean"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Naxi Blues",
+      "urls": [
+        "https://naxidigital-blues128ssl.streaming.rs:8312/;stream.nsv"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 281
+    },
+    {
+      "name": "Naxi Boem Radio",
+      "urls": [
+        "https://naxidigital-boem128ssl.streaming.rs:8162/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1123
+    },
+    {
+      "name": "Naxi Cafe Radio",
+      "urls": [
+        "https://naxidigital-cafe128ssl.streaming.rs:8022/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1254
+    },
+    {
+      "name": "Naxi Chillwave",
+      "urls": [
+        "https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "Naxi Classic Radio",
+      "urls": [
+        "https://naxidigital-classic128ssl.streaming.rs:8032/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 352
+    },
+    {
+      "name": "Naxi Clubbing Radio",
+      "urls": [
+        "https://naxidigital-clubbing128ssl.streaming.rs:8092/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 184
+    },
+    {
+      "name": "Naxi Dance Radio",
+      "urls": [
+        "https://naxidigital-dance128ssl.streaming.rs:8112/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 904
+    },
+    {
+      "name": "Naxi Evergreen Radio",
+      "urls": [
+        "https://naxidigital-evergreen128ssl.streaming.rs:8012/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 354
+    },
+    {
+      "name": "Naxi ex YU",
+      "urls": [
+        "https://naxidigital-exyu128ssl.streaming.rs:8242/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Naxi ExYu Radio",
+      "urls": [
+        "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3294
+    },
+    {
+      "name": "Naxi Fitness",
+      "urls": [
+        "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 129
+    },
+    {
+      "name": "Naxi Fresh Radio",
+      "urls": [
+        "https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 94
+    },
+    {
+      "name": "Naxi Gold Radio",
+      "urls": [
+        "https://naxidigital-gold128ssl.streaming.rs:8062/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 461
+    },
+    {
+      "name": "Naxi House Radio",
+      "urls": [
+        "https://naxidigital-house128ssl.streaming.rs:8002/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 326
+    },
+    {
+      "name": "Naxi Hype Radio",
+      "urls": [
+        "https://naxidigital-hype128ssl.streaming.rs:8272/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 240
+    },
+    {
+      "name": "Naxi Jazz Radio",
+      "urls": [
+        "https://naxidigital-jazz128ssl.streaming.rs:8172/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 118
+    },
+    {
+      "name": "Naxi Kids",
+      "urls": [
+        "https://naxidigital-kids128ssl.streaming.rs:8052/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Naxi Kids",
+      "urls": [
+        "https://naxidigital-kids128ssl.streaming.rs:8052/;"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.naxi.rs/filemanager/digital/Digatal%20male%20slike/kids-mala.png",
+      "votes": 4
+    },
+    {
+      "name": "Naxi Latino",
+      "urls": [
+        "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.naxi.rs/filemanager/digital/Digatal%20male%20slike/latino-mala.png",
+      "votes": 9
+    },
+    {
+      "name": "Naxi Lounge Radio",
+      "urls": [
+        "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 112
+    },
+    {
+      "name": "Naxi Love Radio",
+      "urls": [
+        "https://naxidigital-love128ssl.streaming.rs:8102/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 193
+    },
+    {
+      "name": "Naxi Millennium Radio",
+      "urls": [
+        "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Naxi MIX",
+      "urls": [
+        "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.naxi.rs/media/a088b1-mix.png",
+      "votes": 12
+    },
+    {
+      "name": "Naxi R'n'B Radio",
+      "urls": [
+        "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Naxi Radio 016",
+      "urls": [
+        "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://radio016.net/wp-content/uploads/2018/10/cropped-headerlogo_r016_2.png",
+      "votes": 42
+    },
+    {
+      "name": "Naxi Radio Rock",
+      "urls": [
+        "https://naxidigital-rock128ssl.streaming.rs:8182/;"
+      ],
+      "tags": [
+        "zabavna - rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Nisville Online Radio",
+      "urls": [
+        "https://radio.nisville.com/listen/live/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.nisville.com/static/uploads/live/album_art.1711725908.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Nostalgie Radio Belgrade - 105,2 Mhz",
+      "urls": [
+        "https://nostalgie128ssl.streaming.rs:9252/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nostalgija.rs/wp-content/uploads/2019/08/logo.png",
+      "votes": 80
+    },
+    {
+      "name": "OK Plus Radio",
+      "urls": [
+        "https://stream.okplus.rs/listen/plus/radio.mp3"
+      ],
+      "tags": [
+        "rock - pop-rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 20
+    },
+    {
+      "name": "OK Prelo Radio",
+      "urls": [
+        "https://stream.okplus.rs/listen/prelo/radio.mp3"
+      ],
+      "tags": [
+        "narodna - krajiška"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "OK radio",
+      "urls": [
+        "https://sslstream.okradio.net/;?type=http&nocache=8804"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png",
+      "votes": 10524
+    },
+    {
+      "name": "Original Fast Radio",
+      "urls": [
+        "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live"
+      ],
+      "tags": [
+        "blues",
+        "country",
+        "funk",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png",
+      "votes": 11
+    },
+    {
+      "name": "Original Fast Radio",
+      "urls": [
+        "https://az-de-01.worldradiobeat.com:8000/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png",
+      "votes": 7
+    },
+    {
+      "name": "Pink Radio",
+      "urls": [
+        "https://edge9.pink.rs/pinkstream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://pinkradio.rs/images/logo.png",
+      "votes": 531
+    },
+    {
+      "name": "PLAY radio",
+      "urls": [
+        "https://stream.playradio.rs:8443/play.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://playradio.rs/assets/images/play-navigation.png",
+      "votes": 5
+    },
+    {
+      "name": "Play Radio Balkan",
+      "urls": [
+        "https://stream.playradio.rs:8443/balkan.mp3"
+      ],
+      "tags": [
+        "balkan",
+        "hip-hop",
+        "rap",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Play Radio Party",
+      "urls": [
+        "https://stream.playradio.rs:8443/party.mp3"
+      ],
+      "tags": [
+        "english",
+        "party",
+        "serbia"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 403
+    },
+    {
+      "name": "Play Radio Rock",
+      "urls": [
+        "https://stream.playradio.rs:8443/rock.mp3"
+      ],
+      "tags": [
+        "belgrade",
+        "internet radio",
+        "music",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 112
+    },
+    {
+      "name": "Play Radio SOFT",
+      "urls": [
+        "https://stream.playradio.rs:8443/soft.mp3"
+      ],
+      "tags": [
+        "easy",
+        "soft"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Play Radio Urban",
+      "urls": [
+        "https://stream.playradio.rs:8443/urban.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "rock",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Polymia Radio",
+      "urls": [
+        "https://radio.ndnlmusic.com/stream"
+      ],
+      "tags": [
+        "ambient",
+        "ambient and relaxation music",
+        "ambient electronic",
+        "deep ambient",
+        "zen ambient"
+      ],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Psychedelic Travel Radio",
+      "urls": [
+        "https://e20.yesstreaming.net:6148/stream"
+      ],
+      "tags": [
+        "forest psytrance",
+        "progressive psytrance",
+        "psychedelic",
+        "psytrance",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://ptpimg.me/ibo76q.png",
+      "votes": 30
+    },
+    {
+      "name": "Pumpaj Radio",
+      "urls": [
+        "https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3"
+      ],
+      "tags": [
+        "cultural values",
+        "dignity",
+        "freedom",
+        "human rights",
+        "solidarity"
+      ],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio 021",
+      "urls": [
+        "https://radio.dukahosting.com/8006/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 203
+    },
+    {
+      "name": "Radio 021 100% domaće",
+      "urls": [
+        "https://centova.dukahosting.com/proxy/021domaca/stream"
+      ],
+      "tags": [],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "votes": 45
+    },
+    {
+      "name": "Radio 021 Disco & Funk",
+      "urls": [
+        "https://centova.dukahosting.com/proxy/021disco/stream"
+      ],
+      "tags": [
+        "disco funk"
+      ],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "votes": 10
+    },
+    {
+      "name": "Radio 021 Rock",
+      "urls": [
+        "https://centova.dukahosting.com/proxy/rock/stream"
+      ],
+      "tags": [],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "votes": 19
+    },
+    {
+      "name": "Radio 3 LIVE",
+      "urls": [
+        "https://radio3-64ssl.streaming.rs:9212/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 31
+    },
+    {
+      "name": "Radio 31 Plus",
+      "urls": [
+        "https://cast4.asurahosting.com/proxy/dejan/stream"
+      ],
+      "tags": [
+        "narodna - folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio 996FM",
+      "urls": [
+        "https://radio.en.rs/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "pop",
+        "pop music",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio996fm.rs/wp-content/uploads/2020/03/996fm-mobile-2.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio Aparat",
+      "urls": [
+        "https://stream4.rcast.net/72355/"
+      ],
+      "tags": [
+        "alternative"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://station-images-prod.radio-assets.com/300/radioaparat.png",
+      "votes": 32
+    },
+    {
+      "name": "Radio Arilje",
+      "urls": [
+        "https://radio.dukahosting.com:7022/stream"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.rem.rs/uploads/attachment/pruzalac/739/thumb_arilje_radio.png",
+      "votes": 5
+    },
+    {
+      "name": "RADIO AS FM",
+      "urls": [
+        "https://asfmonair-masterasfm.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioas.fm/favicon.ico",
+      "votes": 4
+    },
+    {
+      "name": "Radio Balkan Narodna",
+      "urls": [
+        "https://radiobalkan.live/radio/live/narodna.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobalkan.live/assets/icons/favicon.png",
+      "votes": 504
+    },
+    {
+      "name": "Radio Balkan Trending",
+      "urls": [
+        "https://radiobalkan.live/radio/live/trending.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobalkan.live/assets/icons/favicon.png",
+      "votes": 80
+    },
+    {
+      "name": "Radio Balkan Zabavna",
+      "urls": [
+        "https://radiobalkan.live/radio/live/zabavna.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 252
+    },
+    {
+      "name": "Radio Banja 2",
+      "urls": [
+        "https://stream.iradio.pro/proxy/radiobanja2?mp=/stream"
+      ],
+      "tags": [
+        "pop - narodna - folk- uživo - starogradska"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 65
+    },
+    {
+      "name": "Radio Beograd",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 73
+    },
+    {
+      "name": "Radio Beograd 2 link 2",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8"
+      ],
+      "tags": [
+        "misc"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 256
+    },
+    {
+      "name": "Radio Beograd 202",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1516
+    },
+    {
+      "name": "Radio BG1",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Radio Fruska Gora",
+      "urls": [
+        "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 82
+    },
+    {
+      "name": "Radio Futog",
+      "urls": [
+        "https://radio.dukahosting.com:7001/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofutog.rs/wp-content/uploads/2022/10/cropped-radio-futog-logo-180x180.png",
+      "votes": 44
+    },
+    {
+      "name": "Radio Futog Krajina",
+      "urls": [
+        "https://centova.dukahosting.com/proxy/futog/stream"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.uzivoradio.net/wp-content/uploads/2023/05/futog-krajina.jpg",
+      "votes": 23
+    },
+    {
+      "name": "Radio grand",
+      "urls": [
+        "https://s9.yesstreaming.net:7080/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://play-lh.googleusercontent.com/JEEN84ymLgeKD64k6OzgUEerWvo8UXNd0Goomv2WHwb3-jKlwXABB769yYjS06xlG8s",
+      "votes": 6
+    },
+    {
+      "name": "Radio In",
+      "urls": [
+        "https://radioinnis-naxinacional.streaming.rs:8622/;"
+      ],
+      "tags": [
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioin.co.rs/wp-content/uploads/2017/12/cropped-favicon-300x300.png",
+      "votes": 51
+    },
+    {
+      "name": "Radio In",
+      "urls": [
+        "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radioin.co.rs/wp-content/uploads/2019/02/logo.png",
+      "votes": 10
+    },
+    {
+      "name": "Radio IN Beograd",
+      "urls": [
+        "https://radio3-64ssl.streaming.rs:9212/;*.mp3"
+      ],
+      "tags": [
+        "folk",
+        "music",
+        "pop",
+        "world music"
+      ],
+      "city": "Belgrade",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.radioinbeograd.rs/favicon.ico",
+      "votes": 1877
+    },
+    {
+      "name": "Radio JAT",
+      "urls": [
+        "https://streaming.tdiradio.com/radiojat.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://player.radiojat.rs/img/CD/cd-jat.png",
+      "votes": 41
+    },
+    {
+      "name": "Radio Karolina",
+      "urls": [
+        "https://streaming.karolina.rs/karolina.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://player.karolina.rs/img/CD/cd-karolina.png",
+      "votes": 274
+    },
+    {
+      "name": "Radio KISS Lazarevac 106.1",
+      "urls": [
+        "https://cast2.asurahosting.com/proxy/kissdoog/stream"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiofm.rs/images/radio/kissfm-big.png",
+      "votes": 19
+    },
+    {
+      "name": "Radio Klik Arilje",
+      "urls": [
+        "https://stream.zeno.fm/mhuilnb3yoxuv"
+      ],
+      "tags": [],
+      "city": "Belgrade",
+      "codec": "AAC",
+      "bitrate": 112,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Radio Kolo",
+      "urls": [
+        "https://mars.streamerr.co/8280/stream"
+      ],
+      "tags": [],
+      "city": "Belgrade",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radiokolo.net/favicon.ico",
+      "votes": 46
+    },
+    {
+      "name": "RADIO KROV",
+      "urls": [
+        "https://radio.dckrov.rs/listen/krov/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://raw.githubusercontent.com/nikolaign/dckrovlogos/main/forest_rk2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Kruševac 93.2",
+      "urls": [
+        "https://krusevac.ipradio.rs:9014/;stream.mp3"
+      ],
+      "tags": [
+        "folk",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.rtk.rs/wp-content/uploads/2025/05/logoTrans.png",
+      "votes": 1
+    },
+    {
+      "name": "Radio Lola",
+      "urls": [
+        "https://streaming.tdiradio.com/radiolola.mp3"
+      ],
+      "tags": [
+        "izvorna",
+        "narodna",
+        "народне"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 406
+    },
+    {
+      "name": "Radio Maestro",
+      "urls": [
+        "https://radio-maestro.com:8443/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-maestro.com/images/logos/maestroplavi.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Morava",
+      "urls": [
+        "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 744
+    },
+    {
+      "name": "Radio Patrola 021",
+      "urls": [
+        "https://srv.mediastriming.com/8444/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 189
+    },
+    {
+      "name": "Radio Podrinje",
+      "urls": [
+        "https://s1.skeletor.rs/podrinje"
+      ],
+      "tags": [
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rtvpodrinje.rs/favicon.ico",
+      "votes": 43
+    },
+    {
+      "name": "Radio Požega 94.7",
+      "urls": [
+        "https://radio.dukahosting.com:7033/"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/66827.v16.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Ritam Srca",
+      "urls": [
+        "https://s4.radio.co/s0f65dad2d/listen"
+      ],
+      "tags": [
+        "narodna - folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 164
+    },
+    {
+      "name": "Radio S",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "city": "Serbia",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 153
+    },
+    {
+      "name": "Radio S 2000-e",
+      "urls": [
+        "https://stream.radios.rs:9052/stream"
+      ],
+      "tags": [
+        "2000s",
+        "dance",
+        "eurodance",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Strimovi/2000e1000px.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio S 2000-te Folk",
+      "urls": [
+        "https://stream.radios.rs:9060/stream"
+      ],
+      "tags": [
+        "2000s folk",
+        "folk",
+        "narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/2000-te%20Folk1000px.png",
+      "votes": 14
+    },
+    {
+      "name": "Radio S 80e",
+      "urls": [
+        "https://stream.radios.rs:9036/stream"
+      ],
+      "tags": [
+        "80s"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/500px.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio S Cafe",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_cafe/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 98
+    },
+    {
+      "name": "Radio S Cafe",
+      "urls": [
+        "https://stream.radios.rs:9012/stream"
+      ],
+      "tags": [
+        "cafe"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Cafe-500px.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio S Chill",
+      "urls": [
+        "https://stream.radios.rs:9066/stream"
+      ],
+      "tags": [
+        "ambient",
+        "chill",
+        "domaca",
+        "pop",
+        "relax",
+        "soft rock",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Chill1000px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Classic",
+      "urls": [
+        "https://stream.radios.rs:9074/stream"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "classical",
+        "domaca",
+        "evergreen",
+        "instrumental",
+        "orchestral",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Classic1000px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Classic",
+      "urls": [
+        "https://6069699a9e3f3.streamlock.net/asmedia/s_classic/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Belgrade",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio S Dance",
+      "urls": [
+        "https://stream.radios.rs:9014/stream"
+      ],
+      "tags": [
+        "dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Dance-500px.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio S Dance",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 59
+    },
+    {
+      "name": "Radio S Easy",
+      "urls": [
+        "https://stream.radios.rs:9044/stream"
+      ],
+      "tags": [
+        "ballads",
+        "domaca",
+        "easy listening",
+        "soft pop",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/radio/Easy.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio S EX YU",
+      "urls": [
+        "https://stream.radios.rs:9042/stream"
+      ],
+      "tags": [
+        "bosnia",
+        "croatia",
+        "evergreen",
+        "ex-yu",
+        "macedonia",
+        "montenegro",
+        "pop",
+        "rock",
+        "serbia",
+        "slovenia"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png",
+      "votes": 56
+    },
+    {
+      "name": "Radio S EX YU",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_ex_yu/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 575
+    },
+    {
+      "name": "Radio S Folk Stars",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_lounge/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 275
+    },
+    {
+      "name": "Radio S Folk Stars",
+      "urls": [
+        "https://stream.radios.rs:9024/stream"
+      ],
+      "tags": [
+        "folk",
+        "narodna",
+        "serbian music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk-Stars-500px.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio S Gold",
+      "urls": [
+        "https://stream.radios.rs:9020/stream"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "evergreen",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Gold-350x350px.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio S Gym",
+      "urls": [
+        "https://stream.radios.rs:9068/stream"
+      ],
+      "tags": [
+        "domaca",
+        "edm",
+        "gym",
+        "pop",
+        "rock",
+        "strana",
+        "upbeat",
+        "urban"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Gym1000px.png",
+      "votes": 13
+    },
+    {
+      "name": "Radio S Jazz",
+      "urls": [
+        "https://stream.radios.rs:9076/stream"
+      ],
+      "tags": [
+        "classic jazz",
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Jazz1000px.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S Jazz",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio S Južni",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 980
+    },
+    {
+      "name": "Radio S Južni",
+      "urls": [
+        "https://stream.radios.rs:9038/stream"
+      ],
+      "tags": [
+        "narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Juzni-500px.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio S Kids",
+      "urls": [
+        "https://stream.radios.rs:9022/stream"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Kids-350x350px.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio S Kids",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_kids/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "Radio S Latino",
+      "urls": [
+        "https://stream.radios.rs:9054/stream"
+      ],
+      "tags": [
+        "latino"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Strimovi/Latino1000px.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S Lounge",
+      "urls": [
+        "https://stream.radios.rs:9062/stream"
+      ],
+      "tags": [
+        "chillout",
+        "domaca",
+        "lounge",
+        "soft electronic",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Lounge1000px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Mix",
+      "urls": [
+        "https://stream.radios.rs:9010/stream"
+      ],
+      "tags": [
+        "folk",
+        "pop",
+        "rock",
+        "zabavna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Mix500px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Modern Classic",
+      "urls": [
+        "https://stream.radios.rs:9072/stream"
+      ],
+      "tags": [
+        "domaca",
+        "modern pop",
+        "modern rock",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/ModernClassic1000px.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S Narodni",
+      "urls": [
+        "https://stream.radios.rs:9016/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2969
+    },
+    {
+      "name": "Radio S Narodni",
+      "urls": [
+        "https://stream.radios.rs:9016/stream"
+      ],
+      "tags": [
+        "folk",
+        "narodna",
+        "pop folk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio S Pop & Rock",
+      "urls": [
+        "https://stream.radios.rs:9028/stream"
+      ],
+      "tags": [
+        "mainstream",
+        "pop rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Pop-and-Rock-350x350px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Pop Ballads",
+      "urls": [
+        "https://stream.radios.rs:9056/stream"
+      ],
+      "tags": [
+        "domaca",
+        "nostalgic",
+        "pop ballads",
+        "romantic",
+        "strana"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/PopBalads1000px%20(1).png",
+      "votes": 9
+    },
+    {
+      "name": "Radio S Pop Folk",
+      "urls": [
+        "https://stream.radios.rs:9046/stream"
+      ],
+      "tags": [
+        "pop folk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk500px.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio S POP&ROCK",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/radio_s_pop_80_90/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 45
+    },
+    {
+      "name": "Radio S Rock",
+      "urls": [
+        "https://stream.radios.rs:9032/stream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Rock-500px.png",
+      "votes": 30
+    },
+    {
+      "name": "Radio S Rock Ballads",
+      "urls": [
+        "https://stream.radios.rs:9058/stream"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "classic rock",
+        "rock ballads",
+        "soft rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/RockBalads1000px%20(1).png",
+      "votes": 22
+    },
+    {
+      "name": "Radio S Sport",
+      "urls": [
+        "https://stream.radios.rs:9078/stream"
+      ],
+      "tags": [
+        "dance",
+        "domaca",
+        "pop",
+        "rock",
+        "strana",
+        "training",
+        "upbeat"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Sport1000px.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio S Sport Urban",
+      "urls": [
+        "https://stream.radios.rs:9080/stream"
+      ],
+      "tags": [
+        "domaca",
+        "hip-hop",
+        "pop",
+        "r&b",
+        "sport",
+        "strana",
+        "urban"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/SportUrban1000px.png",
+      "votes": 7
+    },
+    {
+      "name": "Radio S Starogradski",
+      "urls": [
+        "https://stream.radios.rs:9064/stream"
+      ],
+      "tags": [
+        "kafanska",
+        "starogradska",
+        "tamburasi"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Starogradski500px.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S Trap & Rap",
+      "urls": [
+        "https://stream.radios.rs:9030/stream"
+      ],
+      "tags": [
+        "domaca",
+        "hip-hop",
+        "rap",
+        "strana",
+        "trap"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-TrapRap-500px.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio S Trap&Rap",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/radio_s_mchits/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 42,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "Radio S XTRA",
+      "urls": [
+        "https://stream.radios.rs:9026/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radiofm.rs/images/radio/sxtra-big.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio S Xtra",
+      "urls": [
+        "https://stream.radios.rs:9026/stream"
+      ],
+      "tags": [
+        "folk",
+        "love",
+        "pop",
+        "pop-folk",
+        "pop-rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Xtra-350x350px.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio S1",
+      "urls": [
+        "https://stream.radios.rs:9000/;"
+      ],
+      "tags": [
+        "zabavna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png",
+      "votes": 289
+    },
+    {
+      "name": "Radio S2",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": "https://www.radios.rs/media/footerlogo/s2.png",
+      "votes": 529
+    },
+    {
+      "name": "Radio S2",
+      "urls": [
+        "https://stream.radios.rs:9002/;"
+      ],
+      "tags": [
+        "pop",
+        "zabavna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/footerlogo/s2.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S3",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": "http://www.radio-uzivo.com/images/radio-stanica/radio_s3_200_1.jpg",
+      "votes": 299
+    },
+    {
+      "name": "Radio S3 Folk stars",
+      "urls": [
+        "https://stream.radios.rs:9024/;"
+      ],
+      "tags": [
+        "narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png",
+      "votes": 122
+    },
+    {
+      "name": "Radio S3 Južni",
+      "urls": [
+        "https://stream.radios.rs:9038/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 5095
+    },
+    {
+      "name": "Radio S3 Narodni",
+      "urls": [
+        "https://stream.radios.rs:9016/;"
+      ],
+      "tags": [
+        "narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 110
+    },
+    {
+      "name": "Radio S3 Trap And Rap",
+      "urls": [
+        "https://stream.radios.rs:9030/;"
+      ],
+      "tags": [
+        "narodna - mix - rap - trap"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png",
+      "votes": 273
+    },
+    {
+      "name": "Radio S4",
+      "urls": [
+        "https://53a7ed211fc32.streamlock.net/asmedia/gradski/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": "https://www.radios.rs/media/footerlogo/s4.png",
+      "votes": 246
+    },
+    {
+      "name": "Radio S4",
+      "urls": [
+        "https://stream.radios.rs:9006/;"
+      ],
+      "tags": [
+        "dance",
+        "house",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.radios.rs/media/footerlogo/s4.png",
+      "votes": 5
+    },
+    {
+      "name": "Radio S4",
+      "urls": [
+        "https://53be5ef2d13aa.streamlock.net/asmedia/gradski/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 43,
+      "logo": null,
+      "votes": 50
+    },
+    {
+      "name": "Radio San Loznica",
+      "urls": [
+        "https://s1.skeletor.rs/san"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 49
+    },
+    {
+      "name": "Radio SKAY",
+      "urls": [
+        "https://live.radioskay.com/;*.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://play.radiostanica.com/static/images/logos/1913_logo1394399423.png",
+      "votes": 19
+    },
+    {
+      "name": "Radio Sloboda Kraljevo",
+      "urls": [
+        "https://audio.slobodafm.com:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Radio Sombor 97.5",
+      "urls": [
+        "https://radio.dukahosting.com/8344/stream"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosombor.rs/wp-content/uploads/2020/06/Radio-Sombor-b.png",
+      "votes": 8
+    },
+    {
+      "name": "Radio Srce Krajine",
+      "urls": [
+        "https://srv.mediastriming.com/8330/stream"
+      ],
+      "tags": [
+        "narodna - krajiška - uživo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "Radio Sremac 102.7",
+      "urls": [
+        "https://mpc2.mediacp.eu:8282/sremac"
+      ],
+      "tags": [
+        "folk music",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radiosremac.rs/wp-content/uploads/2025/05/radio-sremac-portal-2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Stari Grad",
+      "urls": [
+        "https://stream.rsg.rs/live/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Radio Subotica 104.4",
+      "urls": [
+        "https://vojvodjanski.com/radiosubotica"
+      ],
+      "tags": [
+        "folk music",
+        "pop music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vojvodjanski.com/mediji/3_tvsubotica.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Radio Šumadija Aranđelovac",
+      "urls": [
+        "https://media.srb-streaming.com/stream/radio-sumadija"
+      ],
+      "tags": [
+        "folk",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www.rtvsumadija.com/wp-content/uploads/2016/01/logo-tv-sumadija.png",
+      "votes": 0
+    },
+    {
+      "name": "Radio Šumadinac",
+      "urls": [
+        "https://media.srb-streaming.com/stream/radio-sumadinac-uzivo"
+      ],
+      "tags": [
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 267
+    },
+    {
+      "name": "Radio Šumadinac Južni Vetar",
+      "urls": [
+        "https://media.srb-streaming.com/stream/radio-sumadinac-juzni"
+      ],
+      "tags": [
+        "narodna - folk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 557
+    },
+    {
+      "name": "Radio Šumadinac Krajiška",
+      "urls": [
+        "https://media.srb-streaming.com/stream/radio-sumadinac-krajiska"
+      ],
+      "tags": [
+        "narodna - krajiška"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 85
+    },
+    {
+      "name": "Radio Šumadinac Narodna",
+      "urls": [
+        "https://media.srb-streaming.com/stream/radio-sumadinac-narodna"
+      ],
+      "tags": [
+        "narodna - etno"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 215
+    },
+    {
+      "name": "Radio TRI",
+      "urls": [
+        "https://radiotri-128.streaming.rs:9302/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiotri.rs/wp-content/uploads/2022/10/radiotri-header-logo.png",
+      "votes": 30
+    },
+    {
+      "name": "Radio Vrnjačka Banja",
+      "urls": [
+        "https://live.rtvvrnjackabanja.com/rvb.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://rtvvrnjackabanja.com/wp-content/themes/vrt/assets/img/VRT-logo-2024.png",
+      "votes": 0
+    },
+    {
+      "name": "Red radio Beograd",
+      "urls": [
+        "https://stream.redradio.rs/sid=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 131
+    },
+    {
+      "name": "Resavski radio",
+      "urls": [
+        "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3"
+      ],
+      "tags": [
+        "narodna"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 856
+    },
+    {
+      "name": "Retro Plus FM",
+      "urls": [
+        "https://stream.zeno.fm/sq0b3qx5ztzuv"
+      ],
+      "tags": [
+        "80s",
+        "90s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Retro Plus FM 80s",
+      "urls": [
+        "https://stream.zeno.fm/qz4m0f6w768uv"
+      ],
+      "tags": [
+        "80s"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "rock beograd",
+      "urls": [
+        "https://edge9.pink.rs/rockstream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Rock Radio Beograd",
+      "urls": [
+        "https://edge9.pink.rs/rockstream/"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1029
+    },
+    {
+      "name": "RSG Party time",
+      "urls": [
+        "https://stream.rsg.rs/partytime/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 50
+    },
+    {
+      "name": "RSG Relax",
+      "urls": [
+        "https://stream.rsg.rs/relax/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 130
+    },
+    {
+      "name": "SKC",
+      "urls": [
+        "https://skc.fm/hls/skc_radio/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 52,
+      "logo": "null",
+      "votes": 4
+    },
+    {
+      "name": "skc slobodni",
+      "urls": [
+        "https://skc.fm/hls/skc_radio/aac_hifi.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Super FM Beograd",
+      "urls": [
+        "https://onair.superfm.rs/superfm.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 50
+    },
+    {
+      "name": "TDI BEZ REKLAMA",
+      "urls": [
+        "https://streaming.tdiradio.com/tdiradiobezreklama.mp3"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-e1647953245156.png",
+      "votes": 190
+    },
+    {
+      "name": "TDI Radio CRNA GORA",
+      "urls": [
+        "https://streaming.tdiradio.com/crnagora.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://player.tdiradio.com/wp-content/uploads/sites/10/2025/06/TDI-CRNAGORA.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Tempo Naxi Radio",
+      "urls": [
+        "https://tempo.ipradio.rs:9034/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "TOP FM Belgrade - 106,8 MHz",
+      "urls": [
+        "https://topfm64ssl.streaming.rs:9287/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "Belgrade",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://topfm.rs/wp-content/uploads/2017/08/topfmlogoweb.png",
+      "votes": 131
+    },
+    {
+      "name": "UnderGRAND radio",
+      "urls": [
+        "https://stream.zeno.fm/rp1swb5pgzzuv"
+      ],
+      "tags": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "city": "Vojvodina",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "vajdaságretro",
+      "urls": [
+        "https://sp1.19cloudsnetwork.gr/8032/stream"
+      ],
+      "tags": [
+        "oldies & retro hits 70s 80s 90s 00s"
+      ],
+      "city": "Serbia",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Yu Eco Subotica 100.6",
+      "urls": [
+        "https://s1.skeletor.rs/yueco"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://yueco.rs/wp-content/uploads/2022/11/logo-white.png",
+      "votes": 1
+    },
+    {
+      "name": "Yu Novi Pazar",
+      "urls": [
+        "https://yuradio.ipradio.rs:9036/;"
+      ],
+      "tags": [
+        "zabavna - narodna"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://yuradio.rs/assets/images/500-118x175.png",
+      "votes": 43
+    },
+    {
+      "name": "Zeleni Radio",
+      "urls": [
+        "https://zeleniradio.zelenidogovor.org/listen/zeleni_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeleniradio.zelenidogovor.org/static/uploads/zeleni-cover.png",
+      "votes": 1
+    },
+    {
+      "name": "Zrenjanin 103.6",
+      "urls": [
+        "https://radio.dukahosting.com:7031/stream"
+      ],
+      "tags": [
+        "exyu",
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiozrenjanin.rs/wp-content/uploads/2024/11/LOGO-RADIO-ZRENJANIN.png",
+      "votes": 28
+    },
+    {
+      "name": "РТС - Радио Београд - 2",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 194
+    },
+    {
+      "name": "РТС - Радио Београд - 202",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 245
+    },
+    {
+      "name": "РТС - Радио Београд - 3",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 74
+    },
+    {
+      "name": "РТС - Радио Београд - Вртешка",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "childrens music"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 78
+    },
+    {
+      "name": "РТС - Радио Београд - Плетеница",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "native"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 98
+    },
+    {
+      "name": "РТС - Радио Београд - Рокенролер",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music",
+        "rock"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 284
+    },
+    {
+      "name": "РТС - Радио Београд - Џубокс",
+      "urls": [
+        "https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "Belgrade",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://rtsplaneta.rs/favicon.ico",
+      "votes": 94
+    }
+  ]
+}

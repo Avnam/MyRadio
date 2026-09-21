@@ -1,0 +1,117 @@
+{
+  "code": "CD",
+  "name": "The Democratic Republic Of The Congo",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 69
+    },
+    {
+      "name": "Kolo-mboka fm",
+      "urls": [
+        "https://kolo-mbokafm.volticast.net/kolo-mbokafm.mp3"
+      ],
+      "tags": [
+        "divertissement"
+      ],
+      "city": "Kinshasa ",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 11
+    },
+    {
+      "name": "Radio Mix Congolaise",
+      "urls": [
+        "https://stream.zeno.fm/qe5g83upga0uv"
+      ],
+      "tags": [
+        "soukous"
+      ],
+      "city": "Kinshasa",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://images.zeno.fm/fzjwSLDd-HMj8y7DUl0WRMPCuvgxfydRbyqG3hApFBg/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURROFBDcnZBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRb09EaS1Ba01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NzcxNDY0NDMwMDA.webp",
+      "votes": 569
+    },
+    {
+      "name": "Radio Svein",
+      "urls": [
+        "https://radiosvein2.ice.infomaniak.ch/radiosvein2-64.mp3"
+      ],
+      "tags": [
+        "radio comunitaria"
+      ],
+      "city": "Bukavu",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sveinmedia.info/wp-content/uploads/2023/02/sveinlogo-2.png",
+      "votes": 94
+    },
+    {
+      "name": "rmbb",
+      "urls": [
+        "https://radio4.pro-fhi.net/live/RadioMotoButemboBeni?1712401009868"
+      ],
+      "tags": [
+        "radio communautaire"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 136
+    },
+    {
+      "name": "Top Congo FM",
+      "urls": [
+        "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3"
+      ],
+      "tags": [
+        "informations"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "http://domain.com/favicon.ico",
+      "votes": 2295
+    },
+    {
+      "name": "Viunga Business Radio",
+      "urls": [
+        "https://stream-172.zeno.fm/r6vaqx5zbg0uv?zs=WjrAW1N0QX-x4o-HQ4IMiw&zt=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJaZW5vTWVkaWEiLCJtYXhBZ2UiOjg2NDAwMDAwLCJob3N0IjoiaHR0cHM6Ly9zdHJlYW0tMTcyLnplbm8uZm0iLCJpZCI6Ildqc"
+      ],
+      "tags": [
+        "développement",
+        "environnement",
+        "informations"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 208
+    },
+    {
+      "name": "Watoto Radio",
+      "urls": [
+        "https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 499
+    }
+  ]
+}

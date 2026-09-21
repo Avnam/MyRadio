@@ -1,0 +1,108 @@
+{
+  "code": "MT",
+  "name": "Malta",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "89.7 Bay",
+      "urls": [
+        "https://stream.v3.network/proxy/897bay/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://bay.com.mt/wp-content/uploads/2020/10/ListenToBay.png.webp",
+      "votes": 13
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "Bay 89.7",
+      "urls": [
+        "https://stream.v3.network/proxy/897bay/stream.mp3?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://bay.com.mt/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGYmF5LmNvbS5tdCUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjEwJTJGU2l0ZUxvZ28ucG5nJmNhY2hlTWFya2VyPTE2NjIwNDc3MjQtNTA3OCZ0b2tlbj1jZTE2YTcwZTBiOTdkMTYy.q.png",
+      "votes": 174
+    },
+    {
+      "name": "Bay Easy 100.2",
+      "urls": [
+        "https://stream.v3.network/proxy/easy/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://bayeasy.mt/wp-content/uploads/2023/07/BayEasy_BLU-copy.png",
+      "votes": 182
+    },
+    {
+      "name": "Calypso Radio",
+      "urls": [
+        "https://s4.radio.co/sf3aa4c25a/listen"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://img1.wsimg.com/isteam/ip/cb21df74-856b-42e1-a8fe-bc24d4311d14/favicon/d3247829-803d-4f26-8709-620bb7b8109f.png/:/rs=w:120,h:120,m",
+      "votes": 1391
+    },
+    {
+      "name": "Campus 103.7",
+      "urls": [
+        "https://campusfm.radioca.st/campusfm_live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn-profiles.tunein.com/s18846/images/logod.png?t=638303682800000000",
+      "votes": 70
+    },
+    {
+      "name": "Magic",
+      "urls": [
+        "https://s46.myradiostream.com:6076/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://magic.mt/wp-content/uploads/2024/11/cropped-pwa-icon-192x192-2-192x192.png",
+      "votes": 0
+    },
+    {
+      "name": "MALTIN BISS",
+      "urls": [
+        "https://s4.voscast.com:8837/default"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 228
+    }
+  ]
+}

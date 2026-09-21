@@ -1,0 +1,33 @@
+{
+  "code": "GW",
+  "name": "Guinea Bissau",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 214
+    },
+    {
+      "name": "Rádio Voz da Guiné",
+      "urls": [
+        "https://stream-179.surfernetwork.com/iwioelqe6qwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2lvZWxxZTZxd3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRwVjFOamJMUllXaUVqazBKdlFiQ2ciLCJpYXQiOjE3ODk5OTkxMTgsImV4cCI6MTc4OTk5OTE3OH0.1sX7DcZrYcDMq3M_o_XpQKGCsdW5FwCznYro3VL7fFE"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1472
+    }
+  ]
+}

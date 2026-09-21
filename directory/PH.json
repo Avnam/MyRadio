@@ -1,0 +1,4404 @@
+{
+  "code": "PH",
+  "name": "The Philippines",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Radyo Katribu Philippines Teleradyo",
+      "urls": [
+        "https://io.radyoph.com:8020/katribu"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyoph.com/wp-content/uploads/2025/02/radyokatribu-150x150.png",
+      "votes": 45
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "100.7 Love Radio Lucena",
+      "urls": [
+        "https://loveradiolucena.radioca.st/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1195
+    },
+    {
+      "name": "100.7 My FM Bataan",
+      "urls": [
+        "https://stream.zeno.fm/vvsqe5qk7yzuv"
+      ],
+      "tags": [
+        "opm hits"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "http://myfmbataan.weebly.com/uploads/2/2/7/4/22741694/published/my-fm-logo-removebg-preview.png?1656321209",
+      "votes": 165
+    },
+    {
+      "name": "101.1 Yes FM - DWYS",
+      "urls": [
+        "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
+      ],
+      "tags": [
+        "opm",
+        "talk",
+        "top 40",
+        "variety"
+      ],
+      "city": "Manila",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radio-addict.com/media/stream/d1b01ff8-4250-45eb-a1b7-38947a034575_1F249E8D6451DF6744372F3224898AED_200px-YesFMManila2024.png",
+      "votes": 23
+    },
+    {
+      "name": "101.7 Your Love FM",
+      "urls": [
+        "https://radio.1017yourlovefm.com/listen/sanibpwersa/radio.mp3"
+      ],
+      "tags": [],
+      "city": "NCR",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 184
+    },
+    {
+      "name": "102.7 Star FM - DWSM",
+      "urls": [
+        "https://stream-288.surfernetwork.com/g1pmt17nz9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXBtdDE3bno5ZHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMaXZRVVVnMVJBNllJVm1CMzZweXlRIiwiaWF0IjoxNzgxNjc4NzM0LCJleHAiOjE3ODE2Nzg3OTR9.5G1wZmONFqXySurSj1Oj6_UtSmcJMwlc6JJy2oL7fX8"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "talk",
+        "variety"
+      ],
+      "city": "Manila",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzysrJn7BkHtHtTEZ2qN8dhK1p5T1Eg_CUoChVoG7m&s",
+      "votes": 6
+    },
+    {
+      "name": "103.1 LITE FM - DWVA",
+      "urls": [
+        "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnNlblZkQTNUaXE3UkFhXy1OaHJmZyIsImlhdCI6MTc3NTk5MTc0NCwiZXhwIjoxNzc1OTkxODA0fQ.ds0pf7JWT67FfqMWuimjGOjQWirdes3-Wvaxmk4rp8Q"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radio-addict.com/media/stream/43b54b4c-f7f2-4f85-813b-ee8db50e1204_5F931DA62DEB1B4BEB0ACF0DDC4A7A6F_647334857_122163082388742106_8776080832089285863_n.jpg",
+      "votes": 9
+    },
+    {
+      "name": "103.1 MOR Baguio",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01AAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/MOR_103.1_Baguio_logo_2018.png",
+      "votes": 8
+    },
+    {
+      "name": "103.3 DXJL The New J Cagayan de Oro",
+      "urls": [
+        "https://s3.radio.co/s3e33745fb/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "104.1 SMILE RADIO",
+      "urls": [
+        "https://audio.cloudrad.io/9a77084c/live"
+      ],
+      "tags": [
+        "adult",
+        "music",
+        "opm",
+        "pop"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExCXuG6Qyxi6W07silW5UXIuiMvPgj_S7s9hcO1pdOQ&s=10",
+      "votes": 3
+    },
+    {
+      "name": "105.5 RADIO ONE LITE",
+      "urls": [
+        "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk"
+      ],
+      "tags": [
+        "adult",
+        "music",
+        "top 40"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lh3.googleusercontent.com/pw/AP1GczMZYM0NtxjYLMsbYfDU_pfH1RI7MiTswzNSokgdVsmWWXmM2zirKpXZwbuNfQHk4cWRWcrIMFu-o6MZDXpW9hEw7GCKqhzRnwl5s2pGDJxYpP4SPXZqbk5ROel5RV-jT73HYKhE0yMBsH8gjRcJT89A=w720-h720-s-no-gm?authuser=0",
+      "votes": 1
+    },
+    {
+      "name": "105.5 Radyo Gwapito",
+      "urls": [
+        "https://stream-179.zeno.fm/b1vknfz1yedvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMXZrbmZ6MXllZHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJJdGVyTjJMVEZtVUtuRGwwZEF4QmciLCJpYXQiOjE3NzY5MjQwMzMsImV4cCI6MTc3NjkyNDA5M30.m-bkCncFsKE-Wu_Dzhde3nvA5X15xQcWwL5jhu87vH0"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "Naga, Camarines Sur",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HIDgsryKOsAhQvI0wqJYW0uL4beUYqN9lylfn9pRYA&s=10",
+      "votes": 7
+    },
+    {
+      "name": "105.5 SKY RADIO",
+      "urls": [
+        "https://cast.skyradio105.com/proxy/skyradio105/stream"
+      ],
+      "tags": [
+        "adult",
+        "music",
+        "variety"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiobox.live/storage/station-images/52729.webp",
+      "votes": 2
+    },
+    {
+      "name": "105.5 SMOOTH RADIO",
+      "urls": [
+        "https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpeXNxZDN3dWozOHV2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Im1ieUJHT0lOVC1HSXllSFlGbG5KRXciLCJpYXQiOjE3NzgxNjAwMDMsImV4cCI6MTc3ODE2MDA2M30.xYqjN-KICXfpgsxWdN_Ae3gaNqpRsTdELgTkBOVutmg"
+      ],
+      "tags": [
+        "jazz",
+        "latin",
+        "smooth"
+      ],
+      "city": "Angeles City, Pampanga",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/T1lEiB2myeN-6hwklIFmdVNatskxQtKRdueBi5kKPFI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHczYzJzbXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElnT0NjcVFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc3NzI5NzcxODAwMA.webp",
+      "votes": 7
+    },
+    {
+      "name": "105.9 Hot FM - DWLA",
+      "urls": [
+        "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
+      ],
+      "tags": [
+        "music",
+        "opm",
+        "pop",
+        "top 40"
+      ],
+      "city": "Pasay City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZSr18EuzZg-4qdWL7gFGDls16wsZv8IPokNIKDdHf4Q&s=10",
+      "votes": 8
+    },
+    {
+      "name": "105.9 Hot FM Manila",
+      "urls": [
+        "https://a8.asurahosting.com:6820/radio.mp3"
+      ],
+      "tags": [
+        "opm",
+        "top 40",
+        "variety"
+      ],
+      "city": "Pasay City",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVGgB2eWXFxK0Hc8NJvKT5eEC1zZlzchxLFE83MN6QA4w6tzl5rM5ZUk&s=10",
+      "votes": 36
+    },
+    {
+      "name": "105.9 True FM",
+      "urls": [
+        "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.truefm.ph/assets/footerlogo-mobile.webp",
+      "votes": 10
+    },
+    {
+      "name": "105.9 True FM",
+      "urls": [
+        "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 463,
+      "logo": "https://www.truefm.ph/assets/footerlogo-mobile.webp",
+      "votes": 18
+    },
+    {
+      "name": "106.7 LITE FM MEGA MANILA",
+      "urls": [
+        "https://stream.zeno.fm/kc3cct89sxquv"
+      ],
+      "tags": [
+        "easy listening"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://yt3.googleusercontent.com/loBdloDCCozJ879JljLp9doG7MGAsxZNNTqmOtG3zVU9NkxiAIr6QeoB9dzEc-juvmg5gEr4nQ=s900-c-k-c0x00ffffff-no-rj",
+      "votes": 27
+    },
+    {
+      "name": "28.2 GoodVibes Fm",
+      "urls": [
+        "https://stream.zeno.fm/fu24r3f24c9uv"
+      ],
+      "tags": [
+        "alternative country",
+        "redbullet28",
+        "technoypi"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 34
+    },
+    {
+      "name": "4506 Radio",
+      "urls": [
+        "https://a6.asurahosting.com:6540/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://4506radio.com/assets/4506-radio-logo-header.png",
+      "votes": 1
+    },
+    {
+      "name": "87.5 Republ1ka FM1 HD",
+      "urls": [
+        "https://listen.radioking.com/radio/453221/stream/508076"
+      ],
+      "tags": [
+        "hot ac",
+        "pop",
+        "top 40",
+        "youth"
+      ],
+      "city": "Manila",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fm1ph-logo.png",
+      "votes": 99
+    },
+    {
+      "name": "89.1 LOVE FM",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.wixstatic.com/media/45dbef_4d1c55066fa34ce4909f6360b9faab96~mv2.jpg/v1/fill/w_474,h_271,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/45dbef_4d1c55066fa34ce4909f6360b9faab96~mv2.jpg",
+      "votes": 204
+    },
+    {
+      "name": "89.7 Manila Zounds",
+      "urls": [
+        "https://visayas.radyonatinfm.com:8000/stream"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "pop",
+        "top 40"
+      ],
+      "city": "Quezon City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radio-addict.com/media/stream/77c8f624-3613-41a2-90c4-ae947a32a70b_FD556B21E32827B3490C21FE10EDF71A_logo.png",
+      "votes": 2
+    },
+    {
+      "name": "90.7 Birada Fm Claver",
+      "urls": [
+        "https://stream.zeno.fm/srw89vzrmgiuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 62
+    },
+    {
+      "name": "90s Pinoy Alternative",
+      "urls": [
+        "https://cast3.my-control-panel.com/proxy/ronald/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://img1.wsimg.com/isteam/ip/2bffade2-3155-4bd7-8193-8155e093f550/9PA%20Small%20Logo.png/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95",
+      "votes": 2104
+    },
+    {
+      "name": "93.3 Infinite Radio Surigao",
+      "urls": [
+        "https://stream.zeno.fm/yy0d3w86zxhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/dxsj.png",
+      "votes": 9
+    },
+    {
+      "name": "94.5 BIGFM - DAVAO REGION",
+      "urls": [
+        "https://s2.myradiostream.com/9590/listen.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://r2-pub.rork.com/attachments/gmvhmfd80mj39szgjbql7.jpeg",
+      "votes": 1
+    },
+    {
+      "name": "96.3 Easy Rock - DWRK",
+      "urls": [
+        "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Pasay City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radio-addict.com/media/stream/841cd893-133d-43b1-a826-c4c5daca0342_06528F601923FF877F5B6B816AC3C69F_250px-New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg.png",
+      "votes": 9
+    },
+    {
+      "name": "96.9 POWER FM Naga City",
+      "urls": [
+        "https://stream.zeno.fm/n4q1s7r4qzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.zeno.fm/KKGyp1jIgNJxXrSw1EZpJKm9V-lO6RHn5goQcFf3uqA/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRdktURnVBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNReHVHLWtRb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE3MzI3NDMwMDA.webp",
+      "votes": 76
+    },
+    {
+      "name": "97.7 Sweet Radio Santiago",
+      "urls": [
+        "https://stream.zeno.fm/ja3azzofj40tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "98.3 Love Radio Dagupan",
+      "urls": [
+        "https://loveradiodagupan.radioca.st/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.loveradio.com.ph/apple-touch-icon.png",
+      "votes": 2544
+    },
+    {
+      "name": "98.5 RADIO JOHN BINALBAGAN",
+      "urls": [
+        "https://us1.amfmph.com/ssl/radiojohn?mp=/hd&1639728501890"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/published/rjlogo2024.png?1728216327",
+      "votes": 23
+    },
+    {
+      "name": "98.5 Radyo Kaibigan Valencia City",
+      "urls": [
+        "https://us2.amfmph.com/ssl/vegiemaxplus?mp=/high&1681395562481"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "99.5 Campus FM",
+      "urls": [
+        "https://streaming.live365.com/a06369"
+      ],
+      "tags": [
+        "opm",
+        "pop",
+        "top 40"
+      ],
+      "city": "Mandaluyong City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeD_MW0RtGBoy96CyJHBjsWfsbT5zstSqwiOKJuU73Nw&s=10",
+      "votes": 2
+    },
+    {
+      "name": "Abante Radyo",
+      "urls": [
+        "https://stream.radio.co/s97e866418/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.abante.com.ph/wp-content/uploads/2022/09/abante-logo.webp",
+      "votes": 12
+    },
+    {
+      "name": "ABN 96.5 FM Laoag",
+      "urls": [
+        "https://stream.zeno.fm/vkm1e1y2f3quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1772206011_ABN.png",
+      "votes": 5
+    },
+    {
+      "name": "ABSFM Maramag",
+      "urls": [
+        "https://dj.radyoph.com:8010/absfm_maramag"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1770608594_ABSFM_MARAMAG_CRP.png",
+      "votes": 4
+    },
+    {
+      "name": "Adventist Radio South Philippines",
+      "urls": [
+        "https://stream3.awr.live/listen/adventist_radio_southph/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://spucadventist.org/sites/default/files/favicon_0.ico",
+      "votes": 9
+    },
+    {
+      "name": "Agusan Del Sur Media Club",
+      "urls": [
+        "https://io.amfm.link:8030/amcradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyoph.com/logo.ico",
+      "votes": 3
+    },
+    {
+      "name": "Aksyon Radyo Cebu",
+      "urls": [
+        "https://a9.asurahosting.com:8260/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/27/DYRC_logo_2021.jpg",
+      "votes": 65
+    },
+    {
+      "name": "Aljem Magdula",
+      "urls": [
+        "https://stream.zeno.fm/81sjev0tizduv"
+      ],
+      "tags": [],
+      "city": "Bukidnon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://scontent.fcgy3-1.fna.fbcdn.net/v/t39.30808-6/315209736_5360109684115602_2516008308741115133_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=25d718&_nc_eui2=AeE7fQe1JrYirkjIWk7siFy5c2CybP7-T7BzYLJs_v5PsCNaZ9cSB7ORArBnALewnI-r6cLv8ai--zr5R4vlLKe8&_nc_ohc=M7tmb5fcIzoQ7kNvwF9c4FV&_nc_oc=Adq83TpfYp5ybn11Yo_7yZ4nP7Hh2aJco7IxKELo6G5YZCHnl4DtSArzyYRv4lt8Np8&_nc_zt=23&_nc_ht=scontent.fcgy3-1.fna&_nc_gid=zACDof0-QMMhpijg4yPVXA&_nc_ss=7a3a8&oh=00_Af2cokRiSxCu7qRvyynGJdnB-zSdPwTvxQ0UYId7qS73kw&oe=69DE212B",
+      "votes": 1
+    },
+    {
+      "name": "AllHitz24",
+      "urls": [
+        "https://stream.allhitz24.com/64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static.wixstatic.com/media/949cb8_095eb78a77494ac0a5f6feee9c460065~mv2.png/v1/crop/x_61,y_73,w_517,h_230/fill/w_460,h_204,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/949cb8_095eb78a77494ac0a5f6feee9c460065~mv2.png",
+      "votes": 12
+    },
+    {
+      "name": "AMFMPH Streams Demo (128K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp128&1689430094075"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 66
+    },
+    {
+      "name": "AMFMPH Streams Demo (24K AAC)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/ac24&1689430915322"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 24,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 87
+    },
+    {
+      "name": "AMFMPH Streams Demo (24K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp24&1689430243457"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 24,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "AMFMPH Streams Demo (32K AAC)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/ac32&1689431062684"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 41
+    },
+    {
+      "name": "AMFMPH Streams Demo (32K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp32&1689430369832"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 37
+    },
+    {
+      "name": "AMFMPH Streams Demo (48K AAC)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 34
+    },
+    {
+      "name": "AMFMPH Streams Demo (48K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp48&1689430463064"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 48,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 20
+    },
+    {
+      "name": "AMFMPH Streams Demo (64K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp64&1689430557825"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 52
+    },
+    {
+      "name": "AMFMPH Streams Demo (96K MP3)",
+      "urls": [
+        "https://us1.amfmph.com/proxy/iceshout?mp=/mp96&1689430709317"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw",
+      "votes": 29
+    },
+    {
+      "name": "Anchor Radio Urdaneta",
+      "urls": [
+        "https://icecast.theanchor.app/cbc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://cdn.theanchor.app/60b1b311-e39f-4d72-8499-81fed8e49f72/files/stationLogo.png",
+      "votes": 25
+    },
+    {
+      "name": "Ang Totoong Buhay sa Diyos",
+      "urls": [
+        "https://stream.tligradio.org/listen/filipino/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/tligradio.org/wp-content/uploads/2017/11/cropped-cropped-Jesus-Christ.jpg?fit=192%2C192&ssl=1",
+      "votes": 3
+    },
+    {
+      "name": "AWR Zamboanga Peninsula",
+      "urls": [
+        "https://awrzpm.radio.fm:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 33
+    },
+    {
+      "name": "B 107.9 FM Tacloban",
+      "urls": [
+        "https://streamnavs.net:8147/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/131f1761-6069-4237-9d3b-8b69f53b8da9/B1079-LOGO-OBLONG-TRANSPARENT-1-.png",
+      "votes": 33
+    },
+    {
+      "name": "Basco Radio 93.3 Studio 2",
+      "urls": [
+        "https://stream-176.zeno.fm/a3th9bd1fs8uv?zs=e8ersugnTZy8yQsXXp2s2A"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "worship"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240318_153841964.jpg?alt=media&token=b527f479-68eb-4821-ae64-dac7330be8b7",
+      "votes": 22
+    },
+    {
+      "name": "Beat FM",
+      "urls": [
+        "https://securestreams2.autopo.st:1242/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/e24436_f8436f1c346c49108f6a74fb0a96412e~mv2.png/v1/fill/w_173,h_173,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e24436_f8436f1c346c49108f6a74fb0a96412e~mv2.png",
+      "votes": 63
+    },
+    {
+      "name": "Bee 927 Bohol",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/victorjr/bee927fmbohol"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://bee927fmbohol.com/wp-content/uploads/2026/01/BeeLogoTrembleTrans.gif",
+      "votes": 6
+    },
+    {
+      "name": "Bespren Radio",
+      "urls": [
+        "https://streamnavs.net:8089/live"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://www.besprenradio.com/wp-content/uploads/2021/02/bespren-header-image.png",
+      "votes": 387
+    },
+    {
+      "name": "BIBLE RADIO",
+      "urls": [
+        "https://stream.radio.co/se9de95c10/listen"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 435
+    },
+    {
+      "name": "Bilyonaryo News Channel",
+      "urls": [
+        "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 5129,
+      "logo": "https://bnc.bilyonaryo.com/wp-content/uploads/2024/06/cropped-BNC-LOGO-BLACK-768x220.png",
+      "votes": 24
+    },
+    {
+      "name": "Bionic Online Radio",
+      "urls": [
+        "https://io.radyoph.com:8000/bionic"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bioniconlineradio.com/wp-content/uploads/2026/01/bionic_logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Bliss Radio",
+      "urls": [
+        "https://stream.blissradio.net/radio/8000//radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "BMC Radio",
+      "urls": [
+        "https://m2gph.online/listen/bmc_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Metro Manila",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Bombo Radyo Bacolod",
+      "urls": [
+        "https://stream.zenolive.com/g2ak4fu78heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bomboradyo.com/wp-images/default-banner-bacolod.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Bombo Radyo GenSan",
+      "urls": [
+        "https://stream.zenolive.com/ke2denfnz9duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bomboradyo.com/wp-images/gensan-default-banner.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Bombo Radyo Iloilo",
+      "urls": [
+        "https://stream.zenolive.com/gzudz59nz9duv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.bomboradyo.com/favicon.ico",
+      "votes": 3052
+    },
+    {
+      "name": "Bombo Radyo Kalibo",
+      "urls": [
+        "https://stream.zeno.fm/s10z665mz9duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://bomboradyo.com/wp-images/Bombo-Radyo-Default-Banner.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Bombo Radyo La Union",
+      "urls": [
+        "https://stream.zenolive.com/n6wgdtu78heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.bomboradyo.com/wp-images/la-union-default-banner.jpg",
+      "votes": 62
+    },
+    {
+      "name": "Bombo Radyo Laoag",
+      "urls": [
+        "https://stream.zenolive.com/gzvmgtp78heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://img.bomboradyo.com/newscenter/2024/02/android-chrome-192x192-1.png",
+      "votes": 218
+    },
+    {
+      "name": "Bombo Radyo Malaybalay",
+      "urls": [
+        "https://stream.zeno.fm/1etogiwypoztv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://news.bomboradyo.com/wp-content/uploads/2024/08/cropped-site-icon-180x180.png",
+      "votes": 59
+    },
+    {
+      "name": "Bombo Radyo Tacloban",
+      "urls": [
+        "https://stream.zeno.fm/e8zw1dg0xy5tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://img.bomboradyo.com/newscenter/2024/01/Bombo-Radyo-Default-Banner.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Bound FM",
+      "urls": [
+        "https://ca.azura.linkodev.ch/listen/bound_fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://user-content.cloud.caster.fm/file/casterfm-cloud-usercontent/64046/logo.png?v=1785535336",
+      "votes": 0
+    },
+    {
+      "name": "Brigada News FM Bacolod",
+      "urls": [
+        "https://bacolodstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 8
+    },
+    {
+      "name": "Brigada News FM Batangas",
+      "urls": [
+        "https://batangasstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 3
+    },
+    {
+      "name": "Brigada News FM Bogo",
+      "urls": [
+        "https://bogostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Butuan",
+      "urls": [
+        "https://butuanstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 26
+    },
+    {
+      "name": "Brigada News FM Cagayan de Oro",
+      "urls": [
+        "https://cagayanstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 8
+    },
+    {
+      "name": "Brigada News FM Cebu",
+      "urls": [
+        "https://cebustream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 14
+    },
+    {
+      "name": "Brigada News FM Davao",
+      "urls": [
+        "https://davaostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 6
+    },
+    {
+      "name": "Brigada News FM Dipolog",
+      "urls": [
+        "https://dipologstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Dumaguete",
+      "urls": [
+        "https://dumaguetestream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 2
+    },
+    {
+      "name": "Brigada News FM Iligan",
+      "urls": [
+        "https://iliganstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png?resize=150%2C150&ssl=1",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Kalibo",
+      "urls": [
+        "https://kalibostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 2
+    },
+    {
+      "name": "Brigada News FM Koronadal",
+      "urls": [
+        "https://koronadalstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 6
+    },
+    {
+      "name": "Brigada News FM Legazpi",
+      "urls": [
+        "https://legaspistream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Lucena",
+      "urls": [
+        "https://lucenastream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Manila",
+      "urls": [
+        "https://makatistream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 29
+    },
+    {
+      "name": "Brigada News FM Naga",
+      "urls": [
+        "https://nagastream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 5
+    },
+    {
+      "name": "Brigada News FM Olongapo",
+      "urls": [
+        "https://olongapostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Oroquieta",
+      "urls": [
+        "https://oroquietastream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Pagadian",
+      "urls": [
+        "https://pagadianstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 2
+    },
+    {
+      "name": "Brigada News FM Palawan",
+      "urls": [
+        "https://puertopalawanstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 4
+    },
+    {
+      "name": "Brigada News FM Roxas",
+      "urls": [
+        "https://roxascapizstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Siargao",
+      "urls": [
+        "https://siargaostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 2
+    },
+    {
+      "name": "Brigada News FM Sorsogon",
+      "urls": [
+        "https://sorsogonstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 2
+    },
+    {
+      "name": "Brigada News FM Tagum",
+      "urls": [
+        "https://tagumstream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Toledo",
+      "urls": [
+        "https://toledostream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 1
+    },
+    {
+      "name": "Brigada News FM Valencia",
+      "urls": [
+        "https://valenciastream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 0
+    },
+    {
+      "name": "Brigada News FM Zamboanga",
+      "urls": [
+        "https://zamboangastream.brigadanews.ph/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png",
+      "votes": 4
+    },
+    {
+      "name": "Budots FM 98.9",
+      "urls": [
+        "https://stream-171.zeno.fm/2uhuu5hvzqzuv?zs=oGfN_quRRSyJUGCfzxagdw"
+      ],
+      "tags": [
+        "budots",
+        "remix"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240318_162919520.jpg?alt=media&token=362a8ada-7d51-4550-b664-d30640b4878e",
+      "votes": 1808
+    },
+    {
+      "name": "Budots FM 98.9",
+      "urls": [
+        "https://stream.zeno.fm/2uhuu5hvzqzuv"
+      ],
+      "tags": [
+        "budots",
+        "remix"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240318_162102575.jpg?alt=media&token=f64af4fa-3ad3-4126-970e-195baea46b32",
+      "votes": 536
+    },
+    {
+      "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
+      "urls": [
+        "https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672"
+      ],
+      "tags": [
+        "christmas music",
+        "internet radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://3.bp.blogspot.com/-XIKo9uslHNI/UjxFM6XsReI/AAAAAAAAAO0/OdA6V6Oxy0c/s200/christmas-radio.jpg",
+      "votes": 3626
+    },
+    {
+      "name": "Cloudstaff Radio",
+      "urls": [
+        "https://cs-streamradio.cloudstaff.com:8020/cloudoverdrive.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.cloudstaff.com/img/cs-radio-logo.png",
+      "votes": 22
+    },
+    {
+      "name": "Clubmix",
+      "urls": [
+        "https://stream.zeno.fm/vztn8ux96zhvv"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "disco",
+        "electronic",
+        "party"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FI85PfNTxKBkqwBN-IxdnbMFEAJj0H5MgqH1xvCBgkPw%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3bHVPRnNBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJeWNINTFRc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NzI1MDQxMDkwMDA.webp&w=1080&q=100",
+      "votes": 820
+    },
+    {
+      "name": "D' Ultimate 105.5 FM",
+      "urls": [
+        "https://edge.mixlr.com/channel/gtqpn"
+      ],
+      "tags": [
+        "hot ac",
+        "opm",
+        "top 40"
+      ],
+      "city": "Angeles City, Pampanga",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Dwdu.png/revision/latest?cb=20250315052113",
+      "votes": 4
+    },
+    {
+      "name": "Dear FM Kabacan",
+      "urls": [
+        "https://rx.amfm.link:8000/dearfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1787883455_dearfm.png",
+      "votes": 0
+    },
+    {
+      "name": "DepEd Radio Learning English 89.1 FM - HD3",
+      "urls": [
+        "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8"
+      ],
+      "tags": [
+        "distance learning",
+        "educational"
+      ],
+      "city": "Manila",
+      "codec": "AAC",
+      "bitrate": 140,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png",
+      "votes": 429
+    },
+    {
+      "name": "DWBL 91.9 Bright FM",
+      "urls": [
+        "https://stream.zeno.fm/wx5hopniqfvtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.brightfm.ph/apple-touch-icon.png",
+      "votes": 7
+    },
+    {
+      "name": "DWDM Eagle FM 95.5",
+      "urls": [
+        "https://stream.radiojar.com/yus0r2bghd3vv"
+      ],
+      "tags": [
+        "classics",
+        "easy listening",
+        "jazz",
+        "love",
+        "pop",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "DWEE Islands FM 107.1 Pampanga",
+      "urls": [
+        "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8?aws.manifestfilter=video_height:0-0"
+      ],
+      "tags": [
+        "college radio",
+        "pop",
+        "top 40"
+      ],
+      "city": "Magalang, Pampanga",
+      "codec": "AAC",
+      "bitrate": 211,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9Vr4vwnmRVqrDCZZi5F6NoNUL-wpXFpcTwf-ZAPeAte1Q4B1xUpUFaqC&s=10",
+      "votes": 11
+    },
+    {
+      "name": "DWHQ 98.1 FM",
+      "urls": [
+        "https://stream.zeno.fm/bcxtfmdce19uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_224x224/https://images.zeno.fm/lshAP7swCfKKOccwcuAK0sECigodObgz1VUS33-FkOc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWNmYjYzMDMtYzNlOS00YmExLTlhMjUtYzMwOTM1ZjM0ZmRlL2ltYWdlLz91PTE3MTQzNzAxNjUwMDA.webp",
+      "votes": 10
+    },
+    {
+      "name": "DWJE 88.1 FM Radyo Pangasinan",
+      "urls": [
+        "https://tiny-sun-4316.radyopangasinan88-1fm.workers.dev/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radyopangasinan.xo.je/placeholder/april%2011-2026/caramat.jpg",
+      "votes": 5
+    },
+    {
+      "name": "DWJW 96.7 FM Power FM",
+      "urls": [
+        "https://stream.zenolive.com/n4q1s7r4qzzuv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 33
+    },
+    {
+      "name": "DWYG LiPS 106 FM",
+      "urls": [
+        "https://stream.zeno.fm/28dkf5qum7zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/rtqfcnbzbetm.png",
+      "votes": 6
+    },
+    {
+      "name": "DXBH Hope Radio 103.7Mhz",
+      "urls": [
+        "https://stream.dxbh.net/main_mp3"
+      ],
+      "tags": [
+        "gospel"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://dxbh.net/awr-logo.png",
+      "votes": 15
+    },
+    {
+      "name": "DXGP 89.7 Agusan Radio",
+      "urls": [
+        "https://ph.amfm.link:8020/dxgp"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1772169743_dxgpagusan.png",
+      "votes": 12
+    },
+    {
+      "name": "DXGT RADYO ABANTE",
+      "urls": [
+        "https://stream.zeno.fm/z80zubtvrf9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1770859251_RadyoAbanteMaramag.png",
+      "votes": 12
+    },
+    {
+      "name": "DXKI Strong Radio Cagayan de Oro",
+      "urls": [
+        "https://stream.zeno.fm/femnnphrtcltv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://strongradio.net/wp-content/uploads/2022/06/strongradio-logo-150-x-150-pixel-150x150.png",
+      "votes": 200
+    },
+    {
+      "name": "DYHP 612 RMN Cebu",
+      "urls": [
+        "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cb/DYHP_612.png",
+      "votes": 5051
+    },
+    {
+      "name": "Dzas 702",
+      "urls": [
+        "https://stream.radio.co/s14821250a/listen"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://philippines.mom-gmr.org/uploads/tx_lfrogmom/media/1405-2446_import.png",
+      "votes": 17
+    },
+    {
+      "name": "DZBR Bible Radio",
+      "urls": [
+        "https://stream.radio.co/se9de95c10/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://bible.radio/wp-content/uploads/2021/03/BRIcon512Plain.png",
+      "votes": 3
+    },
+    {
+      "name": "DZDG 96.7 DESTINY RADIO",
+      "urls": [
+        "https://stream.zeno.fm/zz4urrfhjzovv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dzdg967fm.com/wp-content/uploads/2023/07/cropped-logo-192x192.png",
+      "votes": 116
+    },
+    {
+      "name": "DZRH",
+      "urls": [
+        "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dzrh.com.ph/opengraph-image.png?56ff2bbe65b6c224",
+      "votes": 393
+    },
+    {
+      "name": "Eagle FM 95.5",
+      "urls": [
+        "https://n0d.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlJu7jsUAmyVUk6qFVdTweA"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 39
+    },
+    {
+      "name": "Eagle FM 95.5",
+      "urls": [
+        "https://n06.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABkvtiUekApAzmoP0lG-3HVQ"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 297
+    },
+    {
+      "name": "Emotions",
+      "urls": [
+        "https://stream.zeno.fm/03v7z8edgphvv.mp3"
+      ],
+      "tags": [
+        "classics",
+        "love songs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/114755.v5.png",
+      "votes": 280
+    },
+    {
+      "name": "Energy FM Balamban Cebu",
+      "urls": [
+        "https://dj.amfm.link:8010/dyhc64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1787215873_EnergyFMbalamban.png",
+      "votes": 2
+    },
+    {
+      "name": "Energy FM Naga",
+      "urls": [
+        "https://stream.zeno.fm/klewk28qlqquv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FswfQNauTgVdaWIzKupBAxj6sgJLyuFnlK1AS3nU8EbE%2Frs%3Afit%3A268%3A268%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzIyOWNmMzZmLWQyZTItNGRkZS1iYTEzLWQ1MGFjMjhjNjYzMC9pbWFnZS8_dXBkYXRlZD0xNzE4ODA2NTA2MDAw.webp&w=640&q=75",
+      "votes": 362
+    },
+    {
+      "name": "EWTN Philippines",
+      "urls": [
+        "https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8"
+      ],
+      "tags": [
+        "catholic radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://ewtnasiapacific.com/wp-content/uploads/2022/04/cropped-ewtn-badge-2.jpg",
+      "votes": 207
+    },
+    {
+      "name": "EWTN Philippines",
+      "urls": [
+        "https://ewtn-ice.streamguys1.com/philippines-aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "https://ewtnasiapacific.com/wp-content/uploads/2022/04/cropped-ewtn-badge-2.jpg",
+      "votes": 64
+    },
+    {
+      "name": "Exotica Radio",
+      "urls": [
+        "https://www.exotica.radio/stream/radio-browser"
+      ],
+      "tags": [
+        "disco",
+        "funk",
+        "house",
+        "lounge",
+        "world"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.exotica.radio/assets/cover-fallback.png",
+      "votes": 0
+    },
+    {
+      "name": "Extreme Online Radio",
+      "urls": [
+        "https://stream.zeno.fm/s7vpxyv9gv8uv?t=1779627154371"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/_/https://images.zeno.fm/HBBVcHQn9LERyNDHg3BckitvuRB7ciO7anf2uh0r-fc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwUHU5MFFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d5ckNLMkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcxMDcwOTU2ODAwMA.webp",
+      "votes": 1
+    },
+    {
+      "name": "Extreme radio",
+      "urls": [
+        "https://razzrdfx.com/listen/extreme_radio/radio.mp3?1724304820301"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://extremeonlinefm.com/wp-content/uploads/2024/04/cropped-d7abe07a-54d7-4790-842a-439101070354-transformed.png",
+      "votes": 21
+    },
+    {
+      "name": "Favorite All Hit Radio Tagum",
+      "urls": [
+        "https://cd.radyoph.com:8010/fahr_tagum"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1782434708_favorite_allhitradio.png",
+      "votes": 4
+    },
+    {
+      "name": "Feels Radio",
+      "urls": [
+        "https://stream.zeno.fm/8yak4n5qf48uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/4fzyrJApDu.jpg",
+      "votes": 6
+    },
+    {
+      "name": "FIA Radio",
+      "urls": [
+        "https://www.fiaradio.org:8000/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://cdn.instant.audio/images/logos/radio-org-ph/fia.png",
+      "votes": 0
+    },
+    {
+      "name": "Filipino Music Central",
+      "urls": [
+        "https://stream.zeno.fm/yqkru9yv3yzuv"
+      ],
+      "tags": [
+        "added by redbullet28"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240421_064020824.jpg?alt=media&token=1bc711a7-80f7-4873-85ba-e4f3d5653c57",
+      "votes": 50
+    },
+    {
+      "name": "FM Radio Butuan",
+      "urls": [
+        "https://stream.zeno.fm/rdnfm6z4ks7uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pcmc.com.ph/wp-content/uploads/2024/09/FM-Radio.png",
+      "votes": 1
+    },
+    {
+      "name": "FMR 98.3 Camiguin",
+      "urls": [
+        "https://de3.amfmph.com/ssl/fmrcamiguin?mp=/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.amfmph.com/wp-content/uploads/reinard/fmr-amfmph-2.png",
+      "votes": 241
+    },
+    {
+      "name": "FReSH FM",
+      "urls": [
+        "https://s36.radiolize.com/radio/8170/radio.mp3"
+      ],
+      "tags": [
+        "internet radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 196
+    },
+    {
+      "name": "Galactic Hearts Radio",
+      "urls": [
+        "https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/jttcgalactichearts"
+      ],
+      "tags": [
+        "christian-gospel",
+        "commercial free",
+        "kids",
+        "news talk music",
+        "pop",
+        "variety",
+        "various"
+      ],
+      "city": "Davao City",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0Rv1JEEYfLlYp3ZcwXRi1phc08rdF9VFeKDd1F0alCmXxnaoa8C7ZwIJ&s=10",
+      "votes": 3
+    },
+    {
+      "name": "Galactic Hearts Radio",
+      "urls": [
+        "https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://lh3.googleusercontent.com/sitesv/APaQ0SRpySEgAH3fyv72Yjg5OLn7XLErsHn81Vu1wLl_zytym2rU2fofSSAzN6RogJQizODQXXKNi69Mz-P-et27OtOboH8j8cISodAR7P7NJm3VAW4Ej3LkxcHx3JtnzVZslfRDGOAjNXTOSDpC5jcRis-fiSUU35tWJtpCi2hlUAQY50dcneEDWzmJt3M=w16383",
+      "votes": 2
+    },
+    {
+      "name": "Gensan music to enjoy",
+      "urls": [
+        "https://laut.fm/gensan-city_music_to_enjoy"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 13
+    },
+    {
+      "name": "GV 99.1",
+      "urls": [
+        "https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184"
+      ],
+      "tags": [
+        "hot adult contemporary"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.wixstatic.com/media/ba4b18_88d8b6d09d3848c8a82e7c6ab7af8a56~mv2.jpg/v1/fill/w_244,h_96,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/60800862_1293738654123485_332513172600651776_n%20(2)_edited.jpg",
+      "votes": 387
+    },
+    {
+      "name": "GV 99.9 FM",
+      "urls": [
+        "https://gvstream.tail160f79.ts.net/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://gv99-9.live/GV999.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Happy Radio Davao Region",
+      "urls": [
+        "https://tx.amfm.link:8000/happyradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1787457375_happyradio.png",
+      "votes": 0
+    },
+    {
+      "name": "Heart FM 92.7Mhz CDO City",
+      "urls": [
+        "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTPgX_d8rpnBnNtLhS501py9XNDGlVHHSvqemOqT4lFuf33lL2jcJiAIbjFJ7qQBttnJ-FAnyR8vf5fqkANyZCwc7xjlIg5ZxEsRh7esPMmqk6Wj6qQjWKg7BnbFWN6hlCuifewvKrDBSt2pyozFtbkQibzi1dvL5sB2L4EN-caYgw2u3QCRvhb28h/s512/cagayan.png",
+      "votes": 551
+    },
+    {
+      "name": "Hope FM Kenya",
+      "urls": [
+        "https://a5.asurahosting.com:7530/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 215
+    },
+    {
+      "name": "Hot Hiphop N RnB",
+      "urls": [
+        "https://stream.zeno.fm/snqnkbnm208uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play.google.com/favicon.ico",
+      "votes": 409
+    },
+    {
+      "name": "IDMZ SAYAW PINOY!",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/idmzsayawpinoy/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.89dmz.com/img/idmz-favicon.ico",
+      "votes": 176
+    },
+    {
+      "name": "Ignite Radio",
+      "urls": [
+        "https://edge.mixlr.com/channel/jkbwc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://mixlr-assets.s3.amazonaws.com/users/bc0fccb624eddccd3a489ed900440d20/thumb.jpg?1634678509",
+      "votes": 2
+    },
+    {
+      "name": "iMix Radio",
+      "urls": [
+        "https://stream.zeno.fm/sbmi7cx5z8buv"
+      ],
+      "tags": [
+        "dance",
+        "disco",
+        "edm",
+        "party",
+        "powerbeats",
+        "remix"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FMU0aBy8KKuZnbUuKncqrOoOX2-YWodaubyqbIZa1qfI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2NiNGY2ZTk1LTQyNGEtNDU0NS1hZGVlLWEzYTJlNzVjMTI0Mi9pbWFnZS8_dXBkYXRlZD0xNjc1MTM5NDI0MDAw.webp&w=1080&q=100",
+      "votes": 354
+    },
+    {
+      "name": "Jeepney Pinoy Radio",
+      "urls": [
+        "https://usa5.fastcast4u.com/proxy/mcbnjpr?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 116
+    },
+    {
+      "name": "JESUS IS LORD",
+      "urls": [
+        "https://stream.zeno.fm/ygy55015e4duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://imagedelivery.net/HHwzmHgltKa2rO5RHhbhqQ/8be2d580-6382-4d52-97af-91c8056c0e00/public",
+      "votes": 56
+    },
+    {
+      "name": "Jungle Radio",
+      "urls": [
+        "https://dj.radyoph.com:8020/jungleradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/06/jungleradio.png",
+      "votes": 18
+    },
+    {
+      "name": "Kaibigan Radio",
+      "urls": [
+        "https://stream.rcast.net/66925"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Kakampi Partido 99.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/ctyttfz5p06tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://km993.radiostream123.com/users.img/2742817/1664329940/icon_thumb_80_1664329940.jpg",
+      "votes": 78
+    },
+    {
+      "name": "Kasangga At Kalusugan",
+      "urls": [
+        "https://cd.amfm.link:8030/kasangga"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1784900510_Kasangga_at_Kalusugan.png",
+      "votes": 1
+    },
+    {
+      "name": "King Radio Tabuk City",
+      "urls": [
+        "https://stream.zeno.fm/hqmmdrw2b48uv?aw_0_req_lsid=213084d0938e3fc5344aa1adb0f8fb3a&triton-uid=cookie%3A7cebc1db-d1a7-403b-87ca-ccba0eb42e6b"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 44
+    },
+    {
+      "name": "KJM 94.3 FM",
+      "urls": [
+        "https://stream.amfm.link:8010/kjm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://m.facebook.com/favicon.ico",
+      "votes": 22
+    },
+    {
+      "name": "KKBN INTERNET HEALTH RADIO",
+      "urls": [
+        "https://stream.zeno.fm/8qt5kzmh144vv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "http://kkbn.weebly.com/uploads/2/7/3/9/27390269/published/10922329-423658654453269-2621332701201372493-o_1.png?1549721087",
+      "votes": 37
+    },
+    {
+      "name": "KUYA HENRY PANCHO ILIGAN",
+      "urls": [
+        "https://stream.zeno.fm/t9opranhul1uv"
+      ],
+      "tags": [],
+      "city": "Bukidnon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://scontent.fcgy3-1.fna.fbcdn.net/v/t39.30808-6/651274322_122167917452832573_2514245086509664878_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeEgouFvzTdiAkXMAsJIg4XpagwwTCUIYRdqDDBMJQhhFxoaFpqSooucTPA3Y--4FgLW_YRDJqVqyR3ysgzIKUbE&_nc_ohc=VQJVxCktoooQ7kNvwF904Ni&_nc_oc=AdpEFv_YYhhOCQnGVC4y_U-IP95u_GuxFVTTvSqBcDeJAksMHQOsNtTXH_EkChUpamQ&_nc_zt=23&_nc_ht=scontent.fcgy3-1.fna&_nc_gid=fJBOSFpenLmmn9yscXMTpQ&_nc_ss=7a3a8&oh=00_Af1JIrT1vTjAPWJEjEhgHjuIz5HoMXh-ZJV-GYJBHmPtqw&oe=69DE5473",
+      "votes": 2
+    },
+    {
+      "name": "Like Radio 104.7 Bais City",
+      "urls": [
+        "https://s3.free-shoutcast.com/stream/18054"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/712/like-radio-1047-bais-city.9bf33809.png",
+      "votes": 10
+    },
+    {
+      "name": "Lite FM Lanao del Norte DXVL 107.7",
+      "urls": [
+        "https://stream.zeno.fm/8c27zbgcmzzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://3.bp.blogspot.com/_yY_Enb_xs0k/TGU9cjn1BJI/AAAAAAAAAEs/84oKbku7Ad4/s200/107.7_litefm_logo.gif",
+      "votes": 46
+    },
+    {
+      "name": "Love Radio Santiago (M3U)",
+      "urls": [
+        "https://lovesantiago.radioca.st/stream.m3u"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.loveradio.com.ph/apple-touch-icon.png",
+      "votes": 114
+    },
+    {
+      "name": "Magic 89.9 - DWTM",
+      "urls": [
+        "https://stream.zeno.fm/hcbrvvfd938uv"
+      ],
+      "tags": [
+        "contemporary hits",
+        "music",
+        "pop",
+        "top 40"
+      ],
+      "city": "Mandaluyong City",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radio-addict.com/media/stream/e8d3bea6-8f3f-40d0-b947-8f7bcdb7ebe0_3ECD1BD2F4C1A215C4B07226A3D936D9_magic.webp",
+      "votes": 8
+    },
+    {
+      "name": "Magic 89.9 (aac)",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LIN_MAGIC899AAC_SC"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 292
+    },
+    {
+      "name": "Manila Wave Radio 2",
+      "urls": [
+        "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/779/manila-wave-radio.bcdfccf4.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Mapúa Radio Cardinal",
+      "urls": [
+        "https://edge.mixlr.com/channel/nhtli"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://static.wixstatic.com/media/686763_1e471a681c7f4d5987f9c7101f39b014~mv2.png/v1/fill/w_70,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PRIMARY%20LOGO.png",
+      "votes": 14
+    },
+    {
+      "name": "Marino News FM Zamboanga",
+      "urls": [
+        "https://stream.zeno.fm/4xq4cb6x6k0uv"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 70
+    },
+    {
+      "name": "MBS Radio",
+      "urls": [
+        "https://stream-171.zeno.fm/67srwcmawgqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2N3Nyd2NtYXdncXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9JOGhDX0VfU0c2SXNBcDZmM1JzNnciLCJpYXQiOjE3MTU5NTQ1NzUsImV4cCI6MTcxNTk1NDYzNX0.VriCaRn4HyN7yDVnwXeryLgfMKkV4y_aJzugoJJ9Yeg"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 29
+    },
+    {
+      "name": "MCBN Radio",
+      "urls": [
+        "https://usa5.fastcast4u.com/proxy/mcbnradio?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mcbnradio.com/wp-content/uploads/2022/02/MCBN-Radio-Logo-LG.png",
+      "votes": 0
+    },
+    {
+      "name": "Mellow 94.7 BFM",
+      "urls": [
+        "https://streamer.radio.co/sec36cd5f1/listen"
+      ],
+      "tags": [
+        "adult contemporary",
+        "soft adult contemporary"
+      ],
+      "city": "Metro Manila",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://mellow947.com/wp-content/uploads/2025/03/mellow_2026_ico.png",
+      "votes": 133
+    },
+    {
+      "name": "MOR 101.9 FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/MOR_101.9_Logo_2018.svg/440px-MOR_101.9_Logo_2018.svg.png",
+      "votes": 1418
+    },
+    {
+      "name": "MOR Entertainment",
+      "urls": [
+        "https://stream-37.zeno.fm/26ea0anpms8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "MORe - Visayas",
+      "urls": [
+        "https://stream-152.zeno.fm/dphe9050afhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkcGhlOTA1MGFmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJUWWpCbjdaUllXNFU4NUd0bUQ1dmciLCJpYXQiOjE3NzQ1OTc2MzksImV4cCI6MTc3NDU5NzY5OX0.KD6hwzK2nrHDXy4Z0gRjPrO7MBUih5O7vgSla7WdQgE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1695753244_MOR2.png",
+      "votes": 5
+    },
+    {
+      "name": "MRGV FM",
+      "urls": [
+        "https://stream.zeno.fm/rm90k478s18uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1780186003_MRGV.png",
+      "votes": 0
+    },
+    {
+      "name": "MY FM 100.7 Bataan",
+      "urls": [
+        "https://stream.zeno.fm/ra87k5qk7yzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "https://apk.radyoph.com/upload/1716077993_myfmbataan.png",
+      "votes": 1
+    },
+    {
+      "name": "Myx",
+      "urls": [
+        "https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 1872,
+      "logo": "https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png",
+      "votes": 30
+    },
+    {
+      "name": "NewsRadio Buletin Southern Luzon",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/nixifof473?mp=/citrasluzon&amp;type=.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1772956626_NewsRadioBuletinSouthernLuzon.png",
+      "votes": 0
+    },
+    {
+      "name": "NovieG Retro Radio OPM",
+      "urls": [
+        "https://stream.zeno.fm/r14c219day8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 76
+    },
+    {
+      "name": "O-Rayt! Radio 97.5 FM",
+      "urls": [
+        "https://stream.zeno.fm/s20ub6e1zf9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/603/o-rayt-radio-975-fm.150b733a.png",
+      "votes": 5
+    },
+    {
+      "name": "OFW Radio",
+      "urls": [
+        "https://s74.radiolize.com:8020/radio.mp3?t=1780673757445"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://ofwradio.com/assets/images/favicon.png",
+      "votes": 1
+    },
+    {
+      "name": "OK FM 97.5 Olongapo",
+      "urls": [
+        "https://servidor22-5.brlogic.com:7014/live?source=website"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://public-rf-upload.minhawebradio.net/250236/logo/ed2c7aa831964fff33d3c5c4f868dfff.png",
+      "votes": 12
+    },
+    {
+      "name": "OK-FM Legazpi",
+      "urls": [
+        "https://s2.netradiostation.com/proxy/dwgb?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 102,
+      "logo": "https://www.pbnbicol.com/images/ok-fm-legazpi-logo.png",
+      "votes": 0
+    },
+    {
+      "name": "OK-FM Sogod",
+      "urls": [
+        "https://mercury.reliastream.com/proxy/broadte3?mp=/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": "https://cdn.broadtekmedia.com/img/20260223_090839_99bc13c6_699c1917cae69.webp",
+      "votes": 3
+    },
+    {
+      "name": "OK-FM Sorsogon",
+      "urls": [
+        "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3?1768232045244"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 170,
+      "logo": "https://www.pbnbicol.com/images/ok-fm-sorsogon-logo.png",
+      "votes": 6
+    },
+    {
+      "name": "OK-FM Sorsogon",
+      "urls": [
+        "https://s20.reliastream.com:8178/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 170,
+      "logo": "https://www.pbnbicol.com/images/ok-fm-sorsogon-logo.png",
+      "votes": 1
+    },
+    {
+      "name": "One FM Palawan",
+      "urls": [
+        "https://stream.zeno.fm/yiqeykhjdw5uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1741929440_onefmpalawan.png",
+      "votes": 3
+    },
+    {
+      "name": "OPM Christmas",
+      "urls": [
+        "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas"
+      ],
+      "tags": [
+        "christmas",
+        "ethnic",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/394/opm-christmas.b045b6a9.png",
+      "votes": 11
+    },
+    {
+      "name": "OPM Kaibigan (Kaibigan Radio)",
+      "urls": [
+        "https://listen.streamaudio.co/proxy/kaibiganradio/kaibigan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "OPM RADIO",
+      "urls": [
+        "https://listen.streamaudio.co/proxy/kaibiganradio/opm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 112,
+      "logo": "https://images.radio.co/station_logos/s55a9c4931.20220801101849.jpg",
+      "votes": 81
+    },
+    {
+      "name": "OPM Rise Up Radio",
+      "urls": [
+        "https://listen.streamaudio.co/proxy/opmriseupradio/opmriseup"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://opmriseupradio.com/opm%20rise%20up%20logo.png",
+      "votes": 5
+    },
+    {
+      "name": "PAGUDPUD BEACH RADIO",
+      "urls": [
+        "https://stream.zeno.fm/a3ggpf8rt6duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pagudpud-beachradio-org.weebly.com/uploads/1/1/9/5/119523222/published/pagudpud-radio-128pixel.jpg?1525671906",
+      "votes": 52
+    },
+    {
+      "name": "Palawan Wave FM",
+      "urls": [
+        "https://xcite.radyoph.com:8020/dzrt"
+      ],
+      "tags": [
+        "filipino",
+        "music",
+        "news",
+        "palawan",
+        "pinoy",
+        "tagalog",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://palawanwavefm.com/wp-content/uploads/2024/06/Station-Logo-4-Trans.png",
+      "votes": 1
+    },
+    {
+      "name": "PH Lite",
+      "urls": [
+        "https://stream.amfm.link/listen/ch1/phlite"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyoph.com/wp-content/uploads/2025/12/phlite-2.png",
+      "votes": 3
+    },
+    {
+      "name": "Pines FM Bataraza",
+      "urls": [
+        "https://xcite.radyoph.com:8010/pinesfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://pinesfmbataraza.com/wp-content/uploads/2021/11/cropped-logo_160-180x180.png",
+      "votes": 3
+    },
+    {
+      "name": "Pinoy power radio media",
+      "urls": [
+        "https://streaming.live365.com/a67821"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "Pinoy Rap Radio",
+      "urls": [
+        "https://stream.zeno.fm/0cdp55nqam0uv"
+      ],
+      "tags": [
+        "filipino",
+        "hip-hop",
+        "rap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240319_232622087.jpg?alt=media&token=a04a49c8-0272-4f24-b68a-a3b9fa0c8f0d",
+      "votes": 1220
+    },
+    {
+      "name": "Pinoy Seoul Radio",
+      "urls": [
+        "https://radio.pinoyseoul.com/radio/8000/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEg2Q3B3KUbwTi2m_Q3hI1NSe2shw5aS8XbJOlI2mTSd8hXhkvmmp2iv605yz6rsXHZfu87B9r0xKZo4zJkLbL_zl-NqI88jtglT1CvygfRmh-aFVpnkKFQvUr9-3tYnaET5SlUvtVYkPPSc4tP8G1l-P6WmWwL0uiykuSpoYvJrL0r4Pgcm6uvdK96YqD8=s838",
+      "votes": 3
+    },
+    {
+      "name": "Power 108 FM",
+      "urls": [
+        "https://drive.uber.radio/uber/boomerang1990s/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/69/Power108fm.png",
+      "votes": 8
+    },
+    {
+      "name": "R597",
+      "urls": [
+        "https://stream3.hornhost.com:8136/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio597.weebly.com/uploads/1/3/9/8/139847559/1_orig.png",
+      "votes": 1
+    },
+    {
+      "name": "R6 News FM",
+      "urls": [
+        "https://stream.zeno.fm/adqlxubrtshvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FBl-dWBUTUwfYwCSucuK32zYxhTKt9PvIw6e8EptWIao%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg0N2U4NjIyLTM0ZGEtNDM0NS1hYTJmLTZiODAwNzJmZWFiOS9pbWFnZS8_dXBkYXRlZD0xNjc0ODE2OTY2MDAw.webp&w=750&q=100",
+      "votes": 19
+    },
+    {
+      "name": "Radio Boracay 106.1 fm",
+      "urls": [
+        "https://s135.radiolize.com/radio/8020/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/556/radio-boracay-1061-fm.94127501.jpg",
+      "votes": 23
+    },
+    {
+      "name": "Radio Libertas Pampanga",
+      "urls": [
+        "https://stream.zeno.fm/9td2da86gg8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Radio Maria Philippines",
+      "urls": [
+        "https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140"
+      ],
+      "tags": [
+        "catholic radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 139
+    },
+    {
+      "name": "Radyo Bandera Malaybalay",
+      "urls": [
+        "https://dj.radyoph.com:8000/bandera64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://4.bp.blogspot.com/-sH8hzAiB-hg/WdyOGYU7OWI/AAAAAAAADkI/EcTBhg4GTAECo9aPd3BVvCmFKJSi-YpcwCLcBGAs/s320/radyo_bandera_malaybalay.png",
+      "votes": 90
+    },
+    {
+      "name": "Radyo Bandera Olongapo",
+      "urls": [
+        "https://sound.amfm.link:8030/banderaolongapo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyobanderafm.com/wp-content/uploads/2023/08/Bandera-Network-300x300.png",
+      "votes": 8
+    },
+    {
+      "name": "Radyo Bandera Puerto Princesa Palawan",
+      "urls": [
+        "https://bandera.radyoph.com:8000/895hq"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://1.bp.blogspot.com/-_w45lSZJl38/WdyOH8go99I/AAAAAAAADkM/uyAMtiCGXBkn_QckfCT6KzgGcWBJ52YgACLcBGAs/s320/radyo_bandera_palawan.png",
+      "votes": 222
+    },
+    {
+      "name": "Radyo Bandera Sweet FM",
+      "urls": [
+        "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 45
+    },
+    {
+      "name": "Radyo Bandera Sweet FM Iloilo",
+      "urls": [
+        "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Radyo Bandera Trento",
+      "urls": [
+        "https://cd.amfm.link:8010/bandera_trento"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1782447154_banderatrento.png",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Bandera Valencia",
+      "urls": [
+        "https://xcite.radyoph.com:8000/rbvalencia64"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://2.bp.blogspot.com/--DFC-9Ap150/WmVL_av16LI/AAAAAAAADz4/oOVMG13UD2QtHcvyRhJdZIJzuKwPK941wCLcBGAs/s320/radyo-bandera-valencia-amfmph.png",
+      "votes": 6
+    },
+    {
+      "name": "Radyo Bandilyo DYWC 801 AM Dumaguete",
+      "urls": [
+        "https://stream.surfernetwork.com/y44vjussapdvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://apk.radyoph.com/upload/1716081842_DYWCradyoandilyo.png",
+      "votes": 3
+    },
+    {
+      "name": "Radyo Kidlat 91.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/t3bvque9fc9uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/YRSCVHn9gK.png",
+      "votes": 44
+    },
+    {
+      "name": "Radyo Natin (Mindanao)",
+      "urls": [
+        "https://mindanao.radyonatinfm.com:8000/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.radyonatin.com/img/favicon.png",
+      "votes": 72
+    },
+    {
+      "name": "Radyo Natin Agoo",
+      "urls": [
+        "https://pinas.radyonatinfm.com:8000/agoo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/01/480-RN-AGOO-106.7-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Alaminos",
+      "urls": [
+        "https://pinas.radyonatinfm.com:8010/alaminos"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-ALAMINOS-CITY-100.1-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Argao",
+      "urls": [
+        "https://sound.radyonatinfm.com:8030/argao"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://sound.radyonatinfm.com/static/uploads/dyrw/album_art.1729653801.png",
+      "votes": 22
+    },
+    {
+      "name": "Radyo Natin Baao",
+      "urls": [
+        "https://xcite.radyonatinfm.com:8030/baao"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-BA-AO-88.7-V2.png",
+      "votes": 6
+    },
+    {
+      "name": "Radyo Natin Baler",
+      "urls": [
+        "https://wave.radyonatinfm.com:8010/baler"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2F925d7225-1445-4adf-88b9-66b4c8eeb3e2-rn-baler.png&w=256&q=80",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Bayombong",
+      "urls": [
+        "https://web.radyonatinfm.com:8030/bayombong"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-BAYOMBONG-104.5-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Bislig",
+      "urls": [
+        "https://audio.radyonatinfm.com:8020/bislig"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2F56dc0319-4fce-44d5-b88d-c57315cf7fa8-rn-bislig-911.png&w=256&q=80",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Natin Boac",
+      "urls": [
+        "https://phils.radyonatinfm.com:8010/boac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BOAC-105.7-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Bongabong",
+      "urls": [
+        "https://sound.radyonatinfm.com:8010/bongabong"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BONGABONG-103.7-V2.png",
+      "votes": 13
+    },
+    {
+      "name": "Radyo Natin BonPen",
+      "urls": [
+        "https://stream.radyonatinfm.com:8020/bonpen"
+      ],
+      "tags": [
+        "filipino",
+        "local",
+        "music",
+        "news",
+        "pinoy",
+        "quezon",
+        "tagalog",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BONPEN-102.5.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Borongan",
+      "urls": [
+        "https://fx.radyonatinfm.com:8020/borongan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BORONGAN-104.1-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Brooke's Point",
+      "urls": [
+        "https://xcite.radyonatinfm.com:8010/brookespoint"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Ff4673747-8501-4855-bae0-3797a7db5c50-rn-borongan-1041.png&w=640&q=100",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Bugasong",
+      "urls": [
+        "https://net.radyonatinfm.com:8020/bugasong"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BUGASONG-102.9-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Buhi",
+      "urls": [
+        "https://ph.radyonatinfm.com:8030/buhi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-BUHI-100.1-V2.png",
+      "votes": 31
+    },
+    {
+      "name": "Radyo Natin Calapan",
+      "urls": [
+        "https://sound.radyonatinfm.com:8000/calapan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-CALAPAN-96.9-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Caluag",
+      "urls": [
+        "https://dj.radyonatinfm.com:8000/calauag"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2F4ebf75d1-d762-4090-8ab8-c09ba57c1ea6-rn-calauag-1009.png&w=256&q=80",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Candon",
+      "urls": [
+        "https://io.radyonatinfm.com:8030/candon"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Radyo Natin CDO",
+      "urls": [
+        "https://wave.radyonatinfm.com:8030/cdo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-CAGAYAN-DE-ORO-106.3-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Coron",
+      "urls": [
+        "https://xcite.radyonatinfm.com:8000/coron"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatincoron.com/wp-content/uploads/2023/03/480-RN-Coron.png",
+      "votes": 11
+    },
+    {
+      "name": "Radyo Natin Cotabato",
+      "urls": [
+        "https://amp.radyonatinfm.com:8000/cotabato"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-COTABATO-CITY-95.9-V2.png",
+      "votes": 3
+    },
+    {
+      "name": "Radyo Natin Daanbantayan",
+      "urls": [
+        "https://ph.radyonatinfm.com:8020/daanbantayan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-DAANBANTAYAN-101.3-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Dipolog",
+      "urls": [
+        "https://mbc.radyonatinfm.com:8010/dipolog"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-DIPOLOG-100.5-V2.png",
+      "votes": 3
+    },
+    {
+      "name": "Radyo Natin Guiuan",
+      "urls": [
+        "https://air.radyonatinfm.com:8030/guiuan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-GUIUAN-103.7-V2-150x150.png",
+      "votes": 45
+    },
+    {
+      "name": "Radyo Natin Gumaca",
+      "urls": [
+        "https://cd.radyonatinfm.com:8000/gumaca"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-GUMACA-107.9-V2.png",
+      "votes": 8
+    },
+    {
+      "name": "Radyo Natin Hamtic",
+      "urls": [
+        "https://link.radyonatinfm.com:8000/hamtic"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-HAMTIC-106.9-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Iba",
+      "urls": [
+        "https://phils.radyonatinfm.com:8000/iba"
+      ],
+      "tags": [
+        "filipino",
+        "music",
+        "news",
+        "pinoy",
+        "tagalog",
+        "talk",
+        "zambales"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-IBA-105.7-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Infanta",
+      "urls": [
+        "https://cd.radyonatinfm.com:8010/infanta"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-INFANTA-105.3-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Iriga",
+      "urls": [
+        "https://mbc.radyonatinfm.com:8030/iriga"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-IRIGA-CITY-107.1-V2-271x300.png",
+      "votes": 40
+    },
+    {
+      "name": "Radyo Natin Isulan",
+      "urls": [
+        "https://amp.radyonatinfm.com:8010/isulan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-ISULAN-101.3-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Jagna",
+      "urls": [
+        "https://stream.radyonatinfm.com:8030/jagna"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-JAGNA-98.1-V2.png",
+      "votes": 17
+    },
+    {
+      "name": "Radyo Natin Kiamba",
+      "urls": [
+        "https://hifi.radyonatinfm.com:8030/kiamba"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-KIAMBA-101.3-V2.png",
+      "votes": 9
+    },
+    {
+      "name": "Radyo Natin Kidapawan",
+      "urls": [
+        "https://phils.radyonatinfm.com/listen/ch4/kidapawan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-KIDAPAWAN-107.1-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Laguna",
+      "urls": [
+        "https://wave.radyonatinfm.com:8020/laguna"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-LAGUNA-106.3-V2.png",
+      "votes": 4
+    },
+    {
+      "name": "Radyo Natin Laoang",
+      "urls": [
+        "https://io.radyonatinfm.com:8000/laoang"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Fa59cabf7-72a1-4d57-a254-04db192740a5-rn-laoang-909.png&w=256&q=80",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Natin Lebak",
+      "urls": [
+        "https://hifi.radyonatinfm.com:8000/lebak"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/01/480-RN-LEBAK-105.1-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Lemery",
+      "urls": [
+        "https://xcite.radyonatinfm.com:8020/lemery"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=%2Flogo.png&w=256&q=75",
+      "votes": 4
+    },
+    {
+      "name": "Radyo Natin Looc",
+      "urls": [
+        "https://audio.radyonatinfm.com:8030/looc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/06/480-RN-LOOC-104.5-V2.png",
+      "votes": 5
+    },
+    {
+      "name": "Radyo Natin Lucban",
+      "urls": [
+        "https://link.radyonatinfm.com:8010/lucban"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-LUCBAN-104.5-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Lupon",
+      "urls": [
+        "https://link.radyonatinfm.com:8030/lupon"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Radyo Natin Madridejos",
+      "urls": [
+        "https://tx.radyonatinfm.com:8010/madridejos"
+      ],
+      "tags": [
+        "cebu",
+        "filipino",
+        "music",
+        "news",
+        "pinoy",
+        "tagalog",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "http://vipcore.s3.ap-southeast-1.amazonaws.com/rn/logo/480/madridejos+102.9+dyee.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Malita",
+      "urls": [
+        "https://link.radyonatinfm.com:8020/malita"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/01/480-RN-MALITA-105.5-V2.png",
+      "votes": 12
+    },
+    {
+      "name": "Radyo Natin Maramag",
+      "urls": [
+        "https://air.radyonatinfm.com:8010/maramag"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "Radyo Natin Margosatubig",
+      "urls": [
+        "https://pinas.radyonatinfm.com:8030/margosatubig"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radyo Natin Masbate",
+      "urls": [
+        "https://net.radyonatinfm.com:8030/masbate"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Radyo Natin Mati",
+      "urls": [
+        "https://io.radyonatinfm.com:8010/mati"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-MATI-105.3-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Moalboal",
+      "urls": [
+        "https://fx.radyonatinfm.com:8030/moalboal"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Radyo Natin Nabunturan",
+      "urls": [
+        "https://web.radyonatinfm.com:8020/nabunturan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-NABUNTURAN-104.7-V2.png",
+      "votes": 31
+    },
+    {
+      "name": "Radyo Natin Naga",
+      "urls": [
+        "https://web.radyonatinfm.com:8010/naga"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 123
+    },
+    {
+      "name": "Radyo Natin Naval",
+      "urls": [
+        "https://dj.radyonatinfm.com:8010/naval"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-NAVAL-103.9-V2.png",
+      "votes": 3
+    },
+    {
+      "name": "Radyo Natin Odiongan",
+      "urls": [
+        "https://ph.radyonatinfm.com:8010/odiongan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-ODIONGAN-101.3-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Padre Garcia",
+      "urls": [
+        "https://amp.radyonatinfm.com:8030/padregarcia"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Fe99f8381-e713-43e1-9f8d-062918173ba3-rn-padre-garcia-1055.png&w=256&q=80",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Natin Pagadian",
+      "urls": [
+        "https://dj.radyonatinfm.com:8030/pagadian"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-PAGADIAN-CITY-91.9-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Paracale",
+      "urls": [
+        "https://mbc.radyonatinfm.com:8000/paracale"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-PARACALE-101.3-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Pilar",
+      "urls": [
+        "https://mbc.radyonatinfm.com:8020/pilar"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-PILAR-102.9-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Pinamungajan",
+      "urls": [
+        "https://audio.radyonatinfm.com:8010/pinamungajan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/01/480-RN-PINAMUNGAJAN-103.9-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Roxas, Palawan",
+      "urls": [
+        "https://cd.radyonatinfm.com:8020/roxaspalawan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Fdb03b1c7-6e31-4cd6-b3cb-4fa410137c97-rn-roxas-1013.png&w=640&q=100",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Sablayan",
+      "urls": [
+        "https://air.radyonatinfm.com:8020/sablayan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-SABLAYAN-103.3-V2-271x300.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Sagay",
+      "urls": [
+        "https://cd.radyonatinfm.com:8030/sagay"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2026/02/sagay-88.3.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin San Jose de Buenavista Antique",
+      "urls": [
+        "https://hifi.radyonatinfm.com:8010/sja"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Fbd76b624-e634-43e2-aabc-875268dcc7d5-rn-san-jose-917-1.png&w=256&q=80",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin San Jose Occ. Mindoro",
+      "urls": [
+        "https://fx.radyonatinfm.com:8010/sanjose"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2F8eedfafd-102c-4824-9af7-891511086921-rn-san-jose-1017-1.png&w=256&q=80",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Santiago",
+      "urls": [
+        "https://pinas.radyonatinfm.com:8020/santiago"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-SANTIAGO-93.7-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Sipalay",
+      "urls": [
+        "https://tx.radyonatinfm.com:8020/sipalay"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-SIPALAY-102.5.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Sorsogon",
+      "urls": [
+        "https://stream.radyonatinfm.com:8010/sorsogon"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-SORSOGON-CITY-91.9-V2.png",
+      "votes": 27
+    },
+    {
+      "name": "Radyo Natin Sta. Cruz",
+      "urls": [
+        "https://audio.radyonatinfm.com:8000/stacruz"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-STA.CRUZ-104.5-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Sta. Elena",
+      "urls": [
+        "https://web.radyonatinfm.com:8000/sta.elena"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2Fb3ce9558-f72c-474a-97d9-012225eab119-rn-sta-elena-993.png&w=640&q=100",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Natin Sto. Tomas",
+      "urls": [
+        "https://stream.radyonatinfm.com:8000/santotomas"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radyonatin.com.ph/_next/image?url=https%3A%2F%2Fradyonatin-bucket.s3.ap-southeast-1.amazonaws.com%2Fstations%2Flogos%2F59af1ab6-2e4d-4cae-aa70-4c99aa1c2c02-rn-sto-tomas-1053.png&w=640&q=100",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Tabuk",
+      "urls": [
+        "https://net.radyonatinfm.com:8000/tabuk"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-TABUK-103.7-V2.png",
+      "votes": 1
+    },
+    {
+      "name": "Radyo Natin Tagum",
+      "urls": [
+        "https://ph.radyonatinfm.com:8000/tagum"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/04/RNTAGUM-300x200.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Radyo Natin Tiwi",
+      "urls": [
+        "https://io.radyonatinfm.com:8020/tiwi"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-TIWI-104.9-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Natin Victoria",
+      "urls": [
+        "https://wave.radyonatinfm.com:8000/victoria"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-VICTORIA-102.9-V2.png",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Ni Sano",
+      "urls": [
+        "https://cd.radyoph.com:8000/rns128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/09/Radyo_Ni_Sano.png",
+      "votes": 13
+    },
+    {
+      "name": "Radyo Primera",
+      "urls": [
+        "https://us1.amfmph.com:8838/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://cdn-profiles.tunein.com/s355190/images/logoq.jpg?t=639115667170000000",
+      "votes": 0
+    },
+    {
+      "name": "Radyo Todo Aklan 88.5",
+      "urls": [
+        "https://radyotodoaklan.vonnhost.workers.dev/radyotodoaklan"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radyotodo.ph/wp-content/uploads/2024/01/RadyoTODO-Logo-horizontal.png.webp",
+      "votes": 0
+    },
+    {
+      "name": "Radyong Sira!",
+      "urls": [
+        "https://a7.asurahosting.com:9110/radio.mp3"
+      ],
+      "tags": [
+        "ac"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://i.ibb.co/HDdjX4r3/RS-Logo.png",
+      "votes": 1
+    },
+    {
+      "name": "Rage Music Philippines",
+      "urls": [
+        "https://stream.zeno.fm/yu9dryfs7x8uv.mp3"
+      ],
+      "tags": [
+        "hiphop",
+        "rap",
+        "rnb"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://facebook.com/favicon.ico",
+      "votes": 481
+    },
+    {
+      "name": "Raysland Radio",
+      "urls": [
+        "https://stream.hornhost.com:8002/stream"
+      ],
+      "tags": [
+        "adult contemporary"
+      ],
+      "city": "Cebu",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://raysland.live/raysland.png",
+      "votes": 0
+    },
+    {
+      "name": "Retro House Radio",
+      "urls": [
+        "https://listen.streamaudio.co/proxy/retrohouseradio/house"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.retrohouseradio.eu/images/hero_bg_3.jpg",
+      "votes": 4
+    },
+    {
+      "name": "RMN DXDC Davao",
+      "urls": [
+        "https://stream.zeno.fm/qrrgyy1hyuatv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/Station-DXDC-Davaoresized.png?resize=768%2C660&ssl=1",
+      "votes": 242
+    },
+    {
+      "name": "RMN DYRI Iloilo",
+      "urls": [
+        "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 24,
+      "logo": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png?w=400&ssl=1",
+      "votes": 713
+    },
+    {
+      "name": "RPN DXKS Surigao",
+      "urls": [
+        "https://dxks-rpnradio.radioca.st/stream?1729944678085"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tunein.rpnradio.com/apple-touch-icon.png",
+      "votes": 84
+    },
+    {
+      "name": "RTG FM ㋡",
+      "urls": [
+        "https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://file.garden/Zzg7g9nzzkEeNTar/RTG.png",
+      "votes": 4
+    },
+    {
+      "name": "San Jose City Hottest Online Radio",
+      "urls": [
+        "https://usa13.fastcast4u.com/proxy/itunerworldwide?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "SANIB PWERSA 101.7 YLFM & 90.5 HFM",
+      "urls": [
+        "https://chloreign.com/listen/sanibpwersa/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.1017yourlovefm.com/images/YourLoveFMLogo.png",
+      "votes": 10
+    },
+    {
+      "name": "Scream Radio",
+      "urls": [
+        "https://stream.zeno.fm/us9zu5w8zxhvv"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "emo",
+        "punk",
+        "rock",
+        "screamo"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/117051.v5.png",
+      "votes": 97
+    },
+    {
+      "name": "Scream Radio",
+      "urls": [
+        "https://stream.zeno.fm/c3z135w8zxhvv.mp3"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "emo",
+        "punk",
+        "rock"
+      ],
+      "city": "San Jose",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play.google.com/favicon.ico",
+      "votes": 57
+    },
+    {
+      "name": "Shakey's Radio",
+      "urls": [
+        "https://play.radioking.io/shakeys-radio1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.shakeyspizza.ph/logos/shakeys@1024.png",
+      "votes": 20
+    },
+    {
+      "name": "Spirit FM Gumaca",
+      "urls": [
+        "https://stream.zeno.fm/ybdnwr4ws4zuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1773237138_spiritgumaca.png",
+      "votes": 3
+    },
+    {
+      "name": "Spotlight Radio FM",
+      "urls": [
+        "https://cast2.my-control-panel.com/proxy/dennis/stream"
+      ],
+      "tags": [
+        "internet radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "Star FM 92.7 Pampanga",
+      "urls": [
+        "https://stream-13.zeno.fm/g1pmt17nz9duv"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "San Fernando City, Pampanga",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHoQVFuIUXKdX_TU6p_ZGGKvUVSp6nP_Sv2Bpy68NRw&s=10",
+      "votes": 6
+    },
+    {
+      "name": "Star FM 94.5 La Union",
+      "urls": [
+        "https://stream-144.zeno.fm/sa27v4d29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYTI3djRkMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjAzWkd2TktFVFk2ZDBYMjlQQk9WVUEiLCJpYXQiOjE3MzkxNDI4MjEsImV4cCI6MTczOTE0Mjg4MX0.k1L24899hTkQMsVjbACkzzfi8EpFurlfG1OJlkXpJiA"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "San Fernando City, La Union",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fce2TK6jt01JVhZsymURZPb-CzGlveIF4zJKVatMeTVfB7wY0S6lalwO&s=10",
+      "votes": 34
+    },
+    {
+      "name": "Star FM 95.5 Cebu",
+      "urls": [
+        "https://stream-146.zeno.fm/60cb36c29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGNiMzZjMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJMWEdONUVnUWFpUG1ETU1EeUhYX2ciLCJpYXQiOjE3NDE0MzA4NjIsImV4cCI6MTc0MTQzMDkyMn0.4qElo5I_0GF5A3aE5mUfF6T44wqKi0drur2zii2Q0KA"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "city": "Cebu City",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmJbMGly1Bat3iKoG3oxBckfAntnOFUH4X5wFwsCe9laDEYCkVWJ5UA&s=10",
+      "votes": 208
+    },
+    {
+      "name": "Star FM Baguio",
+      "urls": [
+        "https://stream.zeno.fm/sa27v4d29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://news.bomboradyo.com/wp-content/uploads/2024/08/star_baguo_square_logo-560x560.png",
+      "votes": 74
+    },
+    {
+      "name": "Star FM Cotabato",
+      "urls": [
+        "https://stream.zeno.fm/hf1yubc29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://cotabato.bomboradyo.com/wp-content/uploads/2024/07/Cotabato-Live-Streamx.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Star FM Dagupan",
+      "urls": [
+        "https://stream.zeno.fm/kw40qqc29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/StarFMDagupan.png",
+      "votes": 7
+    },
+    {
+      "name": "Star FM Davao",
+      "urls": [
+        "https://stream.zeno.fm/sdtv271nz9duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/StarFMDavao.png",
+      "votes": 2
+    },
+    {
+      "name": "Star FM Dipolog",
+      "urls": [
+        "https://stream.zeno.fm/qd45x88q0y5tv.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/StarFMDipolog.png",
+      "votes": 6
+    },
+    {
+      "name": "Star FM Iloilo",
+      "urls": [
+        "https://stream.zeno.fm/t9tm8gm29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a3/99.5_Star_FM_Iloilo.jpg",
+      "votes": 93
+    },
+    {
+      "name": "Star FM Manila",
+      "urls": [
+        "https://stream.zeno.fm/536cwdq78heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://news.bomboradyo.com/wp-content/uploads/2024/08/star_manila_square_logo-560x560.png",
+      "votes": 126
+    },
+    {
+      "name": "Star FM Manila",
+      "urls": [
+        "https://stream.zeno.fm/g1pmt17nz9duv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://static-media.streema.com/media/cache/91/df/91df1afa8a677c7c53fd3d08e037201c.png",
+      "votes": 2
+    },
+    {
+      "name": "Star FM Roxas",
+      "urls": [
+        "https://stream.zeno.fm/6qehcpd29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/StarFMRoxas.png",
+      "votes": 7
+    },
+    {
+      "name": "Star FM Zamboanga",
+      "urls": [
+        "https://stream.zeno.fm/sfaqs2c29heuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 48
+    },
+    {
+      "name": "Sweet 97.7 FM Santiago",
+      "urls": [
+        "https://radio.garden/api/ara/content/listen/Cf0PBMJg/channel.mp3?1783643725859"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/2/106662.v10.png",
+      "votes": 2
+    },
+    {
+      "name": "TAPS RADIO ALICIA",
+      "urls": [
+        "https://us1.amfmph.com/ssl/tapsradi?mp=/stream&1642337283814"
+      ],
+      "tags": [
+        "college radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "http://www.taps2011.com/favicon.ico",
+      "votes": 88
+    },
+    {
+      "name": "TAPS RADIO ILAGAN",
+      "urls": [
+        "https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream"
+      ],
+      "tags": [
+        "college radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "http://www.taps2011.com/favicon.ico",
+      "votes": 32
+    },
+    {
+      "name": "Tee Radio",
+      "urls": [
+        "https://stream.zeno.fm/7neg6f1hbm0uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://teeradio.net/wp-content/uploads/2024/08/cropped-logo-teeradio-180x180.png",
+      "votes": 67
+    },
+    {
+      "name": "TGON KoolFM 106.7",
+      "urls": [
+        "https://stream-31.zeno.fm/2ss1hgnu6hhvv"
+      ],
+      "tags": [
+        "chr",
+        "local news",
+        "music"
+      ],
+      "city": "Manila",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMevFwanO7z87BOD1457R8Wzl4RsDmc3rALUU73dl0QFsNWEsPNDePtbM&s=10",
+      "votes": 5
+    },
+    {
+      "name": "Tops Media Center",
+      "urls": [
+        "https://s2.radio.co/s8d8aade20/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://topsmediacenter.com/wp-content/uploads/2024/06/wedd-370x370.png",
+      "votes": 0
+    },
+    {
+      "name": "U-Radio 107.9 FM",
+      "urls": [
+        "https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/qCPQpTKsV2.jpg",
+      "votes": 5
+    },
+    {
+      "name": "UFM 105.5",
+      "urls": [
+        "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645"
+      ],
+      "tags": [
+        "adult hits"
+      ],
+      "city": "Mabalacat",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.1055ufm.ph/favicon",
+      "votes": 21
+    },
+    {
+      "name": "UM RADIO",
+      "urls": [
+        "https://stream.zeno.fm/fing1gwxuqztv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://apk.radyoph.com/upload/1780225092_UMRadio.png",
+      "votes": 2
+    },
+    {
+      "name": "V81 Radio",
+      "urls": [
+        "https://cast4.servcast.net/proxy/v81radioworldwide/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://www.v81radio.com/wp-content/uploads/2022/08/v81-radio-logo.png",
+      "votes": 16
+    },
+    {
+      "name": "Vibe 95.9 FM Central Luzon",
+      "urls": [
+        "https://stream.zeno.fm/zf0ac4raqy8uv"
+      ],
+      "tags": [
+        "adult hits",
+        "opm"
+      ],
+      "city": "Angeles City, Pampanga",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/WOVO-HD2_95.9TheVibe_logo.jpg/250px-WOVO-HD2_95.9TheVibe_logo.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Voice Radio Catarman",
+      "urls": [
+        "https://stream.zeno.fm/gbfhjvrljhxuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/voicecatarman.png",
+      "votes": 16
+    },
+    {
+      "name": "Win Radio Cagayan de Oro",
+      "urls": [
+        "https://stream.zeno.fm/delhmcm1qhntv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/wincdo.png",
+      "votes": 40
+    },
+    {
+      "name": "Win Radio Cebu",
+      "urls": [
+        "https://stream.zeno.fm/dx1k9na7nznvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2024/11/wincebu.png",
+      "votes": 152
+    },
+    {
+      "name": "Win Radio Davao",
+      "urls": [
+        "https://stream-42.zeno.fm/1noxhem5qpkuv"
+      ],
+      "tags": [
+        "contemporary hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://winradioph.net/favicon.ico",
+      "votes": 382
+    },
+    {
+      "name": "Win Radio Davao",
+      "urls": [
+        "https://stream.zeno.fm/1noxhem5qpkuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WinRadioDavao.jpg/250px-WinRadioDavao.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Win Radio Naga",
+      "urls": [
+        "https://stream.zeno.fm/sxzgyqjtehntv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://winradionaga.weebly.com/uploads/8/1/6/7/8167297/kuya-ed-machette-13_orig.png",
+      "votes": 46
+    },
+    {
+      "name": "Win Radio Valencia",
+      "urls": [
+        "https://stream.zeno.fm/vzrt2visttbvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": "https://getradio.ph/img/winradio-valencia-logo.webp",
+      "votes": 80
+    },
+    {
+      "name": "Win Radio Valencia",
+      "urls": [
+        "https://stream.zeno.fm/1uphwerxpnquv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://static-media.streema.com/media/cache/ee/71/ee718e6915ce64e4439d5eda02f488f9.jpg",
+      "votes": 131
+    },
+    {
+      "name": "WOW RADIO",
+      "urls": [
+        "https://ph.amfm.link:8030/wowradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://apk.radyoph.com/upload/1776758608_WOW_Radio.png",
+      "votes": 3
+    },
+    {
+      "name": "WXB 102",
+      "urls": [
+        "https://edge.mixlr.com/channel/lldmm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://storage.mixlrcdn.com/cdn-cgi/image/format=auto,fit=contain,gravity=auto,width=100,height=100,quality=80,dpr=2/2rgx2522kp5d62ie5lfujf1rzxx7",
+      "votes": 71
+    },
+    {
+      "name": "XFM 96.7 BACOLOD",
+      "urls": [
+        "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirCDsb16D2jMdM-LT_6EegGEAc8a6f8-yo2wR4aqK83_vfgqTLlsvlVE2J1WLStX_Btpxe68r8kW_5ttFbuPYLhGsEZe38eU3JKOsB1o0qfPaBlVN7b-f63xPM9LhA4fFZB9Ev5XSwtWtXg26PQVMjlHOQm4lML-lJvrkVgRmMhiPAEkd_B2bTcHo5/s320/station_logo.png",
+      "votes": 117
+    },
+    {
+      "name": "XFM Naga City",
+      "urls": [
+        "https://listen.imjinteractive.net:8028/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://xfm.imjinteractive.net/wp-content/uploads/2021/11/X-FM-2017-300x150.png",
+      "votes": 67
+    },
+    {
+      "name": "Yes FM Zamboanga",
+      "urls": [
+        "https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://api.yesfm.com.ph/v1/media/display?bucket=static.yesthebest.com.ph&key=stations/2024/2/IMDpyv76do7wzpencjGsX.webp",
+      "votes": 76
+    },
+    {
+      "name": "YeY FM",
+      "urls": [
+        "https://stream-174.zeno.fm/pnjlccj6jd2uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radyoph.com/wp-content/uploads/2025/02/yeyfmnewyork.png",
+      "votes": 12
+    }
+  ]
+}

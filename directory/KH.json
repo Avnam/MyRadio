@@ -1,0 +1,100 @@
+{
+  "code": "KH",
+  "name": "Cambodia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 265
+    },
+    {
+      "name": "Family FM 99.5 (Witthyu Krousar)",
+      "urls": [
+        "https://s14.myradiostream.com/10064/;.mp3"
+      ],
+      "tags": [
+        "family",
+        "khmer",
+        "music",
+        "phnom penh"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "LDP Radio",
+      "urls": [
+        "https://streaming.radio.co/sd48fd711d/listen"
+      ],
+      "tags": [
+        "khmer",
+        "phnom penh",
+        "politics",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Pop Radio 21",
+      "urls": [
+        "https://listen.radioking.com/radio/318317/stream/365846"
+      ],
+      "tags": [
+        "asian",
+        "folk",
+        "khmer",
+        "phnom penh",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "Sangkem Radio",
+      "urls": [
+        "https://live.sangkemtv.com/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Siem Reap",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Sweet FM 88 (Siem Reap)",
+      "urls": [
+        "https://n12.rcs.revma.com/whn9hqwstk3vv"
+      ],
+      "tags": [
+        "khmer",
+        "music",
+        "pop",
+        "siem reap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 10
+    }
+  ]
+}

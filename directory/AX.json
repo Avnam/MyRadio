@@ -1,0 +1,34 @@
+{
+  "code": "AX",
+  "name": "Aland Islands",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM: Popmusik på engelska och spanska",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "moi merino",
+        "åland islands"
+      ],
+      "city": "Veracruz, México",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://cdn-profiles.tunein.com/s90984/images/logog.png",
+      "votes": 100
+    },
+    {
+      "name": "Ålands Radio",
+      "urls": [
+        "https://stream.alandsradio.ax/stream.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://alandsradio.ax/sites/default/files/favicon_artv.ico",
+      "votes": 99
+    }
+  ]
+}

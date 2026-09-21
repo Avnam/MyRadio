@@ -1,0 +1,526 @@
+{
+  "code": "LK",
+  "name": "Sri Lanka",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 45
+    },
+    {
+      "name": "Classic Radio",
+      "urls": [
+        "https://cp11.serverse.com/proxy/classic/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 613
+    },
+    {
+      "name": "DreamzLanka FM",
+      "urls": [
+        "https://radio-station.hadawatha.lk/listen/dreamzlanka-fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Sri lanka",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "freefm.lk",
+      "urls": [
+        "https://stream-49.zeno.fm/1tcs4fbw7rquv?zs=uMl9BSttRSuqxlf3fWqc8g"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 801
+    },
+    {
+      "name": "Gee FM",
+      "urls": [
+        "https://stream.zeno.fm/jiylwkly3ufvv"
+      ],
+      "tags": [],
+      "city": "Private",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjkuQgHcKfcC9HtAeMApylq37BY9dtsOnMfLx5RL6J_O0tFbvpiTRRML8aSWNJj0R2kZf_G3hjUvmBALtqIzzwiHJf9nYVME-WWfiC4raSd2We6mWKHGrxq-fI0z-Gn6xOYKWyDy-5kQerWl65E_7Net0kgcm68NFktBtCTzU25yNwfR88GohaQTcMyLTs",
+      "votes": 13
+    },
+    {
+      "name": "Gold FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.goldfm.lk/images/lllistenlivelogo.jpg",
+      "votes": 1142
+    },
+    {
+      "name": "Gold FM - 93.2 Backup",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:8000/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 78
+    },
+    {
+      "name": "Hadawatha FM",
+      "urls": [
+        "https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Sri lanka",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Hiru FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2202
+    },
+    {
+      "name": "Hiru FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://image.winudf.com/v2/image1/Y29tLmhpcnVmbS5yZWRyb3NlbWVkaWFfaWNvbl8xNjA0ODM4Njk0XzAyMg/icon.webp?w=280&fakeurl=1&type=.png",
+      "votes": 2938
+    },
+    {
+      "name": "Hiru FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 302
+    },
+    {
+      "name": "Jothi FM",
+      "urls": [
+        "https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Sri lanka",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 21
+    },
+    {
+      "name": "Kiss FM Sri Lanka",
+      "urls": [
+        "https://srv02.onlineradio.voaplus.com/kissfm"
+      ],
+      "tags": [
+        "english",
+        "hits",
+        "pop",
+        "sri lanka",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kissfm.lk/kisslogo.png",
+      "votes": 33
+    },
+    {
+      "name": "Kothmale FM",
+      "urls": [
+        "https://s11.myradiostream.com:25116/listen.mp3"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://kothmalefm.lk/images/3ee4162b8a1d0c8d68b7f4a210f0d077.png",
+      "votes": 255
+    },
+    {
+      "name": "Lakhanda",
+      "urls": [
+        "https://cp12.serverse.com/proxy/itnfm?mp=/stream"
+      ],
+      "tags": [
+        "documentaries",
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 507
+    },
+    {
+      "name": "LAKHANDA RADIO",
+      "urls": [
+        "https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036"
+      ],
+      "tags": [],
+      "city": "Colombo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://lakhandaradio.lk/wp-content/uploads/2023/05/Lakhanda-Radio.svg",
+      "votes": 255
+    },
+    {
+      "name": "Laksara",
+      "urls": [
+        "https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8"
+      ],
+      "tags": [
+        "entertainment",
+        "music"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 524
+    },
+    {
+      "name": "Legends 96.6 FM",
+      "urls": [
+        "https://mbc.thestreamtech.com:8585/stream"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "classic hits",
+        "english",
+        "sri lanka",
+        "throwback"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://legends966.com/images/legends966.png",
+      "votes": 11
+    },
+    {
+      "name": "Life 87.8 Sri Lanka",
+      "urls": [
+        "https://srv02.onlineradio.voaplus.com/lite878"
+      ],
+      "tags": [
+        "dance",
+        "hip-hop",
+        "pop",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 66
+    },
+    {
+      "name": "Lite 87.8",
+      "urls": [
+        "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "NETH FM",
+      "urls": [
+        "https://cp11.serverse.com/proxy/nethfm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nethfm.lk/radio/NETH%20FM%20Live%20Radio_files/neth1.jpg",
+      "votes": 318
+    },
+    {
+      "name": "Radio Plus Hitz",
+      "urls": [
+        "https://altair.streamerr.co/stream/8054"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "remixes"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radioplus.lk/wp-content/uploads/2024/04/Radio-plus-Logo-2-2.png",
+      "votes": 121
+    },
+    {
+      "name": "Radio Plus Sri Lanka",
+      "urls": [
+        "https://altair.streamerr.co/stream/8036"
+      ],
+      "tags": [
+        "entertainment",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://radioplus.lk/wp-content/uploads/2024/04/Radio-plus-Logo-2-2.png",
+      "votes": 213
+    },
+    {
+      "name": "Radioeka",
+      "urls": [
+        "https://stream.zeno.fm/n86me57rzv8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Ran FM",
+      "urls": [
+        "https://a3.asurahosting.com/listen/ranfm/radio.mp3"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "http://ranfm.lk/images/logoranFM.png",
+      "votes": 25
+    },
+    {
+      "name": "Rangiri Sri Lanka",
+      "urls": [
+        "https://rangiri.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 709
+    },
+    {
+      "name": "Real Radio Sri Lanka 97.1",
+      "urls": [
+        "https://srv02.onlineradio.voaplus.com/realfm"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "spanish",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 109
+    },
+    {
+      "name": "Shakthi Fm",
+      "urls": [
+        "https://mbc.thestreamtech.com:8086/stream"
+      ],
+      "tags": [
+        "local news",
+        "music",
+        "tamil music"
+      ],
+      "city": "Colombo",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://shakthifm.com/images/logo.webp",
+      "votes": 41
+    },
+    {
+      "name": "Siyath Fm",
+      "urls": [
+        "https://srv01.onlineradio.voaplus.com/siyathafm"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 103
+    },
+    {
+      "name": "SLBC Tamil National Service",
+      "urls": [
+        "https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA"
+      ],
+      "tags": [],
+      "city": "Sri lanka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosindia.com/images/favicon.ico",
+      "votes": 3595
+    },
+    {
+      "name": "Sooriyan Fm Sri Lanka",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:8006/"
+      ],
+      "tags": [
+        "jazz",
+        "news",
+        "tamil"
+      ],
+      "city": "Colombo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40bvCXRsbm7s4PsgviovVSUdInoLIyvZpCQvUCLRnv0OuOAyBko_Cv4k&s=10",
+      "votes": 80
+    },
+    {
+      "name": "Star FM Srilanka",
+      "urls": [
+        "https://stream.starfm.lk:12025/stream"
+      ],
+      "tags": [
+        "tamil songs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.starfm.lk/favicon.ico",
+      "votes": 241
+    },
+    {
+      "name": "Sun FM",
+      "urls": [
+        "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden"
+      ],
+      "tags": [],
+      "city": "Sri Lanka",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.sunfm.lk/assets/images/liveradio/logo.png",
+      "votes": 111
+    },
+    {
+      "name": "Vasantham FM",
+      "urls": [
+        "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream"
+      ],
+      "tags": [
+        "tamil melody songs",
+        "tamil music",
+        "tamil songs"
+      ],
+      "city": "Colombo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.vasanthamfm.lk/wp-content/uploads/2023/05/Vasantham-FM.svg",
+      "votes": 32
+    },
+    {
+      "name": "Wellon Radio Cafe",
+      "urls": [
+        "https://wellonradio.out.airtime.pro/wellonradio_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img1.wsimg.com/isteam/ip/f84e4b33-a496-40d5-9319-e88aaebb8c8a/logo%205.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:806,h:424",
+      "votes": 47
+    },
+    {
+      "name": "Y FM",
+      "urls": [
+        "https://mbc.thestreamtech.com:7032/index.html"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://myy.lk/wp-content/uploads/2023/12/my-y-2023-12-5.png",
+      "votes": 43
+    },
+    {
+      "name": "Y FM - Hi-Res",
+      "urls": [
+        "https://mbc.thestreamtech.com:7032/"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://yfm.lk/liveradio/images/logo.png",
+      "votes": 72
+    }
+  ]
+}

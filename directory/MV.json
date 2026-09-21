@@ -1,0 +1,70 @@
+{
+  "code": "MV",
+  "name": "Maldives",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 106
+    },
+    {
+      "name": "Dheenuge Adu",
+      "urls": [
+        "https://radio.psm.mv/dheenugeaduair"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Dhivehi FM",
+      "urls": [
+        "https://radio.psm.mv/fmair"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pea.fm/uploads/posts/2020-10/1601942486_dhivehi-fm-91_0.jpg",
+      "votes": 66
+    },
+    {
+      "name": "Dhivehi Raajjeyge Adu",
+      "urls": [
+        "https://radio.psm.mv/draair"
+      ],
+      "tags": [
+        "adu",
+        "dhivehi"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://pea.fm/uploads/posts/2020-10/1601942624_dhivehi-raajjeyge-adu.jpg",
+      "votes": 92
+    },
+    {
+      "name": "Kinozal.TV",
+      "urls": [
+        "https://listen7.myradio24.com/kinozaltv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 53
+    }
+  ]
+}

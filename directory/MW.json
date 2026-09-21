@@ -1,0 +1,112 @@
+{
+  "code": "MW",
+  "name": "Malawi",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 389
+    },
+    {
+      "name": "Amaryllis E-Radio",
+      "urls": [
+        "https://s4.radio.co/s40c05d6b1/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://amaryllishotels.com/assets/images/AMARYLLIS%20LOGO_favicon-01.png",
+      "votes": 577
+    },
+    {
+      "name": "Groove100 FM",
+      "urls": [
+        "https://stream.zeno.fm/0r0xa792kwzuv"
+      ],
+      "tags": [
+        "hip-hop",
+        "rap",
+        "trap"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 140
+    },
+    {
+      "name": "Groove100 FM",
+      "urls": [
+        "https://a9.asurahosting.com/listen/groove100_fm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://groove100.mw/apple-touch-icon.png",
+      "votes": 10
+    },
+    {
+      "name": "Mdubs Entertainment",
+      "urls": [
+        "https://stream.zeno.fm/ogxfqt7gumguv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 108
+    },
+    {
+      "name": "Power Global Media",
+      "urls": [
+        "https://a10.asurahosting.com:7270/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 103
+    },
+    {
+      "name": "Timveni Radio",
+      "urls": [
+        "https://play.streamafrica.net/timveni"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/b3f7kdxwudw4.png",
+      "votes": 2522
+    },
+    {
+      "name": "ZBS Zodiak FM",
+      "urls": [
+        "https://ice31.securenetsystems.net/0079"
+      ],
+      "tags": [
+        "entertainment",
+        "local music",
+        "news",
+        "sport"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 10777
+    }
+  ]
+}

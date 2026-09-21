@@ -1,0 +1,213 @@
+{
+  "code": "LU",
+  "name": "Luxembourg",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "AAAudio",
+      "urls": [
+        "https://rocket.streamradio.fr:8008/"
+      ],
+      "tags": [
+        "ambient",
+        "downtempo",
+        "electronic",
+        "electronica",
+        "jazz",
+        "r&b",
+        "smooth jazz",
+        "soul"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://yomusic.top/assets/img/yomusic_icon_32x32.png",
+      "votes": 3
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 8
+    },
+    {
+      "name": "Braintrip Radio",
+      "urls": [
+        "https://stream.laut.fm/braintrip-radio"
+      ],
+      "tags": [
+        "krautrock",
+        "psychedelic rock",
+        "space rock",
+        "stoner"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.laut.fm/3e5e39b59b48da2d4d07f5fb8eecd8d3?t=_640x640",
+      "votes": 82
+    },
+    {
+      "name": "Eldo Radio Chill",
+      "urls": [
+        "https://stream.rtl.lu/live/hls/radio/eldochill"
+      ],
+      "tags": [
+        "chillout"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 114
+    },
+    {
+      "name": "FCE-CONTINUO Webradio",
+      "urls": [
+        "https://www.radioking.com/play/fce-continuo"
+      ],
+      "tags": [
+        "alterclassique",
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Free Radio Luxembourg",
+      "urls": [
+        "https://www.radioking.com/play/rfm-luxembourg/137599"
+      ],
+      "tags": [
+        "pop rock"
+      ],
+      "city": "Luxembourg",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "Radio 100komma7",
+      "urls": [
+        "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://100komma7.lu/static/logo-radio.png",
+      "votes": 143
+    },
+    {
+      "name": "Radio C Luxembourg",
+      "urls": [
+        "https://edge01.streamonkey.net/radioc-live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Radio Gutt Laun",
+      "urls": [
+        "https://streams.radio.co/sa631ff66a/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 52
+    },
+    {
+      "name": "Radio Puls Luxembourg",
+      "urls": [
+        "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
+      ],
+      "tags": [
+        "folk",
+        "serbian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png",
+      "votes": 46
+    },
+    {
+      "name": "Radio Radijacija",
+      "urls": [
+        "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3"
+      ],
+      "tags": [
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "RTL Gold",
+      "urls": [
+        "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Luxembourg, MP3 256kbits",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 72
+    },
+    {
+      "name": "RTL Gold",
+      "urls": [
+        "https://shoutcast.rtl.lu/rtlgold"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.rtl.lu/components/images/5e0dff17b0d8bf7fda79103a20b011b7-logo_rtl-gold.svg",
+      "votes": 131
+    },
+    {
+      "name": "RTL Radio Lëtzebuerg",
+      "urls": [
+        "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 6452,
+      "logo": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico",
+      "votes": 125
+    },
+    {
+      "name": "RTL Today",
+      "urls": [
+        "https://shoutcast.rtl.lu/rtltodayradio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 5
+    }
+  ]
+}

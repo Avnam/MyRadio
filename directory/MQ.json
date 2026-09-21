@@ -1,0 +1,104 @@
+{
+  "code": "MQ",
+  "name": "Martinique",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 25
+    },
+    {
+      "name": "Bel Radio Martinique",
+      "urls": [
+        "https://n25-eu.rcs.revma.com/9b1a2gyspwzuv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Chérie FM Martinique",
+      "urls": [
+        "https://maxxi.studio/listen/cheriefmmq/radio.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "antilles",
+        "love songs",
+        "pop"
+      ],
+      "city": "Martinique",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cheriefmantilles.fr/icons/icon-512x512.png",
+      "votes": 1
+    },
+    {
+      "name": "MAXXI Martinique",
+      "urls": [
+        "https://maxxi.studio/listen/maxximq/radio.mp3"
+      ],
+      "tags": [
+        "antilles",
+        "caraibes",
+        "hits",
+        "news",
+        "rmc",
+        "sport",
+        "talk"
+      ],
+      "city": "Martinique",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://maxxi.fm/icons/icon-512x512.png",
+      "votes": 1
+    },
+    {
+      "name": "NRJ martinique",
+      "urls": [
+        "https://streaming.nrjaudio.fm/ouquwgyoeo8p"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Radio Mojito",
+      "urls": [
+        "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio-pub.be/Radio%20Mojito/CK%20Mojito.png",
+      "votes": 50
+    },
+    {
+      "name": "Radio Zoukla",
+      "urls": [
+        "https://ecmanager4.pro-fhi.net:2605/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.telezoukla.com/gallery_gen/6d4a9194d48a7ee753a9d5810901fd90_472x204_fit.png?ts=1732770225",
+      "votes": 170
+    }
+  ]
+}

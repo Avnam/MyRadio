@@ -1,0 +1,883 @@
+{
+  "code": "KR",
+  "name": "The Republic Of Korea",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "(BSOD) KBS Classic FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "(BSOD) MBC mini All-That-Music",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=mbc&ch=chm"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 67,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 12
+    },
+    {
+      "name": "AFN GO DAEGU",
+      "urls": [
+        "https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "Daegu",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://afngo.net/static/media/afn-go-logo.819b415046feba6d7000b1e9569d468c.svg",
+      "votes": 8
+    },
+    {
+      "name": "Big B Radio - Kpop",
+      "urls": [
+        "https://antares.dribbcast.com/proxy/kpop?mp=/s"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2662
+    },
+    {
+      "name": "CBS Joy FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 97,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "CBS JOY4U",
+      "urls": [
+        "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "ccm",
+        "christian",
+        "gospel",
+        "religious",
+        "worship"
+      ],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "CBS Music FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 95,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "CBS Std FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=cbs&ch=sfm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "CBS 음악 FM",
+      "urls": [
+        "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 97,
+      "logo": null,
+      "votes": 531
+    },
+    {
+      "name": "CBS 음악FM",
+      "urls": [
+        "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 97,
+      "logo": null,
+      "votes": 506
+    },
+    {
+      "name": "CBS 파워라디오 [Music FM]",
+      "urls": [
+        "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
+      "votes": 293
+    },
+    {
+      "name": "CBS 표준FM 98.1",
+      "urls": [
+        "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 97,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Clasico kbs",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNTYzNjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=YEEWivxPGJuDAz8qD5vr5oxHSeoPm4guqmNjPPTJ5dugqvKlOv6-yo-49Qwq1ryLNlllz-BZuGsjViaJ-ZiZBvrKesfEO-6R-Iw92ezOVmcPXnMpNvKqE1OHZazdQ-1CliZmLGzpMRcdLQv8ImZPai6NE67~Q6suSkqujTtvvNGzsq~Vr5sggT7KO-QkL2trTbXefLw2HEveIXKOrBsYypiZ9R9PbrnHEdQBqQwSAmSu~XkOkFc1jmD1V-~rWvMQOgXa4KjkDzp2wOz7GNPddnwGdOO6HizDKY4fNbbniX2Qcxdw8JLXN4d~HKmdanUpM3FsB-OejLe0h-BFAcFzow__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+      "votes": 34
+    },
+    {
+      "name": "CPBC",
+      "urls": [
+        "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODk5Nzc2MjUsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiNjQyNmQ1Zi1lY2MzLTQzMWUtYmE4OS1iNWE0MTNkZDA0Y2EiLCJpYXQiOjE3ODk5MzQ0MjV9.K0Vtvt_ilRAhKRFcQMCjLrHAuznTwqS_mUH4LwnYHS8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "ebs tune in",
+      "urls": [
+        "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8"
+      ],
+      "tags": [
+        "foreign languages"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 627,
+      "logo": null,
+      "votes": 166
+    },
+    {
+      "name": "Fred Film Radio(한국어)",
+      "urls": [
+        "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+      ],
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ],
+      "city": "Seoul",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 125
+    },
+    {
+      "name": "Gugak FM",
+      "urls": [
+        "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8"
+      ],
+      "tags": [
+        "classical",
+        "korean",
+        "korean music",
+        "traditional",
+        "world music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 194,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "GugakFM",
+      "urls": [
+        "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 94
+    },
+    {
+      "name": "GugakFM",
+      "urls": [
+        "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8"
+      ],
+      "tags": [
+        "korean",
+        "traditional",
+        "world music"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 96
+    },
+    {
+      "name": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+      "urls": [
+        "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNDU1ODB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dX~kmh~Fr9hsD0-UhQZhDg5PPqOToh7r59dW6t6vvkeRUMFJHEfzPd2g6u5Ct8xBA~f4yVjnbiTkmDcuRlo7g3GQy1JP8jfddKjL0hXhTJjoBymat3Ln2J5YbtYwzdIkn2ObrRLf4sb4DBXB~fPsvb7veGDR2y6~9kBjAwMOBa5-Ed5UF3ixSVX-Ww3Xb8XKSrkj5axac-zAXRcYD0KTxVWJvMGRp5wHbZCsJlIodSHlW~PiYODw3NRDZL~FitTnEbdHW9WgomUmfPUvqOLLIq8fppBKYcZU8f~vpCRDLsROSFN0NPlQ~TNTrLFFlisV8s8OBeVmvTwZjUux~488ug__"
+      ],
+      "tags": [],
+      "city": "korea",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "JTV 매직FM",
+      "urls": [
+        "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8"
+      ],
+      "tags": [],
+      "city": "jeonju",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://jtv.co.kr/2021/favicon.ico",
+      "votes": 79
+    },
+    {
+      "name": "K-RADIO",
+      "urls": [
+        "https://s5.radio.co/s0a9796fe3/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "KBS 1R",
+      "urls": [
+        "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDE1ODc5N319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DDOgC4ZvRMdnW7AkiM1PnyFh0eWPJyPLzR6SFu2o0PXCUXhVeSvLsDTwA94oaH~DHo1scFJZIHRn7yBwnCVr6vNkuB1PsqCwysYFUar2WlZ-gwWUplwq-MNA7Dn9JRRkTManLpkHpZGVXF9mE1VdXkx0DjOtckc7wbFLPrfhcxmrpuSofgTzEsmGF9qk3lXigZ5TVaeSpZWxO82K9E81jg8nRq6TEQCI17Gt7A62NNI9VPr1rHHM2aOMixBF~JUUxjca8UraMHW8faSIGkT~GXz0HFKkMDldn2WDRx1KohdvLwnSRHvMPiaM8~4i42Mj3uZNQw7Wk58~gSMMgxhB5A__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://res.static.kbs.co.kr/favicon.png",
+      "votes": 1033
+    },
+    {
+      "name": "KBS 1RADIO",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs&ch=1radio"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "KBS 1Radio",
+      "urls": [
+        "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDE1NzYwNn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=acp2U3D5J5wcwE0h1WfcE~TNjqeoyp1LQBOjhSPUuLyUS4XpOfrSdlA28QbQhLcVsfVey1nh1p2BpvhE-AEgvUZ4qgYNWJBq4gZPwtQhffU36MDUS8fT4Qm82HTbweucJiP~KF9cnOz61OhGkrpMxlFGwmYQyeObpbJKSi~5JbzdeKMTlV-A95lxpXNND5FnVoGfzhzcMsw-yckXjFu7uzHFOOvrcBo-ebEqBmNv8Spj-XSJ-ol4hICFFP1Ev4iF~5JQQz9NbhlCVs~zTRUCCZuw4YZoFIbHqoJz6mAY4dKxpoLWSHVB5LEhnkS2tchyGcZApvP140UgcxNZz9bvpA__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://res.static.kbs.co.kr/favicon.png",
+      "votes": 575
+    },
+    {
+      "name": "KBS 2FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs&ch=2fm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "KBS 3radio",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs&ch=3radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "KBS CLASSIC",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNjcxNDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QlpTruVKKthpe89FhpFt5FCZnSgA66qsW8ch20cWQ-ttj5PI7uHMRknZyKWENmy0Vbxv5rx2KoIuv0w4TsC6VoTfSox4g9Dq~rKsbQEJ402Yr1o3uwDQcv9CEW9pP4pRJ3w66yF-xP3qOr5CbYZW2~sQ3PobYdy8Ge4vqgY5EfjvDu42qaaQY8bxqUYXveUTYd9g09UpTvXuLFkM01nd6sMNe1A-KaX0BzlP1eO~AbXGNmjAeGPESH-k31bnZ-7qwW95Kk4V1pQIcgoZEgNkIeBW0gnl4vN47eV0ePXwRItV15JdLlFJYVtQdA~4gNtVX6syJqK0iWMqlfMk4IYFww__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMDcxNTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Qtp5Cu4C773ZgqFVG65qvAqYrpJ8FQPaSs2Tm~Zf-cOYJYSEGDZS0kHBcxBZHHg400jozZH6AobMENTPoG~E7qCaQL68~16cUpaQ7f5drbIwM~xcHNX-DmjSx4UiMSxLXNxK7IAlNS8thEwn3Q5e-YlrGPcmxugUC8nIbdfKtSOmpUijeyJTCM5j3OGcl7EKCyHz6HmfuALYDLYaLSFNbq7eUzO8i0JFZWAnsS~oYYmbwwkbRV-Fz3x-prnQCTo9ha6UGdyugBNwDRe6qyvnGI~OXYGu1MJizhae6ixn5RnjveaGC3XNekbmNPpyTciw2KrsIUdo-7PyvvZfEEVpLQ__"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+      "votes": 1152
+    },
+    {
+      "name": "KBS CLASSIC FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxODk5NDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZM3~HXkhqBFKIHR2Gk-6~eXRAvmIIbo-OfqD76a1wT~o2QugFBB96gE8Zd~W7PDaaBmd9c~x~y8ikE4SSJbbe~W3i7yX9OvoYAo19mR7t9ANJyNJhrnX2jymAR2JLKvyjCXrmW80Epve2M~vuwQdWWCuwqyLlSMXI95Fut8Stwts7fM-HZTNc9gp~jCfeVCeoqg01mKdW-eAQvgNHY1aDKB0sAz0TKxoXoYqiGLIRiswRrAFx-YUJS8-J1HXxxBNfjAVPM-x4Oll9TPaWPJuoC70XU~YgKRqI4VPCA-rGwY6jvnaQM0FUtA-n~FLzVXs1BB~sPcj09~TPYWZHt8yYg__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNDMxNDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=gW8kA-qPt2QRLMbqOV8sLDJRodlwF0-Q3GCycFOV6ZTmnWN0Lh6hnsFsMgd3gpU06Cx~f0In32w-XG6Lm-rCCInLTe1TtLNSu8xJmQ3EeyRG1BbMiYoZ0tOPGntwym7Fq7E3rAYc3~mIBDLT0JbpDpT1RtKoIG18ieRtppmzixJJ4z5xDbMyOqK5MMr4J98ADXX~vpWh8VtKIB9Zb98EHSt2Dj42irrP4nLUEI7Asemr-aGE1HX3oxSy5CJeXBAcAPCwNkP7Ku4NYDzzmtie4BJEAvrvObZvLf61ZdtyAOaa-Ld8AumXHO3DXFwa8O5E0djBfrt7I160uMjbnpMJxQ__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 50
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMzMwNTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=f9aPrNZXPJSjVk3-iMb4~CHuYoG0xE8H00FdbfX0s~814ayp0ont7A-ENEH3qZDqliQ8M-edaYK6Fz3hzWIHl0I7ppwYNjYiLIE2jqCcMwKP7vWMCgXIInWxxOB4l2C~KEkFi5gO36eff8ZteNI8R1FOicS-4gRocW9icCFan7BuedgSAZsubz60WOoCgqr-Q2z0ryDPF9drW8cGBcGQCZ1F9RE8CQBcOnePFANCuOmIw2xyv7aUqRRkpmOAsapTU32fGKh3tV2vTrWDJwBZwdAcp92IaX0idRE~-UHXS7DtqwMQiIfatPHqpNzLpjPy8JM06l5UpLf9uQNJ92ZhXg__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 70
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMjI3NjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QnkzzZ8Xl8kuCBv0HGoMEWZRZdmMzb8hxb1A6TDDoR157DHHxpbMaWAO6XfTduzPk9YyX5PoJqw3tEWbbEzd99C4KQ3BhP~LM5515H5xdL00pZ3L1XyGLPH2LtHKkaz-GW9z16PzR~P17ZO3Xm27fEyb9PmmQDqFWao8NP1xyCXg5Gwii9Tl3F8y64o1FzsDulY7m2vcZKyFdncXog3JFPUU4X9bD5Xcv~ZdPf-QTbikhzfJKWfigmW0W3DZKZ-by82Qpr9zAlSlIzG6oayOF9hd~MacSr64x0kW0xjwq7jwMLEECpzopQA9h7u2GnBwsZM6oeG2Ck0W7eQqMKYZvA__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+      "votes": 2140
+    },
+    {
+      "name": "kbs classic fm",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMDU5ODF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=H1kHj0eG9JvP7-XNXILQTCPRlgze6u-cU~wwsQAnb1J~AK95Y3nCumVZclYYN48McpHkpSjON2UdcMpzLG3oRU~rYcvnZ9~speUVI8mnDU9R-QMN6CI~~oCWzfqA94zgxdPsP4y5bCuhAoCUuVF6Xpe3sRqIOp06Jgg0LnunW8jSpXVRO70sUDxsqNxbj4JfxDLkgaVIFiZ~DVI5UGQeIJOI4hsVIHiapU-pr-xEIuUdXTZcoeL6n1kPbshHYqIhQ9ZAGfelLyVnrXEja-V2clzbpDvE2gRM4dceiF6rL4-bBOZovg9hjqLu5-dkkrq2Es2nm4Ln4ObdE0vQWB8FUw__"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 55
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMTMxNTZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dTeoyEbigrUUQPj0lJgcDOIq~nrue37OFElwKsGsXv8Fs50Hf8mcBIFbqem2QjXFScJ~C7HG6UCQoMTNW0~6M7~DIfD7I-wLPiuDGuOQJ67gJPA6efcmr9cTlIT0dZyXewRmsyxKGy4fVTDy~uJuZ5eYuezOABIYd6lf0J61ZyopDrFzhWVBIqmR3OfWlIcA-sDVbYjRIwTkit~GHyYgh07bfbj9xmj1ft3g5AtGnAKx0TkIDTDusP9I6xNjcivcCBChD880Nt1MOfTQnsVL0wOMf4DLWCkiDeFe76Jgosv6Ni8Oi-m6E1phi8CAwBwNq2ZRmhMoTXreQa8jru-WcA__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMzExODd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=npopf0Jku-uHA-ga02A5KMaY15-O-bY0DCTHv~UBOW~AnxCfqxvto3bVowFy8x7dxErKQ-imoWuqnh0ckAjpm9TImD7KvVKkUz7GoA6d9Lx~k4TNKozkiTXKVF5y~vjsP-NVz7zSzQ9LFeBr8QYaWHqXfwlzz9F0NYh1G1UYutOpsTckn--IKYKhfzDVxC9SwdQOMNpSuscNrG32Vuu0mxfLtwNUFfTNEOeZsNMtTWpHZKgxqDunZ1oPmDCTR1tcMcAJQm9O5IGlCstBIZ2NffeOwqQQhIbK4pgGm8LRBbsTgLPrtvvJR8Mja1iG0JBCNivcJUpF2-6x5voFgUITAA__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
+      "votes": 7
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNTQ2MjN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nyna5gtSURZRx~JlINk7f-jJs1MqYhP1wdiGkLwazyHTIx84bZLYRkURcqyDbKVmRlYeFOydUKZ5~1ciZhzaerWzX0sjUOxy0eh0JEfWwXwfEp7ap6yAkWBtafLXqlCWjFXcDry-7MoHUs-a74ayGO4OfTusQVlaxFNJ3mvGFEvdT2RyiF7UmXfsCQVEzyn-3RVv-CkT-ffJhKsZi08CA13TPtr9xOwguVzfw41VTR6~e9~qUOXajDteefPvLzBWUlodTEhPCmP4-b0cS6wD4p9MDqehtSJu-P7NdttKrIFrt3zwiR0J7cI6mjn-~YL0HfnaqHwlarzRlGcJuvM0Uw__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
+      "votes": 23
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMjg3Nzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=P7lxKxu2GoW6cZDKNvaryiDMi0xojYJfA6PtEO6eZl~HiPuID5J77V8ntb9RQ1wkPeyezn9ZohKhN5bd3F0PQcYkqFsw6nVatQy9slLQ4S-YUoJc94Xyo~ltxH52U8XtD-YE3XAGUIDFvNEAMpWIjbKlv6OmNZUirjdxnBQq-PSjsw-FnVLPUhm98TIn9VF7~K3bMXDSbqIuUb8RbbuHrby2K7YICDMtXfPdbDTFQvNFcO-C8dOSuJLaCYQDm112jBz7~z7EyR2lJxpSNRFwc6~ggRoVO3J1dRW24tNsZVvi2zT3-tH5VridvaXx577CyNu6LSbVf0lJrRcKr2SKGA__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 37
+    },
+    {
+      "name": "KBS Classic FM",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAwOTc1NzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=l0o~qzz8iKkGVsjebNIc-w-K3rUUvpx89D8~C2yxkGT2p-Dyqd6JzdEFNe5pdAd7stZ1JuNTsrAb7XRqdkLiobW9obMhmgV2KTB~sMBnDXXTmGhLa4NKN0rQRAMIRqK1a4gYrgHmS7FRYxbGykTGTyoDpPUrpfpH4kN18wy23Dlxjv4R6C7HQeTbRABUBDZo5CQjq8VynB72FJqUiAsgAiec48fzGFgst4e-BacrokdgEoJ59HHalicf-nV2HG7AKr8wNm9TL8F~fRU41dsN~msuRLH5jDJixmIzM5elRHbZjFNY7DrDC2o4jY7hpvsGCmoindIfzssLbIbTVh~C1w__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://res.static.kbs.co.kr/favicon.png",
+      "votes": 201
+    },
+    {
+      "name": "KBS Classic FM zstream",
+      "urls": [
+        "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNzYyMjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Qi9Lx6W8xucFzODKtdqdg-s85l0xQjiHcc-JNdSaqss~1dB2ym3W9KBFQh4c~iPFhpKisvCoCNzKp8oBd3gT5aRCeECTqwLejqwvdjsc1UzIKWBjNf0LVQ9NWCTluK~UIQf5dFPzvFTaAYcwaS4LnF9kCtUPz2m0-IXwMlZQrXmr2b7yN-9uHlODkL7YfmPw7gHQczEPBbxu1OknYzq9-cWQouOuMmd7ZXbTWy0~1cafVqUThbQDzSPUkYijuLILrQfIlaYhFLqNQ7e8GXpSQFb2l~p1~22zIkuZFW6MBQYTLIEwEW~uYQIGrpEahJ5RJkL5hotOOHMIkHINkVY6CQ__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://imgur.com/0sWnnQO",
+      "votes": 4
+    },
+    {
+      "name": "KBS Cool FM",
+      "urls": [
+        "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxMjg3NTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=i6Wbp6PT6jt6uKiYSBjb~~XDEVTcNiDdVyNU0RdKGKRhcL6K2g91RBcPQ1877JafFB0FJUd7UTRi4hAkOg30rTj5A1eAws5z4bnpJtJhWjVKTpHsSsLYxzBX3BCBVQe-ygTG9m6WJfNWjiu3vQ7v5coeRL-3bnGZmLjM6tJIri7BGtSab~gWQYRCDWqlunGSvTxvSPIc-zb7yloJtSx0Lphj9HcdvGhWlRGn7-uSGJcFV5K-FwgVXu4GOrtsPzCJYQcAeBNxbwlxpEjkE5RWUU7kLe1zLU-cHcwaVY1zqM8xOs8BKasiBrOFRUQwsA1YMBZjWcBTNMuL3CXVxhTGDQ__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+      "votes": 90
+    },
+    {
+      "name": "KBS Cool FM",
+      "urls": [
+        "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAwOTE1OTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=N2kaxEP-YohCDEC-zdnvl-egiJReB8rxmeIE~4aVKlnhPS3iyFVdEa8KK~7Fd5qGv8d-9M5Xjp6~cfybI~a8u9Eed3GC4Stl2-FohJpFqgBQHkrIifaRFuJLgQW3Ape8qBHGna4INXkcIf2xSL9ZSs~hn~Z6laJy~TKVSdWbHuRY~heoD8VrVoEJ2-IL81FqtfqsqkEPSTBpK0OySdet2SByA3d9qZM-0I-gNV11RvbSoIOZAMYc-7bNFhXHT6c-rScU7omPjBR0NaBwm~wWpPDvzrCDkmylEoRUyro9hj2BZwmANlupwLTKn2pN-tr1kyWq1Wdbs9RzdUfKc2sdpg__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+      "votes": 114
+    },
+    {
+      "name": "KBS Cool FM",
+      "urls": [
+        "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNTAzNTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JjRhUyK3~8enmPeVAFtCnH51zWtToh9ISgBCVO72rEUgw3MEAWunC~jQAZI3v3CdeT2HPo9v3k2qlDBsuIey1j-OeHHO4zHbBrc29UsXgZZk5r1fA8V9XEDH-s7YmHhfkat4XEjtIdNpvQdtM6v9q2vnWYRcFmhjd-x2G0ECFlzYmU5VoH0w6DKJIiFLNaCvE1iDnJF4T-N0nRypS6njmSQYVs98L9gSsPmczVgElrJZEe0nBBGEMlShRNAqElOfzYYWHLVKUaTSjaVQF3FBEzyTt5yZSF4qJlTLXJniyj-twzvwi~dK6xr0qI3cqrJuDL~38Ku6m4NAxYucq3bkLQ__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://res.static.kbs.co.kr/favicon.png",
+      "votes": 679
+    },
+    {
+      "name": "KBS Cool FM",
+      "urls": [
+        "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTAxNzQzOTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=l4RqNn7QKSdnAuA1g6EbnBsq1wLm0Yt7Hb~pT6AnXY8d1wEOqmvXpCIxjSLLjlDsRTrz4okowFuegefzYffdsTPUSzHEoPKEiErQE3Cv39CK66lHRc49RO43Ov59CbjHPC5SPNjCqOrL-6fpUtwbmPlQ08so6ooVoLC5SjNtAtoNVWgHsMNC2ZeW14zq53x~iuSooh1t1Oo1GTEZiV3G0Om8RCyejcyj8Uj~cgb9bzQ7-15NQrbM4yb0n5ASqoQfHiciS2ZKgp~78HUexUohFG6vBV1B~KdNpPGS7PHmKpGYpe0a2AT0I6PunXp5ON6XyH~e0nSF~-kbfZyUaVD8vw__"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://res.static.kbs.co.kr/favicon.png",
+      "votes": 121
+    },
+    {
+      "name": "KBS HappyFM",
+      "urls": [
+        "https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://i.imgur.com/NyGnXcp.png",
+      "votes": 18
+    },
+    {
+      "name": "KBS_kor",
+      "urls": [
+        "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDE4NzU3OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CXSY1nYrvHI2UYaq4OxdimgFeQVFG75v6uMTFbySK4VAqIlZfnPzVHSIO0DYhxE9E-3j7oLozQrPKIic7IGMKg2f6-TiUyjyI0MIDOwIJThXLNnZ-f0n27PtdgWJjapN-iOP4ZpYtvQqJQoNOftXeMRV70uTrcGfFOIjhOmZ3YPLh~AwWMiAD-~gSMXV5Y7FBjWAkQVWC6U3GXBfWnev2cUiA40PzO31PNE6GVlpEmMs1pQrH8Zvi8hGqjHCD9WntyZmbf~wYH7gD7TmmRKQ~cOHX4ZwsBE1NdUVUwt-Mixg4ZlgfW7Y67E4TF6MO3nNkqk6REW4bDDmygtXFfzwvg__"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png",
+      "votes": 126
+    },
+    {
+      "name": "kbs해피fm",
+      "urls": [
+        "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDExNjgwOX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=T2zy5nZElCMM-MgLDNV4nlkctsRHnUSwBLwz6OWmGJ27iX7GwE-jctXAysEussR6bO-ByAi5W8~AC0jL2LIC5gHuHgdBnWGqlGH1Xj3PqhsI9vW1~c5CQhHqm~Cq4yc2EylQHOuyMcFXxazJ0-kJH12JirecI-n2qMYvasfKnu9xmQ84DEpVUA4vzU4bkjOOJVx3FAYRFhPUqF2pkA96jw3km6vFLIovS~PtFlDPY7CKvQbZrcnIYjTxyCSmCGJ542XJHVwGqEa05AajoFTVQPtzxg~E5qHoG4z-BJk~7G7FslAYSkeSWGdtl2HQAQsFdn~Nf0bsF06mqrw61FuxYw__"
+      ],
+      "tags": [
+        "country"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 273
+    },
+    {
+      "name": "Listen.moe Kpop",
+      "urls": [
+        "https://listen.moe/kpop/stream"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 192,
+      "logo": "https://listen.moe/favicon.ico",
+      "votes": 2759
+    },
+    {
+      "name": "Listen.moe Kpop (MP3)",
+      "urls": [
+        "https://listen.moe/kpop/fallback"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://listen.moe/favicon.ico",
+      "votes": 66
+    },
+    {
+      "name": "MBC FM",
+      "urls": [
+        "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6081261343E03D442C4775463C91484BC5153F95F409D2C43330D9aA26723F067Ba3333935E2584F40F9319147bFA167EA8FE94A8D47BB12C1A456617671EF3C7F7B6A769E0B72C9BBA5AB1D5A0F48CBCA31A24C09E7D3CB5FCDBB73EBD5A190B848CED99C87A16DBE86EA604C4B831B"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 65,
+      "logo": null,
+      "votes": 1321
+    },
+    {
+      "name": "MBC FM for you",
+      "urls": [
+        "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6ED1881DB3FE3C54E24AC5FB3041DD4085473A15760882FC31C0F5a936013B96E7aA832B31F23147407932813DbD61D2E5911F3B87353EBD463798A4E00830F37F29B015B838BFA70DB1BA97535224A685155628FD9190E7C0A2DF3E3BF17D5598356085F4C3B831FC94A2BEB8CC9306"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 65,
+      "logo": null,
+      "votes": 608
+    },
+    {
+      "name": "MBC FM4U",
+      "urls": [
+        "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=60717918235433A4C04C35A734B1144305E23195920BA2C03EE0FFa3A6013D567Ca5230436929C46002E31B192bF810F7204D860B9E38CBFFDAC86D4E7CC739910746D4E66E0DA3EB8290B9DD5864E29035A25539F174C74E967D792D8C0B28AB6FDC3232B2F692E30754A5FED4ACCF3"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 66,
+      "logo": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
+      "votes": 1556
+    },
+    {
+      "name": "MBC 올댓뮤직",
+      "urls": [
+        "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=63D1AE1AC3F631D48043E5F039415241E5993CF5B20932F13C106Ca96684345666aC73D43BC2CF4E90B831B1A3b661FF7CAAAD7D5CF19E3F88BB8922BB32B5FD84D8F4B42C8EBDBF212CB0BA75EDB0C0860C8D79CCE086927220FA5D674B50606015DEDED5282E7F0463808FC24F31BB"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 67,
+      "logo": null,
+      "votes": 88
+    },
+    {
+      "name": "OBS 라디오",
+      "urls": [
+        "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "Gyeonggi",
+      "codec": "AAC",
+      "bitrate": 143,
+      "logo": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
+      "votes": 114
+    },
+    {
+      "name": "REPLAY NEWS - 한국어   5분마다 뉴스 라디오",
+      "urls": [
+        "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "incheon",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
+      "votes": 22
+    },
+    {
+      "name": "SBS Love FM",
+      "urls": [
+        "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTAwMzg4MTEsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiYmFlZmI2ZTgtNzNiMy00OGViLWE1ZjAtYTAxYzYyM2ZiYmFhIiwiaWF0IjoxNzg5OTk1NjExfQ.oNTa-FtuzVw4sNMpNYLPOBhlO9qTjqiR7nW2jhNIWZc"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 146,
+      "logo": null,
+      "votes": 131
+    },
+    {
+      "name": "SBS Love FM",
+      "urls": [
+        "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTAwNDAwMTEsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiODBiNWY5ZjQtZWE2NS00NWZjLTgyNGQtNDc0ZWIyNzI4MzY0IiwiaWF0IjoxNzg5OTk2ODExfQ.TkiRNPOMzAB-bMKRHVbqKx2nB1rSMfEx22GjP1Xg6l0"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 145,
+      "logo": null,
+      "votes": 556
+    },
+    {
+      "name": "SBS Power FM",
+      "urls": [
+        "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTAwMDc2MDgsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjUwMTE0NGI0LWFjZGMtNGQ0ZC05YjY4LThlOGU2YWQzMjE1MyIsImlhdCI6MTc4OTk2NDQwOH0.LSjWdjQHnaV-HoYFVtJackx-M5QgJ2z1DQ9o1nUPdF8"
+      ],
+      "tags": [],
+      "city": "Seoul",
+      "codec": "AAC",
+      "bitrate": 146,
+      "logo": null,
+      "votes": 920
+    },
+    {
+      "name": "TBS eFM 101.3",
+      "urls": [
+        "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 414,
+      "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+      "votes": 25
+    },
+    {
+      "name": "TBS FM 95.1",
+      "urls": [
+        "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8"
+      ],
+      "tags": [
+        "full service"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 414,
+      "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+      "votes": 28
+    },
+    {
+      "name": "YTN 라디오",
+      "urls": [
+        "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 131,
+      "logo": null,
+      "votes": 339
+    },
+    {
+      "name": "경인방송",
+      "urls": [
+        "https://stream.ifm.kr/live/aod1/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 125,
+      "logo": null,
+      "votes": 84
+    },
+    {
+      "name": "국방FM",
+      "urls": [
+        "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "안동MBC FM4U",
+      "urls": [
+        "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8"
+      ],
+      "tags": [
+        "k-pop",
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 36,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "평양FM",
+      "urls": [
+        "https://listen7.myradio24.com/69366"
+      ],
+      "tags": [
+        "105.2",
+        "105.2 fm",
+        "music",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.behindthecurtain-northkorea.com/favicon.ico",
+      "votes": 269
+    },
+    {
+      "name": "하늘호수24",
+      "urls": [
+        "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8"
+      ],
+      "tags": [
+        "entertainment"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 125,
+      "logo": "https://sky24.inlive.co.kr/images/9.png",
+      "votes": 32
+    }
+  ]
+}

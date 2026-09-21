@@ -1,0 +1,97 @@
+{
+  "code": "SR",
+  "name": "Suriname",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 46
+    },
+    {
+      "name": "Ishara",
+      "urls": [
+        "https://a8.asurahosting.com:7030/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "NIO 107.5FM",
+      "urls": [
+        "https://loa.beheerstream.nl:8060/stream"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://nio.sr/wp-content/uploads/2017/10/logo.png",
+      "votes": 69
+    },
+    {
+      "name": "Radio 10 Magic FM",
+      "urls": [
+        "https://s5.radio.co/s85a633f73/listen"
+      ],
+      "tags": [],
+      "city": "Paramaribo",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg",
+      "votes": 255
+    },
+    {
+      "name": "Radio Apintie",
+      "urls": [
+        "https://surilive.com:8000/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://fm.sr/assets/apt.avif",
+      "votes": 7
+    },
+    {
+      "name": "Radio Sangeetmala",
+      "urls": [
+        "https://rs.suricloud.com/radio/8030/radio.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 207
+    },
+    {
+      "name": "Radio Shruti",
+      "urls": [
+        "https://rs.suricloud.com/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 173
+    }
+  ]
+}

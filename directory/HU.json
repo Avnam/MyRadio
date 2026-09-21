@@ -1,0 +1,2670 @@
+{
+  "code": "HU",
+  "name": "Hungary",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "103.9 rock",
+      "urls": [
+        "https://icast.connectmedia.hu/5301/live.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 199
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "AdventNet rádió",
+      "urls": [
+        "https://radio.adventnet.hu:8443/stream"
+      ],
+      "tags": [
+        "christian",
+        "cultural",
+        "religion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.adventnet.hu/wp-content/uploads/2013/05/copy-adnradio_logo_s.png",
+      "votes": 12
+    },
+    {
+      "name": "All-Star Radio 70's",
+      "urls": [
+        "https://a2.asurahosting.com:7620/radio.mp3"
+      ],
+      "tags": [
+        "70s",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://all-star.eu/img/allstarlogo.png",
+      "votes": 2
+    },
+    {
+      "name": "All-Star Radio 80's",
+      "urls": [
+        "https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://a3.asurahosting.com/static/uploads/all-star_radio_80s_disco/background.1771604217.png",
+      "votes": 6
+    },
+    {
+      "name": "Argentine Tango Radio",
+      "urls": [
+        "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3"
+      ],
+      "tags": [
+        "tango"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radio.net/300/argentinetango.png",
+      "votes": 147
+    },
+    {
+      "name": "Base FM",
+      "urls": [
+        "https://icast.connectmedia.hu/5401/live.mp3"
+      ],
+      "tags": [
+        "hiphop",
+        "rap",
+        "rnb"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://basefm.hu/wp-content/themes/basefm/assets/dist/img/favicon/apple-icon-120x120.png",
+      "votes": 1347
+    },
+    {
+      "name": "Best FM - Budapest",
+      "urls": [
+        "https://icast.connectmedia.hu/5101/live.mp3/;"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news",
+        "top hits"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/favicon/apple-icon-120x120.png",
+      "votes": 1195
+    },
+    {
+      "name": "Best FM - Eger",
+      "urls": [
+        "https://icast.connectmedia.hu/5116/live.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news",
+        "top hits"
+      ],
+      "city": "Heves",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 30
+    },
+    {
+      "name": "Best FM - Nyíregyháza",
+      "urls": [
+        "https://icast.connectmedia.hu/5115/live.mp3"
+      ],
+      "tags": [
+        "local news",
+        "top hits"
+      ],
+      "city": "Szabolcs-Szatmár-Bereg",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 394
+    },
+    {
+      "name": "Best FM - Pécs",
+      "urls": [
+        "https://icast.connectmedia.hu/5128/live.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news",
+        "top hits"
+      ],
+      "city": "Baranya",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://myonlineradio.hu/public/uploads/radio_img/pecs-fm/play_250_250.jpg",
+      "votes": 54
+    },
+    {
+      "name": "Best FM Székesfehérvár",
+      "urls": [
+        "https://icast.connectmedia.hu/5113/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Bias Radio",
+      "urls": [
+        "https://admin.biasradio.com/listen/bias_radio/live"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://biasradio.com/wp-content/uploads/2024/06/Radio-Bias150.png",
+      "votes": 348
+    },
+    {
+      "name": "Bridge Fm Hungary",
+      "urls": [
+        "https://radio.freestream.hu:8340/stream"
+      ],
+      "tags": [
+        "comedy",
+        "dance",
+        "disco",
+        "instumentalis",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Campus Rádió FM90",
+      "urls": [
+        "https://stream.fm90.hu:8000/stream/1/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://demedia.hu//assets/img/favicon.webp",
+      "votes": 2
+    },
+    {
+      "name": "Campus Rádió FM90",
+      "urls": [
+        "https://stream.fm90.hu:8000/;"
+      ],
+      "tags": [
+        "hits",
+        "top40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 27
+    },
+    {
+      "name": "Chiqui Radio",
+      "urls": [
+        "https://stream.zeno.fm/gvz27wezgghtv"
+      ],
+      "tags": [
+        "breakbeat",
+        "breakbeat hardcore",
+        "happy hardcore",
+        "hardcore",
+        "trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/vsgsYL0/83bff39a-7521-4c9f-b9ad-ba9104d110e4.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Cool.FM DANCE 2000's",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc04?ver=209775"
+      ],
+      "tags": [
+        "dance",
+        "retro"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "votes": 429
+    },
+    {
+      "name": "Cool.FM GIRL POWER",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc15?ver=58649"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/83881.v5.png",
+      "votes": 218
+    },
+    {
+      "name": "Cool.FM PARTY Hits",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc18?ver=975254"
+      ],
+      "tags": [
+        "hits",
+        "party"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/1/83851.v6.png",
+      "votes": 158
+    },
+    {
+      "name": "Cool.FM REMIX MUSIC",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc23?ver=266114"
+      ],
+      "tags": [
+        "remix"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/83855.v4.png",
+      "votes": 216
+    },
+    {
+      "name": "COOLFM (Classic) Rock",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc10"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "votes": 187
+    },
+    {
+      "name": "COOLFM 2000-es évek",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc03"
+      ],
+      "tags": [
+        "00s",
+        "2000s",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 455
+    },
+    {
+      "name": "COOLFM 2010-es évek",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc02"
+      ],
+      "tags": [
+        "10s",
+        "2010s",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 220
+    },
+    {
+      "name": "COOLFM 90-es évek",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc05"
+      ],
+      "tags": [
+        "1990s",
+        "90s",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 286
+    },
+    {
+      "name": "COOLFM Acoustic",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc12"
+      ],
+      "tags": [
+        "acoustic",
+        "guitar",
+        "guitar rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "votes": 260
+    },
+    {
+      "name": "COOLFM Best Hits EVER",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc11"
+      ],
+      "tags": [
+        "top charts",
+        "top hits",
+        "top40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg",
+      "votes": 1043
+    },
+    {
+      "name": "COOLFM Bside/Alternative",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc16"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "indie"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "votes": 76
+    },
+    {
+      "name": "COOLFM Chill",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc24"
+      ],
+      "tags": [
+        "chillout",
+        "lounge music",
+        "relax"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 176
+    },
+    {
+      "name": "COOLFM Filmzenék",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc01?ver=753658"
+      ],
+      "tags": [
+        "film score",
+        "movie scores",
+        "movie soundtracks",
+        "soundtracks"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/K%C3%89SZ_Filmzen%C3%A9k_2-%C3%9AJ-R%C3%81DI%C3%93.png",
+      "votes": 940
+    },
+    {
+      "name": "COOLFM Funky&Soul",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc25"
+      ],
+      "tags": [
+        "funky",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1410
+    },
+    {
+      "name": "COOLFM Hazai Kedvencek",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc19"
+      ],
+      "tags": [
+        "all-time favourites",
+        "hungarian pop music",
+        "top"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg",
+      "votes": 332
+    },
+    {
+      "name": "COOLFM Jazz",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc13"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "votes": 245
+    },
+    {
+      "name": "COOLFM Karácsonyi Dalok",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc27"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "votes": 180
+    },
+    {
+      "name": "CoolFm latin",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc07"
+      ],
+      "tags": [
+        "latin"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    },
+    {
+      "name": "COOLFM Love Songs",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc28"
+      ],
+      "tags": [
+        "easy listening",
+        "love songs",
+        "romantic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/09/14v2.png",
+      "votes": 232
+    },
+    {
+      "name": "COOLFM Nyári Slágerek",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc09"
+      ],
+      "tags": [
+        "hits",
+        "party",
+        "summer"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "votes": 429
+    },
+    {
+      "name": "COOLFM Party",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc18"
+      ],
+      "tags": [
+        "party hits",
+        "partymix",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 433
+    },
+    {
+      "name": "COOLFM Sportoláshoz",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc20"
+      ],
+      "tags": [
+        "fitness music",
+        "running",
+        "workout"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 120
+    },
+    {
+      "name": "COOLFM World Music",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc26"
+      ],
+      "tags": [
+        "world music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 162
+    },
+    {
+      "name": "COOLFM YouTube HOT HITS!",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc22"
+      ],
+      "tags": [
+        "hot adult contemporary",
+        "top hits",
+        "young adults"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 756
+    },
+    {
+      "name": "Csukás Meserádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4611/mr10.mp3"
+      ],
+      "tags": [
+        "children"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://mediaklikk.hu/wp-content/plugins/hms-mediaklikk/common/styles/images/csukas_logo_horizontal_v2.svg",
+      "votes": 271
+    },
+    {
+      "name": "DANCE 90'S",
+      "urls": [
+        "https://mediagw.e-tiger.net/stream/zc06?ver=887687"
+      ],
+      "tags": [
+        "dance",
+        "retro"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "votes": 613
+    },
+    {
+      "name": "Dance Wave Retro!",
+      "urls": [
+        "https://dancewave.online/retrodance.flac.ogg"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://dancewave.online/dwr_logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Dance Wave Retro!",
+      "urls": [
+        "https://dancewave.online/retrodance.opus"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 96,
+      "logo": "https://dancewave.online/dwr_logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Dance Wave Retro!",
+      "urls": [
+        "https://dancewave.online/retrodance.mp3"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dancewave.online/dwr_logo.png",
+      "votes": 96
+    },
+    {
+      "name": "Dance Wave Retro!",
+      "urls": [
+        "https://dancewave.online/retrodance.aac"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://dancewave.online/dwr_logo.png",
+      "votes": 22
+    },
+    {
+      "name": "Dance Wave Retro!",
+      "urls": [
+        "https://dancewave.online/retrodance.ogg"
+      ],
+      "tags": [
+        "90s dance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 160,
+      "logo": "https://dancewave.online/dwr_logo.png",
+      "votes": 305
+    },
+    {
+      "name": "Dance Wave!",
+      "urls": [
+        "https://dancewave.online/dance.mp3"
+      ],
+      "tags": [
+        "club dance electronic house trance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://dancewave.online/dw_logo.png",
+      "votes": 4
+    },
+    {
+      "name": "Dance Wave!",
+      "urls": [
+        "https://dancewave.online/dance.opus"
+      ],
+      "tags": [
+        "club dance electronic house trance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 96,
+      "logo": "https://dancewave.online/dw_logo.png",
+      "votes": 0
+    },
+    {
+      "name": "Dance Wave!",
+      "urls": [
+        "https://dancewave.online/dance.flac.ogg"
+      ],
+      "tags": [
+        "club dance electronic house trance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://dancewave.online/dw_logo.png",
+      "votes": 437
+    },
+    {
+      "name": "Dance Wave!",
+      "urls": [
+        "https://dancewave.online/dance.ogg"
+      ],
+      "tags": [
+        "club dance electronic house trance"
+      ],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 160,
+      "logo": "https://dancewave.online/dw_logo.png",
+      "votes": 8361
+    },
+    {
+      "name": "Danubius",
+      "urls": [
+        "https://stream.danubiusradio.hu/danubius_320k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://danubiusradio.hu/logo192.png",
+      "votes": 1194
+    },
+    {
+      "name": "Danubius",
+      "urls": [
+        "https://stream.danubiusradio.hu/danubius_128k"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://danubiusradio.hu/assets/img/front/danubius_radio_album_cover_v2.png",
+      "votes": 464
+    },
+    {
+      "name": "Danubius Rádió",
+      "urls": [
+        "https://stream.danubiusradio.hu/danubius_192k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://danubiusradio.hu/logo192.png",
+      "votes": 117
+    },
+    {
+      "name": "Deja Vu Radio",
+      "urls": [
+        "https://carina.streamerr.co:8178/dejavuradio?type=http&nocache=297"
+      ],
+      "tags": [
+        "00s",
+        "90s",
+        "anthems",
+        "classic",
+        "dance",
+        "electronic",
+        "house"
+      ],
+      "city": "Csongrad-Csanad",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://mmo.aiircdn.com/1377/6669663b59417.png",
+      "votes": 95
+    },
+    {
+      "name": "DFM Rádió",
+      "urls": [
+        "https://s03.diazol.hu:7042/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://v2.vrapro.hu/beta/api/radio/83c97f1b02c9d67c01c89fb8bcd0e62e/img/avatar/1732382531.png",
+      "votes": 60
+    },
+    {
+      "name": "Disco Diamond Radio",
+      "urls": [
+        "https://ddr2020.radioca.st/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 103
+    },
+    {
+      "name": "Droid Radio",
+      "urls": [
+        "https://s41.radiolize.com/radio/8140/radio.mp3"
+      ],
+      "tags": [
+        "alternative rock",
+        "prog rock"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.dropbox.com/scl/fi/c4d5cx0ln4anyosv5szrn/DOD-FAVICON031326-3.001.jpeg?rlkey=wn0llvylw8cnpfh12m9hw750m&st=un0gotk4&dl=0",
+      "votes": 5
+    },
+    {
+      "name": "Európa Rádió Miskolc",
+      "urls": [
+        "https://europaradio.hu/miskolc"
+      ],
+      "tags": [
+        "christian",
+        "protestant",
+        "religious"
+      ],
+      "city": "Borsod-Abaúj-Zemplén",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://myonlineradio.hu/public/uploads/radio_img/europa-radio/play_250_250.webp",
+      "votes": 36
+    },
+    {
+      "name": "Ez az a nap! rádió",
+      "urls": [
+        "https://listen.radioking.com/radio/320174/stream/367817"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 23
+    },
+    {
+      "name": "FluxWave Radio",
+      "urls": [
+        "https://www.live.fluxwaveradio.com/main-mp3"
+      ],
+      "tags": [
+        "variety",
+        "various",
+        "various music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "FM 103.9 A Rock",
+      "urls": [
+        "https://stream.rockradio.hu/"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://rockradio.hu/wp-content/themes/rockradio/assets/dist/img/favicon/apple-icon-120x120.png",
+      "votes": 1108
+    },
+    {
+      "name": "Folkrádió",
+      "urls": [
+        "https://stream.folkradio.hu/folkradio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://folkradio.hu/favicon.ico",
+      "votes": 68
+    },
+    {
+      "name": "H�r FM",
+      "urls": [
+        "https://stream.rcs.revma.com/ar1n48k8b2uvv"
+      ],
+      "tags": [
+        "hirek",
+        "hungary",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Hír FM",
+      "urls": [
+        "https://n34a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABnZd5-KEAvca0veOvcEeJDw"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 183
+    },
+    {
+      "name": "Hír FM",
+      "urls": [
+        "https://n17-eu.rcs.revma.com/g39qb3n8b2uvv?rj-ttl=5&rj-tok=AAABnyvvjQIApncyNC72Klrv6w"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 58
+    },
+    {
+      "name": "Hír FM - Eger / Gyöngyös",
+      "urls": [
+        "https://n23-eu.rcs.revma.com/3zbwnap8b2uvv"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "city": "Heves ",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://hirfm.hu/favicon.ico",
+      "votes": 12
+    },
+    {
+      "name": "I Love Pécs Rádió",
+      "urls": [
+        "https://stream.ilovepecsradio.hu/ilp.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://ilovepecsradio.hu/images/ilp_radio_logo.png",
+      "votes": 7
+    },
+    {
+      "name": "Jazzy",
+      "urls": [
+        "https://radio.musorok.org/listen/jazzy/jazzy.mp3"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://jazzy.hu/apple-icon-180x180.png",
+      "votes": 1214
+    },
+    {
+      "name": "Jazzy Cool",
+      "urls": [
+        "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-cool.jpg",
+      "votes": 210
+    },
+    {
+      "name": "Jazzy Groove",
+      "urls": [
+        "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3"
+      ],
+      "tags": [
+        "groove",
+        "smooth jazz"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-groove.jpg",
+      "votes": 532
+    },
+    {
+      "name": "Jazzy Soul",
+      "urls": [
+        "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://jazzy-backend-prod.melkweg.hu/jazzy-borito-fallback-soul.jpg",
+      "votes": 235
+    },
+    {
+      "name": "Klasszik Rádió 92.1",
+      "urls": [
+        "https://radio.musorok.org/listen/klasszik/radio.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 2608
+    },
+    {
+      "name": "Klubrádió",
+      "urls": [
+        "https://hu-stream03.klubradio.hu:8443/bpstream"
+      ],
+      "tags": [
+        "commercial",
+        "local news",
+        "music",
+        "news",
+        "political talk",
+        "politics",
+        "progressive",
+        "progressive politics",
+        "progressive talk",
+        "talkshow"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png",
+      "votes": 3
+    },
+    {
+      "name": "Klubrádió - Zebrádió",
+      "urls": [
+        "https://stream.zebradio.hu:8443/zebradio"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://zebradio.klubradio.hu/static/frontend/icon/logo.png",
+      "votes": 3063
+    },
+    {
+      "name": "Klubrádió 95,3",
+      "urls": [
+        "https://a7.asurahosting.com:8160/radio.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png",
+      "votes": 7926
+    },
+    {
+      "name": "KoronaFM100",
+      "urls": [
+        "https://www.koronafm100.hu/live.mp3"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Kossuth",
+      "urls": [
+        "https://icast.connectmedia.hu/4736/mr1.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2038
+    },
+    {
+      "name": "Kpop Radio",
+      "urls": [
+        "https://s5.radio.co/s078df1838/listen"
+      ],
+      "tags": [
+        "dance",
+        "kpop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Lahmacun Radio",
+      "urls": [
+        "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "electronic"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 58
+    },
+    {
+      "name": "Lahmacun radio",
+      "urls": [
+        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Laza Rádió - Mulatós",
+      "urls": [
+        "https://stream.lazaradio.com/mulatos.mp3"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://lazaradio.com/wp-content/uploads/2024/09/laza_logo-2048x818.png",
+      "votes": 593
+    },
+    {
+      "name": "Luxfunk Blackmix",
+      "urls": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream"
+      ],
+      "tags": [
+        "breakbeat",
+        "funky",
+        "hip-hop",
+        "rnb",
+        "soul"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.luxfunkradio.com/logos/luxfunk_radio_blackmix_logo_black_r_400x400.jpg",
+      "votes": 205
+    },
+    {
+      "name": "Luxfunk Dance",
+      "urls": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-180x180.png",
+      "votes": 288
+    },
+    {
+      "name": "Luxfunk Radio",
+      "urls": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream"
+      ],
+      "tags": [
+        "breakbeat",
+        "funky",
+        "hip-hop",
+        "rnb",
+        "soul"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.luxfunkradio.com/logos/luxfunk_radio_logo_black_r_400x400.png",
+      "votes": 252
+    },
+    {
+      "name": "Luxfunk Radio",
+      "urls": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream?t=1779976848404"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.luxfunkradio.com/wp-content/uploads/2023/09/luxfunk_radio_logo_135x100.png",
+      "votes": 7
+    },
+    {
+      "name": "Megadance",
+      "urls": [
+        "https://gamershouse.hu:8080/livemega.mp3"
+      ],
+      "tags": [],
+      "city": "Hungary",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 57
+    },
+    {
+      "name": "MegaLive",
+      "urls": [
+        "https://mega-live.net:2053/live.mp3"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 105
+    },
+    {
+      "name": "Mera",
+      "urls": [
+        "https://stream.radio.co/s3fd8d173f/listen"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "MixradioRetro",
+      "urls": [
+        "https://stream.phost.hu:8004/retro"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 436
+    },
+    {
+      "name": "MNEWS Rádió",
+      "urls": [
+        "https://a5.asurahosting.com:6680/radio.mp3"
+      ],
+      "tags": [
+        "news",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://magyarnews.online/wp-content/uploads/2026/01/mnewsradio.png",
+      "votes": 3
+    },
+    {
+      "name": "Momo Rádió",
+      "urls": [
+        "https://s03.diazol.hu:7092/zene.mp3"
+      ],
+      "tags": [
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 17
+    },
+    {
+      "name": "Momó Rádió",
+      "urls": [
+        "https://stream.diazol.hu:7092/zene.mp3"
+      ],
+      "tags": [
+        "children",
+        "kids",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "Momó Rádió Mese",
+      "urls": [
+        "https://stream.diazol.hu:7092/mese.mp3"
+      ],
+      "tags": [
+        "children",
+        "fairytales",
+        "kids"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 41
+    },
+    {
+      "name": "MR1 - Kossuth Rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
+      ],
+      "tags": [
+        "news",
+        "propaganda",
+        "public radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 964
+    },
+    {
+      "name": "MR2 - Petőfi Rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
+      ],
+      "tags": [
+        "hungarian pop music",
+        "music",
+        "pop",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 570
+    },
+    {
+      "name": "MR3 - Bartók Rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
+      ],
+      "tags": [
+        "classical music",
+        "cultural",
+        "music",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 116
+    },
+    {
+      "name": "MR4 - Nemzetiségi Adások",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
+      ],
+      "tags": [
+        "folk music",
+        "minority",
+        "music",
+        "news",
+        "pop music",
+        "public radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 40,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "MR5 - Parlamenti Adások",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4746/mr5.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "news",
+        "politics",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Parlamenti_logo_150.png/revision/latest?cb=20160602193644",
+      "votes": 21
+    },
+    {
+      "name": "MR7 - Dankó Rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
+      ],
+      "tags": [
+        "folk music",
+        "music",
+        "oldies",
+        "public radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 80,
+      "logo": null,
+      "votes": 275
+    },
+    {
+      "name": "MR8 - Duna World Rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4761/dwr.mp3"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 40,
+      "logo": "https://upload.wikimedia.org/wikipedia/hu/5/56/DW_radio.png",
+      "votes": 39
+    },
+    {
+      "name": "Nemzeti Sport Radio",
+      "urls": [
+        "https://icast.connectmedia.hu/4656/mr11.aac"
+      ],
+      "tags": [
+        "entertainment",
+        "pop",
+        "sport",
+        "sports",
+        "talk"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://netradio.online/files/styles/180/public/logo/nemzeti-sportradio.jpg?itok=kDexZ43P",
+      "votes": 120
+    },
+    {
+      "name": "Nemzeti Sportrádió",
+      "urls": [
+        "https://icast.connectmedia.hu/4657/mr11.mp3"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 89
+    },
+    {
+      "name": "Next FM",
+      "urls": [
+        "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://nextfm.hu/wp-content/uploads/2021/11/cropped-nextfm70-1-1-180x180.png",
+      "votes": 126
+    },
+    {
+      "name": "ONLY1 - Electro",
+      "urls": [
+        "https://stream.only1.hu/electro"
+      ],
+      "tags": [
+        "electro",
+        "electro house",
+        "electronic",
+        "electronic dance music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://only1.hu/assets/img/fav/favicon-196x196.png",
+      "votes": 6
+    },
+    {
+      "name": "ONLY1 - Xtra",
+      "urls": [
+        "https://stream.only1.hu/xtra"
+      ],
+      "tags": [
+        "electronic dance music",
+        "pop dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://play-lh.googleusercontent.com/aBdQ7Vtb5kVtzl73gzKxbydMUBL0yfwuA5zxEWSTvKvul9jcd-TCXTniR5S8rMZrKeQOXlR1XEx8nN6cGp4iUQ=w240-h480",
+      "votes": 1
+    },
+    {
+      "name": "oxigen",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenmusic"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 141
+    },
+    {
+      "name": "Oxygen Black Music",
+      "urls": [
+        "https://oxygenmusic.hu:8443/blackmusic_128"
+      ],
+      "tags": [
+        "hip-hop",
+        "rap",
+        "rnb"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 90
+    },
+    {
+      "name": "Oxygen Classic Rock",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenclassicrock"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 3217
+    },
+    {
+      "name": "Oxygen Classics",
+      "urls": [
+        "https://oxygenmusic.hu:8443/Classic_128"
+      ],
+      "tags": [
+        "classical",
+        "classics"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 107
+    },
+    {
+      "name": "Oxygen Happy",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenhappy_128"
+      ],
+      "tags": [
+        "happy music",
+        "hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_happy_logo%20(1)_xficzsf8.png",
+      "votes": 29
+    },
+    {
+      "name": "Oxygen Indie",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenindie"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "indie music",
+        "indie rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 1468
+    },
+    {
+      "name": "Oxygen Italo Hits",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenitalohits"
+      ],
+      "tags": [
+        "classic hits",
+        "eurodance",
+        "italo",
+        "pop dance"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 1055
+    },
+    {
+      "name": "Oxygen Kids",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenkids"
+      ],
+      "tags": [
+        "kids",
+        "soundtrack"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 91
+    },
+    {
+      "name": "Oxygen Lounge",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenlounge"
+      ],
+      "tags": [
+        "chill",
+        "easy listening",
+        "lounge music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 320
+    },
+    {
+      "name": "OXYGEN LOVE SONGS",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenlovesongs"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png",
+      "votes": 161
+    },
+    {
+      "name": "Oxygen Magyar Zene",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenmagyarzene"
+      ],
+      "tags": [
+        "european",
+        "hungarian pop music",
+        "pop rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 6505
+    },
+    {
+      "name": "Oxygen Music",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenmusic_128"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png",
+      "votes": 3
+    },
+    {
+      "name": "Oxygen Music",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenmusic_192"
+      ],
+      "tags": [
+        "hits",
+        "top",
+        "various"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 1134
+    },
+    {
+      "name": "Oxygen Music Győr",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenmusic_gyor_hd"
+      ],
+      "tags": [],
+      "city": "Győr-Moson-Sopron",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 1
+    },
+    {
+      "name": "Oxygen Oldies",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenoldies"
+      ],
+      "tags": [
+        "classic hits",
+        "oldies"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 2712
+    },
+    {
+      "name": "Oxygen Spencer-Hill",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenspencerhillzenek"
+      ],
+      "tags": [
+        "easy listening",
+        "italo",
+        "pop dance",
+        "soundtrack"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 92
+    },
+    {
+      "name": "Oxygen The 80s Hits",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenthe80shits"
+      ],
+      "tags": [
+        "80's",
+        "80s",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 10609
+    },
+    {
+      "name": "Oxygen The 90s Hits",
+      "urls": [
+        "https://oxygenmusic.hu:8443/oxygenthe90shits"
+      ],
+      "tags": [
+        "90's",
+        "90s",
+        "classic hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 2442
+    },
+    {
+      "name": "Oxygen Xmas (320)",
+      "urls": [
+        "https://oxygenmusic.hu:8000/xmas_320"
+      ],
+      "tags": [
+        "christmas"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 160,
+      "logo": "https://oxygenmusic.hu/logo192.png",
+      "votes": 48
+    },
+    {
+      "name": "OZONE FM",
+      "urls": [
+        "https://oxygenmusic.hu:8000/ozonefm_128"
+      ],
+      "tags": [
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/ozone_fm_logo%20(1)_3ocrlth0_3dog9run.png",
+      "votes": 33
+    },
+    {
+      "name": "Ozonefm",
+      "urls": [
+        "https://oxygenmusic.hu:8443/ozonefm_320"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 118
+    },
+    {
+      "name": "Park FM",
+      "urls": [
+        "https://s03.diazol.hu:7142/stream.mp3"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://parkfm.hu/wp-content/themes/park-fm/apple-touch-icon.png",
+      "votes": 643
+    },
+    {
+      "name": "Passion Radió Hungary",
+      "urls": [
+        "https://a9.asurahosting.com/listen/passion_radio_hungary/radio.mp3"
+      ],
+      "tags": [
+        "pop music",
+        "reggae",
+        "rock"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Pécs Aktuál Rádió",
+      "urls": [
+        "https://stream.pecsaktual.hu/paradio.mp3"
+      ],
+      "tags": [],
+      "city": "Baranya",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://pecsaktual.hu/wp-content/uploads/2020/03/cropped-favicon-300x300.gif",
+      "votes": 59
+    },
+    {
+      "name": "Periszkop Radio",
+      "urls": [
+        "https://mumia.periszkopradio.hu:8443/;stream.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "http://periszkopradio.hu/kepek/perilogo2014-masik.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Petőfi",
+      "urls": [
+        "https://icast.connectmedia.hu/4738/mr2.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 221
+    },
+    {
+      "name": "Rábaköz Rádió",
+      "urls": [
+        "https://radio.molnarkft.hu/rabakozradio"
+      ],
+      "tags": [
+        "local",
+        "pop",
+        "poprock"
+      ],
+      "city": "Győr-Moson-Sopron",
+      "codec": "MP3",
+      "bitrate": 160,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Rádió 1",
+      "urls": [
+        "https://icast.connectmedia.hu/5201/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 59
+    },
+    {
+      "name": "Rádió 1 - Békéscsaba",
+      "urls": [
+        "https://icast.connectmedia.hu/5233/live.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "top 40"
+      ],
+      "city": "Békés",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+      "votes": 63
+    },
+    {
+      "name": "Rádió 1 - Gyöngyös",
+      "urls": [
+        "https://icast.connectmedia.hu/5039/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+      "votes": 14
+    },
+    {
+      "name": "Rádió 1 Eger",
+      "urls": [
+        "https://www.radio1eger.hu/radio1eger.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radio1eger.hu/wp-content/uploads/2025/02/logo_bg.png",
+      "votes": 106
+    },
+    {
+      "name": "Rádió 1 Miskolc",
+      "urls": [
+        "https://icast.connectmedia.hu/5211/live.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 181
+    },
+    {
+      "name": "Rádió 47",
+      "urls": [
+        "https://s01.diazol.hu:9102/live.mp3"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Békés",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio47.hu/downloads/r47logo.jpg",
+      "votes": 62
+    },
+    {
+      "name": "Rádió 88 Szeged",
+      "urls": [
+        "https://stream.radio88.hu/onair.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local news",
+        "local radio",
+        "pop"
+      ],
+      "city": "Csongrad-Csanad",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://onlinestream.live/logos/3601.png",
+      "votes": 4
+    },
+    {
+      "name": "Rádió Comedy",
+      "urls": [
+        "https://a7.asurahosting.com:8430/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiocomedy.net/wp-content/uploads/2024/10/radiocomedy_logo_feher-1-768x348.png",
+      "votes": 6
+    },
+    {
+      "name": "Rádió Comedy",
+      "urls": [
+        "https://a7.asurahosting.com/listen/radio_comedy/radio.mp3"
+      ],
+      "tags": [
+        "comedy",
+        "comedy radio",
+        "humor",
+        "humour"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "RADIO GROOVE",
+      "urls": [
+        "https://s03.diazol.hu:35112/mobil.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.radiogroove.hu/art/radio-groove.png",
+      "votes": 14
+    },
+    {
+      "name": "Rádió ICE",
+      "urls": [
+        "https://streaming4u.synology.me:8444/ice"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioice.hu/wp-content/uploads/2024/09/cropped-cropped-logo_circle-3-1-300x300.png",
+      "votes": 5
+    },
+    {
+      "name": "RADIO INSIDE",
+      "urls": [
+        "https://radioinside.eu/live.mp3"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "edm",
+        "house",
+        "trance"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 356
+    },
+    {
+      "name": "Radio Ozora",
+      "urls": [
+        "https://trance.out.airtime.pro/trance_a"
+      ],
+      "tags": [
+        "goa",
+        "psychedelic"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 157
+    },
+    {
+      "name": "RADIO SMILE",
+      "urls": [
+        "https://smile.str.42net.hu/stream/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiosmile.hu/design/images/logo.png",
+      "votes": 17
+    },
+    {
+      "name": "Radio Sunrise",
+      "urls": [
+        "https://s03.diazol.hu:7172/stream"
+      ],
+      "tags": [
+        "dance",
+        "house"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.radiosunrise.hu/wp-content/uploads/2025/02/Sunrise_logo_full003.png",
+      "votes": 22
+    },
+    {
+      "name": "Radio1",
+      "urls": [
+        "https://icast.connectmedia.hu/5202/live.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+      "votes": 612
+    },
+    {
+      "name": "radiocafé - 98",
+      "urls": [
+        "https://radio.radiocafe98.hu/radiocafe98_192k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiocafe98.hu/wp-content/uploads/2023/10/radiocafe98.png",
+      "votes": 54
+    },
+    {
+      "name": "radiocafé 98.0",
+      "urls": [
+        "https://radio.radiocafe98.hu/radiocafe98_192k.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 38
+    },
+    {
+      "name": "Radiopod Fediverse",
+      "urls": [
+        "https://radiopod.top/radio.mp3"
+      ],
+      "tags": [
+        "jazz",
+        "smooth",
+        "talk",
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radiopod.top/radiopod.png",
+      "votes": 5
+    },
+    {
+      "name": "RádióX",
+      "urls": [
+        "https://stream.phost.hu:8002/stream2"
+      ],
+      "tags": [],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "RadiOzora Chill",
+      "urls": [
+        "https://chill.out.airtime.pro/chill_a"
+      ],
+      "tags": [
+        "chill",
+        "chillout",
+        "psychedelic",
+        "psychill"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg",
+      "votes": 104
+    },
+    {
+      "name": "Reménység Hangja Rádió",
+      "urls": [
+        "https://live.rvs.ro/mg"
+      ],
+      "tags": [
+        "adventist",
+        "christian",
+        "cultural",
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://players.rcast.net/uploads/images/202409/img_x300_66d4651db6be74-74421204-37700107.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Retro Rádió",
+      "urls": [
+        "https://icast.connectmedia.hu/5001/live.mp3"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "retro",
+        "80s",
+        "90s",
+        "2000s"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png",
+      "votes": 10449
+    },
+    {
+      "name": "ROCK FM: 103.9",
+      "urls": [
+        "https://icast.connectmedia.hu/5301/live.mp3/"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://rockradio.hu/wp-content/themes/rockfm/assets/dist/img/logo_invert.png",
+      "votes": 146
+    },
+    {
+      "name": "Rocker Rádió",
+      "urls": [
+        "https://rockerradio.online/live.mp3"
+      ],
+      "tags": [],
+      "city": "nincs",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Röhej rádió",
+      "urls": [
+        "https://listen.radioking.com/radio/641950/stream/704998"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Roxy Radio",
+      "urls": [
+        "https://s2.audiostream.hu/roxy_192k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://s2.audiostream.hu:9443/unsafe/500x0/smart/https://roxyradio.hu/Logok/Roxy_Logo_App.png",
+      "votes": 111
+    },
+    {
+      "name": "Sárvár Rádió",
+      "urls": [
+        "https://stream.42netmedia.com:8443/sarvar"
+      ],
+      "tags": [
+        "hits",
+        "news",
+        "pop"
+      ],
+      "city": "Vas",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 69
+    },
+    {
+      "name": "Shine FM Radio",
+      "urls": [
+        "https://s01.diazol.hu:10042/stream/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.shinefmradio.hu/favicon.ico",
+      "votes": 42
+    },
+    {
+      "name": "Sola Rádió",
+      "urls": [
+        "https://stream1.virtualisan.net/prx/7000/live.mp3"
+      ],
+      "tags": [
+        "christian",
+        "cultural",
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "http://www.kegyelem.net/uploads/thumbs/c7b42f10c-1.jpg",
+      "votes": 8
+    },
+    {
+      "name": "StreamX Radio",
+      "urls": [
+        "https://radio.streamxradio.live/listen/streamx_radio/radio.mp3"
+      ],
+      "tags": [
+        "edm",
+        "hardstyle",
+        "house"
+      ],
+      "city": "Heves",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://kephost.net/p/MjM0MjAxNw.jpg",
+      "votes": 4
+    },
+    {
+      "name": "StreamX Radio",
+      "urls": [
+        "https://a5.asurahosting.com:8830/radio.mp3"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "electronic",
+        "hardstyle",
+        "hungary",
+        "radio"
+      ],
+      "city": "Heves County",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://kephost.net/p/MjM0MjAxNw.jpg",
+      "votes": 20
+    },
+    {
+      "name": "Sunshine FM POP",
+      "urls": [
+        "https://sunshine2.stream.composeit.hu/sunshine"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://sunshine.hu/images/channels/17002219246970.svg",
+      "votes": 10
+    },
+    {
+      "name": "SunshineFM DANCE",
+      "urls": [
+        "https://sunshine3.stream.composeit.hu/sunshine"
+      ],
+      "tags": [
+        "dance",
+        "party"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://sunshine.hu/images/channels/17002219173501.svg",
+      "votes": 8
+    },
+    {
+      "name": "SunshineFM Debrecen",
+      "urls": [
+        "https://sundeb.stream.composeit.hu/SunshineDebrecen"
+      ],
+      "tags": [
+        "local radio",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://sunshine.hu/images/channels/17319995152263.png",
+      "votes": 8
+    },
+    {
+      "name": "SunshineFM Nyíregyháza",
+      "urls": [
+        "https://sunshine1.stream.composeit.hu/sunshine"
+      ],
+      "tags": [
+        "local radio",
+        "top hits"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://sunshine.hu/images/channels/17272655064863.png",
+      "votes": 10
+    },
+    {
+      "name": "SuperDj Rádió",
+      "urls": [
+        "https://s03.diazol.hu:35152/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://v2.vrapro.hu/beta/api/radio/6egls0eefa9a5747eab2dab995b81d8d/img/avatar/1654086056.png",
+      "votes": 14
+    },
+    {
+      "name": "SuperDJ Rádió - Magyar",
+      "urls": [
+        "https://s03.diazol.hu:35152/stream3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 2
+    },
+    {
+      "name": "Szakcsi rádió",
+      "urls": [
+        "https://mr-stream.connectmedia.hu/4691/mr9.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 150
+    },
+    {
+      "name": "Szent Korona Rádió",
+      "urls": [
+        "https://szkrcast.ddns.net/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "heavy metal",
+        "metal",
+        "rock"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://szentkoronaradio.com/wp-content/uploads/2024/06/cropped-szkrlogo-270x270.png",
+      "votes": 6
+    },
+    {
+      "name": "Szent Korona Rádió - Forrás",
+      "urls": [
+        "https://szkrcast.ddns.net/radio/8010/radio.mp3"
+      ],
+      "tags": [
+        "hungarian ethno music",
+        "hungarian folk music"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://szentkoronaradio.com/wp-content/uploads/2024/06/cropped-szkrlogo-270x270.png",
+      "votes": 5
+    },
+    {
+      "name": "Sztráda Rádió",
+      "urls": [
+        "https://s03.diazol.hu:35082/live.mp3?_=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://sztradaradio.hu/wp-content/uploads/2022/09/sztradalogojo-980x608.png",
+      "votes": 4
+    },
+    {
+      "name": "Szünet rádió",
+      "urls": [
+        "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3"
+      ],
+      "tags": [
+        "pop",
+        "pop music"
+      ],
+      "city": "Europe",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 7
+    },
+    {
+      "name": "Takk-r",
+      "urls": [
+        "https://radio.takk-r.com/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "electronic",
+        "hardcore"
+      ],
+      "city": "Budapest",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Tamási Radio",
+      "urls": [
+        "https://stream.42netmedia.com:8443/sc_tamas"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 56
+    },
+    {
+      "name": "Tilos Radio",
+      "urls": [
+        "https://stream.tilos.hu/tilos_128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tilos.hu/upload/episode-new/live.png",
+      "votes": 11
+    },
+    {
+      "name": "Trend FM",
+      "urls": [
+        "https://radio.trendfm.hu/trendfm_192k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 68
+    },
+    {
+      "name": "YOUVENTUS RÁDIÓ",
+      "urls": [
+        "https://s2.audiostream.hu/juventus_192k"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://s2.audiostream.hu:9443/unsafe/500x0/smart/https://www.youventusradio.hu/APPLIKACIO/Youventus_Medium_Logo.png",
+      "votes": 196
+    },
+    {
+      "name": "Zalan Radio",
+      "urls": [
+        "https://stream.zeno.fm/kvqrsxeeafctv"
+      ],
+      "tags": [
+        "house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i.ibb.co/v42kKN9X/Photo-Funia-1743466896.jpg",
+      "votes": 7
+    }
+  ]
+}

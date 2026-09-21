@@ -1,0 +1,247 @@
+{
+  "code": "SY",
+  "name": "Syrian Arab Republic",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ".. مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 698
+    },
+    {
+      "name": "Al Karma FM",
+      "urls": [
+        "https://broadcast.shoutstream.co.uk/stream/8112"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://cdn-profiles.tunein.com/s352111/images/logod.png?t=639052093240000000",
+      "votes": 182
+    },
+    {
+      "name": "AlAsemeh Radio",
+      "urls": [
+        "https://asima.out.airtime.pro/asima_a"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://asima.airtime.pro/favicon.ico",
+      "votes": 200
+    },
+    {
+      "name": "Althania TV",
+      "urls": [
+        "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://www.althania.tv/images/logo2.png",
+      "votes": 380
+    },
+    {
+      "name": "denge cudi",
+      "urls": [
+        "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 386
+    },
+    {
+      "name": "Denge Qamishlo",
+      "urls": [
+        "https://dengeqamishlo.stream.laut.fm/dengeqamishlo"
+      ],
+      "tags": [
+        "folk music",
+        "kurdish folk music",
+        "kurdish songs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 634
+    },
+    {
+      "name": "Emaar FM Radio",
+      "urls": [
+        "https://stream-149.zeno.fm/4luag56o066uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 387
+    },
+    {
+      "name": "Emaar FM Radio",
+      "urls": [
+        "https://stream-156.zeno.fm/4luag56o066uv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.emaarradio.com/images/logo.png",
+      "votes": 360
+    },
+    {
+      "name": "Exclusively Meat Loaf",
+      "urls": [
+        "https://streaming.exclusive.radio/er/meatloaf/icecast.audio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 742
+    },
+    {
+      "name": "Farah FM",
+      "urls": [
+        "https://radio.farah.fm/"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1487
+    },
+    {
+      "name": "Nasaem Syria Radio | Breezes Syria",
+      "urls": [
+        "https://stream-69.zeno.fm/u1wbm3k7gxquv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://nasaem.fm/wp-content/uploads/2019/12/cropped-Logo55.jpg",
+      "votes": 413
+    },
+    {
+      "name": "Radio Helmna",
+      "urls": [
+        "https://radiohelmna.com/stream/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": "https://radiohelmna.com/logo1.png",
+      "votes": 81
+    },
+    {
+      "name": "Radio Nasaem راديو نسائم",
+      "urls": [
+        "https://stream.zeno.fm/u1wbm3k7gxquv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://nasaem.fm/wp-content/uploads/2026/01/Logo-N-26.jpg",
+      "votes": 433
+    },
+    {
+      "name": "Rayan FM",
+      "urls": [
+        "https://broadcast.shoutstream.co.uk:8078/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://rayanfm.net/logo.webp",
+      "votes": 238
+    },
+    {
+      "name": "Sawt Al Farah",
+      "urls": [
+        "https://radio.garden/api/ara/content/listen/TBbZ87vu/channel.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 16
+    },
+    {
+      "name": "Sham FM",
+      "urls": [
+        "https://radioshamfm.grtvstream.com:8400/;"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://sham.fm/favicon.ico",
+      "votes": 3331
+    },
+    {
+      "name": "Syria TV - راديو تلفزيون سوريا",
+      "urls": [
+        "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 56,
+      "logo": "https://cdn-profiles.tunein.com/s350400/images/logod.png",
+      "votes": 719
+    },
+    {
+      "name": "Tayf Fm - راديو طيف - صدى السوريين",
+      "urls": [
+        "https://stream.zeno.fm/xbohf8qf5uauv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tayf.fm/logo192.png",
+      "votes": 355
+    },
+    {
+      "name": "لا القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 536
+    }
+  ]
+}

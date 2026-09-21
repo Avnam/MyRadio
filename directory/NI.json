@@ -1,0 +1,308 @@
+{
+  "code": "NI",
+  "name": "Nicaragua",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 57
+    },
+    {
+      "name": "CAWtv",
+      "urls": [
+        "https://stream.zeno.fm/m8aakwyw9u8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 335
+    },
+    {
+      "name": "Exa FM",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [
+        "93.3 fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "moi merino",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "música en español e inglés",
+        "música pop",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "votes": 474
+    },
+    {
+      "name": "Fiesta Latina 89.1 FM",
+      "urls": [
+        "https://radios.solumedia.com/6596/stream"
+      ],
+      "tags": [
+        "bachata",
+        "latino",
+        "merengue",
+        "music",
+        "salsa",
+        "urbano"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fiestalatina.com.ni/wp-content/uploads/2019/08/cropped-Fiesta-Latina-Logo-FIN-ALFA-1-e1687229871337.png",
+      "votes": 327
+    },
+    {
+      "name": "La Nueva Radio | Nicaragua",
+      "urls": [
+        "https://stream.zenolive.com/axr92qawesmtv"
+      ],
+      "tags": [],
+      "city": "Managua",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://nuevaya.com.ni/apple-touch-icon-120x120.png",
+      "votes": 4090
+    },
+    {
+      "name": "La Voz del Norte",
+      "urls": [
+        "https://stream.zeno.fm/cbd1wweamzzuv"
+      ],
+      "tags": [
+        "news",
+        "noticias"
+      ],
+      "city": "Estelí",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://4.bp.blogspot.com/-ipArh5aF-_o/XnfT9w4nwFI/AAAAAAAASwQ/mGVFLZGKs3o04nz8Es7B-lqmIpVoFzKwwCK4BGAYYCw/s1600/lavoz.png",
+      "votes": 927
+    },
+    {
+      "name": "Masaya Rebelde",
+      "urls": [
+        "https://stream.zeno.fm/bhutktvbfv8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nicarebeldetv.com/favicon.ico",
+      "votes": 592
+    },
+    {
+      "name": "Monimbo Radio",
+      "urls": [
+        "https://stream.zeno.fm/nrj4lkdpwfgtv"
+      ],
+      "tags": [],
+      "city": "Masaya",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 22
+    },
+    {
+      "name": "Radio Comunidad",
+      "urls": [
+        "https://stream.zeno.fm/q70e6btc2d0uv"
+      ],
+      "tags": [],
+      "city": "Carazo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+      "votes": 358
+    },
+    {
+      "name": "Radio Conexión Romántica",
+      "urls": [
+        "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkZRSkFwSjEwVGJlckhDR1RGZnQ2Y1EiLCJpYXQiOjE3ODk5NjExOTQsImV4cCI6MTc4OTk2MTI1NH0.r8WWORXjYvyT4nGBPwvJSvGWTrLsUl1iSnuzEO2BB_o"
+      ],
+      "tags": [],
+      "city": "República de Nicaragua",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 63
+    },
+    {
+      "name": "Radio Cristo Viene Masaya Nicaragua",
+      "urls": [
+        "https://stream.zeno.fm/axxgbszqxhhvv"
+      ],
+      "tags": [],
+      "city": "Nicaragua",
+      "codec": "AAC",
+      "bitrate": 56,
+      "logo": "https://zeno.fm/radio/radio-cristo-viene-masaya-nicaragua/",
+      "votes": 75
+    },
+    {
+      "name": "Radio Estrella del Mar",
+      "urls": [
+        "https://streamer.radio.co/sd5242d0b6/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radioestrelladelmar.org/wp-content/themes/themes/rem/assets/images/somos-radio-estrella-del-mar.png",
+      "votes": 82
+    },
+    {
+      "name": "Radio Futura 91.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/iwmolyow6tivv?acu-uid=1469781385678&an-uid=1444844712984803121&eps-uid=AQAKT2wC_8GTDAJFpMzgAQEBAQEBAQCas9CecQEBAJ-ob9li&dot-uid=0cdf2402006ee032d0563f05&triton-uid=cookie%3Ac4825948-af2b-4f4d-91ce-fcf10aefa67e&amb-uid=8780094149879046545&dbm-uid=CAESEFCprZXSSNyR45iPimNW0aE&cto-uid=75bb7246-fac3-4c5c-b5b2-2c4243818b80-695f129b-5048&bsw-uid=30527924-e7be-4c95-9d53-825822263bc8&dyn-uid=4386634410199989600&ttd-uid=c65bc204-3fcf-4476-91ce-cc0deda500f2&adtonosListenerId=01KEPSBTXMGEEJ2Q175N0Y3CSK&aw_0_req_lsid=196b4b4bc1d1ac4f52fcf98eeff4e532"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiofuturanicaragua.com/images/logo-futura.png",
+      "votes": 22
+    },
+    {
+      "name": "Radio Hermanos",
+      "urls": [
+        "https://stream.zenolive.com/vq7z0a3u7mruv"
+      ],
+      "tags": [
+        "religion"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 618
+    },
+    {
+      "name": "Radio Juan Pablo Segundo 97.7 fm",
+      "urls": [
+        "https://dc2.serverse.com:8040/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 82
+    },
+    {
+      "name": "Radio Vandalica Nicaragua",
+      "urls": [
+        "https://stream.zeno.fm/caq3fwn1fnruv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 1053
+    },
+    {
+      "name": "Rock FM 105.5",
+      "urls": [
+        "https://securestream.us/radio/8050/radio.mp3"
+      ],
+      "tags": [
+        "classic rock",
+        "death metal",
+        "heavy metal",
+        "rock"
+      ],
+      "city": "Managua",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://rockfm.com.ni/wp-content/uploads/2020/06/cropped-una-logo-rock-1-180x180.png",
+      "votes": 322
+    },
+    {
+      "name": "Stereo Beso 94.5 FM",
+      "urls": [
+        "https://a9.asurahosting.com:7140/radio.mp3"
+      ],
+      "tags": [
+        "bachata",
+        "baladas",
+        "banda",
+        "latin",
+        "mariachi",
+        "pop",
+        "ranchera",
+        "reggaeton",
+        "salsa",
+        "spanish"
+      ],
+      "city": "Esteli",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://cdn-profiles.tunein.com/s240544/images/logod.png",
+      "votes": 101
+    },
+    {
+      "name": "Stereo Beso 94.5 FM",
+      "urls": [
+        "https://a9.asurahosting.com:7140/"
+      ],
+      "tags": [
+        "latin",
+        "pop",
+        "ranchera",
+        "reggaeton",
+        "salsa",
+        "varied"
+      ],
+      "city": "Esteli",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://cdn-profiles.tunein.com/s240544/images/logod.png",
+      "votes": 122
+    },
+    {
+      "name": "The Sound of the Caribbean",
+      "urls": [
+        "https://a10.asurahosting.com:8570/radio.mp3"
+      ],
+      "tags": [
+        "dancehall",
+        "reggea"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 24
+    }
+  ]
+}

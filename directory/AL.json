@@ -1,0 +1,409 @@
+{
+  "code": "AL",
+  "name": "Albania",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "https://www.exafm.com/favicon.ico",
+      "votes": 641
+    },
+    {
+      "name": "LOVE FM: Klasikët e muzikës pop nga vitet '80 deri në ditët e sotme",
+      "urls": [
+        "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 98,
+      "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "votes": 6
+    },
+    {
+      "name": ".القرآن",
+      "urls": [
+        "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 139
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 39
+    },
+    {
+      "name": "Albania 360 Radio",
+      "urls": [
+        "https://radio.albania360.net/listen/albania_360_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://albania360.net/wp-content/uploads/2026/07/Logo-albania360.png",
+      "votes": 8
+    },
+    {
+      "name": "Albanian Baby Radio",
+      "urls": [
+        "https://stream.zeno.fm/d6v0xkba04zuv"
+      ],
+      "tags": [
+        "children",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/MQ1s1nBeqNgtvN5wlvewLIHrnwQMT5rbIKI59Qm82-c/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F4ZnJZa3dzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1ExYV9NbkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTcxMTc4NDAwMA.webp",
+      "votes": 161
+    },
+    {
+      "name": "ArgusRadio",
+      "urls": [
+        "https://stream.argusradio.net/radio.mp3"
+      ],
+      "tags": [
+        "deep house",
+        "downtempo",
+        "melodic house",
+        "organic house"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://argusradio.net/static/uploads/branding/argus_logo.png",
+      "votes": 2
+    },
+    {
+      "name": "Best Pro Electronic",
+      "urls": [
+        "https://az1.sednastream.com/radio/8150/Live?1582297952"
+      ],
+      "tags": [
+        "electronic",
+        "tech house",
+        "techno"
+      ],
+      "city": "Tirana",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://bestproradio.com/wp-content/uploads/2021/05/cropped-bpr-bmp-180x180.png",
+      "votes": 405
+    },
+    {
+      "name": "chili moje",
+      "urls": [
+        "https://media-ssl.musicradio.com/ChillMP3"
+      ],
+      "tags": [
+        "chilli"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 102
+    },
+    {
+      "name": "Chill Radio",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1"
+      ],
+      "tags": [
+        "adult contemporary",
+        "deep house",
+        "hits",
+        "top 40",
+        "tropical house",
+        "vibes"
+      ],
+      "city": "Tirana",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 338
+    },
+    {
+      "name": "CLUB FM",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/clubfm?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://clubfm.al/wp-content/uploads/2022/01/Logo-Club-FM-768x432.png",
+      "votes": 165
+    },
+    {
+      "name": "Club FM Kosova",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://clubfm.al/wp-content/uploads/2022/01/Kosove-768x432.png",
+      "votes": 65
+    },
+    {
+      "name": "ipda cañete",
+      "urls": [
+        "https://radio.gisslive.com:8254/stream"
+      ],
+      "tags": [
+        "alabanzas"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 48,
+      "logo": "null",
+      "votes": 37
+    },
+    {
+      "name": "My Music Radio - Tirana 97.3 FM",
+      "urls": [
+        "https://live.top-media.al/mmr"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3606
+    },
+    {
+      "name": "Nest Radio",
+      "urls": [
+        "https://radio.nestnews.al/listen/nest-radio/radio.mp3"
+      ],
+      "tags": [
+        "albanian",
+        "dance",
+        "hits",
+        "international",
+        "pop"
+      ],
+      "city": "Tirana",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://radio.nestnews.al/assets/nest-logo.png",
+      "votes": 1
+    },
+    {
+      "name": "Pendimi Kanali 2",
+      "urls": [
+        "https://www.rtvpendimi.com:8020/stream"
+      ],
+      "tags": [
+        "islamic، classical"
+      ],
+      "city": "Yerel",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.rtvpendimi.com/wp-content/uploads/2025/01/cropped-RTV-Pendimi-1.png",
+      "votes": 4
+    },
+    {
+      "name": "Phish Radio",
+      "urls": [
+        "https://streaming.radio.co/sd71de59b3/listen"
+      ],
+      "tags": [
+        "jambands",
+        "jemp",
+        "phish"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://jempradio.com/wp-content/uploads/2022/01/cropped-favicon3-180x180.png",
+      "votes": 873
+    },
+    {
+      "name": "Radio Aksa",
+      "urls": [
+        "https://fire.doscast.com:8064/stream"
+      ],
+      "tags": [],
+      "city": "ALBANIA",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://xatimg.com/image/95tgu6U2Wgkp.jpg",
+      "votes": 4
+    },
+    {
+      "name": "Radio burimi",
+      "urls": [
+        "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA"
+      ],
+      "tags": [
+        "albanian music",
+        "folk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 786
+    },
+    {
+      "name": "Radio Logos",
+      "urls": [
+        "https://s2.stationplaylist.com:9280/listen.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radiologos.al/wp-content/uploads/2018/02/rl-logos-player-170x170.png",
+      "votes": 18
+    },
+    {
+      "name": "Radio One - Tirana 95.2 FM",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2084
+    },
+    {
+      "name": "Radio plus 102.2 FM",
+      "urls": [
+        "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radioplus.fm/Theme/Air/assets/img/radioplus.svg",
+      "votes": 349
+    },
+    {
+      "name": "Radio Saranda",
+      "urls": [
+        "https://s64.radiolize.com/radio/8050/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 54
+    },
+    {
+      "name": "Radio Shqip - Tirana 92.0 MHz",
+      "urls": [
+        "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://shqipfm.al/favicon.ico",
+      "votes": 4292
+    },
+    {
+      "name": "Sophie Caffe Radio",
+      "urls": [
+        "https://sophiecafferadio.live/sophie.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.sophiecafferadio.live/sophie_logo.png",
+      "votes": 67
+    },
+    {
+      "name": "Tirana Jazz Radio",
+      "urls": [
+        "https://live.tiranajazzradio.com:8443/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://tiranajazzradio.com/img/logo.jpg",
+      "votes": 14
+    },
+    {
+      "name": "Top Albanian Radio",
+      "urls": [
+        "https://live.top-media.al/tar"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/images/site-icons/apple-touch-icon.png",
+      "votes": 1807
+    },
+    {
+      "name": "Top Gold Radio",
+      "urls": [
+        "https://live.topgold.al/topgold"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.topalbaniaradio.com/wp-content/themes/topalbaniaradio/parts/gold.png",
+      "votes": 14
+    },
+    {
+      "name": "WindowRadio.de",
+      "urls": [
+        "https://a8.asurahosting.com:8570/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Shkodra",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://drive.google.com/file/d/1JXtjD91h8RmszpQiCtSsIagMsekMsj6f/view?usp=drive_link",
+      "votes": 5
+    },
+    {
+      "name": "إذاعة القرآن الكريم",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+      "votes": 327
+    }
+  ]
+}

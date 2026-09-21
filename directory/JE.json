@@ -1,0 +1,38 @@
+{
+  "code": "JE",
+  "name": "Jersey",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Channel 103",
+      "urls": [
+        "https://n02-eu.rcs.revma.com/1b7wddebanzuv?rj-ttl=5&rj-tok=AAABnuSkRnsAKAPV9xwJDgAhEA&rp_source=1&___cb=931531437397347"
+      ],
+      "tags": [
+        "hits",
+        "local",
+        "pop"
+      ],
+      "city": "Bailiwick of Jersey",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.channel103.com/",
+      "votes": 4
+    },
+    {
+      "name": "Soleil Radio",
+      "urls": [
+        "https://stream.rcs.revma.com/sa3ccwa9yy8uv?rp_source=1&=&&___cb=396383825633501"
+      ],
+      "tags": [
+        "hits",
+        "pop music"
+      ],
+      "city": "Bailiwick of Jersey",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 5
+    }
+  ]
+}

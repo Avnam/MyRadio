@@ -1,0 +1,296 @@
+{
+  "code": "IQ",
+  "name": "Iraq",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Al quran radio",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 4747
+    },
+    {
+      "name": ". القارئ محمد أيوب",
+      "urls": [
+        "https://qurango.net/radio/mohammed_ayyub"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3453
+    },
+    {
+      "name": ".. مختصر التفسير",
+      "urls": [
+        "https://qurango.net/radio/mukhtasartafsir"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 3695
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 972
+    },
+    {
+      "name": "Al rasheed fm",
+      "urls": [
+        "https://streaming.shoutcast.com/alrasheed-fm?1719771692024"
+      ],
+      "tags": [
+        "arabic",
+        "baghdad",
+        "iraq"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 2149
+    },
+    {
+      "name": "Al rasheed fm )Kirkuk)",
+      "urls": [
+        "https://streaming.shoutcast.com/alrasheed-kirkuk"
+      ],
+      "tags": [
+        "arabic",
+        "iraq",
+        "kirkuk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 107
+    },
+    {
+      "name": "Al-bilad Radio/Yaqoubi",
+      "urls": [
+        "https://streamer.radio.co/sb38bf6e66/listen"
+      ],
+      "tags": [
+        "al-bilad radio",
+        "baghdad",
+        "iraq radio",
+        "islam",
+        "shia",
+        "البلاد"
+      ],
+      "city": "Baghdad",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://images.radio.co/station_logos/sb38bf6e66.20180614123831.jpg",
+      "votes": 3273
+    },
+    {
+      "name": "Alseraj Radio Islam",
+      "urls": [
+        "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1"
+      ],
+      "tags": [
+        "alseraj",
+        "iraq",
+        "islam",
+        "islamic"
+      ],
+      "city": "KARBALA",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2562
+    },
+    {
+      "name": "Darusalam Radio",
+      "urls": [
+        "https://streams.radio.co/s0975ec186/listen"
+      ],
+      "tags": [
+        "darusalam",
+        "islamic",
+        "sunni"
+      ],
+      "city": "Baghdad",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://images.radio.co/station_logos/s0975ec186.20220716110749.jpg",
+      "votes": 2561
+    },
+    {
+      "name": "FM المستقبل",
+      "urls": [
+        "https://edge.mixlr.com/channel/vnvcj"
+      ],
+      "tags": [
+        "various"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 1417
+    },
+    {
+      "name": "kanal 8",
+      "urls": [
+        "https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP4",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 40
+    },
+    {
+      "name": "Kurdistan 24",
+      "urls": [
+        "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1944
+    },
+    {
+      "name": "Radio Ashur  راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ",
+      "urls": [
+        "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zowaa.org/ashur-radio/",
+      "votes": 577
+    },
+    {
+      "name": "Radio Duhok FM",
+      "urls": [
+        "https://stream-149.zeno.fm/unwq3jdyhmbuv"
+      ],
+      "tags": [
+        "news؛talk؛culture؛kurdish music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1143
+    },
+    {
+      "name": "Radio Shanasheel",
+      "urls": [
+        "https://stream-152.zeno.fm/a33ka0d94p8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1582
+    },
+    {
+      "name": "Radyo  Şirvan Perwer",
+      "urls": [
+        "https://stream-156.zeno.fm/x0xhw6c6g2zuv?zs=AfL9IRdsQ_qHIebZBo-9GA"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1084
+    },
+    {
+      "name": "Shafaq radio",
+      "urls": [
+        "https://radio.shafaq.com/radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1229
+    },
+    {
+      "name": "speda radio",
+      "urls": [
+        "https://radio.host247.net/spedafm"
+      ],
+      "tags": [
+        "news talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radio.host247.net/spedafm",
+      "votes": 40
+    },
+    {
+      "name": "SumerFm Iraq",
+      "urls": [
+        "https://l3.itworkscdn.net/itwaudio/9012/stream"
+      ],
+      "tags": [
+        "arabic music",
+        "iraq",
+        "iraq radio",
+        "music",
+        "sumer",
+        "sumerfm"
+      ],
+      "city": "Baghdad",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5654
+    },
+    {
+      "name": "Turkmen FM  تركمان إف إم",
+      "urls": [
+        "https://radyo1.radyo-dinle.tc/8284/stream;"
+      ],
+      "tags": [
+        "music، talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 1552
+    }
+  ]
+}

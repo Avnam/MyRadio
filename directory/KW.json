@@ -1,0 +1,264 @@
+{
+  "code": "KW",
+  "name": "Kuwait",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [
+        "islam",
+        "quran",
+        "recitation",
+        "religion"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 32
+    },
+    {
+      "name": "Kuwait General Radio",
+      "urls": [
+        "https://kwtkrdota.cdn.mangomolo.com/k1rdo/k1rdo.stream_aac/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://cdn-profiles.tunein.com/s37332/images/logoq.jpg?t=638887315800000000",
+      "votes": 136
+    },
+    {
+      "name": "OFW Radio",
+      "urls": [
+        "https://s74.radiolize.com:8020/radio.mp3?t=1780673757445"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "variety",
+        "world middle east"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zlTxP-QMZVvQUOeVri0rmHntqKjsjtg2OyZFtn46qQ&s",
+      "votes": 12
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Abdulrahman Alsudais - عبدالرحمن السديس",
+      "urls": [
+        "https://radio.mp3islam.com/listen/sudais/radio.mp3"
+      ],
+      "tags": [
+        "abdulrahman",
+        "alsudais",
+        "egypt",
+        "kuwait",
+        "quran",
+        "quran radio",
+        "saudi",
+        "السديس",
+        "راديو القرآن",
+        "عبدالرحمن"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 1573
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Ali Alhuthaifi - علي الحذيفي",
+      "urls": [
+        "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3"
+      ],
+      "tags": [
+        "ali alhuthaifi",
+        "egypt",
+        "kuwait",
+        "quran",
+        "quran radio",
+        "saudi",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "علي الحذيفي"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio.mp3islam.com/api/station/6/art/21ce1559853064845ac13af0-1678264357.jpg",
+      "votes": 947
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Kuwait الكويت",
+      "urls": [
+        "https://radio.mp3islam.com/listen/quran_radio/radio.mp3"
+      ],
+      "tags": [
+        "egypt",
+        "islam",
+        "islamic",
+        "islam🕋",
+        "kuwait الكويت",
+        "quran",
+        "quran radio",
+        "saudi",
+        "راديو القرآن"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 751
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Maher Al Mueaqly - ماهر المعيقلي",
+      "urls": [
+        "https://radio.mp3islam.com/listen/maher/radio.mp3"
+      ],
+      "tags": [
+        "maher al mueaqly",
+        "quran",
+        "quran radio",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "ماهر المعيقلي"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 724
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي",
+      "urls": [
+        "https://radio.mp3islam.com/listen/mishary/radio.mp3"
+      ],
+      "tags": [
+        "eygpt",
+        "kuwait",
+        "mishary alafasy",
+        "quran",
+        "quran radio",
+        "saudi",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "مشاري العفاسي"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://radio.mp3islam.com/api/station/5/art/91d5c1c715991eb0e3958d37-1678174382.jpg",
+      "votes": 1991
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي",
+      "urls": [
+        "https://radio.mp3islam.com/listen/minshawi/radio.mp3"
+      ],
+      "tags": [
+        "islam",
+        "islamic",
+        "kuran",
+        "kuwait الكويت",
+        "quran",
+        "اسلام",
+        "اسلامي",
+        "السعودية",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "عربي",
+        "مصر"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radio.mp3islam.com/static/uploads/minshawi/album_art.1743893697.jpg",
+      "votes": 1209
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم",
+      "urls": [
+        "https://radio.mp3islam.com/listen/alshuraim/radio.mp3"
+      ],
+      "tags": [
+        "kuwait",
+        "kuwait الكويت",
+        "quran radio",
+        "saud al-shuraim",
+        "السعودية",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "سعود الشريم",
+        "مصر"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 1414
+    },
+    {
+      "name": "Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري",
+      "urls": [
+        "https://radio.mp3islam.com/listen/yaser/radio.mp3"
+      ],
+      "tags": [
+        "kuwait الكويت",
+        "quran",
+        "quran radio",
+        "yasser aldosari",
+        "السعودية",
+        "القرآن",
+        "القرآن الكريم",
+        "راديو القرآن",
+        "مصر",
+        "ياسر الدوسري"
+      ],
+      "city": "Kuwait City",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 941
+    },
+    {
+      "name": "الكويت - البرنامج الثاني",
+      "urls": [
+        "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"
+      ],
+      "tags": [
+        "mix"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 2499
+    },
+    {
+      "name": "تفسير بن عثيمين رحمه الله",
+      "urls": [
+        "https://qurango.net/radio/tafseer"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 705
+    }
+  ]
+}

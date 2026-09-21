@@ -1,0 +1,74 @@
+{
+  "code": "OM",
+  "name": "Oman",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ".إذاعة ماهر المعيقلي",
+      "urls": [
+        "https://backup.qurango.net/radio/maher"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 86
+    },
+    {
+      "name": "90.4 FM   الإذاعة-الإنجليزية",
+      "urls": [
+        "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://ayn.om/images/fav.ico?v=112",
+      "votes": 194
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 23
+    },
+    {
+      "name": "Hala FM",
+      "urls": [
+        "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+      ],
+      "tags": [
+        "arabic",
+        "arabic music",
+        "arabic songs",
+        "muscat"
+      ],
+      "city": "Muscat",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 521
+    },
+    {
+      "name": "Quran Program Oman   إذاعة-القرآن-الكريم",
+      "urls": [
+        "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1051
+    }
+  ]
+}

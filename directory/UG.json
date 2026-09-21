@@ -1,0 +1,1116 @@
+{
+  "code": "UG",
+  "name": "Uganda",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 7
+    },
+    {
+      "name": "106.1 Next Radio",
+      "urls": [
+        "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://nextradio.co.ug/wp-content/uploads/2018/09/cropped-logo-1-180x180.gif",
+      "votes": 498
+    },
+    {
+      "name": "107.3 BBC Radio Uganda",
+      "urls": [
+        "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 56,
+      "logo": null,
+      "votes": 248
+    },
+    {
+      "name": "107.9 Pearl Fm",
+      "urls": [
+        "https://dc4.serverse.com/proxy/pearlfm/stream/1/"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_215046925.jpg?alt=media&token=bf172eb6-577e-4f36-b025-68e36f614765",
+      "votes": 157
+    },
+    {
+      "name": "107.9 Pearl Fm",
+      "urls": [
+        "https://dc4.serverse.com/proxy/pearlfm/stream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 698
+    },
+    {
+      "name": "80's 90's old music radio",
+      "urls": [
+        "https://maggie.torontocast.com:2020/stream/100greatestofthe80s"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 795
+    },
+    {
+      "name": "88.1 Centenary Fm",
+      "urls": [
+        "https://c24.radioboss.fm:18185/stream"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://mynoise.net/apple-touch-icon.png",
+      "votes": 49
+    },
+    {
+      "name": "90.6 Busoga One",
+      "urls": [
+        "https://stream.zeno.fm/xna2aad7gc9uv"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 34
+    },
+    {
+      "name": "91.2 Capital FM",
+      "urls": [
+        "https://capitalfm.cloudrad.io/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://capitalradio.co.ug/favicon.png",
+      "votes": 44
+    },
+    {
+      "name": "91.2 Crooze FM",
+      "urls": [
+        "https://stream-159.zeno.fm/vyxwdk08apxtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://croozefm.com/wp-content/uploads/2024/09/cropped-site-icon-180x180.png",
+      "votes": 150
+    },
+    {
+      "name": "91.3 Lift Worship US",
+      "urls": [
+        "https://emg.streamguys1.com/lift-website"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 127,
+      "logo": null,
+      "votes": 226
+    },
+    {
+      "name": "94.0 Jamaica fm",
+      "urls": [
+        "https://stream.zeno.fm/cub84trbgy5tv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 258
+    },
+    {
+      "name": "95.0 Fame fm Jamaica",
+      "urls": [
+        "https://stream.zenolive.com/d5mn12bchkeuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 325
+    },
+    {
+      "name": "95.5 Radio Buddu",
+      "urls": [
+        "https://dc4.serverse.com/proxy/ccmxrgub/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 2954
+    },
+    {
+      "name": "97.0 Radio City",
+      "urls": [
+        "https://cast1.asurahosting.com/proxy/richar16/stream"
+      ],
+      "tags": [],
+      "city": "Kampala",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "98.1 Isaiah FM Trinidad",
+      "urls": [
+        "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15"
+      ],
+      "tags": [
+        "gospel"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 32,
+      "logo": null,
+      "votes": 79
+    },
+    {
+      "name": "Ancient Faith Radio",
+      "urls": [
+        "https://ancientfaith.streamguys1.com/music"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 96,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_193705434.jpg?alt=media&token=00f90168-d7c1-48a9-acff-6a212367c1df",
+      "votes": 31
+    },
+    {
+      "name": "Bantu Radio",
+      "urls": [
+        "https://stream-176.surfernetwork.com/7u8xbck3v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTh4YmNrM3Y3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa2syYm9STFRjbUlYQWR6MXh3NWR3IiwiaWF0IjoxNzg5MjI4NTI4LCJleHAiOjE3ODkyMjg1ODh9.R3IJRMouYPA3v8QgxdGVW3xG312xLrXnEfYwhtl6em0"
+      ],
+      "tags": [
+        "afro-pop",
+        "hip-hop",
+        "hits",
+        "r&b",
+        "reggae"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Bible Indepth Radio",
+      "urls": [
+        "https://stream.radiojar.com/n6c576nrga0uv"
+      ],
+      "tags": [
+        "bible",
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 285
+    },
+    {
+      "name": "Bible Trivia",
+      "urls": [
+        "https://streamer.radio.co/se1aece429/listen"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_045728944.jpg?alt=media&token=23506a54-6cd5-4ac1-b111-0ed64dae8ef6",
+      "votes": 37
+    },
+    {
+      "name": "BLOCK FM 103.2",
+      "urls": [
+        "https://stream.zeno.fm/gxjhbloltwluv"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "city": "Kampala",
+      "codec": "MP3",
+      "bitrate": 112,
+      "logo": "https://blockfm.websites.co.in ",
+      "votes": 9
+    },
+    {
+      "name": "Bugwere Fm",
+      "urls": [
+        "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://stream-174.zeno.fm/favicon.ico",
+      "votes": 36
+    },
+    {
+      "name": "Bugwere Online Radio",
+      "urls": [
+        "https://stream-177.surfernetwork.com/64ol1dwqvuzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NG9sMWR3cXZ1enZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJCWjJyNkhjaVJBYTQ5Y3RVdVZJVlZ3IiwiaWF0IjoxNzg5MjI4MDQ1LCJleHAiOjE3ODkyMjgxMDV9.sq56yT7Ihva_xRxXdZ2x62273v6Af-4MNb71KbFzTl4"
+      ],
+      "tags": [
+        "culture",
+        "folk",
+        "pop",
+        "regional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqzjpeSb1qq3HtWwzqmWms-jt3Jqgafefd_ZUX-ri3A&s=10",
+      "votes": 1
+    },
+    {
+      "name": "Bukedde FM",
+      "urls": [
+        "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.bukedde.co.ug/_nuxt/logo_red.BnzDZ_g8.png",
+      "votes": 5
+    },
+    {
+      "name": "BUSOGA ROYAL RADIO",
+      "urls": [
+        "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 90
+    },
+    {
+      "name": "CBN Christmas Channel",
+      "urls": [
+        "https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "http://www1.cbn.com/favicon.ico",
+      "votes": 57
+    },
+    {
+      "name": "CBS News",
+      "urls": [
+        "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 273,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240201_174909722.jpg?alt=media&token=0c84c890-148c-4c2d-a406-1ef3df9e810a",
+      "votes": 239
+    },
+    {
+      "name": "Christian hits radio",
+      "urls": [
+        "https://shoutcast.christianrock.net/stream/5/"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 298
+    },
+    {
+      "name": "Christian life radio",
+      "urls": [
+        "https://ice64.securenetsystems.net/CLR1MP3"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.communitynetradio.org/favicon.ico",
+      "votes": 122
+    },
+    {
+      "name": "Christmas choir",
+      "urls": [
+        "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 178
+    },
+    {
+      "name": "CNN INTERNATIONAL",
+      "urls": [
+        "https://tunein.cdnstream1.com/2868_96.mp3"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240226_004457092.jpg?alt=media&token=3095bb63-542d-4ee1-b16c-4a392e5c6f1f",
+      "votes": 1089
+    },
+    {
+      "name": "crooze fm",
+      "urls": [
+        "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 371
+    },
+    {
+      "name": "Dove Fm",
+      "urls": [
+        "https://ice64.securenetsystems.net/DOVEMAIN"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 14
+    },
+    {
+      "name": "DW News",
+      "urls": [
+        "https://dw.audiostream.io/dw/1027/mp3/64/dw08"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_162731236.jpg?alt=media&token=3ae70718-017b-4ccc-88f9-5c7c84e0a675",
+      "votes": 149
+    },
+    {
+      "name": "East Africa Radio",
+      "urls": [
+        "https://eatv.radioca.st/;"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 122
+    },
+    {
+      "name": "EJAZZ Radio",
+      "urls": [
+        "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 135
+    },
+    {
+      "name": "EJAZZ Xtra",
+      "urls": [
+        "https://c32.radioboss.fm:18320/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://extra.ejazzug.com/favicon.ico",
+      "votes": 55
+    },
+    {
+      "name": "Free Sports Radio",
+      "urls": [
+        "https://stream.zeno.fm/31nnibfpnxktv"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_040932953.jpg?alt=media&token=02bb8749-ab43-4244-9e31-f317573e5aa5",
+      "votes": 31
+    },
+    {
+      "name": "Fun Kids Radio",
+      "urls": [
+        "https://listen-funkids.sharp-stream.com/funkids.mp3"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_211904850.jpg?alt=media&token=bcf08431-92fb-47f1-9703-5779d8e83bce",
+      "votes": 40
+    },
+    {
+      "name": "Galaxy FM 100.2 FM ZZinna!",
+      "urls": [
+        "https://stream.zeno.fm/ahtmyttw5mftv"
+      ],
+      "tags": [
+        "african",
+        "african hip hop",
+        "dancehall"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.galaxyfm.co.ug/wp-content/uploads/2018/01/Galaxy-FM-Logo.png",
+      "votes": 182
+    },
+    {
+      "name": "Gospel Radio East Africa",
+      "urls": [
+        "https://c32.radioboss.fm:18451/stream?1641237600584"
+      ],
+      "tags": [
+        "christian-gospel"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1000
+    },
+    {
+      "name": "Great Hits Manchester",
+      "urls": [
+        "https://listen-nation.sharp-stream.com/hull.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 113
+    },
+    {
+      "name": "Heart Xmas",
+      "urls": [
+        "https://media-ssl.musicradio.com/HeartXmas"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_212519647.jpg?alt=media&token=837c27d8-56b1-4d0a-82b3-84a083c6c9b8",
+      "votes": 11
+    },
+    {
+      "name": "Infinity Radio",
+      "urls": [
+        "https://radio.legenduganda.com/live"
+      ],
+      "tags": [
+        "kampala",
+        "online radio",
+        "uganda",
+        "urban"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://legenduganda.com/wp-content/uploads/2026/09/og-legenduganda.jpg",
+      "votes": 1
+    },
+    {
+      "name": "Jembe Fm",
+      "urls": [
+        "https://cast3.asurahosting.com/proxy/jembemed/stream"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_151358444.jpg?alt=media&token=253d7a5f-64db-4d49-ab9c-de31c964a476",
+      "votes": 30
+    },
+    {
+      "name": "Jesus radio",
+      "urls": [
+        "https://streaming.radio.co/s1dc8ab02e/listen"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 74
+    },
+    {
+      "name": "Jewish Music",
+      "urls": [
+        "https://stream.jewishmusicstream.com:8000/"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_230035014.jpg?alt=media&token=306a3ca9-44ca-4e12-9b09-4839bb92b594",
+      "votes": 19
+    },
+    {
+      "name": "NRG Radio Uganda",
+      "urls": [
+        "https://dc4.serverse.com/proxy/nrgugstream/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.nrgug.radio/nrg-logo-red.png",
+      "votes": 21
+    },
+    {
+      "name": "Old School Music",
+      "urls": [
+        "https://ilikeitoldskool.radioca.st/stream"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://ilikeitoldskool.co.uk/favicon.ico",
+      "votes": 711
+    },
+    {
+      "name": "Open Gate FM 103.2",
+      "urls": [
+        "https://139.162.195.139:8010/radio.mp3?1722393699669"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 64
+    },
+    {
+      "name": "Prayer Alter Radio",
+      "urls": [
+        "https://node-33.zeno.fm/1gfmyttkephvv"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "null",
+      "votes": 53
+    },
+    {
+      "name": "Radio Benediction Dominican",
+      "urls": [
+        "https://samuel.i-radio.co:9000/radiobendicion"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Radio Buddu",
+      "urls": [
+        "https://dc4.serverse.com/proxy/ccmxrgub/stream?"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://www.radiobuddufm.com/images/logom.png",
+      "votes": 54
+    },
+    {
+      "name": "Radio Pacis 90.9",
+      "urls": [
+        "https://radiopacisuganda.radioca.st/stream"
+      ],
+      "tags": [
+        "christian",
+        "english"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 1029
+    },
+    {
+      "name": "Rafa  radio music",
+      "urls": [
+        "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 28
+    },
+    {
+      "name": "Rafa Radio",
+      "urls": [
+        "https://gains.reviveradio.net/proxy/rafabibleradioeng?mp=/stream"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_033712583.jpg?alt=media&token=368db28e-be51-448a-9f84-7415d1d299de",
+      "votes": 6
+    },
+    {
+      "name": "RFI Kiswahili",
+      "urls": [
+        "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 283
+    },
+    {
+      "name": "RFI Kiswahili",
+      "urls": [
+        "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3"
+      ],
+      "tags": [
+        "french"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_210746225.jpg?alt=media&token=6f04f020-4c9f-442a-b605-3dac29a4190f",
+      "votes": 183
+    },
+    {
+      "name": "RX Radio",
+      "urls": [
+        "https://c14.radioboss.fm:18223/stream?1615807421100="
+      ],
+      "tags": [
+        "afro-pop",
+        "entertainment",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static.wixstatic.com/media/d258bf_9ee2ce20728d4cf48214cf55c12914de~mv2.png/v1/crop/x_0,y_168,w_600,h_278/fill/w_140,h_67,al_c,q_85,usm_0.66_1.00_0.01/reckless%20logo%20black%20clear.webp",
+      "votes": 1976
+    },
+    {
+      "name": "SBN",
+      "urls": [
+        "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "AAC,H.264",
+      "bitrate": 717,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_205746155.jpg?alt=media&token=e26f2a82-6e06-41a3-ab8b-2cdd6522c0a8",
+      "votes": 11
+    },
+    {
+      "name": "SDA Missions radio",
+      "urls": [
+        "https://stream-57.zeno.fm/mkkr2bcgkf9uv"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 66
+    },
+    {
+      "name": "SDA Radio",
+      "urls": [
+        "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 75
+    },
+    {
+      "name": "Sky News",
+      "urls": [
+        "https://video.news.sky.com/snr/news/snrnews.mp3"
+      ],
+      "tags": [
+        "current affairs"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 60
+    },
+    {
+      "name": "SKYNET FM",
+      "urls": [
+        "https://stream-44.zeno.fm/1uhqawtfk5zuv"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 53
+    },
+    {
+      "name": "Smooth Chill",
+      "urls": [
+        "https://media-ssl.musicradio.com/ChillMP3"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_123029212.jpg?alt=media&token=1959e0e1-bcae-4640-af7f-c42e45c86f43",
+      "votes": 37
+    },
+    {
+      "name": "Smooth country",
+      "urls": [
+        "https://media-ssl.musicradio.com/SmoothCountry"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 48,
+      "logo": "https://media-ssl.musicradio.com/favicon.ico",
+      "votes": 78
+    },
+    {
+      "name": "Sonlife Broadcasting Network",
+      "urls": [
+        "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 78
+    },
+    {
+      "name": "Sport Live",
+      "urls": [
+        "https://radio.talksport.com/stream"
+      ],
+      "tags": [
+        "talksport"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 63,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240501_222002653.jpg?alt=media&token=1d08839c-4f50-4eb6-919d-bbcf2769471c",
+      "votes": 81
+    },
+    {
+      "name": "StreamUG Radio",
+      "urls": [
+        "https://c22.radioboss.fm:8814/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://play-lh.googleusercontent.com/QCubFoSjKzUtPRKNacVo11rDcgqdsIeG2dNMLdGy5i9ywl4Cr41DuhD50ioMqtxzLPsyjhD4ox7cIybhnBSgWBk=w240-h480-rw",
+      "votes": 5
+    },
+    {
+      "name": "TALK RADIO",
+      "urls": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3"
+      ],
+      "tags": [
+        "variety"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8",
+      "votes": 48
+    },
+    {
+      "name": "TALKRADIO",
+      "urls": [
+        "https://radio.talkradio.co.uk/stream"
+      ],
+      "tags": [
+        "news"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 51
+    },
+    {
+      "name": "Talksport",
+      "urls": [
+        "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 63,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd",
+      "votes": 32
+    },
+    {
+      "name": "Teshuvah radio",
+      "urls": [
+        "https://stream.zeno.fm/3qpkku63z5quv"
+      ],
+      "tags": [
+        "afrobeat",
+        "christian-gospel",
+        "gospel music"
+      ],
+      "city": "Central Region ",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://stream.zeno.fm/3qpkku63z5quv",
+      "votes": 11
+    },
+    {
+      "name": "Top Cristiano Dominican",
+      "urls": [
+        "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream"
+      ],
+      "tags": [
+        "music"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 139
+    },
+    {
+      "name": "TOTAL SOUL RADIO",
+      "urls": [
+        "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_012619395.jpg?alt=media&token=86610f52-533d-4579-afff-d1631237602b",
+      "votes": 14
+    },
+    {
+      "name": "Trace Gospel",
+      "urls": [
+        "https://c25.radioboss.fm:8130/4rm8tzo7qirtv"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_043324215.jpg?alt=media&token=f234a106-84cf-4a3a-aa79-afcc92fa4813",
+      "votes": 168
+    },
+    {
+      "name": "Twice Radio",
+      "urls": [
+        "https://stream.zeno.fm/h4b42chqul2tv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 0
+    },
+    {
+      "name": "Uganda DJs",
+      "urls": [
+        "https://stream.zeno.fm/muzrp86994zuv"
+      ],
+      "tags": [
+        "hiphop",
+        "rnb",
+        "rumba",
+        "soul"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6031
+    },
+    {
+      "name": "VICTORS RADIO",
+      "urls": [
+        "https://a13.asurahosting.com/listen/victors_radio_/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Central UG",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.radio.net/300/victorsradio.png?version=d9521b26aaddfd7e5e35d063c680d69a84802b1b",
+      "votes": 3
+    },
+    {
+      "name": "VU Radio",
+      "urls": [
+        "https://s5.radio.co/sdf8bf7e2a/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://vu.ac.ug/_nuxt/vu-radio-logo.DxA6imYj.png",
+      "votes": 1
+    }
+  ]
+}

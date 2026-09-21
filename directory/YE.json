@@ -1,0 +1,107 @@
+{
+  "code": "YE",
+  "name": "Yemen",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": ". quran",
+      "urls": [
+        "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 11857
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 7857
+    },
+    {
+      "name": "Huna Aden FM",
+      "urls": [
+        "https://c30.radioboss.fm:18267/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 9229
+    },
+    {
+      "name": "Sana’a Radio راديو صنعاء",
+      "urls": [
+        "https://dc5.serverse.com/proxy/pbmhbvxs/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 26738
+    },
+    {
+      "name": "إذاعة ابن القيم السلفية",
+      "urls": [
+        "https://c38.radioboss.fm:8323/stream"
+      ],
+      "tags": [],
+      "city": "Aden Governorate",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1688
+    },
+    {
+      "name": "إذاعة القرآن الكريم (صنعاء)",
+      "urls": [
+        "https://halo.streamerr.co/listen/quran_kareem/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Sana'a",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 507
+    },
+    {
+      "name": "راديو الشيخ محمد المقرمي إذاعة (هندسة القلوب)",
+      "urls": [
+        "https://s1.reliastream.com/proxy/almaqrami?mp=/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 3158
+    },
+    {
+      "name": "صوت المقاومة",
+      "urls": [
+        "https://node-23.zeno.fm/b67qheuk54zuv"
+      ],
+      "tags": [
+        "news؛talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 9486
+    }
+  ]
+}

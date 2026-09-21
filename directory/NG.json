@@ -1,0 +1,800 @@
+{
+  "code": "NG",
+  "name": "Nigeria",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "#Radio Quran",
+      "urls": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 660
+    },
+    {
+      "name": "1Radio International",
+      "urls": [
+        "https://fm.imediaport.com/1radio"
+      ],
+      "tags": [
+        "entretenimiento",
+        "highlife",
+        "hip-hop",
+        "nigerian hip pop",
+        "reagge"
+      ],
+      "city": "Rivers",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://1radio.ng/assets/img/logo/favicon.png",
+      "votes": 29
+    },
+    {
+      "name": "1Radio Oguta - Community",
+      "urls": [
+        "https://fm.imediaport.com/1radio.oguta"
+      ],
+      "tags": [],
+      "city": "Imo",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://cdn.webtrend.com.ng/files/69cea73b6c0c82.60598310.png",
+      "votes": 25
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 87
+    },
+    {
+      "name": "Afrobeats Gospel Radio",
+      "urls": [
+        "https://stream.zeno.fm/zyd9stmdlnlvv"
+      ],
+      "tags": [
+        "african",
+        "afrobeats",
+        "christian",
+        "gospel",
+        "inspirational"
+      ],
+      "city": "Akwa Ibom State",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FQQP3mGmsJ7eRVncsKMUkgNRs9dp4BsOgbjYSpFqWLZs%2Frs%3Afit%3A320%3A320%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly96ZW5vaW1hZ2VzLnMzLnVzLXdlc3QtMDAxLmJhY2tibGF6ZWIyLmNvbS9kYmJlZWM3Yy1hZjBmLTQwYzMtOWUxYS1hMTMxYTM3ZmU2ZjEvY2FyZHMvZjAzZjc4NzgtNjk4MS00OTMyLWJiYzktZjU4NmI3MTRiNmIwP3U9NTc1OTE3OA.webp&w=1080&q=75",
+      "votes": 924
+    },
+    {
+      "name": "Afrofusion Gospel Radio",
+      "urls": [
+        "https://a10.asurahosting.com:7120/radio.mp3"
+      ],
+      "tags": [
+        "afrobeats",
+        "afrofusion",
+        "christian",
+        "dance",
+        "gospel"
+      ],
+      "city": "Akwa Ibom State",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://forwardmystream.com/stations/300/afrofusiongospelradio-5804.jpg",
+      "votes": 41
+    },
+    {
+      "name": "Agidigbo 88.7 FM",
+      "urls": [
+        "https://agidigbostream.com.ng/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "community radio",
+        "news",
+        "talk",
+        "yoruba"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 18
+    },
+    {
+      "name": "Air Gospel",
+      "urls": [
+        "https://stream.zeno.fm/qkgrhugy908uv"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://drive.google.com/drive/u/0/my-drive",
+      "votes": 207
+    },
+    {
+      "name": "Air Radio",
+      "urls": [
+        "https://stream.zeno.fm/xu7hp12tzv8uv"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://drive.google.com/drive/u/0/my-drive",
+      "votes": 160
+    },
+    {
+      "name": "Ajísebí Òyó Radio",
+      "urls": [
+        "https://stream-178.surfernetwork.com/v3geyw3zrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2M2dleXczenJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI1X2lERXMxNlM5aW1pZzZCVUJfdlNBIiwiaWF0IjoxNzg4MDI2MjcwLCJleHAiOjE3ODgwMjYzMzB9.2JhqLINyX56HaZQucxs5wn7_PDNbhZCwN_sNvvbYdk8"
+      ],
+      "tags": [
+        "christian-gospel",
+        "gospel"
+      ],
+      "city": "Oyo",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Blast 98.3 FM",
+      "urls": [
+        "https://stream.zeno.fm/94a8u4h2uhhvv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://blasturban983fm.com/wp-content/uploads/2022/06/BlastFMSocial-removebg-preview.png",
+      "votes": 252
+    },
+    {
+      "name": "Bond 92.9 FM",
+      "urls": [
+        "https://go.webgateready.com/bondfm"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://cdn-radiotime-logos.tunein.com/s297865q.png",
+      "votes": 1113
+    },
+    {
+      "name": "Cool FM",
+      "urls": [
+        "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/3/6733.v14.png",
+      "votes": 21
+    },
+    {
+      "name": "Crest 91.1 FM Ibadan",
+      "urls": [
+        "https://stream.zeno.fm/qvudrrg5tasvv"
+      ],
+      "tags": [
+        "ibadan",
+        "music",
+        "news",
+        "nigeria"
+      ],
+      "city": "Oyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 8
+    },
+    {
+      "name": "Diamond 101.1 FM",
+      "urls": [
+        "https://cast1.asurahosting.com/proxy/brightb1/stream"
+      ],
+      "tags": [
+        "ibadan",
+        "music",
+        "news",
+        "nigeria"
+      ],
+      "city": "Oyo",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://diamondfm.net/favicon.ico",
+      "votes": 8
+    },
+    {
+      "name": "Domi Radio",
+      "urls": [
+        "https://domimedia.org/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://domimedia.org/images/icon.png",
+      "votes": 76
+    },
+    {
+      "name": "Dream Center Internet Radio",
+      "urls": [
+        "https://admin.dciradio.org/radio/8010/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.dciradio.org/favicon.ico",
+      "votes": 159
+    },
+    {
+      "name": "EAGLE 7 SPORTS RADIO 103.7 FM",
+      "urls": [
+        "https://eagle7fm-atunwadigital.streamguys1.com/eagle7fm"
+      ],
+      "tags": [
+        "afrobeats",
+        "highlife",
+        "local sports",
+        "news",
+        "reggae",
+        "smooth jazz",
+        "sport",
+        "sports",
+        "sports news",
+        "sports talk"
+      ],
+      "city": "OGUN STATE",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1
+    },
+    {
+      "name": "Esan binoculars",
+      "urls": [
+        "https://fm.imediaport.com/ebradio"
+      ],
+      "tags": [
+        "community radio",
+        "general",
+        "indigenous"
+      ],
+      "city": "Edo state",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://esanbinoculars.com/wp-content/uploads/2020/11/cropped-esanbinoculars_reallogo1.png",
+      "votes": 26
+    },
+    {
+      "name": "FAD FM",
+      "urls": [
+        "https://radio.gotright.net/listen/fadfm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://fadfm.com/wp-content/uploads/2023/02/fadfm_logo-removebg-preview.png",
+      "votes": 134
+    },
+    {
+      "name": "Fresh 105.9 FM",
+      "urls": [
+        "https://stream.zeno.fm/e9x2n97b9uduv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/9/6819.v14.png",
+      "votes": 105
+    },
+    {
+      "name": "Fresh 105.9 FM Ibadan",
+      "urls": [
+        "https://stream.zenolive.com/e9x2n97b9uduv"
+      ],
+      "tags": [
+        "ibadan",
+        "music",
+        "news",
+        "nigeria",
+        "yoruba"
+      ],
+      "city": "Oyo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://i0.wp.com/www.freshfmnigeria.com/wp-content/uploads/2019/05/FreshFM-Nigeria1-300x144.png?fit=192,92&ssl=1",
+      "votes": 36
+    },
+    {
+      "name": "GanGan Radio",
+      "urls": [
+        "https://stream.zeno.fm/9reuhyz8up8uv"
+      ],
+      "tags": [
+        "african music",
+        "traditional"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/5/100965.v3.png",
+      "votes": 640
+    },
+    {
+      "name": "Glow 99.1 FM Akure",
+      "urls": [
+        "https://stream-176.zeno.fm/mwam2yirv1pvv"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news",
+        "politics",
+        "talk"
+      ],
+      "city": "Ondo",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.glowfmradio.com/glowfm%20logo.jpeg",
+      "votes": 7
+    },
+    {
+      "name": "Godfrey Okoye University Radio 106.9fm",
+      "urls": [
+        "https://us5new.listen2myradio.com:2199/stream.php?port=8178"
+      ],
+      "tags": [],
+      "city": "Enugu",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 108
+    },
+    {
+      "name": "GoRadio",
+      "urls": [
+        "https://online.goradio.com.ng/listen/gr/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://goradio.com.ng/wp-content/uploads/2026/02/logo-2.png",
+      "votes": 27
+    },
+    {
+      "name": "Gospotainment Radio",
+      "urls": [
+        "https://radio.gotright.net/radio/8000/radio.mp3"
+      ],
+      "tags": [
+        "afrobeats",
+        "christian",
+        "christian contemporary",
+        "christian praise&worship",
+        "gospel",
+        "gospel music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1135
+    },
+    {
+      "name": "Green Radio Uganda",
+      "urls": [
+        "https://servidor17-1.brlogic.com:7940/live?source=12124"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://greenradionigeria.com/wp-content/uploads/2022/04/greenlogo.png",
+      "votes": 219
+    },
+    {
+      "name": "HOD RADIO",
+      "urls": [
+        "https://servidor21.brlogic.com:7766/live"
+      ],
+      "tags": [],
+      "city": "Edo State",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://www.facebook.com/hodradio",
+      "votes": 174
+    },
+    {
+      "name": "InterSpace Sound System",
+      "urls": [
+        "https://radio.interspacemusic.com/stream.mp3"
+      ],
+      "tags": [
+        "african",
+        "afro house",
+        "afrobeats",
+        "amapiano",
+        "club",
+        "dance",
+        "nigeria",
+        "port harcourt"
+      ],
+      "city": "Rivers",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://radio.interspacemusic.com/assets/iss-logo.png",
+      "votes": 23
+    },
+    {
+      "name": "Konga103.7FM",
+      "urls": [
+        "https://lunar.citrus3.com:8124/stream"
+      ],
+      "tags": [
+        "business",
+        "commerce",
+        "hits",
+        "inspiration",
+        "music"
+      ],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://kongafm.com/logo.svg",
+      "votes": 98
+    },
+    {
+      "name": "LagosJump Radio",
+      "urls": [
+        "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3"
+      ],
+      "tags": [
+        "afrobeats"
+      ],
+      "city": "Abuja",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 453
+    },
+    {
+      "name": "Magic FM",
+      "urls": [
+        "https://radio.ifastekpanel.com:1565/stream"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://cdn.onlineradiobox.com/img/l/7/6597.v13.png",
+      "votes": 14
+    },
+    {
+      "name": "MEMORIES 96.5FM UYO",
+      "urls": [
+        "https://a5.asurahosting.com:6670/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://memoriesmediang.com/wp-content/uploads/2022/05/memories-fm-logo.png",
+      "votes": 18
+    },
+    {
+      "name": "Metro 97.7 FM",
+      "urls": [
+        "https://go.webgateready.com/metrofm"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": "https://radionigerialagos.gov.ng/metrofm/wp-content/uploads/2019/02/met.png",
+      "votes": 291
+    },
+    {
+      "name": "METRO FM LAGOS",
+      "urls": [
+        "https://go.webgateready.com/metrofm/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 2022
+    },
+    {
+      "name": "Mob Urban Radio",
+      "urls": [
+        "https://a13.asurahosting.com/listen/mob_urban_radio/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Nigeria North Central",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Nigeria Info",
+      "urls": [
+        "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/0/6600.v13.png",
+      "votes": 140
+    },
+    {
+      "name": "Obong University Radio",
+      "urls": [
+        "https://a10.asurahosting.com:7150/radio.mp3"
+      ],
+      "tags": [
+        "afro-gospel",
+        "afrobeats",
+        "college",
+        "educational",
+        "jazz"
+      ],
+      "city": "Akwa Ibom State",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.forwardmystream.com/stations/300/obongradio-7110.jpg",
+      "votes": 7
+    },
+    {
+      "name": "Pidgin Radio",
+      "urls": [
+        "https://stream.rcast.net/66702"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 9
+    },
+    {
+      "name": "Praiseworld Radio",
+      "urls": [
+        "https://streaming.radio.co/s7dc18f0ad/listen"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://www.praiseworldradio.com/wp-content/uploads/2020/05/praiseworldlogo-1.png",
+      "votes": 450
+    },
+    {
+      "name": "RadioTiwa",
+      "urls": [
+        "https://stream.zeno.fm/tvqvamkwe5zuv"
+      ],
+      "tags": [
+        "talk & speech"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 523
+    },
+    {
+      "name": "RCCG Central Parish Radio",
+      "urls": [
+        "https://s2.radio.co/s82911d13a/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 32,
+      "logo": "https://centralparishradio.org/wp-content/uploads/2019/11/church.jpg",
+      "votes": 203
+    },
+    {
+      "name": "Softlife Afrofusion Radio",
+      "urls": [
+        "https://a10.asurahosting.com:7540/radio.mp3"
+      ],
+      "tags": [
+        "afro r&b",
+        "afrobeats",
+        "afrofusion",
+        "amapioano",
+        "love songs"
+      ],
+      "city": "Akwa Ibom State",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://forwardmystream.com/stations/300/softlifeafrofusionradio-6653.jpg",
+      "votes": 48
+    },
+    {
+      "name": "Splash FM 105.5",
+      "urls": [
+        "https://edge.mixlr.com/channel/cfeki"
+      ],
+      "tags": [],
+      "city": "Ibadan",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://splashfm1055.com/img/logo.png",
+      "votes": 1851
+    },
+    {
+      "name": "Splash FM Abeokuta",
+      "urls": [
+        "https://stream.zeno.fm/m9x6zr5trp8uv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://splashfm1055.com/img/logo.png",
+      "votes": 442
+    },
+    {
+      "name": "Sports Radio Brila FM",
+      "urls": [
+        "https://atunwadigital.streamguys1.com/brilafm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://brila.net/wp-content/uploads/2025/07/brila-logo-white.png",
+      "votes": 188
+    },
+    {
+      "name": "Tatafo FM",
+      "urls": [
+        "https://pro06.caster.fm:8050/radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": "https://static.wixstatic.com/media/66bf40_91ec5701a78542c98822686535fed162~mv2.jpg",
+      "votes": 0
+    },
+    {
+      "name": "Trove Radio Station",
+      "urls": [
+        "https://stream.zeno.fm/c4ghegiwnkcvv"
+      ],
+      "tags": [
+        "gospel",
+        "hip-pop",
+        "jazz"
+      ],
+      "city": "Osun",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://od.lk/s/NjJfNTI0Mjg3NDVf/TroveRadioGif2.gif",
+      "votes": 102
+    },
+    {
+      "name": "URBAN RADIO ENUGU",
+      "urls": [
+        "https://edge.mixlr.com/channel/cfldr"
+      ],
+      "tags": [],
+      "city": "Enugu",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 1460
+    },
+    {
+      "name": "Usaku FM 90.5",
+      "urls": [
+        "https://eu8.fastcast4u.com/proxy/usakufm?mp=/1"
+      ],
+      "tags": [
+        "fm yola",
+        "radio yola",
+        "usaku",
+        "usaku fm",
+        "usaku radio"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 96,
+      "logo": null,
+      "votes": 142
+    },
+    {
+      "name": "Vicinity 95.3 FM",
+      "urls": [
+        "https://radio.fmmaria.com:8020/radio.mp3"
+      ],
+      "tags": [
+        "community radio",
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 5
+    },
+    {
+      "name": "Vybz 94.5 FM",
+      "urls": [
+        "https://mpc.my-control-panel.eu/stream/8138"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://vybzfm.com/wp-content/uploads/2020/06/VYBZ-94.5-FM-YELLOW.png",
+      "votes": 29
+    },
+    {
+      "name": "Wazobia FM: Lagos",
+      "urls": [
+        "https://wazobiafmlagos951-atunwadigital.streamguys1.com/wazobiafmlagos951"
+      ],
+      "tags": [],
+      "city": "Lagos",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn.onlineradiobox.com/img/l/4/6654.v11.png",
+      "votes": 58
+    },
+    {
+      "name": "YES 101.7 FM",
+      "urls": [
+        "https://stream.zenolive.com/kqgbf9g3mfhvv"
+      ],
+      "tags": [],
+      "city": "Ibadan",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 383
+    },
+    {
+      "name": "Yes FM 101.7",
+      "urls": [
+        "https://stream.zeno.fm/kqgbf9g3mfhvv"
+      ],
+      "tags": [],
+      "city": "Ibadan",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 915
+    }
+  ]
+}

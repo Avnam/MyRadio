@@ -1,0 +1,1313 @@
+{
+  "code": "FI",
+  "name": "Finland",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Tick Tock Radio - 1950",
+      "urls": [
+        "https://streaming.ticktock.radio/tt/1950/icecast.audio"
+      ],
+      "tags": [
+        "1950"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+      "votes": 275
+    },
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 6
+    },
+    {
+      "name": "Aito Iskelmä",
+      "urls": [
+        "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/AitoIskelma_2560x2560.jpg?itok=hieHKR3-",
+      "votes": 15
+    },
+    {
+      "name": "Ålands Radio",
+      "urls": [
+        "https://stream.alandsradio.ax/stream.ogg"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "OGG",
+      "bitrate": 0,
+      "logo": "https://alandsradio.ax/sites/all/themes/alandsradio/images/ar-default-60x60.png",
+      "votes": 38
+    },
+    {
+      "name": "Basso",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "rap"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1600857978/brand_manager/stations/urn8bckvf691ddznsnvb.png",
+      "votes": 86
+    },
+    {
+      "name": "Classic Hits",
+      "urls": [
+        "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/ClassicHits_2560x2560.jpg?itok=GlCBWF9m",
+      "votes": 28
+    },
+    {
+      "name": "DOUBLECLAP RADIO",
+      "urls": [
+        "https://s3.radio.co/scfd7273b2/low"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://doubleclap.dance/wp-content/uploads/2021/05/Doubleclap-Radio-logo-white.png",
+      "votes": 8
+    },
+    {
+      "name": "Doubleclap Radio",
+      "urls": [
+        "https://s3.radio.co/scfd7273b2/listen"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "hardstyle",
+        "house",
+        "lounge",
+        "psytrance",
+        "trance"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 192,
+      "logo": "https://doubleclap.dance/wp-content/uploads/2020/05/logo.png",
+      "votes": 541
+    },
+    {
+      "name": "Easy Hits",
+      "urls": [
+        "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/EasyHits_2560x2560.jpg?itok=k1gFgGRt",
+      "votes": 17
+    },
+    {
+      "name": "FinnRadio",
+      "urls": [
+        "https://servidor39-5.brlogic.com:7076/live"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "online"
+      ],
+      "city": "Suomi",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "FugeFM",
+      "urls": [
+        "https://streaming.broadcast.radio/fugefm"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://fuengirola.fi/wp-content/uploads/2024/09/FugeFM-logo.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Groove FM",
+      "urls": [
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
+      ],
+      "tags": [
+        "groove",
+        "jazz",
+        "soul"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 262,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "Groove FM",
+      "urls": [
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Groove_2560x2560.jpg?itok=e9AhcEY0",
+      "votes": 18
+    },
+    {
+      "name": "HitMix",
+      "urls": [
+        "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/HitMix_2560x2560.jpg?itok=0vJyAWi8",
+      "votes": 134
+    },
+    {
+      "name": "HYPR demoscene radio",
+      "urls": [
+        "https://hypr.website/hypr.mp3"
+      ],
+      "tags": [
+        "demos",
+        "demoscene"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://hypr.website/favicon.ico",
+      "votes": 8
+    },
+    {
+      "name": "IDA Radio",
+      "urls": [
+        "https://broadcast.idaidaida.net:8000/stream"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "electronic",
+        "underground"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": "https://idaidaida.net/og-image.png",
+      "votes": 5
+    },
+    {
+      "name": "Järviradio",
+      "urls": [
+        "https://jarviradio.radiotaajuus.fi:9000/jr"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.jarviradio.fi/favicon.ico",
+      "votes": 282
+    },
+    {
+      "name": "Järviradio Puhe",
+      "urls": [
+        "https://jarviradio.radiotaajuus.fi:9000/jrpuhe"
+      ],
+      "tags": [],
+      "city": "Uusimaa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.jarviradio.fi/wp-content/uploads/2025/08/JRPUHE_LOGO_taajuus.png",
+      "votes": 2
+    },
+    {
+      "name": "Kantriradio",
+      "urls": [
+        "https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Kantriradio_2560x2560.jpg?itok=HyCzbiaa",
+      "votes": 15
+    },
+    {
+      "name": "Karjalainen Syke",
+      "urls": [
+        "https://radio.diks.fi/karjalainensyke"
+      ],
+      "tags": [
+        "local",
+        "news",
+        "pop",
+        "regional"
+      ],
+      "city": "Pohjois-Karjala",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.karjalainensyke.fi/wp-content/uploads/sites/5/2024/08/og-image-karjalainensyke.jpg",
+      "votes": 2
+    },
+    {
+      "name": "Kasari",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "decades"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/427.png?ver=1577957742",
+      "votes": 138
+    },
+    {
+      "name": "Kerhoradio",
+      "urls": [
+        "https://c40.radioboss.fm:8056/stream"
+      ],
+      "tags": [
+        "ice-hockey",
+        "sport"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://kerhoradio.fi/wp-content/uploads/2025/08/Kerhoradio_logo_fix_pienikopio-3.png",
+      "votes": 4
+    },
+    {
+      "name": "Kesäseuraradio",
+      "urls": [
+        "https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b"
+      ],
+      "tags": [
+        "christian",
+        "community",
+        "talk"
+      ],
+      "city": "Suomi",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Kiss",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590490659/brand_manager/stations/snjlzqedegeewmjwz9pd.jpg",
+      "votes": 86
+    },
+    {
+      "name": "Loop",
+      "urls": [
+        "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Loop_2560x2560.jpg?itok=4Nosr7tW",
+      "votes": 33
+    },
+    {
+      "name": "Nightwish",
+      "urls": [
+        "https://stream.pcradio.ru/Nightwish-hi"
+      ],
+      "tags": [
+        "discography"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 0,
+      "logo": "null",
+      "votes": 28
+    },
+    {
+      "name": "NinjaBox 24/7",
+      "urls": [
+        "https://djuplink.com/ninjabox.mp3"
+      ],
+      "tags": [
+        "chill",
+        "deep house",
+        "drum & bass",
+        "dubtechno",
+        "electronic",
+        "neurofunk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://www.savustamo.fi/wp-content/uploads/2025/12/cropped-0_c1bc9_14464e10_L-1590724515-300x300.jpg",
+      "votes": 5
+    },
+    {
+      "name": "Nostalgia",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "nostalgia"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 63,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/335.png",
+      "votes": 208
+    },
+    {
+      "name": "NRJ",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://w7.pngwing.com/pngs/469/239/png-transparent-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting-logo-thumbnail.png",
+      "votes": 215
+    },
+    {
+      "name": "Pride Radio",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_pride_128.mp3"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "lgbt",
+        "pop"
+      ],
+      "city": "National (Finland)",
+      "codec": "AAC",
+      "bitrate": 68,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1749542901/brand_manager/stations/ssli16wlj77nvc1qxaz3.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio 957",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590490408/brand_manager/stations/mqf6ugkjdlrsr7m1tb8x.png",
+      "votes": 21
+    },
+    {
+      "name": "Radio Auran Aallot",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_auranaallot_128.mp3"
+      ],
+      "tags": [
+        "adult contemporary",
+        "local",
+        "pop",
+        "rock",
+        "top40"
+      ],
+      "city": "Southwest Finland (Varsinais-Suomi)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1757058708/brand_manager/stations/qbecm3zuewkfkdpho0na.jpg",
+      "votes": 3
+    },
+    {
+      "name": "Radio Boofi",
+      "urls": [
+        "https://radio.iranian.fi/listen/vip/radio.mp3"
+      ],
+      "tags": [],
+      "city": "Southwest Finland (Varsinais-Suomi)",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://boofi.fi/boofi/radio-boofi.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio City",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_radiocity_128.mp3"
+      ],
+      "tags": [
+        "hits",
+        "local",
+        "pop",
+        "rock"
+      ],
+      "city": "Uusimaa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1675671002/brand_manager/stations/fmt3fagoxw3unvuxm1aj.jpg",
+      "votes": 13
+    },
+    {
+      "name": "Radio Classic",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_classic_128.mp3"
+      ],
+      "tags": [
+        "classical",
+        "instrumental"
+      ],
+      "city": "National (Finland)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345",
+      "votes": 2
+    },
+    {
+      "name": "Radio Dei Kajaani",
+      "urls": [
+        "https://stream.dei.fi:8443/kajaani"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+      "votes": 15
+    },
+    {
+      "name": "Radio Dei Lahti",
+      "urls": [
+        "https://stream.dei.fi:8443/lahti"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+      "votes": 12
+    },
+    {
+      "name": "Radio Helsinki",
+      "urls": [
+        "https://stream.radiohelsinki.fi/stream"
+      ],
+      "tags": [
+        "alternative",
+        "helsinki",
+        "indie",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": "https://radiohelsinki.fi/wp-content/themes/radiohelsinki/favicon.ico",
+      "votes": 0
+    },
+    {
+      "name": "Radio Kaakko",
+      "urls": [
+        "https://wr2.downtime.fi/kaakko.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://theproadmin.online/radio5/world/images/finland/83263_radio.png",
+      "votes": 6
+    },
+    {
+      "name": "Radio Kaleva",
+      "urls": [
+        "https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 137,
+      "logo": "https://www.radiokaleva.fi/wp-content/uploads/sites/337/2022/01/Kaleva_favicon_1_512x512px-300x300.png",
+      "votes": 19
+    },
+    {
+      "name": "Radio Keskisuomalainen",
+      "urls": [
+        "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen"
+      ],
+      "tags": [],
+      "city": "Keski-Suomi",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiokeskisuomalainen.fi/wp-content/uploads/2020/04/cropped-radio-keskisuomalainen-favicon-1-192x192.png",
+      "votes": 59
+    },
+    {
+      "name": "Radio Mega",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_radiomega_128.mp3"
+      ],
+      "tags": [
+        "local",
+        "pop",
+        "rock"
+      ],
+      "city": "Northern Ostrobothnia (Pohjois-Pohjanmaa)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1695977442/brand_manager/stations/axgv7nukphikxkagqldx.png",
+      "votes": 2
+    },
+    {
+      "name": "Radio Moreeni",
+      "urls": [
+        "https://moreenistream.tuni.fi/moreeni.mp3"
+      ],
+      "tags": [],
+      "city": "Pirkanmaa",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGt9a82dooyJLF6ezBmg3exN_JynT88IilVYDRKESzfg&s=10",
+      "votes": 3
+    },
+    {
+      "name": "Radio Nostalgia",
+      "urls": [
+        "https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690"
+      ],
+      "tags": [
+        "nostalgia"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 68,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Radio Nova",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://www.radionova.fi/templates/radionova/images/radio-nova-logo.png",
+      "votes": 52
+    },
+    {
+      "name": "Radio Patmos",
+      "urls": [
+        "https://s3.yesstreaming.net:7011/radio"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 42
+    },
+    {
+      "name": "Radio Pori",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590476006/brand_manager/stations/gnxolu1alqpmvisgznda.png",
+      "votes": 20
+    },
+    {
+      "name": "Radio Rock",
+      "urls": [
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
+      ],
+      "tags": [
+        "finland rock fm 90 92.2 100.4 100.9 supla.fi/radiorock asenne on rock mainstream rock and some shows. evening shows by klaus fleming are extremely good(mon-thr from 8 p.m to 10 p.m gmt2)",
+        "helsinki",
+        "metal",
+        "rock"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 262,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/RadioRock_2560x2560.jpg?itok=-t2L8AEt",
+      "votes": 45
+    },
+    {
+      "name": "Radio Rock",
+      "urls": [
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/RadioRock_2560x2560.jpg?itok=-t2L8AEt",
+      "votes": 55
+    },
+    {
+      "name": "RADIO SANDELS",
+      "urls": [
+        "https://radiosandels.radiotaajuus.fi:9050/radio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.radiosandels.fi/attachments/Image/InShot_20211202_175929630_1.gif?template=generic",
+      "votes": 17
+    },
+    {
+      "name": "Radio Santa Claus",
+      "urls": [
+        "https://streaming.radiostreamlive.com/radiosantaclaus_devices"
+      ],
+      "tags": [
+        "christmas music",
+        "helsinki",
+        "rsl"
+      ],
+      "city": "Uusimaa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+      "votes": 275
+    },
+    {
+      "name": "Radio Soho",
+      "urls": [
+        "https://sohostream.djonline.fi:8008/radio"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "music"
+      ],
+      "city": "Pirkanmaa",
+      "codec": "MP3",
+      "bitrate": 256,
+      "logo": null,
+      "votes": 4
+    },
+    {
+      "name": "Radio Sun",
+      "urls": [
+        "https://st.downtime.fi/sun.mp3"
+      ],
+      "tags": [],
+      "city": "Pirkanmaa",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://radiosun.fi/wp-content/uploads/2023/10/Radio-SUN-LOGO-Asiallisesti-paikallinen-1-1170x599.png",
+      "votes": 4
+    },
+    {
+      "name": "Radio Suomipop",
+      "urls": [
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 262,
+      "logo": null,
+      "votes": 13
+    },
+    {
+      "name": "Radio SuomiPop",
+      "urls": [
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Suomipop_2560x2560.jpg?itok=PbwAfqXn",
+      "votes": 48
+    },
+    {
+      "name": "Radio Tempo",
+      "urls": [
+        "https://cast.radiotempo.fi/radiotempo"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiotempo.fi/wp-content/themes/radiotempo/images/logo.png",
+      "votes": 11
+    },
+    {
+      "name": "Radio Tuottaja1",
+      "urls": [
+        "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 36
+    },
+    {
+      "name": "Radio Vaasa",
+      "urls": [
+        "https://stream.protonbroadcast.com:8443/radiovaasa.mp3"
+      ],
+      "tags": [
+        "bilingual",
+        "community",
+        "local",
+        "regional"
+      ],
+      "city": "Pohjanmaa",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": "https://www.radiovaasa.fi/wp-content/uploads/2020/12/cropped-radiovaasa-favicon-300x300.png",
+      "votes": 3
+    },
+    {
+      "name": "Radio Voima",
+      "urls": [
+        "https://cast2.radiovoima.fi/voima.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.radiovoima.fi/wp-content/uploads/sites/2/2020/10/cropped-radio-voima-icon-180x180.png",
+      "votes": 337
+    },
+    {
+      "name": "RadioSE.fi",
+      "urls": [
+        "https://wr2.downtime.fi/kaakko.aac"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 96,
+      "logo": "https://www.radiose.fi/wp-content/uploads/2024/06/RadioSE.fi-Suomen-monipuolisin-musiikkikanava-white-1024x327.png.webp",
+      "votes": 7
+    },
+    {
+      "name": "REPLAY NEWS - Suomi",
+      "urls": [
+        "https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3"
+      ],
+      "tags": [
+        "information",
+        "news"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-FI.png",
+      "votes": 7
+    },
+    {
+      "name": "Roll FM",
+      "urls": [
+        "https://rollfm.online/"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "country",
+        "rock"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 26
+    },
+    {
+      "name": "Rondo Classic Klasu",
+      "urls": [
+        "https://iradio.fi/klasu.flac"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "FLAC",
+      "bitrate": 0,
+      "logo": "https://liveonlineradio.net/wp-content/uploads/2015/05/Rondo-Classic-Klasu.jpg",
+      "votes": 15
+    },
+    {
+      "name": "Rondo Classic Klasu Pro",
+      "urls": [
+        "https://iradio.fi/klasupro.flac"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "FLAC",
+      "bitrate": 0,
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/UyZJwdEzqv.jpg",
+      "votes": 22
+    },
+    {
+      "name": "Savon Aallot",
+      "urls": [
+        "https://cast.savonaallot.fi/savonaallot"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 320,
+      "logo": "https://www.savonaallot.fi/wp-content/uploads/sites/3/2020/10/cropped-savon-aallot-ikoni-180x180.png",
+      "votes": 59
+    },
+    {
+      "name": "Sea FM",
+      "urls": [
+        "https://s3.myradiostream.com/4976/listen.mp3"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "r´n´b",
+        "top 40"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 192,
+      "logo": null,
+      "votes": 35
+    },
+    {
+      "name": "SuomiRap",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_suomirap_128.mp3"
+      ],
+      "tags": [
+        "finnish rap",
+        "hip hop",
+        "rap"
+      ],
+      "city": "National (Finland)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1710402023/brand_manager/stations/mdenzfihtj0m7lqv8lhb.png",
+      "votes": 5
+    },
+    {
+      "name": "Sveriges Radio - SR Sisuradio",
+      "urls": [
+        "https://live1.sr.se/finska-aac-320"
+      ],
+      "tags": [
+        "finnish",
+        "music",
+        "news",
+        "public radio",
+        "sveriges radio"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 304,
+      "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "votes": 721
+    },
+    {
+      "name": "Tampereen Kiakkoradio: Tappara",
+      "urls": [
+        "https://st.downtime.fi/kiakko-tappara.aac"
+      ],
+      "tags": [],
+      "city": "Tampere",
+      "codec": "AAC+",
+      "bitrate": 64,
+      "logo": "https://kiakkoradio.fi/wp-content/uploads/2023/09/masnepp.png",
+      "votes": 59
+    },
+    {
+      "name": "Tekoälyradio",
+      "urls": [
+        "https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3"
+      ],
+      "tags": [
+        "ai",
+        "hits",
+        "pop"
+      ],
+      "city": "National (Finland)",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1701166742/brand_manager/stations/h71vihwdoll5yuxpwgfe.jpg",
+      "votes": 1
+    },
+    {
+      "name": "TOP51",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://radiomedia.fi/wp-content/uploads/2021/06/top51_1000x1000-300x300.png",
+      "votes": 46
+    },
+    {
+      "name": "Vömba FM",
+      "urls": [
+        "https://c4.radioboss.fm:18123/live"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "community",
+        "estonian",
+        "online"
+      ],
+      "city": "Suomi",
+      "codec": "AAC",
+      "bitrate": 320,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Yle Klassinen",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/300px-Ylen_logo.svg.png",
+      "votes": 113
+    },
+    {
+      "name": "Yle Klassinen (HLS)",
+      "urls": [
+        "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 256,
+      "logo": "https://images.cdn.yle.fi/image/upload/c_scale,h_180,w_180/yle-areena-app.png",
+      "votes": 15
+    },
+    {
+      "name": "Yle Radio Suomi - Pori",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YlePori/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 48
+    },
+    {
+      "name": "YLE Radio Suomi - Tampere",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Pirkanmaa",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_2890,h_2890,c_crop,x_632,y_612/w_700/v1641897373/39-90051461dd5d3129248.jpg",
+      "votes": 37
+    },
+    {
+      "name": "Yle radio Suomi Etelä-pohjanmaa",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://areena.yle.fi/favicon.ico",
+      "votes": 15
+    },
+    {
+      "name": "YLE Radio Suomi Hämeenlinna",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Häme",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/image/upload/ar_1:1,b_auto:predominant_gradient:4,c_pad,d_yle-areena.jpg,f_auto,fl_lossy,q_auto:eco,w_720/v1607003766/13-1-1416159.jpg",
+      "votes": 54
+    },
+    {
+      "name": "Yle Radio Suomi Kajaani",
+      "urls": [
+        "https://yleradiolive5.akamaized.net/hls/live/20000882/ylers-kajaani/256/variant.m3u8"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "UNKNOWN",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Yle radio Suomi Pohjanmaa",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 15
+    },
+    {
+      "name": "Yle Radio Suomi, Joensuu",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://areena.yle.fi/favicon.ico",
+      "votes": 2
+    },
+    {
+      "name": "YLE radio Suomi, Jyväskylä",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Keski-Suomi",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 117
+    },
+    {
+      "name": "Yle Radio Suomi, Kotka",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleKotka/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/image/upload/c_fill,f_auto,h_160,q_auto:eco/v0/yle-radio-suomi-kotka_vt.png",
+      "votes": 30
+    },
+    {
+      "name": "Yle Radio Suomi, Kuopio",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 32
+    },
+    {
+      "name": "Yle Radio Suomi, Mikkeli",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Etelä-Savo",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 65
+    },
+    {
+      "name": "Yle Radio Suomi, Rovaniemi",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Yle radio Vega Östnyland",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 14
+    },
+    {
+      "name": "Yle Sámi Radio",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleSami/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 3
+    },
+    {
+      "name": "Yle Vega Åboland",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://arenan.yle.fi/favicon.ico",
+      "votes": 11
+    },
+    {
+      "name": "Yle Vega Österbotten",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 184
+    },
+    {
+      "name": "Yle Vega Västnyland",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 49
+    },
+    {
+      "name": "YleRadioSuomiLahti",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio"
+      ],
+      "tags": [],
+      "city": "Päijät-Häme",
+      "codec": "AAC+",
+      "bitrate": 0,
+      "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lahti&size=128",
+      "votes": 11
+    },
+    {
+      "name": "YleX",
+      "urls": [
+        "https://icecast.live.yle.fi/radio/YleX/icecast.audio"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "city": "",
+      "codec": "AAC+",
+      "bitrate": 128,
+      "logo": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "votes": 564
+    },
+    {
+      "name": "Ysäri",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1632725925/brand_manager/stations/zjgpsi5wjubhaer63x0j.png",
+      "votes": 15
+    },
+    {
+      "name": "Ysäri",
+      "urls": [
+        "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+      ],
+      "tags": [
+        "90s",
+        "pop"
+      ],
+      "city": "Uusimaa",
+      "codec": "AAC",
+      "bitrate": 63,
+      "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/426.png",
+      "votes": 76
+    }
+  ]
+}

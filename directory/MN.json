@@ -1,0 +1,99 @@
+{
+  "code": "MN",
+  "name": "Mongolia",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 61
+    },
+    {
+      "name": "Ehlelradio",
+      "urls": [
+        "https://stream.zeno.fm/c6cvywws538uv"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 10
+    },
+    {
+      "name": "Elgen Nutag",
+      "urls": [
+        "https://a6.asurahosting.com:7210/radio.mp3"
+      ],
+      "tags": [
+        "culture",
+        "folk",
+        "music",
+        "radio books",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 12
+    },
+    {
+      "name": "Family Radio FM",
+      "urls": [
+        "https://c2.radioboss.fm/stream/394"
+      ],
+      "tags": [
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 541
+    },
+    {
+      "name": "Xadun 107.5",
+      "urls": [
+        "https://stream.zeno.fm/z3sbdspshrhvv"
+      ],
+      "tags": [
+        "news",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 6
+    },
+    {
+      "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+      "urls": [
+        "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3"
+      ],
+      "tags": [
+        "culture"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": "https://pic.qtfm.cn/2015/0324/20150324134256614.jpg",
+      "votes": 144
+    }
+  ]
+}

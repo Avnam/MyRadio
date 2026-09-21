@@ -1,0 +1,43 @@
+{
+  "code": "GF",
+  "name": "French Guiana",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "null",
+      "votes": 31
+    },
+    {
+      "name": "Guyane 1ère",
+      "urls": [
+        "https://guyane.ice.infomaniak.ch/guyane-128.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://la1ere.francetvinfo.fr/favicon.ico",
+      "votes": 1621
+    },
+    {
+      "name": "Métis FM",
+      "urls": [
+        "https://str0.creacast.com/metisfm.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://metis.fm/uploads/media/metisfm/logo_metis_50.jpg",
+      "votes": 393
+    }
+  ]
+}

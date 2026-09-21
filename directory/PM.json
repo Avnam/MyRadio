@@ -1,0 +1,33 @@
+{
+  "code": "PM",
+  "name": "Saint Pierre And Miquelon",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Abdulbasit Abdulsamad",
+      "urls": [
+        "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "AAC",
+      "bitrate": 64,
+      "logo": "https://mp3islam.com/favicon.ico",
+      "votes": 17
+    },
+    {
+      "name": "La 1ere Saint Pierre et Miquelon (975)",
+      "urls": [
+        "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "city": "France",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.google.com/url?sa=i&url=http%3A%2F%2Ffr-fr.radioline.co%2Fecouter-rfo-radio-saint-pierre-et-miquelon&psig=AOvVaw1XKDAabRkc01Z7sN8DoKjk&ust=1637792164850000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCbmrTBr_QCFQAAAAAdAAAAABAE",
+      "votes": 133
+    }
+  ]
+}

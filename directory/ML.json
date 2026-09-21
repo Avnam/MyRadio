@@ -1,0 +1,162 @@
+{
+  "code": "ML",
+  "name": "Mali",
+  "builtAt": "2026-09-21T19:56:25.263116+00:00",
+  "stations": [
+    {
+      "name": "Noura FM 94.5 Bamako",
+      "urls": [
+        "https://stream-151.zeno.fm/60x209af8e9uv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 804
+    },
+    {
+      "name": "Radio Bougouni Kunkan 102.9",
+      "urls": [
+        "https://stream.zeno.fm/x3gb8t9nzk0uv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 932
+    },
+    {
+      "name": "Radio Kassara Barikama 107.4 Kayes",
+      "urls": [
+        "https://stream.zeno.fm/0ef19uaxh4duv"
+      ],
+      "tags": [
+        "african music",
+        "talk"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 64,
+      "logo": null,
+      "votes": 894
+    },
+    {
+      "name": "Radio Kledu",
+      "urls": [
+        "https://stream.zeno.fm/f38bxpt3v2quv"
+      ],
+      "tags": [
+        "african",
+        "bamako",
+        "culture",
+        "music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 0,
+      "logo": null,
+      "votes": 749
+    },
+    {
+      "name": "Radio Kledu 101.2",
+      "urls": [
+        "https://stream-156.zeno.fm/yerp85sughwtv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static-media.streema.com/media/cache/50/01/5001b701398eeea139659d36c8970979.jpg",
+      "votes": 766
+    },
+    {
+      "name": "Radio Madjoura Nourou Dine Touba",
+      "urls": [
+        "https://stream.zeno.fm/kgnvaarqu0quv"
+      ],
+      "tags": [],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://static-media.streema.com/media/cache/14/f2/14f220fbd1700ed010689ee913a84771.jpg",
+      "votes": 736
+    },
+    {
+      "name": "Radio Malijet",
+      "urls": [
+        "https://stream-157.zeno.fm/yerp85sughwtv?zs=bzqHawb1Rha3gGg97iW8xg"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 2349
+    },
+    {
+      "name": "Radio Neneba FM 97.7 Markala",
+      "urls": [
+        "https://stream.zeno.fm/e9xqg1ah22quv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": null,
+      "votes": 1224
+    },
+    {
+      "name": "Radio Tissa la Voix du Mamelon 99.7 FM",
+      "urls": [
+        "https://stream.zeno.fm/s8ng63k4tchvv"
+      ],
+      "tags": [
+        "african music",
+        "bamako"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://www.facebook.com/favicon.ico",
+      "votes": 1077
+    },
+    {
+      "name": "Radio Woyowayanko 93.0 Bamako",
+      "urls": [
+        "https://stream.zeno.fm/1mr8wdywz68uv"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 1515
+    },
+    {
+      "name": "Radio Yélé Sagabali La Voix Du Beledougou",
+      "urls": [
+        "https://stream-286.surfernetwork.com/au9gskurq0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhdTlnc2t1cnEwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5fU3RqR0Z0UUxlSUJWdmVCY1NzYXciLCJpYXQiOjE3ODk5ODA4MDMsImV4cCI6MTc4OTk4MDg2M30.0Ogbyzk2VDUap07U2TzpqCliVmsxS52nLjhRX6kdIME"
+      ],
+      "tags": [
+        "african music"
+      ],
+      "city": "",
+      "codec": "MP3",
+      "bitrate": 128,
+      "logo": "https://zeno.fm/favicon.ico",
+      "votes": 847
+    }
+  ]
+}
