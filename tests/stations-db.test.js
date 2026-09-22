@@ -86,3 +86,19 @@ test('next/previous return null when the list is empty', () => {
   assert.equal(stationsDb.next('anything'), null);
   assert.equal(stationsDb.previous('anything'), null);
 });
+
+test('new stations default to not skippable', () => {
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'] });
+  assert.equal(station.skippable, false);
+});
+
+test('setSkippable persists the flag, but core next/previous ignore it — that policy belongs to the theme', () => {
+  const { station: a } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'] });
+  const { station: b } = stationsDb.addStation({ name: 'B', urls: ['https://b.example'] });
+  const { station: c } = stationsDb.addStation({ name: 'C', urls: ['https://c.example'] });
+  stationsDb.setSkippable(b.id, true);
+
+  assert.equal(stationsDb.getStation(b.id).skippable, true);
+  assert.equal(stationsDb.next(a.id).id, b.id, 'core next() still lands on the immediate neighbor');
+  assert.equal(stationsDb.previous(c.id).id, b.id);
+});

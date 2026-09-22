@@ -29,6 +29,7 @@
     "tools.yes": "Yes",
     "tools.no": "No",
     "tools.empty": "You have no stations yet.",
+    "tools.skip": "Skip in next/previous",
 
     "search.title": "Search {country}",
     "search.placeholder": "Filter by name, tag or city…",
@@ -44,7 +45,8 @@
 
     "settings.title": "Settings",
     "settings.language": "Language",
-    "settings.look": "Look",
+    "settings.theme": "Theme",
+    "settings.autostart": "Resume playing automatically when the app opens",
     "settings.import": "Import",
     "settings.export": "Export",
     "settings.exportToFile": "Export to file",

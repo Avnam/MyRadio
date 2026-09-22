@@ -1,11 +1,33 @@
-// Evia: the first look (E-1..E-5). Presentation and DOM wiring only — every rule
-// (dedupe on add, wraparound next/previous, import validation, ...) lives in
-// js/core/* and is only ever called into, never re-implemented here.
+// Evia: the first theme (E-1..E-5). Presentation and DOM wiring only — most rules
+// (dedupe on add, wraparound next/previous, import validation, ...) live in
+// js/core/* and are only ever called into, never re-implemented here.
+//
+// The one exception is skippable stations: whether next/previous should ever
+// pass over a station is a theme's decision, not core's, so that policy lives
+// entirely below, built on top of core's plain stationsDb.next/previous.
+import * as stationsDb from '../../js/core/stations-db.js';
 
 export const id = 'evia';
 export const title = 'Evia';
-export const defaultSettings = {};
-export const cssHref = 'looks/evia/evia.css';
+export const defaultSettings = { autostart: false };
+export const cssHref = 'themes/evia/evia.css';
+
+function skipWalk(currentId, step) {
+  const total = stationsDb.getStations().length;
+  let candidate = step(currentId);
+  for (let i = 0; candidate && candidate.skippable && i < total; i++) {
+    candidate = step(candidate.id);
+  }
+  return candidate;
+}
+
+export function getNextStation(currentId) {
+  return skipWalk(currentId, stationsDb.next);
+}
+
+export function getPreviousStation(currentId) {
+  return skipWalk(currentId, stationsDb.previous);
+}
 
 const ICONS = {
   prev: '<svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>',
@@ -33,7 +55,8 @@ function sharesUrl(a, b) {
 }
 
 export function mount(container, ctx) {
-  const { player, stationsDb, importExport, directory, t, selectStation, goNext, goPrevious, looks, switchLook } = ctx;
+  const { player, stationsDb, importExport, directory, t, selectStation, goNext, goPrevious,
+          removeStation, removeAllStations, themes, switchTheme, getThemeSettings, setThemeSettings } = ctx;
 
   let view = 'main';
   let viewParams = {};
@@ -59,7 +82,9 @@ export function mount(container, ctx) {
   const panelEl = shell.querySelector('#evia-panel');
 
   shell.querySelectorAll('.evia-tabbar button').forEach(btn => {
-    btn.addEventListener('click', () => goTo(btn.dataset.view));
+    btn.addEventListener('click', () => {
+      goTo(view === btn.dataset.view ? 'main' : btn.dataset.view);
+    });
   });
 
   function goTo(next, params) {
@@ -143,6 +168,10 @@ export function mount(container, ctx) {
               <li draggable="true" data-id="${s.id}">
                 <span class="evia-handle">&#8942;&#8942;</span>
                 <span class="name">${escapeHtml(s.name)}</span>
+                <label class="evia-skip">
+                  <input type="checkbox" data-skip="${s.id}" ${s.skippable ? 'checked' : ''}>
+                  ${t('tools.skip')}
+                </label>
                 <button class="evia-remove" data-remove="${s.id}">&times;</button>
               </li>`).join('')}
           </ul>
@@ -157,10 +186,16 @@ export function mount(container, ctx) {
     const list = panelEl.querySelector('#evia-list');
     if (list) wireDragList(list);
 
+    panelEl.querySelectorAll('[data-skip]').forEach(checkbox => {
+      checkbox.addEventListener('change', () => {
+        stationsDb.setSkippable(checkbox.dataset.skip, checkbox.checked);
+      });
+    });
+
     panelEl.querySelectorAll('[data-remove]').forEach(btn => {
       btn.addEventListener('click', () => {
         if (confirm(t('tools.removeOneConfirm'))) {
-          stationsDb.removeStation(btn.dataset.remove);
+          removeStation(btn.dataset.remove);
           renderHeader();
           renderTools();
         }
@@ -170,7 +205,7 @@ export function mount(container, ctx) {
     const removeAllBtn = panelEl.querySelector('#evia-remove-all');
     if (removeAllBtn) removeAllBtn.addEventListener('click', () => {
       if (confirm(t('tools.removeAllConfirm'))) {
-        stationsDb.removeAll();
+        removeAllStations();
         renderHeader();
         renderTools();
       }
@@ -193,7 +228,7 @@ export function mount(container, ctx) {
                          e.clientY < rect.top || e.clientY > rect.bottom;
         if (outside) {
           if (confirm(t('tools.removeOneConfirm'))) {
-            stationsDb.removeStation(draggingId);
+            removeStation(draggingId);
           }
           renderHeader();
           renderTools();
@@ -379,19 +414,27 @@ export function mount(container, ctx) {
     }
   }
 
-  // --- settings: import, export, look switcher ----------------------------
+  // --- settings: import, export, theme switcher ----------------------------
 
   function renderSettings() {
+    const settings = getThemeSettings(id) ?? defaultSettings;
     panelEl.innerHTML = `
       <div class="evia-panel">
         <button class="evia-back" data-back>&larr; ${t('common.back')}</button>
         <h2>${t('settings.title')}</h2>
 
         <div class="evia-field">
-          <label>${t('settings.look')}</label>
-          <select id="evia-look-select">
-            ${looks.map(l => `<option value="${l.id}">${escapeHtml(l.title)}</option>`).join('')}
+          <label>${t('settings.theme')}</label>
+          <select id="evia-theme-select">
+            ${themes.map(th => `<option value="${th.id}">${escapeHtml(th.title)}</option>`).join('')}
           </select>
+        </div>
+
+        <div class="evia-field">
+          <label class="evia-checkbox-field">
+            <input type="checkbox" id="evia-autostart" ${settings.autostart ? 'checked' : ''}>
+            ${t('settings.autostart')}
+          </label>
         </div>
 
         <div class="evia-field">
@@ -417,9 +460,13 @@ export function mount(container, ctx) {
     `;
     panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
 
-    const lookSelect = panelEl.querySelector('#evia-look-select');
-    lookSelect.value = id;
-    lookSelect.addEventListener('change', () => switchLook(lookSelect.value));
+    const themeSelect = panelEl.querySelector('#evia-theme-select');
+    themeSelect.value = id;
+    themeSelect.addEventListener('change', () => switchTheme(themeSelect.value));
+
+    panelEl.querySelector('#evia-autostart').addEventListener('change', (e) => {
+      setThemeSettings(id, { ...settings, autostart: e.target.checked });
+    });
 
     panelEl.querySelector('#evia-export-file').addEventListener('click', () => importExport.exportToFile());
     panelEl.querySelector('#evia-export-clip').addEventListener('click', async () => {

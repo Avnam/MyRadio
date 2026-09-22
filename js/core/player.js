@@ -35,12 +35,13 @@ export class Player extends EventTarget {
     this.dispatchEvent(new CustomEvent(name, { detail }));
   }
 
-  /** Emits {key, params, isError} for the look to translate with i18n's t(). */
+  /** Emits {key, params, isError} for the theme to translate with i18n's t(). */
   _status(key, params, isError) {
     this._emit('status', { key, params, isError: !!isError });
   }
 
   /** Loads a station. Set autoplay to start immediately. */
+  /** Pass station: null to clear the player (e.g. your last station was removed). */
   load(station, autoplay) {
     this.station = station;
     this._attemptId++;
@@ -48,6 +49,7 @@ export class Player extends EventTarget {
     this._resetChain();
     this.playing = false;
     this._emit('state', { playing: false, live: false, station });
+    if (!station) return;
     if (autoplay) this.play();
     else this._status('player.pressPlay');
   }

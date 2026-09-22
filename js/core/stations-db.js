@@ -66,7 +66,8 @@ export function addStation(input) {
     urls: input.urls,
     country: input.country ?? state.defaultCountry,
     tags: input.tags ?? [],
-    logo: input.logo ?? null
+    logo: input.logo ?? null,
+    skippable: input.skippable ?? false
   };
   const existing = state.stations.find(s => sharesUrl(s, candidate));
   if (existing) return { added: false, station: existing };
@@ -118,6 +119,20 @@ export function setLastStationId(id) {
   const state = load();
   state.lastStationId = id;
   save(state);
+}
+
+/**
+ * A station's skippable flag is just data here — whether next/previous should
+ * ever act on it is a theme's decision, not core's. See themes/evia/evia.js
+ * for the one theme that currently honors it.
+ */
+export function setSkippable(id, skippable) {
+  const state = load();
+  const station = state.stations.find(s => s.id === id);
+  if (station) {
+    station.skippable = !!skippable;
+    save(state);
+  }
 }
 
 function stepStation(currentId, delta) {

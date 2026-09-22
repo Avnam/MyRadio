@@ -1,6 +1,6 @@
-// UI database: language, active look, per-look settings. Never exported.
-// Every look must read/write ITS section only through getLookSettings/setLookSettings —
-// no look should touch localStorage directly, so switching looks can never mix state.
+// UI database: language, active theme, per-theme settings. Never exported.
+// Every theme must read/write ITS section only through getThemeSettings/setThemeSettings —
+// no theme should touch localStorage directly, so switching themes can never mix state.
 
 const KEY = 'radio.ui';
 const VERSION = 1;
@@ -9,8 +9,8 @@ function defaults() {
   return {
     version: VERSION,
     language: 'en',
-    activeLook: 'evia',
-    looks: {}
+    activeTheme: 'evia',
+    themes: {}
   };
 }
 
@@ -25,8 +25,8 @@ function load() {
   return {
     version: VERSION,
     language: typeof raw.language === 'string' ? raw.language : 'en',
-    activeLook: typeof raw.activeLook === 'string' ? raw.activeLook : 'evia',
-    looks: (raw.looks && typeof raw.looks === 'object') ? raw.looks : {}
+    activeTheme: typeof raw.activeTheme === 'string' ? raw.activeTheme : 'evia',
+    themes: (raw.themes && typeof raw.themes === 'object') ? raw.themes : {}
   };
 }
 
@@ -44,23 +44,23 @@ export function setLanguage(code) {
   save(state);
 }
 
-export function getActiveLook() {
-  return load().activeLook;
+export function getActiveTheme() {
+  return load().activeTheme;
 }
 
-export function setActiveLook(id) {
+export function setActiveTheme(id) {
   const state = load();
-  state.activeLook = id;
+  state.activeTheme = id;
   save(state);
 }
 
-export function getLookSettings(lookId) {
+export function getThemeSettings(themeId) {
   const state = load();
-  return state.looks[lookId] ?? null;
+  return state.themes[themeId] ?? null;
 }
 
-export function setLookSettings(lookId, settings) {
+export function setThemeSettings(themeId, settings) {
   const state = load();
-  state.looks[lookId] = settings;
+  state.themes[themeId] = settings;
   save(state);
 }

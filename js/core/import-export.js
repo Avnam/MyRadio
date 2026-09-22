@@ -14,7 +14,8 @@ export function exportData() {
       urls: s.urls,
       country: s.country,
       tags: s.tags,
-      logo: s.logo
+      logo: s.logo,
+      skippable: s.skippable
     }))
   };
 }
@@ -60,7 +61,8 @@ function normalizeStation(raw, i) {
     urls,
     country: typeof raw.country === 'string' ? raw.country : undefined,
     tags: Array.isArray(raw.tags) ? raw.tags : [],
-    logo: typeof raw.logo === 'string' ? raw.logo : null
+    logo: typeof raw.logo === 'string' ? raw.logo : null,
+    skippable: raw.skippable === true
   };
 }
 

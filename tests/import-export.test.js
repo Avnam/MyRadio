@@ -52,6 +52,18 @@ test('replace mode clears the existing list first (C-8)', () => {
   assert.deepEqual(names, ['New']);
 });
 
+test('skippable round-trips through export and import', () => {
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'] });
+  stationsDb.setSkippable(station.id, true);
+  const exported = importExport.exportData();
+  assert.equal(exported.stations[0].skippable, true);
+
+  stationsDb.removeAll();
+  const parsed = importExport.parseImportText(JSON.stringify(exported));
+  importExport.applyImport(parsed, 'add');
+  assert.equal(stationsDb.getStations()[0].skippable, true);
+});
+
 test('leaves the current list untouched when import is invalid (C-9)', () => {
   stationsDb.addStation({ name: 'Existing', urls: ['https://a.example'] });
   assert.throws(() => importExport.parseImportText('not json at all'));

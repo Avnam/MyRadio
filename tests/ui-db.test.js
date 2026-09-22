@@ -4,28 +4,28 @@ import * as uiDb from '../js/core/ui-db.js';
 
 beforeEach(() => localStorage.clear());
 
-test('defaults: English, Evia, no per-look settings yet', () => {
+test('defaults: English, Evia, no per-theme settings yet', () => {
   assert.equal(uiDb.getLanguage(), 'en');
-  assert.equal(uiDb.getActiveLook(), 'evia');
-  assert.equal(uiDb.getLookSettings('evia'), null);
+  assert.equal(uiDb.getActiveTheme(), 'evia');
+  assert.equal(uiDb.getThemeSettings('evia'), null);
 });
 
-test('language and active look round-trip', () => {
+test('language and active theme round-trip', () => {
   uiDb.setLanguage('en');
-  uiDb.setActiveLook('evia');
+  uiDb.setActiveTheme('evia');
   assert.equal(uiDb.getLanguage(), 'en');
-  assert.equal(uiDb.getActiveLook(), 'evia');
+  assert.equal(uiDb.getActiveTheme(), 'evia');
 });
 
-test('each look keeps its own settings section, never mixed (C-16)', () => {
-  uiDb.setLookSettings('evia', { accent: 'blue' });
-  uiDb.setLookSettings('another-look', { accent: 'green' });
-  assert.deepEqual(uiDb.getLookSettings('evia'), { accent: 'blue' });
-  assert.deepEqual(uiDb.getLookSettings('another-look'), { accent: 'green' });
+test('each theme keeps its own settings section, never mixed (C-16)', () => {
+  uiDb.setThemeSettings('evia', { accent: 'blue' });
+  uiDb.setThemeSettings('another-theme', { accent: 'green' });
+  assert.deepEqual(uiDb.getThemeSettings('evia'), { accent: 'blue' });
+  assert.deepEqual(uiDb.getThemeSettings('another-theme'), { accent: 'green' });
 });
 
-test('switching the active look does not touch any look\'s settings', () => {
-  uiDb.setLookSettings('evia', { accent: 'blue' });
-  uiDb.setActiveLook('another-look');
-  assert.deepEqual(uiDb.getLookSettings('evia'), { accent: 'blue' });
+test('switching the active theme does not touch any theme\'s settings', () => {
+  uiDb.setThemeSettings('evia', { accent: 'blue' });
+  uiDb.setActiveTheme('another-theme');
+  assert.deepEqual(uiDb.getThemeSettings('evia'), { accent: 'blue' });
 });
