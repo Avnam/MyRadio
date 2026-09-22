@@ -60,9 +60,18 @@ export class Player extends EventTarget {
     this._attempt(false);
   }
 
+  /**
+   * Pauses without destroying the <audio> element. A live stream can't resume
+   * from where it left off anyway (play() always starts a fresh connection),
+   * so there's nothing to gain by tearing it down here — and destroying it
+   * (removeAttribute('src') + load()) is what makes Android Chrome drop our
+   * Media Session while paused, handing "now playing" focus to another app.
+   */
   stop() {
     this._attemptId++;
-    this._teardown();
+    this._stopLevels();
+    if (this._raf) { cancelAnimationFrame(this._raf); this._raf = null; }
+    this.audio?.pause();
     this.playing = false;
     this._emit('state', { playing: false, live: false, station: this.station });
     this._status('player.stopped');

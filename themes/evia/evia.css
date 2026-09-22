@@ -28,6 +28,8 @@
 .evia-topline { display: flex; align-items: center; gap: 12px; }
 .evia-topline select {
   flex: 1;
+  min-width: 0; /* flex items default to min-width:auto — without this, a long
+                   station name refuses to shrink and overflows the row */
   background: transparent;
   color: var(--evia-glow);
   border: 0;
@@ -35,6 +37,9 @@
   font: inherit;
   font-size: 1.1rem;
   padding: 6px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .evia-topline select option { background: var(--evia-ink-2); color: var(--evia-glow); }
 
