@@ -10,6 +10,7 @@ import * as directory from './core/directory.js';
 import * as i18n from './core/i18n.js';
 import { Player } from './core/player.js';
 import { THEMES, getTheme } from './core/themes.js';
+import { VERSION } from './version.js';
 
 const player = new Player();
 let currentCleanup = null;
@@ -113,7 +114,7 @@ function setThemeStylesheet(theme) {
     link.rel = 'stylesheet';
     document.head.appendChild(link);
   }
-  link.href = theme.cssHref;
+  link.href = `${theme.cssHref}?v=${VERSION}`;
 }
 
 function mount(themeId) {
