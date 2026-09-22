@@ -9,11 +9,12 @@ const SILENCE_MS = 4000;
 // How long an in-flight, not-yet-settled connection attempt is protected from
 // being interrupted by a newer request (C-13a). Mashing next/previous used to
 // tear down and recreate the <audio> element on every single press — killing
-// a connection before it had any real chance to reach 'playing'. Real streams
-// often take longer than a few hundred ms to connect, so anything shorter
-// than this reproduces the "stops before buffering finishes" bug; anything
-// much longer makes deliberate rapid skipping feel stuck.
-const BUSY_GRACE_MS = 900;
+// a connection before it had any real chance to reach 'playing'. This needs
+// to comfortably outlast a real connect on a real (often mobile/cellular)
+// network, not just a fast desktop connection — 900ms tested fine on desktop
+// Wi-Fi but was still shorter than real mobile connect times, so the safety
+// valve kept firing and reproducing the exact bug it was meant to prevent.
+const BUSY_GRACE_MS = 5000;
 
 export class Player extends EventTarget {
   constructor() {
@@ -31,6 +32,7 @@ export class Player extends EventTarget {
     this._failures = [];
 
     this._ctx = null;
+    this._sourceNode = null;
     this._analyser = null;
     this._gain = null;
     this._raf = null;
@@ -285,6 +287,16 @@ export class Player extends EventTarget {
   _teardown() {
     this._stopLevels();
     if (this._raf) { cancelAnimationFrame(this._raf); this._raf = null; }
+    // Disconnect the WebAudio graph explicitly — dropping just the JS
+    // references left the nodes connected forever, accumulating garbage in
+    // the shared AudioContext on every attempt that briefly reached
+    // 'playing' before being superseded. Mobile devices have tighter audio
+    // resource limits than desktop, so this could compound into real
+    // failures there well before it would show up on a desktop test.
+    try { this._sourceNode?.disconnect(); } catch { /* already disconnected */ }
+    try { this._analyser?.disconnect(); } catch { /* already disconnected */ }
+    try { this._gain?.disconnect(); } catch { /* already disconnected */ }
+    this._sourceNode = null;
     this._analyser = null;
     this._gain = null;
     if (this.audio) {
@@ -303,6 +315,7 @@ export class Player extends EventTarget {
       if (this._ctx.state === 'suspended') this._ctx.resume();
 
       const src = this._ctx.createMediaElementSource(this.audio);
+      this._sourceNode = src;
       this._analyser = this._ctx.createAnalyser();
       this._analyser.fftSize = 256;
       this._analyser.minDecibels = -95;
@@ -322,6 +335,7 @@ export class Player extends EventTarget {
       this._emit('analysed', { on: true });
       this._drawLevels();
     } catch {
+      this._sourceNode = null;
       this._analyser = null;
       this._gain = null;
       this._emit('analysed', { on: false });
