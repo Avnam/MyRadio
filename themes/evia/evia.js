@@ -123,7 +123,8 @@ export function mount(container, ctx) {
         <button class="evia-icon-btn" id="evia-toggle" aria-label="${player.playing ? t('common.pause') : t('common.play')}">${player.playing ? ICONS.pause : ICONS.play}</button>
         <button class="evia-icon-btn" id="evia-next" aria-label="Next">${ICONS.next}</button>
       </div>
-      <p class="evia-nowplaying" id="evia-nowplaying">&nbsp;</p>
+      <p class="evia-nowplaying-program" id="evia-nowplaying-program">&nbsp;</p>
+      <p class="evia-nowplaying-track" id="evia-nowplaying-track">&nbsp;</p>
       <p class="evia-status" id="evia-status">${t('player.pressPlay')}</p>
     `;
 
@@ -152,6 +153,19 @@ export function mount(container, ctx) {
     }
     const picker = headerEl.querySelector('#evia-picker');
     if (picker && player.station) picker.value = player.station.id;
+  });
+
+  // Two lines when a station's now-playing source has data (C-14, E-3):
+  // program name, then "artist - title". Either line just clears (not an
+  // error) when there's no source, or nothing's reported right now.
+  player.addEventListener('nowplaying', (e) => {
+    const programEl = headerEl.querySelector('#evia-nowplaying-program');
+    const trackEl = headerEl.querySelector('#evia-nowplaying-track');
+    if (!programEl || !trackEl) return;
+    const info = e.detail;
+    programEl.textContent = info?.program || ' ';
+    const track = info && (info.artist && info.title ? `${info.artist} - ${info.title}` : info.title || info.artist);
+    trackEl.textContent = track || ' ';
   });
 
   player.addEventListener('status', (e) => {

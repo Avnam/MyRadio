@@ -58,11 +58,18 @@
 .evia-icon-btn:hover { background: var(--evia-signal); color: var(--evia-ink); }
 .evia-icon-btn svg { width: 18px; height: 18px; fill: currentColor; }
 
-.evia-nowplaying {
+.evia-nowplaying-program {
   margin: 14px 0 0;
-  min-height: 1.4em;
-  color: var(--evia-dim);
+  min-height: 1.3em;
+  color: var(--evia-glow);
   font-size: 0.95rem;
+  font-weight: 500;
+}
+.evia-nowplaying-track {
+  margin: 2px 0 0;
+  min-height: 1.3em;
+  color: var(--evia-dim);
+  font-size: 0.85rem;
 }
 
 .evia-status {

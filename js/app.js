@@ -74,15 +74,29 @@ function setupMediaSession() {
   navigator.mediaSession.setActionHandler('previoustrack', goPrevious);
   navigator.mediaSession.setActionHandler('nexttrack', goNext);
 
+  let nowPlaying = null; // {program, artist, title} | null — see player.js's 'nowplaying' event (C-14)
+
+  function updateMetadata(station) {
+    if (!station) return;
+    const track = nowPlaying && (nowPlaying.artist && nowPlaying.title
+      ? `${nowPlaying.artist} - ${nowPlaying.title}`
+      : nowPlaying.title || nowPlaying.artist);
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: nowPlaying?.program || station.name,
+      artist: track || 'Live radio'
+    });
+  }
+
   player.addEventListener('state', (e) => {
     const { playing, station } = e.detail;
     navigator.mediaSession.playbackState = playing ? 'playing' : 'paused';
-    if (station) {
-      navigator.mediaSession.metadata = new MediaMetadata({
-        title: station.name,
-        artist: 'Live radio'
-      });
-    }
+    nowPlaying = null;
+    updateMetadata(station);
+  });
+
+  player.addEventListener('nowplaying', (e) => {
+    nowPlaying = e.detail;
+    updateMetadata(player.station);
   });
 }
 

@@ -1,7 +1,10 @@
 // Playback: fallback across a station's stream URLs, reconnect after a mid-stream
-// drop, real frequency data when the stream allows CORS (C-11, C-13).
+// drop, real frequency data when the stream allows CORS (C-11, C-13), and
+// now-playing polling where a source is known (C-14).
 // Knows nothing about the station list or playlist order — see stations-db.js
 // and app.js for next/previous wiring (including Media Session's next/prev keys).
+import { findNowPlayingSource } from './nowplaying-sources.js';
+import { watchNowPlaying } from './nowplaying.js';
 
 const ERR = { 1: 'aborted', 2: 'network error', 3: 'decode error', 4: 'refused or not audio' };
 const MAX_RETRIES = 4;
@@ -51,6 +54,8 @@ export class Player extends EventTarget {
     this._busy = false;
     this._queuedStation = null;
     this._busyTimer = null;
+
+    this._nowPlayingAbort = null;
   }
 
   _emit(name, detail) {
@@ -213,6 +218,7 @@ export class Player extends EventTarget {
       this._emit('state', { playing: true, live: true, station: this.station });
       this._status(this._urlIdx > 0 ? 'player.onAirBackup' : 'player.onAir', { n: this._urlIdx + 1 });
       if (this._useCors) this._connectAnalyser();
+      this._watchNowPlaying();
       this._settle();
     });
     el.addEventListener('waiting', () => {
@@ -287,6 +293,11 @@ export class Player extends EventTarget {
   _teardown() {
     this._stopLevels();
     if (this._raf) { cancelAnimationFrame(this._raf); this._raf = null; }
+    if (this._nowPlayingAbort) {
+      this._nowPlayingAbort.abort();
+      this._nowPlayingAbort = null;
+      this._emit('nowplaying', null);
+    }
     // Disconnect the WebAudio graph explicitly — dropping just the JS
     // references left the nodes connected forever, accumulating garbage in
     // the shared AudioContext on every attempt that briefly reached
@@ -306,6 +317,15 @@ export class Player extends EventTarget {
       a.removeAttribute('src');
       a.load();
     }
+  }
+
+  /** Starts polling for now-playing data if this station has a known source (C-14). */
+  _watchNowPlaying() {
+    if (this._nowPlayingAbort) return;
+    const source = findNowPlayingSource(this.station);
+    if (!source) return;
+    this._nowPlayingAbort = new AbortController();
+    watchNowPlaying(source, (info) => this._emit('nowplaying', info), { signal: this._nowPlayingAbort.signal });
   }
 
   _connectAnalyser() {
