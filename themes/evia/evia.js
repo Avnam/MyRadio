@@ -119,7 +119,7 @@ export function mount(container, ctx) {
         <select id="evia-picker" aria-label="Choose a station">
           ${stations.map(s => `<option value="${s.id}" ${s.id === activeId ? 'selected' : ''}>${escapeHtml(s.name)}</option>`).join('')}
         </select>
-        <button class="evia-icon-btn" id="evia-toggle" aria-label="Play">${player.playing ? ICONS.pause : ICONS.play}</button>
+        <button class="evia-icon-btn" id="evia-toggle" aria-label="${player.playing ? t('common.pause') : t('common.play')}">${player.playing ? ICONS.pause : ICONS.play}</button>
         <button class="evia-icon-btn" id="evia-next" aria-label="Next">${ICONS.next}</button>
       </div>
       <p class="evia-nowplaying" id="evia-nowplaying">&nbsp;</p>
@@ -145,7 +145,10 @@ export function mount(container, ctx) {
   player.addEventListener('state', () => {
     if (view === 'stations') return; // list membership unaffected by playback state
     const toggle = headerEl.querySelector('#evia-toggle');
-    if (toggle) toggle.innerHTML = player.playing ? ICONS.pause : ICONS.play;
+    if (toggle) {
+      toggle.innerHTML = player.playing ? ICONS.pause : ICONS.play;
+      toggle.setAttribute('aria-label', player.playing ? t('common.pause') : t('common.play'));
+    }
     const picker = headerEl.querySelector('#evia-picker');
     if (picker && player.station) picker.value = player.station.id;
   });

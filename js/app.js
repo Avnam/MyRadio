@@ -34,10 +34,10 @@ function selectStation(station, autoplay) {
 }
 
 // Acts immediately (preserving the click's user-gesture context, which
-// autoplay policies care about) — Player itself rate-limits how often a
-// real connection attempt actually starts, so rapid presses land on the
-// last-requested station instead of breaking playback. See player.js's
-// MIN_ATTEMPT_GAP_MS.
+// autoplay policies care about) — Player itself protects any in-flight,
+// not-yet-settled connection attempt from being interrupted, queuing rapid
+// requests and applying only the latest once it's safe to. See player.js's
+// _busy/_queuedStation.
 function goNext() {
   const station = nextStationFor(player.station?.id ?? stationsDb.getLastStationId());
   if (station) selectStation(station, player.playing);

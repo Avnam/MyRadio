@@ -63,6 +63,8 @@
     "settings.importNoStations": "That file has no stations in it.",
     "settings.importResult": "Added {added}, skipped {skipped}.",
 
+    "common.play": "Play",
+    "common.pause": "Pause",
     "common.close": "Close",
     "common.back": "Back",
     "common.cancel": "Cancel"
