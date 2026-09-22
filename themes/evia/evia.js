@@ -6,6 +6,7 @@
 // pass over a station is a theme's decision, not core's, so that policy lives
 // entirely below, built on top of core's plain stationsDb.next/previous.
 import * as stationsDb from '../../js/core/stations-db.js';
+import { VERSION } from '../../js/version.js';
 
 export const id = 'evia';
 export const title = 'Evia';
@@ -533,6 +534,7 @@ export function mount(container, ctx) {
           ${themes.map(th => `<option value="${th.id}">${escapeHtml(th.title)}</option>`).join('')}
         </select>
       </label>
+      <p class="evia-version">v${escapeHtml(VERSION)}</p>
     `;
     const themeSelect = footerEl.querySelector('#evia-theme-select');
     themeSelect.value = id;

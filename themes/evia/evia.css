@@ -189,3 +189,4 @@
   border: 1px solid var(--evia-line); border-radius: 8px; padding: 6px 8px; font: inherit;
 }
 .evia-footer-theme select option { background: var(--evia-ink-2); color: var(--evia-glow); }
+.evia-version { margin: 8px 0 0; color: var(--evia-dim); font-size: 0.7rem; opacity: 0.6; }
