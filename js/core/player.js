@@ -6,6 +6,7 @@
 const ERR = { 1: 'aborted', 2: 'network error', 3: 'decode error', 4: 'refused or not audio' };
 const MAX_RETRIES = 4;
 const SILENCE_MS = 4000;
+const MIN_ATTEMPT_GAP_MS = 400;
 
 export class Player extends EventTarget {
   constructor() {
@@ -29,6 +30,10 @@ export class Player extends EventTarget {
     this._freq = null;
     this._lastSound = 0;
     this._lastTime = 0;
+
+    this._lastAttemptStart = 0;
+    this._pendingTimer = null;
+    this._quietAutoplayBlock = false;
   }
 
   _emit(name, detail) {
@@ -40,11 +45,20 @@ export class Player extends EventTarget {
     this._emit('status', { key, params, isError: !!isError });
   }
 
-  /** Loads a station. Set autoplay to start immediately. */
-  /** Pass station: null to clear the player (e.g. your last station was removed). */
-  load(station, autoplay) {
+  /**
+   * Loads a station (station: null clears the player, e.g. your last station
+   * was removed). opts.quiet: a browser can never truly autoplay without a
+   * real user gesture, no matter how long you wait first — so a boot-time
+   * autostart attempt that gets blocked isn't an error, it's the expected
+   * outcome; this falls back to the normal "press play" state instead of an
+   * error message.
+   */
+  load(station, autoplay, opts = {}) {
     this.station = station;
     this._attemptId++;
+    clearTimeout(this._pendingTimer);
+    this._pendingTimer = null;
+    this._quietAutoplayBlock = !!opts.quiet;
     this._teardown();
     this._resetChain();
     this.playing = false;
@@ -54,10 +68,33 @@ export class Player extends EventTarget {
     else this._status('player.pressPlay');
   }
 
+  /**
+   * Rate-limits real connection attempts to at most one every
+   * MIN_ATTEMPT_GAP_MS. Mashing next/previous (or the play button) fires
+   * overlapping create+play cycles on the underlying <audio> element fast
+   * enough that Android Chrome's autoplay throttling can reject one
+   * outright, leaving playback genuinely stopped — this way, only the
+   * latest request ever actually starts connecting.
+   */
   play() {
     if (!this.station) return;
-    this._resetChain();
-    this._attempt(false);
+    clearTimeout(this._pendingTimer);
+    const elapsed = Date.now() - this._lastAttemptStart;
+    if (elapsed >= MIN_ATTEMPT_GAP_MS) {
+      this._pendingTimer = null;
+      this._resetChain();
+      this._attempt(false);
+    } else {
+      const station = this.station;
+      this._status('player.connecting');
+      this._pendingTimer = setTimeout(() => {
+        this._pendingTimer = null;
+        if (this.station === station) {
+          this._resetChain();
+          this._attempt(false);
+        }
+      }, MIN_ATTEMPT_GAP_MS - elapsed);
+    }
   }
 
   /**
@@ -69,6 +106,8 @@ export class Player extends EventTarget {
    */
   stop() {
     this._attemptId++;
+    clearTimeout(this._pendingTimer);
+    this._pendingTimer = null;
     this._stopLevels();
     if (this._raf) { cancelAnimationFrame(this._raf); this._raf = null; }
     this.audio?.pause();
@@ -92,6 +131,9 @@ export class Player extends EventTarget {
   }
 
   _attempt(cacheBust) {
+    const quietAutoplayBlock = this._quietAutoplayBlock;
+    this._quietAutoplayBlock = false;
+    this._lastAttemptStart = Date.now();
     this._teardown();
     const id = ++this._attemptId;
     const base = this.station.urls[this._urlIdx];
@@ -137,7 +179,8 @@ export class Player extends EventTarget {
           failed = true;
           this.playing = false;
           this._emit('state', { playing: false, live: false, station: this.station });
-          this._status('player.blockedByBrowser', null, true);
+          if (quietAutoplayBlock) this._status('player.pressPlay');
+          else this._status('player.blockedByBrowser', null, true);
           return;
         }
         if (err && err.name === 'AbortError') return;

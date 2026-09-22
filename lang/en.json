@@ -17,9 +17,11 @@
     "player.allFailed": "Could not play {name}. Tried: {details}.",
     "player.empty": "No stations yet. Search to add one.",
 
-    "toolbar.tools": "Tools",
+    "toolbar.stations": "Stations",
+    "toolbar.search": "Search",
     "toolbar.searchMyCountry": "Search my country",
     "toolbar.searchACountry": "Search a country",
+    "toolbar.importExport": "Import / Export",
     "toolbar.settings": "Settings",
 
     "tools.title": "Your stations",
@@ -29,7 +31,8 @@
     "tools.yes": "Yes",
     "tools.no": "No",
     "tools.empty": "You have no stations yet.",
-    "tools.skip": "Skip in next/previous",
+    "tools.skipHint": "Skip in next/previous",
+    "tools.skipAria": "Skip {name} in next/previous",
 
     "search.title": "Search {country}",
     "search.placeholder": "Filter by name, tag or city…",

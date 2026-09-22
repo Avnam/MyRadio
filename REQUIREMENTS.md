@@ -70,6 +70,8 @@ Sizes in practice, after the first real build (22 September 2026): 241 countries
 - **C-11** Playback continues in the background: other tab, minimized window, phone screen locked.
 - **C-12** Responds to play/pause, next and previous from keyboard media keys, headphones, the phone lock screen and Bluetooth (for example, car controls). These use the same next/previous logic as the on-screen buttons (C-19a) — a theme's skip policy applies to hardware keys too.
 - **C-13** Each station can have several stream URLs. If one fails the app tries the next, and after a drop mid-stream it reconnects. Errors say what was tried. *(Built in the prototype.)*
+- **C-13a** A real connection attempt (a new `<audio>` element + `play()`) never starts more often than once every 400ms, no matter how fast next/previous (or play/pause) is pressed — only the latest request is ever actually attempted. Mashing next/previous fast enough to interrupt an unfinished connection was tripping Android Chrome's autoplay throttling and leaving playback genuinely stopped; this fixes that while still landing on whichever station was last requested.
+- **C-13b** Pausing never destroys the `<audio>` element, only pauses it — destroying it (as pausing used to) made Android Chrome drop the page's Media Session, handing "now playing" focus to another app (e.g. Spotify), so resuming from the lock screen or a hardware key would resume that app instead of this one.
 - **C-14** Shows what is playing (artist and title) where the station makes it available. See "What testing has shown" — none of the 7 test stations currently qualify.
 
 ### Themes
@@ -87,15 +89,16 @@ Sizes in practice, after the first real build (22 September 2026): 241 countries
 - **E-1** Futuristic blue styling.
 - **E-2** Top line, left to right: **previous** icon, the **station name box** (a dropdown of your stations), **play/pause** icon, **next** icon. Previous/next switch to the previous/next station in your list, skipping any station flagged skippable (C-19a) — Evia is the theme that defines and honors this flag.
 - **E-3** Second line: what is playing, when available.
-- **E-4** Below the two lines, small icons:
-  - **Tools** opens your station list. Drag a station by its handle (≡) to reorder. Dragging a station out of the list asks "Remove this station?" (Yes/No). Each row also has a **Skip in next/previous** checkbox. Also holds **Remove all**.
-  - **Search my country** opens the directory for your default country, with the regular expression filter (C-10d). Tapping a result adds it to your list.
-  - **Search a country** first asks for a country (itself filterable), then shows the same search for that country. Here you can also make it your default country.
-  - **Settings** holds import, export, the theme switcher and Autostart (E-7).
+- **E-4** Below the two lines, four icons:
+  - **Stations** opens your station list. Drag a station by its handle (≡) to reorder. Dragging a station out of the list asks "Remove this station?" (Yes/No). A one-time hint ("Skip in next/previous") sits above the list; each row just has the bare checkbox, not a repeated label. Also holds **Remove all**.
+  - **Search** opens a chooser between **Search my country** (the directory for your default country, with the regular expression filter, C-10d) and **Search a country** (asks for a country first, itself filterable, and lets you make it your default). Tapping a result adds it to your list.
+  - **Import / Export** holds file/clipboard export and file/paste import — its own icon, separate from Settings.
+  - **Settings** holds Autostart (E-7).
   - Pressing an already-open icon again closes it, the same as pressing Back (E-6).
 - **E-5** Empty state: with no stations, the top line invites you to search for stations.
 - **E-6** Each of the four bottom icons acts as a toggle: opening one while it is already open returns to the main view, same as Back.
-- **E-7** Evia has an **Autostart** setting (Settings panel, off by default): when on, the app resumes playing your last station automatically when opened; when off, it only selects it and waits for Play. Stored in Evia's own settings section (`themes.evia.autostart`), per C-16.
+- **E-7** Evia has an **Autostart** setting (Settings panel, off by default): when on, the app tries to resume playing your last station automatically when opened. Browsers block audio starting without a real tap on the page, no matter how long the app waits first — that's a platform limitation, not something a website can override — so when the attempt is blocked, Evia falls back quietly to the normal "Press play to connect." state rather than showing an error; it looks and behaves exactly like Autostart being off until you tap Play once. Stored in Evia's own settings section (`themes.evia.autostart`), per C-16.
+- **E-8** The **Theme** picker is not inside Settings — it's a persistent footer at the very bottom of the page, visible under every view (main screen or any opened panel), since it's a C-16 concern shared by the whole app, not an Evia-specific setting.
 
 ## Stored data
 
@@ -166,7 +169,7 @@ Import also accepts a bare list of stations (`[ {...}, {...} ]`).
 ## Milestones
 
 1. **Directory script.** `build_directory.py`, first run, commit `directory/`. ✅ Done — 241 countries.
-2. **Core + Evia.** Stations database, language file, import/export, Tools panel (reorder, drag-out removal, remove all, per-station skip toggle), both searches, next/previous with wraparound and skip, auto-advance on removing the current station, last station, autostart, media keys. Runs on the local server. ✅ Done.
+2. **Core + Evia.** Stations database, language file, import/export, Stations panel (reorder, drag-out removal, remove all, per-station skip toggle), consolidated search (my country / a country), next/previous with wraparound and skip, auto-advance on removing the current station, last station, autostart with graceful fallback, rate-limited playback attempts, media session that survives pausing, media keys. Runs on the local server. ✅ Done.
 3. **Song titles.** Tested (see "What testing has shown") — needs the server fallback; not yet built.
 4. **GitHub Pages + Android.** Publish, then test background playback and Bluetooth/car controls on your phone.
 5. **Rewind test.** Try buffering on the streams that allow it.

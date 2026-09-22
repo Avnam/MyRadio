@@ -34,9 +34,10 @@ const ICONS = {
   next: '<svg viewBox="0 0 24 24"><path d="M16 6h2v12h-2zM6 6l8.5 6L6 18z"/></svg>',
   play: '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>',
   pause: '<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>',
-  tools: '<svg viewBox="0 0 24 24"><path d="M22 19l-7-7 2-2 7 7zM3 21l7-9-2-2-7 9zm9-11 6-6-2-2-6 6z"/></svg>',
+  list: '<svg viewBox="0 0 24 24"><path d="M4 6h16v2H4V6zm0 5h16v2H4v-2zm0 5h16v2H4v-2z"/></svg>',
   search: '<svg viewBox="0 0 24 24"><path d="M15.5 14h-.8l-.3-.3a6.5 6.5 0 1 0-.7.7l.3.3v.8l5 5L20.5 19zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"/></svg>',
   globe: '<svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm7.9 9h-3.2a15 15 0 0 0-1.3-5.4A8 8 0 0 1 19.9 11zM12 4c.8 1.1 1.8 3 2.1 7H9.9c.3-4 1.3-5.9 2.1-7zM9.9 13h4.2c-.3 4-1.3 5.9-2.1 7-.8-1.1-1.8-3-2.1-7zM8.6 5.6A15 15 0 0 0 7.3 11H4.1a8 8 0 0 1 4.5-5.4zM4.1 13h3.2a15 15 0 0 0 1.3 5.4A8 8 0 0 1 4.1 13zm11.3 5.4a15 15 0 0 0 1.3-5.4h3.2a8 8 0 0 1-4.5 5.4z"/></svg>',
+  importExport: '<svg viewBox="0 0 24 24"><path d="M6.99 11 3 15l3.99 4v-3H14v-2H6.99v-3zM21 9l-3.99-4v3H10v2h7.01v3z"/></svg>',
   settings: '<svg viewBox="0 0 24 24"><path d="M19.4 13a7.4 7.4 0 0 0 0-2l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-1.7-1L15 3h-4l-.3 2.4a7.6 7.6 0 0 0-1.7 1l-2.4-1-2 3.4L6.6 11a7.4 7.4 0 0 0 0 2l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 1.7 1L11 21h4l.3-2.4a7.6 7.6 0 0 0 1.7-1l2.4 1 2-3.4zM13 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg>'
 };
 
@@ -67,12 +68,13 @@ export function mount(container, ctx) {
       <div class="evia-shell">
         <div id="evia-header"></div>
         <div class="evia-tabbar">
-          <button data-view="tools">${ICONS.tools} ${t('toolbar.tools')}</button>
-          <button data-view="searchMine">${ICONS.search} ${t('toolbar.searchMyCountry')}</button>
-          <button data-view="searchPicker">${ICONS.globe} ${t('toolbar.searchACountry')}</button>
+          <button data-view="stations">${ICONS.list} ${t('toolbar.stations')}</button>
+          <button data-view="search">${ICONS.search} ${t('toolbar.search')}</button>
+          <button data-view="importExport">${ICONS.importExport} ${t('toolbar.importExport')}</button>
           <button data-view="settings">${ICONS.settings} ${t('toolbar.settings')}</button>
         </div>
         <div id="evia-panel"></div>
+        <div id="evia-footer" class="evia-footer"></div>
       </div>
     </div>
   `);
@@ -80,6 +82,7 @@ export function mount(container, ctx) {
 
   const headerEl = shell.querySelector('#evia-header');
   const panelEl = shell.querySelector('#evia-panel');
+  const footerEl = shell.querySelector('#evia-footer');
 
   shell.querySelectorAll('.evia-tabbar button').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -101,9 +104,9 @@ export function mount(container, ctx) {
       headerEl.innerHTML = `
         <div class="evia-empty">
           <p>${t('player.empty')}</p>
-          <button id="evia-invite">${t('toolbar.searchMyCountry')}</button>
+          <button id="evia-invite">${t('toolbar.search')}</button>
         </div>`;
-      headerEl.querySelector('#evia-invite').addEventListener('click', () => goTo('searchMine'));
+      headerEl.querySelector('#evia-invite').addEventListener('click', () => goTo('search'));
       return;
     }
 
@@ -140,7 +143,7 @@ export function mount(container, ctx) {
   }
 
   player.addEventListener('state', () => {
-    if (view === 'tools') return; // list membership unaffected by playback state
+    if (view === 'stations') return; // list membership unaffected by playback state
     const toggle = headerEl.querySelector('#evia-toggle');
     if (toggle) toggle.innerHTML = player.playing ? ICONS.pause : ICONS.play;
     const picker = headerEl.querySelector('#evia-picker');
@@ -154,24 +157,23 @@ export function mount(container, ctx) {
     statusEl.classList.toggle('is-error', !!e.detail.isError);
   });
 
-  // --- tools panel: reorder (drag), remove one (drag out), remove all ---
+  // --- stations panel: reorder (drag), remove one (drag out), remove all ---
 
-  function renderTools() {
+  function renderStations() {
     const stations = stationsDb.getStations();
     panelEl.innerHTML = `
       <div class="evia-panel">
         <button class="evia-back" data-back>&larr; ${t('common.back')}</button>
         <h2>${t('tools.title')}</h2>
         ${stations.length === 0 ? `<p>${t('tools.empty')}</p>` : `
+          <p class="evia-hint">${t('tools.skipHint')}</p>
           <ul class="evia-list" id="evia-list">
             ${stations.map(s => `
               <li draggable="true" data-id="${s.id}">
                 <span class="evia-handle">&#8942;&#8942;</span>
                 <span class="name">${escapeHtml(s.name)}</span>
-                <label class="evia-skip">
-                  <input type="checkbox" data-skip="${s.id}" ${s.skippable ? 'checked' : ''}>
-                  ${t('tools.skip')}
-                </label>
+                <input type="checkbox" class="evia-skip-box" data-skip="${s.id}" ${s.skippable ? 'checked' : ''}
+                       title="${t('tools.skipAria', { name: s.name })}" aria-label="${t('tools.skipAria', { name: s.name })}">
                 <button class="evia-remove" data-remove="${s.id}">&times;</button>
               </li>`).join('')}
           </ul>
@@ -197,7 +199,7 @@ export function mount(container, ctx) {
         if (confirm(t('tools.removeOneConfirm'))) {
           removeStation(btn.dataset.remove);
           renderHeader();
-          renderTools();
+          renderStations();
         }
       });
     });
@@ -207,7 +209,7 @@ export function mount(container, ctx) {
       if (confirm(t('tools.removeAllConfirm'))) {
         removeAllStations();
         renderHeader();
-        renderTools();
+        renderStations();
       }
     });
   }
@@ -231,7 +233,7 @@ export function mount(container, ctx) {
             removeStation(draggingId);
           }
           renderHeader();
-          renderTools();
+          renderStations();
           return;
         }
         const ids = Array.from(list.children).map(el2 => el2.dataset.id);
@@ -321,6 +323,22 @@ export function mount(container, ctx) {
     renderList(countryData.stations);
   }
 
+  function renderSearchChooser() {
+    panelEl.innerHTML = `
+      <div class="evia-panel">
+        <button class="evia-back" data-back>&larr; ${t('common.back')}</button>
+        <h2>${t('toolbar.search')}</h2>
+        <div class="evia-row-buttons evia-search-choices">
+          <button id="evia-choose-mine">${ICONS.search} ${t('toolbar.searchMyCountry')}</button>
+          <button id="evia-choose-other">${ICONS.globe} ${t('toolbar.searchACountry')}</button>
+        </div>
+      </div>
+    `;
+    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
+    panelEl.querySelector('#evia-choose-mine').addEventListener('click', () => goTo('searchMine'));
+    panelEl.querySelector('#evia-choose-other').addEventListener('click', () => goTo('searchPicker'));
+  }
+
   async function renderSearchMine() {
     const code = stationsDb.getDefaultCountry();
     panelEl.innerHTML = `
@@ -332,7 +350,7 @@ export function mount(container, ctx) {
         <div class="evia-search-results"></div>
       </div>
     `;
-    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
+    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('search'));
     try {
       const data = await directory.loadCountry(code);
       panelEl.querySelector('#evia-search-title').textContent = t('search.title', { country: data.name ?? code });
@@ -344,14 +362,14 @@ export function mount(container, ctx) {
 
   async function renderSearchPicker() {
     panelEl.innerHTML = `
-      <div class="evia-panel">
+      <div class="evia-panel evia-search">
         <button class="evia-back" data-back>&larr; ${t('common.back')}</button>
         <h2>${t('search.chooseCountry')}</h2>
         <input type="text" placeholder="${t('search.placeholder')}">
         <ul class="evia-list" id="evia-country-list"></ul>
       </div>
     `;
-    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
+    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('search'));
     const input = panelEl.querySelector('input');
     const listEl = panelEl.querySelector('#evia-country-list');
 
@@ -414,7 +432,7 @@ export function mount(container, ctx) {
     }
   }
 
-  // --- settings: import, export, theme switcher ----------------------------
+  // --- settings: just Autostart for now (theme lives in the footer, C-16) --
 
   function renderSettings() {
     const settings = getThemeSettings(id) ?? defaultSettings;
@@ -424,18 +442,26 @@ export function mount(container, ctx) {
         <h2>${t('settings.title')}</h2>
 
         <div class="evia-field">
-          <label>${t('settings.theme')}</label>
-          <select id="evia-theme-select">
-            ${themes.map(th => `<option value="${th.id}">${escapeHtml(th.title)}</option>`).join('')}
-          </select>
-        </div>
-
-        <div class="evia-field">
           <label class="evia-checkbox-field">
             <input type="checkbox" id="evia-autostart" ${settings.autostart ? 'checked' : ''}>
             ${t('settings.autostart')}
           </label>
         </div>
+      </div>
+    `;
+    panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
+    panelEl.querySelector('#evia-autostart').addEventListener('change', (e) => {
+      setThemeSettings(id, { ...settings, autostart: e.target.checked });
+    });
+  }
+
+  // --- import / export -----------------------------------------------------
+
+  function renderImportExport() {
+    panelEl.innerHTML = `
+      <div class="evia-panel">
+        <button class="evia-back" data-back>&larr; ${t('common.back')}</button>
+        <h2>${t('toolbar.importExport')}</h2>
 
         <div class="evia-field">
           <label>${t('settings.export')}</label>
@@ -459,14 +485,6 @@ export function mount(container, ctx) {
       </div>
     `;
     panelEl.querySelector('[data-back]').addEventListener('click', () => goTo('main'));
-
-    const themeSelect = panelEl.querySelector('#evia-theme-select');
-    themeSelect.value = id;
-    themeSelect.addEventListener('change', () => switchTheme(themeSelect.value));
-
-    panelEl.querySelector('#evia-autostart').addEventListener('change', (e) => {
-      setThemeSettings(id, { ...settings, autostart: e.target.checked });
-    });
 
     panelEl.querySelector('#evia-export-file').addEventListener('click', () => importExport.exportToFile());
     panelEl.querySelector('#evia-export-clip').addEventListener('click', async () => {
@@ -502,19 +520,38 @@ export function mount(container, ctx) {
     panelEl.querySelector('#evia-import-replace').addEventListener('click', () => runImport('replace'));
   }
 
+  // --- footer: theme picker, persistent across every view (C-16) -----------
+
+  function renderFooter() {
+    footerEl.innerHTML = `
+      <label class="evia-footer-theme">
+        ${t('settings.theme')}
+        <select id="evia-theme-select">
+          ${themes.map(th => `<option value="${th.id}">${escapeHtml(th.title)}</option>`).join('')}
+        </select>
+      </label>
+    `;
+    const themeSelect = footerEl.querySelector('#evia-theme-select');
+    themeSelect.value = id;
+    themeSelect.addEventListener('change', () => switchTheme(themeSelect.value));
+  }
+
   // --- view dispatch -------------------------------------------------------
 
   function renderPanel() {
     if (view === 'main') { panelEl.innerHTML = ''; return; }
-    if (view === 'tools') return renderTools();
+    if (view === 'stations') return renderStations();
+    if (view === 'search') return renderSearchChooser();
     if (view === 'searchMine') return renderSearchMine();
     if (view === 'searchPicker') return renderSearchPicker();
     if (view === 'searchCountry') return renderSearchCountry(viewParams.code);
+    if (view === 'importExport') return renderImportExport();
     if (view === 'settings') return renderSettings();
   }
 
   renderHeader();
   renderPanel();
+  renderFooter();
 
   return function cleanup() {
     container.innerHTML = '';

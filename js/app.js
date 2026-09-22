@@ -33,44 +33,19 @@ function selectStation(station, autoplay) {
   player.load(station, autoplay);
 }
 
-// Mashing next/previous fires overlapping create+play+destroy cycles on the
-// underlying <audio> element fast enough that Android Chrome's autoplay
-// throttling can reject one outright, leaving playback genuinely stopped.
-// Debouncing collapses a rapid burst into a single real attempt, landing on
-// the correct station (steps accumulate, so 3 fast presses still moves 3).
-const NAV_DEBOUNCE_MS = 150;
-let navTimer = null;
-let navBaseId = null;
-let navSteps = 0;
-
-function scheduleNav(direction) {
-  if (navTimer === null) {
-    navBaseId = player.station?.id ?? stationsDb.getLastStationId();
-    navSteps = 0;
-  }
-  navSteps += direction;
-  clearTimeout(navTimer);
-  navTimer = setTimeout(() => {
-    navTimer = null;
-    const step = navSteps >= 0 ? nextStationFor : previousStationFor;
-    let id = navBaseId;
-    let target = null;
-    for (let i = 0; i < Math.abs(navSteps); i++) {
-      const next = step(id);
-      if (!next) break;
-      target = next;
-      id = next.id;
-    }
-    if (target) selectStation(target, player.playing);
-  }, NAV_DEBOUNCE_MS);
-}
-
+// Acts immediately (preserving the click's user-gesture context, which
+// autoplay policies care about) — Player itself rate-limits how often a
+// real connection attempt actually starts, so rapid presses land on the
+// last-requested station instead of breaking playback. See player.js's
+// MIN_ATTEMPT_GAP_MS.
 function goNext() {
-  scheduleNav(1);
+  const station = nextStationFor(player.station?.id ?? stationsDb.getLastStationId());
+  if (station) selectStation(station, player.playing);
 }
 
 function goPrevious() {
-  scheduleNav(-1);
+  const station = previousStationFor(player.station?.id ?? stationsDb.getLastStationId());
+  if (station) selectStation(station, player.playing);
 }
 
 /** Removing the current station moves on to the next one, if any remain. */
@@ -163,7 +138,7 @@ async function boot() {
   const station = lastId ? stationsDb.getStation(lastId) : null;
   if (station) {
     const autostart = !!uiDb.getThemeSettings(uiDb.getActiveTheme())?.autostart;
-    player.load(station, autostart);
+    player.load(station, autostart, { quiet: autostart });
   }
 
   mount(uiDb.getActiveTheme());
