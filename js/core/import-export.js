@@ -15,7 +15,8 @@ export function exportData() {
       country: s.country,
       tags: s.tags,
       logo: s.logo,
-      skippable: s.skippable
+      skippable: s.skippable,
+      nowPlaying: s.nowPlaying
     }))
   };
 }
@@ -62,7 +63,8 @@ function normalizeStation(raw, i) {
     country: typeof raw.country === 'string' ? raw.country : undefined,
     tags: Array.isArray(raw.tags) ? raw.tags : [],
     logo: typeof raw.logo === 'string' ? raw.logo : null,
-    skippable: raw.skippable === true
+    skippable: raw.skippable === true,
+    nowPlaying: (raw.nowPlaying && typeof raw.nowPlaying === 'object') ? raw.nowPlaying : null
   };
 }
 

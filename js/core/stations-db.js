@@ -67,7 +67,12 @@ export function addStation(input) {
     country: input.country ?? state.defaultCountry,
     tags: input.tags ?? [],
     logo: input.logo ?? null,
-    skippable: input.skippable ?? false
+    skippable: input.skippable ?? false,
+    // Optional now-playing source (C-14): {url, program, artist, title, refresh},
+    // dotted field paths into that url's JSON response. Not fetched from anywhere
+    // automatically — you add it yourself (e.g. via import) for stations you know
+    // publish one. See extractNowPlaying() in js/core/nowplaying.js.
+    nowPlaying: input.nowPlaying ?? null
   };
   const existing = state.stations.find(s => sharesUrl(s, candidate));
   if (existing) return { added: false, station: existing };
@@ -131,6 +136,15 @@ export function setSkippable(id, skippable) {
   const station = state.stations.find(s => s.id === id);
   if (station) {
     station.skippable = !!skippable;
+    save(state);
+  }
+}
+
+export function setNowPlaying(id, nowPlaying) {
+  const state = load();
+  const station = state.stations.find(s => s.id === id);
+  if (station) {
+    station.nowPlaying = nowPlaying ?? null;
     save(state);
   }
 }

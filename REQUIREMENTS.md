@@ -44,7 +44,7 @@ A personal live-radio player for desktop and phone. Your station list lives in t
   - fetches every station, grouped by country code
   - keeps only stations that passed their last check and have an `https://` stream
   - removes duplicates (same stream URL)
-  - writes `directory/countries.json` (code, name, station count) and `directory/<CODE>.json` per country
+  - writes `directory/countries.json` (code, name, station count) and `directory/<CODE>.json` per country — pure Radio Browser data; it doesn't know about `nowPlaying` (C-14) at all, since `directory/<CODE>.json` is fully overwritten on every rebuild and would silently lose anything hand-curated mixed into it
   - sets a descriptive User-Agent, as Radio Browser asks
 - **C-10b** Each directory file records when it was built, and the app shows that date in search ("Directory from 21 Sep 2026").
 - **C-10c** Your **default country** is stored in the stations database and exported with it. Until you set one, it is Israel.
@@ -72,7 +72,7 @@ Sizes in practice, after the first real build (22 September 2026): 241 countries
 - **C-13** Each station can have several stream URLs. If one fails the app tries the next, and after a drop mid-stream it reconnects. Errors say what was tried. *(Built in the prototype.)*
 - **C-13a** Once a station is loaded and a connection attempt is in flight, a rapid next/previous/play press never interrupts it — the request is queued (only the latest survives a burst) and applied as soon as the current attempt settles, or after 5s if it's taking unusually long. Three compounding bugs used to break this: (1) every press tore down the in-flight `<audio>` element immediately, killing a connection before it had any real chance to succeed; (2) `playing` only became true once audio was actually flowing, not from the moment an attempt started, so a press made while the station you'd just switched to was still buffering read `playing` as false and silently downgraded to "select only" (decision #2) — no error, no queue, just quietly dropped; (3) the safety-valve grace period was tuned against a fast desktop connection (900ms) — real mobile/cellular connects are often slower than that, so the valve kept firing and interrupting a perfectly healthy connection anyway. Verified against a real controlled slow-connect test (not just real radio, which usually connects too fast locally to prove anything), not just theory.
 - **C-13b** Pausing never destroys the `<audio>` element, only pauses it — destroying it (as pausing used to) made Android Chrome drop the page's Media Session, handing "now playing" focus to another app (e.g. Spotify), so resuming from the lock screen or a hardware key would resume that app instead of this one.
-- **C-14** Shows what is playing (program name, then artist and title) where the station makes it available. ICY in-stream metadata doesn't work for any of the 7 test stations (see "What testing has shown", 22 September 2026) — CORS blocks the browser from reading it. Instead, each station may name a small **now-playing source**: a JSON endpoint plus dotted field paths, described as data (`js/core/nowplaying-sources.js`, keyed by stream URL), not code — adding coverage for a station means one new lookup entry, not a new reader. A station with no known source (the normal case) simply never shows anything; a source that fails (network error, empty response, CORS block) fails silently the same way, never as an error.
+- **C-14** Shows what is playing (program name, then artist and title) where the station makes it available. ICY in-stream metadata doesn't work for any of the 7 test stations (see "What testing has shown", 22 September 2026) — CORS blocks the browser from reading it. Instead, a station's own record may carry a `nowPlaying` field: a JSON endpoint plus dotted field paths (`{url, program, artist, title, refresh}`), described as data, not code — see extractNowPlaying() in `js/core/nowplaying.js`. It's part of the stations database (C-1), the same as `skippable`, and travels with a station through export/import. It arrives one of two ways: (a) added by hand, e.g. via import — see `dev/seed-stations.json`; or (b) already attached when you add a station through Search, because it's also published per-country in `directory/<CODE>_metadata.json` — hand-maintained, keyed by stream URL, written only for a country that actually has an entry. `directory.js` fetches that one file alongside `<CODE>.json` *only when that country is searched* (not every country's data, so adding stations from Israel never downloads Germany's), and merges a match into a station by stream URL, ignoring the query string (Radio Browser can add its own to the same station's URL) before you ever see the results. A station with no `nowPlaying` (the normal case) simply never shows anything; one that fails (network error, empty response, CORS block) fails silently the same way, never as an error.
 - **C-14a** When a source has data, it replaces "Live radio" everywhere that would otherwise show: two lines in Evia's header (program name, then "artist - title") and the lock screen / OS media notification (title = program, artist = "artist - title"). Falls back cleanly to the station name / "Live radio" the moment data isn't available — mid-song is not different from a station with no source at all.
 
 ### Themes
@@ -105,7 +105,7 @@ Sizes in practice, after the first real build (22 September 2026): 241 countries
 
 | Store | Key | Contents | Exported |
 |---|---|---|---|
-| Stations database | `radio.stations` | Stations in your order (including each one's `skippable` flag), default country, last station played | Stations (with `skippable`) and default country |
+| Stations database | `radio.stations` | Stations in your order (including each one's `skippable` flag and optional `nowPlaying` source), default country, last station played | Stations (with `skippable` and `nowPlaying`) and default country |
 | UI database | `radio.ui` | Language, active theme, per-theme settings (`themes.evia`, ...) | No |
 
 Files published with the app (on GitHub):
@@ -113,7 +113,8 @@ Files published with the app (on GitHub):
 | Path | Contents |
 |---|---|
 | `directory/countries.json` | Countries with station counts, build date |
-| `directory/<CODE>.json` | Stations in one country |
+| `directory/<CODE>.json` | Stations in one country — pure Radio Browser data |
+| `directory/<CODE>_metadata.json` | That country's now-playing sources (C-14), hand-maintained, keyed by stream URL — only written for a country that has at least one |
 | `lang/en.json` | All app text in English |
 | `themes/evia/` | Evia's markup, styles and settings defaults |
 | `tools/build_directory.py` | Builds `directory/` from Radio Browser |
@@ -136,11 +137,20 @@ Export file:
       "country": "IL",
       "tags": ["pop", "hits"],
       "logo": "https://...",
-      "skippable": false
+      "skippable": false,
+      "nowPlaying": {
+        "url": "https://firestore.googleapis.com/v1/projects/eco-99-production/databases/(default)/documents/streamed_content/program",
+        "program": "fields.program_name.stringValue",
+        "artist": "fields.artist_name.stringValue",
+        "title": "fields.song_name.stringValue",
+        "refresh": 20
+      }
     }
   ]
 }
 ```
+
+`nowPlaying` is optional and omitted or `null` for most stations (C-14). When present: `url` is the JSON endpoint to poll; `program`/`artist`/`title` are dotted paths into that response (an array value, like Kan's `artists`, is joined with commas); `refresh` is the poll interval in seconds (default 20).
 
 Import also accepts a bare list of stations (`[ {...}, {...} ]`).
 
@@ -159,7 +169,7 @@ Import also accepts a bare list of stations (`[ {...}, {...} ]`).
 - `eco-live.mediacast.co.il` plays normally but fails in CORS mode.
 - The preview pane inside the Claude app blocks these streams. Test in Edge or Chrome.
 - **Song titles via ICY in-stream metadata (C-14):** all 7 stations interleave it (`icy-metaint: 16000` on every one), but none let the browser read it — every one fails the `Icy-MetaData` header's CORS preflight, confirmed via a real Edge session, not just header inspection.
-- **Song titles via a station's own now-playing API — the path that actually works:** Eco 99's Firestore endpoint (`firestore.googleapis.com/.../streamed_content/program`) is fully verified: real data, and `Access-Control-Allow-Origin` echoes back this app's exact origin. Built and shipped (C-14/C-14a). Kan 88's API (`kan.org.il/api/arc-cloud/get-live-track-data?channelId=4`) also returns real data and is nominally CORS-open, but sits behind Cloudflare, which challenged every automated test here — curl, and a real (if headless) browser fetching cross-origin. Headless/automated browsers are more readily flagged by Cloudflare than a normal one, so this may not hold for an actual user session; not added to `nowplaying-sources.js` until confirmed from the real deployed origin in a real (non-headless) browser. Galgalatz and Galei Tzahal aren't known to expose any now-playing source at all yet.
+- **Song titles via a station's own now-playing API — the path that actually works:** Eco 99's Firestore endpoint (`firestore.googleapis.com/.../streamed_content/program`) is fully verified: real data, and `Access-Control-Allow-Origin` echoes back this app's exact origin. Its config is in `directory/IL_metadata.json` — so searching and adding Eco 99 attaches it automatically, no manual step, and only Israel's search ever fetches it (verified: searching Germany requests `DE.json`/`DE_metadata.json` only, never touches Israel's file). It's also in `dev/seed-stations.json` for hand-adding via import. Kan 88's API (`kan.org.il/api/arc-cloud/get-live-track-data?channelId=4`) also returns real data and is nominally CORS-open, but sits behind Cloudflare, which challenged every automated test here — curl, and a real (if headless) browser fetching cross-origin. Headless/automated browsers are more readily flagged by Cloudflare than a normal one, so this may not hold for an actual user session; its config is included the same way, for you to test from the real deployed origin in a real (non-headless) browser before trusting it. Galgalatz and Galei Tzahal aren't known to expose any now-playing source at all yet.
 - The full station directory (241 countries) was built from Radio Browser and committed; other countries' stations haven't been individually stream-tested.
 
 ## Later
@@ -167,6 +177,7 @@ Import also accepts a bare list of stations (`[ {...}, {...} ]`).
 - **More themes.** Pick one from a list, each with its own settings.
 - **Buffering and rewind (C-18).** Rewinding a live stream means the app keeps its own copy of the last few minutes of audio. That is possible only for streams that allow CORS (not all do), and support on iPhone is uncertain. It needs a test before it is promised.
 - **More now-playing sources (C-14).** Kan 88, pending real-browser confirmation from the deployed origin. Kan Bet and Kan Gimmel likely use the same API with a different `channelId`, untested. Galgalatz and Galei Tzahal: no known source yet — would need a server-side proxy if one's never found, since ICY doesn't work for them either.
+- **Crowdsourced now-playing sources.** Right now you add entries to a country's `directory/<CODE>_metadata.json` by hand. Down the road, letting people suggest sources for stations they know (a PR to that file, or something more direct) would grow coverage without you finding every one yourself — not designed yet.
 
 ## Milestones
 

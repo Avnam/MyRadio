@@ -1,7 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { extractNowPlaying } from '../js/core/nowplaying.js';
-import { findNowPlayingSource } from '../js/core/nowplaying-sources.js';
 
 const ECO99_SOURCE = {
   program: 'fields.program_name.stringValue',
@@ -64,16 +63,4 @@ test('returns null for an empty response (e.g. Kan\'s 204 between songs)', () =>
 
 test('returns null when every field is missing, rather than an all-empty object', () => {
   assert.equal(extractNowPlaying(KAN_SOURCE, { somethingElse: true }), null);
-});
-
-test('findNowPlayingSource matches a station by any of its stream URLs', () => {
-  const eco99 = { urls: ['https://eco-live.mediacast.co.il/99fm_aac'] };
-  const source = findNowPlayingSource(eco99);
-  assert.ok(source);
-  assert.equal(source.program, 'fields.program_name.stringValue');
-});
-
-test('findNowPlayingSource returns null for a station with no known source', () => {
-  const unknown = { urls: ['https://example.com/stream.mp3'] };
-  assert.equal(findNowPlayingSource(unknown), null);
 });

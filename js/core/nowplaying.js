@@ -1,8 +1,8 @@
-// Now-playing metadata (C-14): each station may name a small JSON source that
-// reports its current program/artist/title, described as data (see
-// nowplaying-sources.js), not code — adding a station's coverage means one
-// new lookup entry, not a new reader. A station with no known source simply
-// never gets a 'nowplaying' event; nothing shows, nothing errors.
+// Now-playing metadata (C-14): a station's own record may carry a nowPlaying
+// field naming a small JSON source that reports its current program/artist/
+// title (see stations-db.js's addStation/setNowPlaying) — described as data,
+// not code. A station with no nowPlaying simply never gets a 'nowplaying'
+// event; nothing shows, nothing errors.
 
 /** Resolves a dotted path like "fields.artist_name.stringValue" against an object. */
 function getPath(obj, path) {

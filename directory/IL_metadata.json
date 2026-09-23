@@ -1,0 +1,25 @@
+{
+  "nowPlaying": {
+    "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio": {
+      "url": "https://firestore.googleapis.com/v1/projects/eco-99-production/databases/(default)/documents/streamed_content/program",
+      "program": "fields.program_name.stringValue",
+      "artist": "fields.artist_name.stringValue",
+      "title": "fields.song_name.stringValue",
+      "refresh": 20
+    },
+    "https://eco-live.mediacast.co.il/99fm_aac": {
+      "url": "https://firestore.googleapis.com/v1/projects/eco-99-production/databases/(default)/documents/streamed_content/program",
+      "program": "fields.program_name.stringValue",
+      "artist": "fields.artist_name.stringValue",
+      "title": "fields.song_name.stringValue",
+      "refresh": 20
+    },
+    "https://29073.live.streamtheworld.com/KAN_88.mp3": {
+      "url": "https://www.kan.org.il/api/arc-cloud/get-live-track-data?channelId=4",
+      "program": "programData.programName",
+      "artist": "artists",
+      "title": "title",
+      "refresh": 20
+    }
+  }
+}

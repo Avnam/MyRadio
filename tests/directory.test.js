@@ -30,3 +30,23 @@ test('filters by city, matching more than one station', () => {
 test('an invalid pattern throws so the caller can keep the last result (C-10d)', () => {
   assert.throws(() => directory.search(stations, '('));
 });
+
+test('mergeNowPlaying matches ignoring the query string, since Radio Browser can add one (C-14)', () => {
+  const withUrls = [
+    { name: 'Eco 99FM', urls: ['https://eco01.example/stream?hash=abc123'] },
+    { name: 'Galgalatz', urls: ['https://glz.example/stream'] }
+  ];
+  // Keyed by the canonical URL, with no query string — as directory/<CODE>_metadata.json is authored.
+  const nowPlayingMap = {
+    'https://eco01.example/stream': { url: 'https://api.example/np', program: 'p', artist: 'a', title: 't' }
+  };
+  const merged = directory.mergeNowPlaying(withUrls, nowPlayingMap);
+  assert.deepEqual(merged[0].nowPlaying, nowPlayingMap['https://eco01.example/stream']);
+  assert.equal('nowPlaying' in merged[1], false);
+});
+
+test('mergeNowPlaying leaves stations untouched when the map is empty or missing', () => {
+  const withUrls = [{ name: 'A', urls: ['https://a.example'] }];
+  assert.deepEqual(directory.mergeNowPlaying(withUrls, null), withUrls);
+  assert.deepEqual(directory.mergeNowPlaying(withUrls, {}), withUrls);
+});

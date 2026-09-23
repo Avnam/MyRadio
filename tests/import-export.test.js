@@ -78,3 +78,15 @@ test('exportData never includes the last station played (C-2)', () => {
   assert.equal(data.stations.length, 1);
   assert.equal(data.defaultCountry, stationsDb.getDefaultCountry());
 });
+
+test('now-playing source round-trips through export and import', () => {
+  const nowPlaying = { url: 'https://example.com/now', program: 'p', artist: 'a', title: 't' };
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'], nowPlaying });
+  const exported = importExport.exportData();
+  assert.deepEqual(exported.stations[0].nowPlaying, nowPlaying);
+
+  stationsDb.removeAll();
+  const parsed = importExport.parseImportText(JSON.stringify(exported));
+  importExport.applyImport(parsed, 'add');
+  assert.deepEqual(stationsDb.getStations()[0].nowPlaying, nowPlaying);
+});

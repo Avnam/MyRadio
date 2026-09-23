@@ -317,7 +317,7 @@ export function mount(container, ctx) {
           const entry = results[i];
           stationsDb.addStation({
             name: entry.name, urls: entry.urls, tags: entry.tags ?? [],
-            logo: entry.logo ?? null, country: code
+            logo: entry.logo ?? null, country: code, nowPlaying: entry.nowPlaying ?? null
           });
           renderHeader();
           renderList(results);

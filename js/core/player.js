@@ -3,7 +3,6 @@
 // now-playing polling where a source is known (C-14).
 // Knows nothing about the station list or playlist order — see stations-db.js
 // and app.js for next/previous wiring (including Media Session's next/prev keys).
-import { findNowPlayingSource } from './nowplaying-sources.js';
 import { watchNowPlaying } from './nowplaying.js';
 
 const ERR = { 1: 'aborted', 2: 'network error', 3: 'decode error', 4: 'refused or not audio' };
@@ -319,10 +318,10 @@ export class Player extends EventTarget {
     }
   }
 
-  /** Starts polling for now-playing data if this station has a known source (C-14). */
+  /** Starts polling for now-playing data if this station's own record names a source (C-14). */
   _watchNowPlaying() {
     if (this._nowPlayingAbort) return;
-    const source = findNowPlayingSource(this.station);
+    const source = this.station?.nowPlaying;
     if (!source) return;
     this._nowPlayingAbort = new AbortController();
     watchNowPlaying(source, (info) => this._emit('nowplaying', info), { signal: this._nowPlayingAbort.signal });

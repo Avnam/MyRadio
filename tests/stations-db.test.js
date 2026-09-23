@@ -102,3 +102,23 @@ test('setSkippable persists the flag, but core next/previous ignore it — that 
   assert.equal(stationsDb.next(a.id).id, b.id, 'core next() still lands on the immediate neighbor');
   assert.equal(stationsDb.previous(c.id).id, b.id);
 });
+
+test('new stations default to no now-playing source', () => {
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'] });
+  assert.equal(station.nowPlaying, null);
+});
+
+test('addStation persists a given now-playing source', () => {
+  const nowPlaying = { url: 'https://example.com/now', program: 'p', artist: 'a', title: 't' };
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'], nowPlaying });
+  assert.deepEqual(stationsDb.getStation(station.id).nowPlaying, nowPlaying);
+});
+
+test('setNowPlaying sets, and clears with null', () => {
+  const { station } = stationsDb.addStation({ name: 'A', urls: ['https://a.example'] });
+  const nowPlaying = { url: 'https://example.com/now', program: 'p', artist: 'a', title: 't' };
+  stationsDb.setNowPlaying(station.id, nowPlaying);
+  assert.deepEqual(stationsDb.getStation(station.id).nowPlaying, nowPlaying);
+  stationsDb.setNowPlaying(station.id, null);
+  assert.equal(stationsDb.getStation(station.id).nowPlaying, null);
+});
