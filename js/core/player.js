@@ -318,6 +318,25 @@ export class Player extends EventTarget {
     }
   }
 
+  /**
+   * Hot-swaps the now-playing source for the currently loaded station (C-14),
+   * e.g. once app.js confirms the directory has a newer/different one than
+   * what was stored when this station was added — without touching audio or
+   * the connection at all. A no-op if stationId isn't the one loaded right
+   * now (a stale check resolving after you've already moved on).
+   */
+  setNowPlayingConfig(stationId, source) {
+    if (!this.station || this.station.id !== stationId) return;
+    this.station.nowPlaying = source;
+    if (this._nowPlayingAbort) {
+      this._nowPlayingAbort.abort();
+      this._nowPlayingAbort = null;
+      this._watchNowPlaying();
+    }
+    // Otherwise not watching yet (still connecting) — the eventual 'playing'
+    // handler's _watchNowPlaying() call will read the fresh value on its own.
+  }
+
   /** Starts polling for now-playing data if this station's own record names a source (C-14). */
   _watchNowPlaying() {
     if (this._nowPlayingAbort) return;

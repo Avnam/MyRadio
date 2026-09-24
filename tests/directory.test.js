@@ -50,3 +50,33 @@ test('mergeNowPlaying leaves stations untouched when the map is empty or missing
   assert.deepEqual(directory.mergeNowPlaying(withUrls, null), withUrls);
   assert.deepEqual(directory.mergeNowPlaying(withUrls, {}), withUrls);
 });
+
+test('findNowPlayingSource fetches that country\'s metadata and matches by URL (C-14)', async () => {
+  const realFetch = globalThis.fetch;
+  const requested = [];
+  globalThis.fetch = async (url) => {
+    requested.push(url);
+    return {
+      ok: true,
+      json: async () => ({ nowPlaying: { 'https://eco.example/stream': { url: 'https://api.example/np', program: 'p', artist: 'a', title: 't' } } })
+    };
+  };
+  try {
+    const source = await directory.findNowPlayingSource('IL', ['https://eco.example/stream?hash=xyz']);
+    assert.deepEqual(source, { url: 'https://api.example/np', program: 'p', artist: 'a', title: 't' });
+    assert.ok(requested.some(u => u.includes('IL_metadata.json')));
+  } finally {
+    globalThis.fetch = realFetch;
+  }
+});
+
+test('findNowPlayingSource returns null without a country, or without a match', async () => {
+  const realFetch = globalThis.fetch;
+  globalThis.fetch = async () => ({ ok: true, json: async () => ({ nowPlaying: {} }) });
+  try {
+    assert.equal(await directory.findNowPlayingSource(null, ['https://a.example']), null);
+    assert.equal(await directory.findNowPlayingSource('FR', ['https://a.example']), null);
+  } finally {
+    globalThis.fetch = realFetch;
+  }
+});

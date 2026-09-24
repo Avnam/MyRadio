@@ -2,6 +2,7 @@
 // The app never calls Radio Browser directly (C-10) — only these static files.
 
 const countryCache = new Map();
+const nowPlayingMapCache = new Map();
 let countriesPromise = null;
 
 export function loadCountries() {
@@ -38,28 +39,51 @@ export function mergeNowPlaying(stations, nowPlayingMap) {
   });
 }
 
+// directory/<CODE>_metadata.json (C-14): hand-maintained, per country, fetched
+// only for a country that's actually in use — not every country has one, and
+// that's the normal case, not an error. Cached per session either way, so a
+// country's file is only ever fetched once regardless of how many times its
+// stations get looked at.
+function loadNowPlayingMapFor(code) {
+  if (!nowPlayingMapCache.has(code)) {
+    nowPlayingMapCache.set(code, fetch(`directory/${code}_metadata.json`)
+      .then(res => (res.ok ? res.json() : null))
+      .then(data => data?.nowPlaying ?? null)
+      .catch(() => null));
+  }
+  return nowPlayingMapCache.get(code);
+}
+
 export async function loadCountry(code) {
   if (!countryCache.has(code)) {
     countryCache.set(code, (async () => {
       const res = await fetch(`directory/${code}.json`);
       if (!res.ok) throw new Error(`Could not load directory for '${code}'`);
       const data = await res.json();
-
-      // directory/<CODE>_metadata.json (C-14): hand-maintained, per country,
-      // fetched only when that country is actually searched — not every
-      // country's data has one, and that's the normal case, not an error.
-      let nowPlayingMap = null;
-      try {
-        const metaRes = await fetch(`directory/${code}_metadata.json`);
-        if (metaRes.ok) nowPlayingMap = (await metaRes.json()).nowPlaying ?? null;
-      } catch {
-        nowPlayingMap = null;
-      }
+      const nowPlayingMap = await loadNowPlayingMapFor(code);
       if (nowPlayingMap) data.stations = mergeNowPlaying(data.stations, nowPlayingMap);
       return data;
     })());
   }
   return countryCache.get(code);
+}
+
+/**
+ * Looks up the current published now-playing source for a station, by
+ * country and stream URL — used to refresh an already-added station's own
+ * (possibly stale) copy against the latest directory data each time it
+ * actually connects, not just when you first add it. Returns null when the
+ * station's country is unknown, or nothing matches.
+ */
+export async function findNowPlayingSource(countryCode, urls) {
+  if (!countryCode) return null;
+  const map = await loadNowPlayingMapFor(countryCode);
+  if (!map) return null;
+  for (const url of urls) {
+    const match = map[normalizeUrl(url)];
+    if (match) return match;
+  }
+  return null;
 }
 
 /**

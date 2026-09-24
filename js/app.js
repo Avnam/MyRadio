@@ -67,6 +67,24 @@ function removeAllStations() {
   player.load(null, false);
 }
 
+/**
+ * Checks the directory for a fresher now-playing source than what's stored
+ * on this station, each time it actually starts a real connection — not just
+ * when it was first added. Without this, fixing or adding a source in
+ * directory/<CODE>_metadata.json would only ever reach new additions, never
+ * a station already sitting in someone's list (C-14).
+ */
+async function refreshNowPlayingConfig(station) {
+  const fresh = await directory.findNowPlayingSource(station.country, station.urls);
+  if (!fresh || JSON.stringify(fresh) === JSON.stringify(station.nowPlaying)) return;
+  stationsDb.setNowPlaying(station.id, fresh);
+  player.setNowPlayingConfig(station.id, fresh);
+}
+
+player.addEventListener('state', (e) => {
+  if (e.detail.playing && e.detail.station) refreshNowPlayingConfig(e.detail.station);
+});
+
 function setupMediaSession() {
   if (!('mediaSession' in navigator)) return;
   navigator.mediaSession.setActionHandler('play', () => player.play());
