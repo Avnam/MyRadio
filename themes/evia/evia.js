@@ -30,6 +30,28 @@ export function getPreviousStation(currentId) {
   return skipWalk(currentId, stationsDb.previous);
 }
 
+/**
+ * Lock screen / OS media notification wording (E-9) — a theme's own
+ * presentation decision, the same category as the in-app header, not a core
+ * concern (app.js falls back to a plain station-name-only default for a
+ * theme that doesn't define this).
+ *
+ * There's no API to ask the OS/launcher how many lines its widget actually
+ * has room for — it varies by device and can't be detected from a webpage.
+ * So rather than gamble a field goes unseen, both of MediaMetadata's
+ * guaranteed-visible fields carry two pieces of info each: title is the
+ * station name alone, or "station -- program" once a program is known (the
+ * station is never fully displaced, only ever gains company); artist is
+ * "artist - title" track info, or "Live radio" when nothing's known.
+ */
+export function getMediaMetadata(station, nowPlaying) {
+  const title = nowPlaying?.program ? `${station.name} -- ${nowPlaying.program}` : station.name;
+  const track = nowPlaying && (nowPlaying.artist && nowPlaying.title
+    ? `${nowPlaying.artist} - ${nowPlaying.title}`
+    : nowPlaying.title || nowPlaying.artist);
+  return { title, artist: track || 'Live radio' };
+}
+
 const ICONS = {
   prev: '<svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>',
   next: '<svg viewBox="0 0 24 24"><path d="M16 6h2v12h-2zM6 6l8.5 6L6 18z"/></svg>',

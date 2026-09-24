@@ -90,6 +90,20 @@ player.addEventListener('state', (e) => {
   if (e.detail.playing && e.detail.station) refreshNowPlayingConfig(e.detail.station);
 });
 
+/**
+ * Minimal, generic fallback for a theme that doesn't define its own
+ * getMediaMetadata(station, nowPlaying) — just the station name and the
+ * program name or "Live radio". A theme is free to do something richer (see
+ * Evia's own getMediaMetadata, e.g. E-9's "station -- program" packing) —
+ * this is deliberately not opinionated about any particular theme's UX.
+ */
+function defaultMediaMetadata(station, nowPlaying) {
+  return {
+    title: station.name,
+    artist: nowPlaying?.program || 'Live radio'
+  };
+}
+
 function setupMediaSession() {
   if (!('mediaSession' in navigator)) return;
   navigator.mediaSession.setActionHandler('play', () => player.play());
@@ -99,24 +113,17 @@ function setupMediaSession() {
 
   let nowPlaying = null; // {program, artist, title} | null — see player.js's 'nowplaying' event (C-14)
 
-  // There's no API to ask the OS/launcher whether its lock screen widget has
-  // room for all three MediaMetadata fields (title/artist/album) or only two
-  // — it varies by device and we can't detect it. So rather than gamble on
-  // a field going unseen, pack two pieces of info into each of the two
-  // fields every compact view is guaranteed to show: title is always
-  // "station" or "station -- program", never just the program alone (the
-  // station must never fully disappear); artist is the track info or the
-  // "Live radio" fallback, exactly as it was before.
+  // How the lock screen / OS media notification is worded is a theme's
+  // presentation decision, the same category as the in-app header — not a
+  // core concern. A theme opts in via getMediaMetadata(station, nowPlaying);
+  // defaultMediaMetadata() above is the fallback for one that doesn't.
   function updateMetadata(station) {
     if (!station) return;
-    const title = nowPlaying?.program ? `${station.name} -- ${nowPlaying.program}` : station.name;
-    const track = nowPlaying && (nowPlaying.artist && nowPlaying.title
-      ? `${nowPlaying.artist} - ${nowPlaying.title}`
-      : nowPlaying.title || nowPlaying.artist);
-    navigator.mediaSession.metadata = new MediaMetadata({
-      title,
-      artist: track || 'Live radio'
-    });
+    const theme = activeTheme();
+    const meta = theme.getMediaMetadata
+      ? theme.getMediaMetadata(station, nowPlaying)
+      : defaultMediaMetadata(station, nowPlaying);
+    navigator.mediaSession.metadata = new MediaMetadata(meta);
   }
 
   player.addEventListener('state', (e) => {

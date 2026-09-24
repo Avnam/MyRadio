@@ -1,6 +1,7 @@
-// Evia owns the skip-in-next/previous policy (not core — see stations-db.test.js),
-// so it's tested here against the theme module directly. Only the pure exported
-// functions are touched; mount() (DOM) is never called.
+// Evia owns the skip-in-next/previous policy (not core — see stations-db.test.js)
+// and the lock-screen wording (not core — see app.js's defaultMediaMetadata
+// fallback), so both are tested here against the theme module directly. Only
+// the pure exported functions are touched; mount() (DOM) is never called.
 import { test, beforeEach } from 'node:test';
 import assert from 'node:assert/strict';
 import * as stationsDb from '../js/core/stations-db.js';
@@ -35,4 +36,24 @@ test('does not skip when nothing is marked skippable (matches core C-4 wraparoun
   assert.equal(evia.getNextStation(c.id).id, a.id);
   assert.equal(evia.getPreviousStation(a.id).id, c.id);
   assert.equal(evia.getNextStation(a.id).id, b.id);
+});
+
+test('getMediaMetadata: just the station name when there is no now-playing data (E-9)', () => {
+  const station = { name: 'Eco 99FM' };
+  assert.deepEqual(evia.getMediaMetadata(station, null), { title: 'Eco 99FM', artist: 'Live radio' });
+});
+
+test('getMediaMetadata: packs program into title, artist+title into artist, once known', () => {
+  const station = { name: 'Eco 99FM' };
+  const nowPlaying = { program: 'מוזיקה מעולה כל היום', artist: 'Taylor Swift', title: 'The Fate of Ophelia' };
+  assert.deepEqual(evia.getMediaMetadata(station, nowPlaying), {
+    title: 'Eco 99FM -- מוזיקה מעולה כל היום',
+    artist: 'Taylor Swift - The Fate of Ophelia'
+  });
+});
+
+test('getMediaMetadata: falls back sensibly when only one of artist/title is known', () => {
+  const station = { name: 'Eco 99FM' };
+  assert.deepEqual(evia.getMediaMetadata(station, { program: null, artist: 'Taylor Swift', title: null }).artist, 'Taylor Swift');
+  assert.deepEqual(evia.getMediaMetadata(station, { program: null, artist: null, title: 'The Fate of Ophelia' }).artist, 'The Fate of Ophelia');
 });
