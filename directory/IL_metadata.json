@@ -20,6 +20,13 @@
       "artist": "artists",
       "title": "title",
       "refresh": 20
+    },
+    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8": {
+      "url": "https://www.kan.org.il/api/arc-cloud/get-live-track-data?channelId=4",
+      "program": "programData.programName",
+      "artist": "artists",
+      "title": "title",
+      "refresh": 20
     }
   }
 }
