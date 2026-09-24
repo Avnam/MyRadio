@@ -99,19 +99,23 @@ function setupMediaSession() {
 
   let nowPlaying = null; // {program, artist, title} | null — see player.js's 'nowplaying' event (C-14)
 
-  // title is always the station name — the one constant identity, never
-  // replaced by nowPlaying data (that used to make the station disappear
-  // from the lock screen the moment a program/song was available). artist
-  // and album carry the live info in the two remaining MediaMetadata slots.
+  // There's no API to ask the OS/launcher whether its lock screen widget has
+  // room for all three MediaMetadata fields (title/artist/album) or only two
+  // — it varies by device and we can't detect it. So rather than gamble on
+  // a field going unseen, pack two pieces of info into each of the two
+  // fields every compact view is guaranteed to show: title is always
+  // "station" or "station -- program", never just the program alone (the
+  // station must never fully disappear); artist is the track info or the
+  // "Live radio" fallback, exactly as it was before.
   function updateMetadata(station) {
     if (!station) return;
+    const title = nowPlaying?.program ? `${station.name} -- ${nowPlaying.program}` : station.name;
     const track = nowPlaying && (nowPlaying.artist && nowPlaying.title
       ? `${nowPlaying.artist} - ${nowPlaying.title}`
       : nowPlaying.title || nowPlaying.artist);
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: station.name,
-      artist: nowPlaying?.program || 'Live radio',
-      album: track || ''
+      title,
+      artist: track || 'Live radio'
     });
   }
 
