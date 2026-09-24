@@ -26,6 +26,21 @@ export function extractNowPlaying(source, data) {
   return { program, artist, title };
 }
 
+const SOURCE_FIELDS = ['url', 'program', 'artist', 'title', 'refresh'];
+
+/**
+ * Field-by-field, not JSON.stringify — a station whose nowPlaying arrived via
+ * import can have its fields in a different key order than the directory's
+ * copy despite identical values, and JSON.stringify is order-sensitive. Used
+ * to tell whether a fresher source (C-14c) is an actual change worth applying
+ * and telling the listener about, not a false positive from key order alone.
+ */
+export function sameNowPlayingSource(a, b) {
+  if (a === b) return true;
+  if (!a || !b) return false;
+  return SOURCE_FIELDS.every(f => a[f] === b[f]);
+}
+
 /**
  * Polls source.url every source.refresh seconds (default 20), calling
  * onUpdate(info | null) whenever the result changes. Never throws — a

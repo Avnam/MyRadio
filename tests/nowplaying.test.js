@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { extractNowPlaying } from '../js/core/nowplaying.js';
+import { extractNowPlaying, sameNowPlayingSource } from '../js/core/nowplaying.js';
 
 const ECO99_SOURCE = {
   program: 'fields.program_name.stringValue',
@@ -63,4 +63,23 @@ test('returns null for an empty response (e.g. Kan\'s 204 between songs)', () =>
 
 test('returns null when every field is missing, rather than an all-empty object', () => {
   assert.equal(extractNowPlaying(KAN_SOURCE, { somethingElse: true }), null);
+});
+
+test('sameNowPlayingSource treats identical values as the same regardless of key order', () => {
+  const a = { url: 'https://x', program: 'p', artist: 'a', title: 't', refresh: 20 };
+  const b = { refresh: 20, title: 't', artist: 'a', program: 'p', url: 'https://x' };
+  assert.equal(sameNowPlayingSource(a, b), true);
+});
+
+test('sameNowPlayingSource detects an actual field difference', () => {
+  const a = { url: 'https://x', program: 'p', artist: 'a', title: 't', refresh: 20 };
+  const b = { url: 'https://x-fixed', program: 'p', artist: 'a', title: 't', refresh: 20 };
+  assert.equal(sameNowPlayingSource(a, b), false);
+});
+
+test('sameNowPlayingSource treats one missing/null source as different', () => {
+  const a = { url: 'https://x', program: 'p', artist: 'a', title: 't', refresh: 20 };
+  assert.equal(sameNowPlayingSource(a, null), false);
+  assert.equal(sameNowPlayingSource(null, a), false);
+  assert.equal(sameNowPlayingSource(null, null), true);
 });

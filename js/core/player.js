@@ -328,6 +328,7 @@ export class Player extends EventTarget {
   setNowPlayingConfig(stationId, source) {
     if (!this.station || this.station.id !== stationId) return;
     this.station.nowPlaying = source;
+    this._status('player.nowPlayingUpdated');
     if (this._nowPlayingAbort) {
       this._nowPlayingAbort.abort();
       this._nowPlayingAbort = null;

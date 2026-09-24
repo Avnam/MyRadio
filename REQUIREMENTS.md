@@ -181,6 +181,7 @@ Import also accepts a bare list of stations (`[ {...}, {...} ]`).
 - **Buffering and rewind (C-18).** Rewinding a live stream means the app keeps its own copy of the last few minutes of audio. That is possible only for streams that allow CORS (not all do), and support on iPhone is uncertain. It needs a test before it is promised.
 - **More now-playing sources (C-14).** Kan 88, pending real-browser confirmation from the deployed origin. Kan Bet and Kan Gimmel likely use the same API with a different `channelId`, untested. Galgalatz and Galei Tzahal: no known source yet — would need a server-side proxy if one's never found, since ICY doesn't work for them either.
 - **Crowdsourced now-playing sources.** Right now you add entries to a country's `directory/<CODE>_metadata.json` by hand. Down the road, letting people suggest sources for stations they know (a PR to that file, or something more direct) would grow coverage without you finding every one yourself — not designed yet.
+- **A checksum per country's now-playing metadata**, so it's possible to tell at a glance whether a `directory/<CODE>_metadata.json` has actually changed (useful once there are enough countries/entries that eyeballing a diff isn't practical) — not designed yet.
 
 ## Milestones
 

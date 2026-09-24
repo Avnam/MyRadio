@@ -9,6 +9,7 @@ import * as importExport from './core/import-export.js';
 import * as directory from './core/directory.js';
 import * as i18n from './core/i18n.js';
 import { Player } from './core/player.js';
+import { sameNowPlayingSource } from './core/nowplaying.js';
 import { THEMES, getTheme } from './core/themes.js';
 import { VERSION } from './version.js';
 
@@ -72,11 +73,15 @@ function removeAllStations() {
  * on this station, each time it actually starts a real connection — not just
  * when it was first added. Without this, fixing or adding a source in
  * directory/<CODE>_metadata.json would only ever reach new additions, never
- * a station already sitting in someone's list (C-14).
+ * a station already sitting in someone's list (C-14). Only updates storage
+ * (and shows the status message) on an actual difference — sameNowPlayingSource
+ * compares field-by-field, not by JSON string, since a station whose
+ * nowPlaying arrived via import can have the same values in a different key
+ * order, which used to look like a "change" and fire the message every time.
  */
 async function refreshNowPlayingConfig(station) {
   const fresh = await directory.findNowPlayingSource(station.country, station.urls);
-  if (!fresh || JSON.stringify(fresh) === JSON.stringify(station.nowPlaying)) return;
+  if (!fresh || sameNowPlayingSource(fresh, station.nowPlaying)) return;
   stationsDb.setNowPlaying(station.id, fresh);
   player.setNowPlayingConfig(station.id, fresh);
 }

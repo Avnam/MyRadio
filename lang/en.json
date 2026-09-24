@@ -16,6 +16,7 @@
     "player.mixedContentBlocked": "Blocked: this page is https and the stream is http.",
     "player.allFailed": "Could not play {name}. Tried: {details}.",
     "player.empty": "No stations yet. Search to add one.",
+    "player.nowPlayingUpdated": "Song info source updated.",
 
     "toolbar.stations": "Stations",
     "toolbar.search": "Search",
